@@ -5227,7 +5227,7 @@ Jana}Lazu me, lazu=http://www.youtube.com/watch?v=qbfOUZmB1lI
 Jana}Ljubav nije greh=http://www.youtube.com/watch?v=_J_uoDFvMz4
 Jana}Lude Godine=http://www.youtube.com/watch?v=3HZ4NnNCPP0
 Jana}Ludo moje=NIJE NISTA NASAO
-Jana}Lune=http://www.youtube.com/watch?v=4gy1kUQMAl8
+Jana}Lune, lune=http://www.youtube.com/watch?v=4gy1kUQMAl8
 Jana}Malo magije=http://www.youtube.com/watch?v=AdRWr4oVy-k
 Jana}Miraz=NIJE NISTA NASAO
 Jana}Moje drugo lice=NIJE NISTA NASAO
