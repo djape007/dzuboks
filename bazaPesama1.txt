@@ -6117,7 +6117,7 @@ Ivana Selakov}SOS=http://www.youtube.com/watch?v=JVcYMswQG_o
 Ivana Selakov}Srce gubitnik=http://www.youtube.com/watch?v=MTK1cgUST4s
 Ivana Selakov}Tek sad=http://www.youtube.com/watch?v=c2alCrwr2uY
 Ivana Selakov}Tuga k'o i svaka druga=http://www.youtube.com/watch?v=xMHNcrVMXLs
-Ivana Selakov}Uradi mi to=http://www.youtube.com/watch?v=8jUk7Z3e2Wo
+Ivana Selakov}Uradi mi to=--start-time=25 http://www.youtube.com/watch?v=8jUk7Z3e2Wo
 Ivana Selakov}Uteha=http://www.youtube.com/watch?v=jR9K1XIEijw
 Ivana Selakov}Vremeplov=http://www.youtube.com/watch?v=DLrnuy4NKt4
 Hakala}100%=NIJE NISTA NASAO
