@@ -5,7 +5,6 @@ Aca Ilic}Bulevar juzni=http://www.youtube.com/watch?v=UOqQsMPHsdA
 Aca Ilic}Ciganko=http://www.youtube.com/watch?v=J4EegCjsR9o
 Aca Ilic}Dobri stari moj=http://www.youtube.com/watch?v=_AYl5G2i1WY
 Aca Ilic}Dome moj=http://www.youtube.com/watch?v=Fg5BjYdS6fg
-Aca Ilic}Druga je kraj mene=http://www.youtube.com/watch?v=SQ-RJ6eojmw
 Aca Ilic}Dve barabe=http://www.youtube.com/watch?v=BhYUS1EYd-g
 Aca Ilic}Dve duboke rane=http://www.youtube.com/watch?v=1iReWpRkUbE
 Aca Ilic}Dvoriste prazno=http://www.youtube.com/watch?v=0RNvhACfSnw
@@ -16,7 +15,6 @@ Aca Ilic}Heroj=http://www.youtube.com/watch?v=JF00HNubgtw
 Aca Ilic}I u goru i u vodu=http://www.youtube.com/watch?v=Rnq36Y5HLOo
 Aca Ilic}Imas samo pet minuta=http://www.youtube.com/watch?v=Zyxu-l9pRIQ
 Aca Ilic}Isplaci se na grudima mojim=http://www.youtube.com/watch?v=SQ-RJ6eojmw
-Aca Ilic}Kad cu da zivim ako necu sad=http://www.youtube.com/watch?v=sRPQrL17nCo
 Aca Ilic}Kad ode ovo vreme=http://www.youtube.com/watch?v=fxknfaH7hrk
 Aca Ilic}Kaludjerica=http://www.youtube.com/watch?v=8Bos7rhRmDg
 Aca Ilic}Kasno je draga sve=http://www.youtube.com/watch?v=FfB3Njiblrs
@@ -24,7 +22,6 @@ Aca Ilic}Kazu ljudi=http://www.youtube.com/watch?v=dDI3LSixsB0
 Aca Ilic}Krsna slava=http://www.youtube.com/watch?v=pcSoB6Aq688
 Aca Ilic}Lane moje=http://www.youtube.com/watch?v=1wsOueOzt5g
 Aca Ilic}Lepe oci zelene=http://www.youtube.com/watch?v=JOOyqM6GwLg
-Aca Ilic}Lutko moja, najlepsa na svetu=http://www.youtube.com/watch?v=XIcmdCfXkGM
 Aca Ilic}Marina=http://www.youtube.com/watch?v=J4EegCjsR9o
 Aca Ilic}Moj rodni grad=http://www.youtube.com/watch?v=AGnhXGZ6onQ
 Aca Ilic}Morava je moje more=http://www.youtube.com/watch?v=ws0BJ912Qg0
@@ -38,11 +35,9 @@ Aca Ilic}Nezenja=http://www.youtube.com/watch?v=ggxWf9o4Srw
 Aca Ilic}Oce, moj veliki oce=http://www.youtube.com/watch?v=ulcjunjhlU8
 Aca Ilic}Oci plave=http://www.youtube.com/watch?v=typYTS5jLf8
 Aca Ilic}Odvikavanje=http://www.youtube.com/watch?v=6CQz1mLd3tk
-Aca Ilic}Oluja=http://www.youtube.com/watch?v=J4EegCjsR9o
 Aca Ilic}Opasan par=http://www.youtube.com/watch?v=v6M0Asicvwg
 Aca Ilic}Opet skupa ti i ja=http://www.youtube.com/watch?v=WXtVUGoTmrU
 Aca Ilic}Ove dve kraj mene=http://www.youtube.com/watch?v=F639CIzEtJ8
-Aca Ilic}Plavusa=http://www.youtube.com/watch?v=J4EegCjsR9o
 Aca Ilic}Popij sa mnom, moj Beograde=http://www.youtube.com/watch?v=h_UWFlmy0OI
 Aca Ilic}Poznajem te po lazima=http://www.youtube.com/watch?v=Hu-0_J3QeA8
 Aca Ilic}Probudi se rode=http://www.youtube.com/watch?v=KK1Q3wZtFGQ
@@ -53,10 +48,8 @@ Aca Ilic}Sedam violina=http://www.youtube.com/watch?v=bBihoYBO8zk
 Aca Ilic}Sine naslednice=http://www.youtube.com/watch?v=DoDgg0rdveE
 Aca Ilic}Sipajte da se napijem=http://www.youtube.com/watch?v=sXU1eSilkSo
 Aca Ilic}Sve posle nje=http://www.youtube.com/watch?v=upTUJMuIycI
-Aca Ilic}Ti si bila moj san=http://www.youtube.com/watch?v=FFafv0PCN4Q
 Aca Ilic}Tugu ne tugujem=http://www.youtube.com/watch?v=u2Wgb5PkwX8
 Aca Ilic}Vara zora=http://www.youtube.com/watch?v=7D8l-qwrBuI
-Aca Ilic}Vino rumeno=http://www.youtube.com/watch?v=q7hRxgE_Mao
 Aca Ilic}Vrati se, ljubavi moja=http://www.youtube.com/watch?v=QuqgMPR9gs0
 Aca Ilic}Zakucacu ja na vrata njena=http://www.youtube.com/watch?v=rZg7RFGIUfA
 Aca Ilic}Zato idem u kafanu=http://www.youtube.com/watch?v=OO__6b6-G5E
@@ -154,7 +147,6 @@ Aca Lukas}Umri u samoci=http://www.youtube.com/watch?v=_9j6Vk7fOlc
 Aca Lukas}Upali svetlo=http://www.youtube.com/watch?v=CCbSBp9MsRw
 Aca Lukas}Usluga za uslugu=http://www.youtube.com/watch?v=OO4JDfkE1NE
 Aca Lukas}Voljena=http://www.youtube.com/watch?v=lplNkjbRYOs
-Aca Lukas}Vrati nam se druze moj=http://www.youtube.com/watch?v=YuPWzVipGy8
 Aca Lukas}Zapisite mi broj=http://www.youtube.com/watch?v=La-ob142qX8
 Aca Lukas}Zemun=http://www.youtube.com/watch?v=iX69fz8NrsE
 Aca Matic}Bili smo deca=http://www.youtube.com/watch?v=KVYZRnfhyEg
@@ -253,7 +245,7 @@ Adil Maksutovic}Da li je to ljubav=http://www.youtube.com/watch?v=HuOqa5L8VqI
 Adil Maksutovic}Hitno=http://www.youtube.com/watch?v=7ItTjxa7tyc
 Adil Maksutovic}Ista ja=http://www.youtube.com/watch?v=XXdC8oogTYs
 Adil Maksutovic}Ko da mi pomogne=http://www.youtube.com/watch?v=hFDqu9VtUT8
-Adil Maksutovic}Ko sam ja=http://www.youtube.com/watch?v=-FbssYLC754
+Adil Maksutovic}Ko sam ja=http://www.youtube.com/watch?v=ufnbPWkfjAw
 Adil Maksutovic}Laku noc=http://www.youtube.com/watch?v=h8_17R2tXGQ
 Adil Maksutovic}Ljubi me po secanju=http://www.youtube.com/watch?v=-FbssYLC754
 Adil Maksutovic}Maskenbal=http://www.youtube.com/watch?v=G2UDNGz4KmM
@@ -280,17 +272,13 @@ Adil Maksutovic}Vidim nas=http://www.youtube.com/watch?v=0BJLyg8zFJ0
 Adil Maksutovic}Zagrli me=http://www.youtube.com/watch?v=lDZI-FQsabk
 Adil Maksutovic}Zajedno smo mnogo toga prosli=http://www.youtube.com/watch?v=BjGq2OQ3FbI
 Adil Maksutovic}Zamalo=http://www.youtube.com/watch?v=XmkppWvIcdA
-Adil Maksutovic}Zbog tebe=http://www.youtube.com/watch?v=4475SwVsBaQ
+Adil Maksutovic}Zbog tebe=http://www.youtube.com/watch?v=ea8rUmMJ2-o
 Adil Maksutovic}Zivot bez tebe ne zivim=http://www.youtube.com/watch?v=9ahXdvZnef0
-Adil Paratusic}Ajla=http://www.youtube.com/watch?v=-Y1VNlPj1Fg
 Adil Paratusic}Crnokosi andjele=http://www.youtube.com/watch?v=v7oB5nBxC7o
 Adil Paratusic}Daleko si Fato=http://www.youtube.com/watch?v=MdvDmpkotk8
 Adil Paratusic}Hajde brate skupi svate=NIJE NISTA NASAO
-Adil Paratusic}Ja bih opet s jaranima=http://www.youtube.com/watch?v=hqoPUsXzklc
 Adil Paratusic}Kafanac=http://www.youtube.com/watch?v=X6ysEIuGbDg
-Adil Paratusic}Nije dosla na vjencanje=http://www.youtube.com/watch?v=47IGs0LroYg
 Adil Paratusic}Svirajte cigani=http://www.youtube.com/watch?v=sGNwWKm21KM
-Adil Paratusic}Trideseta=http://www.youtube.com/watch?v=-Y1VNlPj1Fg
 Adil Paratusic}Zadnji sic=http://www.youtube.com/watch?v=d5ZbLJks4xE
 Adil Paratusic}Zaviri u srce moje=http://www.youtube.com/watch?v=-Y1VNlPj1Fg
 Ado Gegaj}Bosno moja=http://www.youtube.com/watch?v=PkfrLklToJc
@@ -501,11 +489,9 @@ Alen Slavica}Ne lovi me na suze=http://www.youtube.com/watch?v=GqXLYXyD36Q
 Alen Slavica}Ne vjerujem curama=http://www.youtube.com/watch?v=M-PdbovAeN0
 Alen Slavica}Nedostajes mi ti=http://www.youtube.com/watch?v=mfQu9DZZC-s
 Alen Slavica}Neke cure starije=http://www.youtube.com/watch?v=Eqk5Nknp-Bk
-Alen Slavica}Neko sad spava=http://www.youtube.com/watch?v=9G-o-7V6-Bs
 Alen Slavica}Nije me mati rodila=http://www.youtube.com/watch?v=7q5NsYlbYq0
 Alen Slavica}Nocas=http://www.youtube.com/watch?v=lCS4EqhqhBU
 Alen Slavica}Oprosti mi za sve=http://www.youtube.com/watch?v=b4raX449BsQ
-Alen Slavica}Osamdeset devete=http://www.youtube.com/watch?v=9G-o-7V6-Bs
 Alen Slavica}Pogledaj=http://www.youtube.com/watch?v=AWkUU2qndMg
 Alen Slavica}Prijatelji=http://www.youtube.com/watch?v=RmkBo6cs7pw
 Alen Slavica}Rijeko moja zelena=http://www.youtube.com/watch?v=D9o_2jKlWR4
@@ -530,7 +516,6 @@ Allegro Band}Izdao si me=http://www.youtube.com/watch?v=OSqTUtD9N24
 Allegro Band}Kao da nema me=http://www.youtube.com/watch?v=xW1fUphjjc4
 Allegro Band}Kasno je=http://www.youtube.com/watch?v=IOt0OShfYig
 Allegro Band}Laka roba=http://www.youtube.com/watch?v=JvqKF1LIkIA
-Allegro Band}Lutkica=http://www.youtube.com/watch?v=IOt0OShfYig
 Allegro Band}Medene=http://www.youtube.com/watch?v=BRzl5xAgKLk
 Allegro Band}Na tvojoj strani=http://www.youtube.com/watch?v=qAfVaXqiSys
 Allegro Band}Neka ide zivot=http://www.youtube.com/watch?v=9NbWiZew7ho
@@ -663,7 +648,6 @@ Ana Bekuta}Htela sam tebi biti zena=http://www.youtube.com/watch?v=ku_ps4l6Brg
 Ana Bekuta}Hvala ljubavi=http://www.youtube.com/watch?v=FuHivm_bpaI
 Ana Bekuta}Hvatas me u zamku=http://www.youtube.com/watch?v=qUBwKLVoiCo
 Ana Bekuta}I noci me more=http://www.youtube.com/watch?v=okUw09zfQh4
-Ana Bekuta}Idu vetrovi=http://www.youtube.com/watch?v=jK6cj3p4x4M
 Ana Bekuta}Imam jedan zivot=http://www.youtube.com/watch?v=EjIpvsNi1qo
 Ana Bekuta}Ja nisam rodjena da zivim sama=http://www.youtube.com/watch?v=H64bneo7l9k
 Ana Bekuta}Ja nisam zeljna dukata, zlata=http://www.youtube.com/watch?v=SVWEVR7KyUQ
@@ -671,7 +655,7 @@ Ana Bekuta}Jesam, pa sta mi mozes=http://www.youtube.com/watch?v=wb_Sblq0Zgk
 Ana Bekuta}Jos imas kad=http://www.youtube.com/watch?v=zt89AdDjpkE
 Ana Bekuta}Kad popijes=http://www.youtube.com/watch?v=NB2vvUc4MrQ
 Ana Bekuta}Kako da te ljubim posle nje=http://www.youtube.com/watch?v=7K7XWjDeY4g
-Ana Bekuta}Kako mi je pitas sad=http://www.youtube.com/watch?v=u1khvcXe_pE
+Ana Bekuta}Kako mi je pitas sad=http://www.youtube.com/watch?v=6zcwMRGc3t8
 Ana Bekuta}Kise=http://www.youtube.com/watch?v=B9lf5ZwKeiY
 Ana Bekuta}Ko sam ja u tvom zivotu=http://www.youtube.com/watch?v=iKStFwa4XLE
 Ana Bekuta}Koliko sam tebe volela=http://www.youtube.com/watch?v=T68Au7L1T5c
@@ -681,7 +665,6 @@ Ana Bekuta}Kriv si samo ti=http://www.youtube.com/watch?v=Y6WS2ys-dxU
 Ana Bekuta}Kud koji mili moji=http://www.youtube.com/watch?v=JCd1mm_1OAc
 Ana Bekuta}Kumina pesma=http://www.youtube.com/watch?v=oOxMCz7LKAc
 Ana Bekuta}Ljubav bez adrese=http://www.youtube.com/watch?v=bZoxRLwfBX0
-Ana Bekuta}Ljubavi moja=http://www.youtube.com/watch?v=qp_VHzFxBFw
 Ana Bekuta}Ludo moja=http://www.youtube.com/watch?v=E0QH7mk2bW4
 Ana Bekuta}Ma sto bas ti=http://www.youtube.com/watch?v=jtJHrTAp-Uw
 Ana Bekuta}Manite se, ljudi=http://www.youtube.com/watch?v=wioR5c0hSPE
@@ -727,9 +710,7 @@ Ana Bekuta}Pisi mi=http://www.youtube.com/watch?v=3c9o18lRXLA
 Ana Bekuta}Pitas kako zivim=http://www.youtube.com/watch?v=u1khvcXe_pE
 Ana Bekuta}Place mi se od zivota=http://www.youtube.com/watch?v=s4OvxGhvnFg
 Ana Bekuta}Podrzi nasu ljubav=http://www.youtube.com/watch?v=npwjCWd_Pgk
-Ana Bekuta}Potrosi vreme samo na mene=http://www.youtube.com/watch?v=NViQxMtk7PA
 Ana Bekuta}Praznik=http://www.youtube.com/watch?v=YomU-t1TfY4
-Ana Bekuta}Prevarena zena=http://www.youtube.com/watch?v=CXym-73tE2E
 Ana Bekuta}Pricaj mi=http://www.youtube.com/watch?v=DdICZ_36-zU
 Ana Bekuta}Pustite me da ga volim=http://www.youtube.com/watch?v=7clhU7STeA4
 Ana Bekuta}Rano moja=http://www.youtube.com/watch?v=RZ7-56wblgw
@@ -1359,26 +1340,27 @@ Bebi Dol}U 1001 noci=http://www.youtube.com/watch?v=xGHbFCXmwoE
 Bebi Dol}Zatvori mama prozore=http://www.youtube.com/watch?v=sRcXToT-_50
 Bebi Dol}Zmaj=http://www.youtube.com/watch?v=IYUgEVulTNI
 Bebi Dol}Zrno neznosti=http://www.youtube.com/watch?v=y8pbOYbTOHk
+Beogradski Sindikat}Ala vera=http://www.youtube.com/watch?v=Rr_lfXnPOME
 Beogradski Sindikat}Balada disidenta=http://www.youtube.com/watch?v=14I20qp1On0
 Beogradski Sindikat}BS armija=http://www.youtube.com/watch?v=4hxUlCJ1XPE
-Beogradski Sindikat}BS=http://www.youtube.com/watch?v=14I20qp1On0
+Beogradski Sindikat}BS=http://www.youtube.com/watch?v=g8bk4bjWfD4
 Beogradski Sindikat}Covek=http://www.youtube.com/watch?v=Y6cs_pbDaGs
 Beogradski Sindikat}Deo proslosti=http://www.youtube.com/watch?v=BK2OB3k3Fe4
-Beogradski Sindikat}Divljina=http://www.youtube.com/watch?v=I2TU72mLl_E
+Beogradski Sindikat}Divljina=https://www.youtube.com/watch?v=7MCXU4cyVbQ
 Beogradski Sindikat}Dolazi sindikat=http://www.youtube.com/watch?v=IYe0oL6CcqQ
 Beogradski Sindikat}Duga je ulica=http://www.youtube.com/watch?v=SoeiEX4sN2M
 Beogradski Sindikat}Gala socijala=http://www.youtube.com/watch?v=1Uv89Nu4fAI
 Beogradski Sindikat}Glavom u zid=http://www.youtube.com/watch?v=BekIyc-rxvI
 Beogradski Sindikat}Gorila u magli=http://www.youtube.com/watch?v=gwFdZ6_cB60
-Beogradski Sindikat}Govedina=http://www.youtube.com/watch?v=p_W7VA-gSqQ
+Beogradski Sindikat}Govedina=https://www.youtube.com/watch?v=N5TLsiD72-8
 Beogradski Sindikat}Ja u zivotu imam sve=http://www.youtube.com/watch?v=wjlINg88aLs
 Beogradski Sindikat}Jos ovu noc=http://www.youtube.com/watch?v=3HZH5sleyQc
 Beogradski Sindikat}Ljiga=http://www.youtube.com/watch?v=ELbbVy8IS98
 Beogradski Sindikat}Mi smo ta ekipa=http://www.youtube.com/watch?v=KkAwPOm5z7w
-Beogradski Sindikat}Na bojnom polju=http://www.youtube.com/watch?v=oRPMi1LGfZw
-Beogradski Sindikat}Olovni vojnici=http://www.youtube.com/watch?v=ytFdJORlI1M
+Beogradski Sindikat}Na bojnom polju=--start-time=44 http://www.youtube.com/watch?v=rT807BShPik
+Beogradski Sindikat}Olovni vojnici=http://www.youtube.com/watch?v=iH9rGKYlA3w
 Beogradski Sindikat}Oni su=http://www.youtube.com/watch?v=yzqTgUCBhR8
-Beogradski Sindikat}Poroci Beograda=http://www.youtube.com/watch?v=QkzZOleFjag
+Beogradski Sindikat}Poroci Beograda=https://www.youtube.com/watch?v=U_ZfFmpiiUQ
 Beogradski Sindikat}Povratak=http://www.youtube.com/watch?v=TXstBHvZrNk
 Beogradski Sindikat}Pravo kroz vetar=http://www.youtube.com/watch?v=fSBEhz-0y00
 Beogradski Sindikat}Pretorijanska garda=http://www.youtube.com/watch?v=KaNGwq4GVVI
