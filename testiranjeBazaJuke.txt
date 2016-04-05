@@ -1,3 +1,13 @@
 Narodna]Aca Lukas}Burbon=Upisati u fajl :D
 Narodna]Aca Ilic}Idemooo=radiii
 Zabavna]Miroslav Gilic}brmmm=i ovo radi
+Rok]Bajaga}Pesma1=link
+Rok]Bajaga}Pesma2=link
+Rok]Bajaga}Pesma3=link
+Rok]Bajaga}Pesma4=link
+Rok]Ceca}Pesma1=link
+Rok]Ceca}Pesma2=link
+Rok]Ceca}Pesma5=link
+Zabavna]Ceca}Pesma1=link
+Narodna]Ceca}Pesma2=link
+Narodna]Fiko}Pesma5=link
