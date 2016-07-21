@@ -9,5 +9,5 @@ Rok]Ceca}Pesma1=link
 Rok]Ceca}Pesma2=link
 Rok]Ceca}Pesma5=link
 Zabavna]Ceca}Pesma1=link
-Narodna]Ceca}Pesma2=link
+Narodna]Ceca}Pesma2=--start-time=6 link
 Narodna]Fiko}Pesma5=link
