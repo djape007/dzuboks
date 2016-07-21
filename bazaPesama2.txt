@@ -272,6 +272,7 @@ Zabavna]Lexington}Nemiru moj=http://www.youtube.com/watch?v=QG3m-N9xSFA
 Zabavna]Lexington}Nezaboravna=http://www.youtube.com/watch?v=neNoU1df6yI
 Zabavna]Lexington}Nina=http://www.youtube.com/watch?v=BSudYOBZPRY
 Zabavna]Lexington}Nisam ti ja drug=http://www.youtube.com/watch?v=3nhTyJMJFMY
+Zabavna]Lexington}Letnje kise=--start-time=10 http://www.youtube.com/watch?v=bTLCVfJwl78
 Zabavna]Lexington}Pijane usne=http://www.youtube.com/watch?v=kaCgqX48Fig
 Zabavna]Lexington}Pile=http://www.youtube.com/watch?v=-hFL8ofktHo
 Zabavna]Lexington}Potrazi me=http://www.youtube.com/watch?v=loapmoDnE-0
@@ -955,6 +956,7 @@ Zabavna]Maya}Poljubi je za mene=http://www.youtube.com/watch?v=207w7dAfKlc
 Zabavna]Maya}Sedativ=http://www.youtube.com/watch?v=1VmxmSMJhMU
 Zabavna]Maya}Sta ja imam sto te imam=http://www.youtube.com/watch?v=Fxrz2GbsmH4
 Zabavna]Maya}Ti si groznica=http://www.youtube.com/watch?v=_Jr062B4iBQ
+Zabavna]Maya}To me radi (Jala Brat & Buba Corelli)=--start-time=10 http://www.youtube.com/watch?v=tJ9AoYacRI0
 Zabavna]Maya}Uspomene=http://www.youtube.com/watch?v=VVnvvtoj6PE
 Zabavna]Maya}Vino od prosle godine=http://www.youtube.com/watch?v=NLlmmWLLrjs
 Zabavna]Maya}Vjeruj zeni koja pije=http://www.youtube.com/watch?v=ljsedCxCxLA
@@ -2471,10 +2473,12 @@ Narodna]Nikola Rokvic}Srce od metala=http://www.youtube.com/watch?v=UMsDpzXRsSQ
 Narodna]Nikola Rokvic}Sve sto si ti=http://www.youtube.com/watch?v=TarRvw7_0GQ
 Narodna]Nikola Rokvic}Trajno=http://www.youtube.com/watch?v=3SMkr2otlIw
 Narodna]Nikola Rokvic}Za najboljeg druga=http://www.youtube.com/watch?v=d0-RZ7zi6Yw
+Narodna]Nikola Rokvic}Zavoli=--start-time=10 http://www.youtube.com/watch?v=cdCBC0ywNFU
 Zabavna]Nikolija}Alkohola litar (Elitni odredi, Dj Mladja)=http://www.youtube.com/watch?v=VS9rffsKw7g
 Zabavna]Nikolija}Kako posle mene=http://www.youtube.com/watch?v=d0YNd9fPWt0
 Zabavna]Nikolija}Ljubavni maneken=http://www.youtube.com/watch?v=K37NlPObj5o
 Zabavna]Nikolija}Opasna igra=http://www.youtube.com/watch?v=0IoRKY6pjQQ
+Zabavna]Nikolija}Niko kao mi=--start-time=8 http://www.youtube.com/watch?v=rsprwEbsp40
 Zabavna]Novi Fosili}Bilo gdje da si=http://www.youtube.com/watch?v=fJgKmYAD4xk
 Zabavna]Novi Fosili}Bilo je prelijepo=http://www.youtube.com/watch?v=XiJsVJc1OWU
 Zabavna]Novi Fosili}Bilo mi je prvi put=http://www.youtube.com/watch?v=-XDecg8QRMI
@@ -7830,6 +7834,7 @@ Narodna]Viki Miljkovic}Maris li=http://www.youtube.com/watch?v=ozZdkWYBMJY
 Narodna]Viki Miljkovic}Mene losa sreca prati=http://www.youtube.com/watch?v=7yl2SYNVgCI
 Narodna]Viki Miljkovic}Mene lose dobro zna=http://www.youtube.com/watch?v=f1VmxhgfHgA
 Narodna]Viki Miljkovic}Mogla sam ja=http://www.youtube.com/watch?v=ZsvG6jEvkDg
+Narodna]Viki Miljkovic}Mogu, mogu=--start-time=7 http://www.youtube.com/watch?v=GEsMAV_QAkU
 Narodna]Viki Miljkovic}Moja kazna=http://www.youtube.com/watch?v=F1E-dJrIVe0
 Narodna]Viki Miljkovic}Mora planine=http://www.youtube.com/watch?v=DU68c8LJmDg
 Narodna]Viki Miljkovic}Narukvice=http://www.youtube.com/watch?v=RS6dxXnOMwg
