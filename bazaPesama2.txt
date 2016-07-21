@@ -948,7 +948,7 @@ Zabavna]Maya}Ni za godina sto=http://www.youtube.com/watch?v=zx2fH0bmcsI
 Zabavna]Maya}Nije moja soba bez kreveta=http://www.youtube.com/watch?v=-rnlButUzZ4
 Zabavna]Maya}Okolo ludilo kruzi=http://www.youtube.com/watch?v=eGDkj3Rq5Mw
 Zabavna]Maya}Opasne vode=http://www.youtube.com/watch?v=vQYK4OXfHH0
-Zabavna]Maya}Pauza=http://www.youtube.com/watch?v=uzok6EtseH0
+Zabavna]Maya}Pauza=--start-time=13 http://www.youtube.com/watch?v=uzok6EtseH0
 Zabavna]Maya}Pilule=http://www.youtube.com/watch?v=U48HC_f4Sus
 Zabavna]Maya}Pjevala bih da mi se ne place=http://www.youtube.com/watch?v=2BLxY0f4z6E
 Zabavna]Maya}Poljubi je za mene=http://www.youtube.com/watch?v=207w7dAfKlc
@@ -1127,6 +1127,7 @@ Narodna]Merima Njegomir}Ruzmarin=http://www.youtube.com/watch?v=peSnTNedM7A
 Narodna]Merima Njegomir}Sto je lepo kad se neko voli=http://www.youtube.com/watch?v=a_pW4yzvqg8
 Narodna]Merima Njegomir}Svilen konac=http://www.youtube.com/watch?v=_Oh9vWWKFbc
 Narodna]Merima Njegomir}Zbog tebe=http://www.youtube.com/watch?v=GG2U76lx0Ek
+Zabavna]Mia Borisavljevic}Nista licno=http://www.youtube.com/watch?v=By4tDrHdAzQ
 Zabavna]Mia Borisavljevic}Bumerang=http://www.youtube.com/watch?v=3Sk2xIGMn2I
 Zabavna]Mia Borisavljevic}Covek mog zivota=http://www.youtube.com/watch?v=pevOsPG7EG8
 Zabavna]Mia Borisavljevic}Ja bih se s' tobom topila=http://www.youtube.com/watch?v=O3bQ2sh39FQ
@@ -1521,6 +1522,7 @@ Zabavna]Milica Pavlovic}Dodji=http://www.youtube.com/watch?v=1sXEoAp3Wp0
 Zabavna]Milica Pavlovic}Dominacija=http://www.youtube.com/watch?v=vR9a30Kh6ns
 Zabavna]Milica Pavlovic}Dve po dve=http://www.youtube.com/watch?v=JVO65tYfeug
 Zabavna]Milica Pavlovic}La fiesta=http://www.youtube.com/watch?v=w0AMj4ZP1jA
+Zabavna]Milica Pavlovic}Ljubi, ljubi=--start-time=6 http://www.youtube.com/watch?v=JRe61g490Wk
 Zabavna]Milica Pavlovic}Milimetar=http://www.youtube.com/watch?v=PeVRFAlWTfw
 Zabavna]Milica Pavlovic}Pakleni plan=http://www.youtube.com/watch?v=QWeB9H-8usE
 Zabavna]Milica Pavlovic}Selfie=http://www.youtube.com/watch?v=vLvNympX-7E
@@ -1603,7 +1605,7 @@ Narodna]Mina Kostic}Seksi robot=http://www.youtube.com/watch?v=Yb73LdFofTA
 Narodna]Mina Kostic}Nisam ti ja mama=http://www.youtube.com/watch?v=f2YTlJLacHY
 Narodna]Mina Kostic}Razvedi se od nje=http://www.youtube.com/watch?v=so_ihpb47og
 Narodna]Mina Kostic}Stariji covek=http://www.youtube.com/watch?v=h4XKK9Nwfp4
-Zabavna]Ministarke}Boing 747=http://www.youtube.com/watch?v=l1GgyzCyJ6Y
+Zabavna]Ministarke}Boing 747=--start-time=13 http://www.youtube.com/watch?v=l1GgyzCyJ6Y
 Zabavna]Ministarke}Duni vetre=http://www.youtube.com/watch?v=Jrj9_lWFMtQ
 Zabavna]Ministarke}Gram emocija=http://www.youtube.com/watch?v=WHOgWdaw_9Q
 Zabavna]Ministarke}Kiseonik=http://www.youtube.com/watch?v=CN15prcWAvY
@@ -2232,6 +2234,7 @@ Narodna]Nedeljko Bajic Baja}Rob ljubavi=http://www.youtube.com/watch?v=yebKnnDAJ
 Narodna]Nedeljko Bajic Baja}Rodjen spreman=http://www.youtube.com/watch?v=cqy-dAEGZeA
 Narodna]Nedeljko Bajic Baja}Romansa=http://www.youtube.com/watch?v=Hf9f_SbkpKg
 Narodna]Nedeljko Bajic Baja}Sastanak sa srecom=http://www.youtube.com/watch?v=Yv7Jc2aVhuE
+Narodna]Nedeljko Bajic Baja}Sam u noci=--start-time=18 http://www.youtube.com/watch?v=7_k05PkQACU
 Narodna]Nedeljko Bajic Baja}Secanje na nas=http://www.youtube.com/watch?v=1BImWnHjUZg
 Narodna]Nedeljko Bajic Baja}Snaga vetra=http://www.youtube.com/watch?v=9u1SBxHC_6o
 Narodna]Nedeljko Bajic Baja}Snovi od stakla=http://www.youtube.com/watch?v=Nh-NPdWHCEY
@@ -7867,7 +7870,8 @@ Narodna]Viki Miljkovic}Vecera=http://www.youtube.com/watch?v=LqXDxGk_i3g
 Narodna]Viki Miljkovic}Voda i vazduh=http://www.youtube.com/watch?v=8b0mPuqmFo4
 Narodna]Viki Miljkovic}Zasto=http://www.youtube.com/watch?v=kLbJhIRVy4o
 Narodna]Viki Miljkovic}Zenske bubice=http://www.youtube.com/watch?v=WBy1eDIYpkE
-Zabavna]Vlada Matovic}Peta brzina=http://www.youtube.com/watch?v=060zedOExjM
+Zabavna]Vlada Matovic}Peta brzina=--start-time=7 http://www.youtube.com/watch?v=060zedOExjM
+Zabavna]Vlada Matovic}Ne preti mi=--start-time=11 http://www.youtube.com/watch?v=Huh_H8QsaOE
 Zabavna]Vlado Georgiev}Andjele=http://www.youtube.com/watch?v=FXCJi4ZEoos
 Zabavna]Vlado Georgiev}Bolesni od ljubavi=http://www.youtube.com/watch?v=77mcyXQksOk
 Zabavna]Vlado Georgiev}Do svitanja=http://www.youtube.com/watch?v=B5O789KJnpI
