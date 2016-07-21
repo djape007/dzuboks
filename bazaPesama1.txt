@@ -146,6 +146,7 @@ Narodna]Aca Lukas}Umri u samoci=http://www.youtube.com/watch?v=_9j6Vk7fOlc
 Narodna]Aca Lukas}Upali svetlo=http://www.youtube.com/watch?v=CCbSBp9MsRw
 Narodna]Aca Lukas}Usluga za uslugu=http://www.youtube.com/watch?v=OO4JDfkE1NE
 Narodna]Aca Lukas}Voljena=http://www.youtube.com/watch?v=lplNkjbRYOs
+Narodna]Aca Lukas}Volis li me=--start-time=16 http://www.youtube.com/watch?v=EhlxOdXGP-o
 Narodna]Aca Lukas}Zapisite mi broj=http://www.youtube.com/watch?v=La-ob142qX8
 Narodna]Aca Lukas}Zemun=http://www.youtube.com/watch?v=iX69fz8NrsE
 Narodna]Aca Matic}Bili smo deca=http://www.youtube.com/watch?v=KVYZRnfhyEg
@@ -781,6 +782,7 @@ Zabavna]Ana Kokic}Da li si to ti=http://www.youtube.com/watch?v=PNaxYnK8LXA
 Zabavna]Ana Kokic}Da te nema=http://www.youtube.com/watch?v=kj1XUZ7aQkI
 Zabavna]Ana Kokic}Dobro da dobro sam=http://www.youtube.com/watch?v=F5Xk_4xOpVQ
 Zabavna]Ana Kokic}Dodji mi=http://www.youtube.com/watch?v=PvBppR6TM_A
+Zabavna]Ana Kokic}Damelo=--start-time=5 http://www.youtube.com/watch?v=H1_v4fXV_0U
 Zabavna]Ana Kokic}Ela, ela=http://www.youtube.com/watch?v=TVFZrbzMnGU
 Zabavna]Ana Kokic}Idemo na sve=http://www.youtube.com/watch?v=An_bBnxd0kw
 Zabavna]Ana Kokic}Interfon=http://www.youtube.com/watch?v=vapb9pTh4Dc
@@ -3406,6 +3408,7 @@ Zabavna]Djogani}Granice nema=http://www.youtube.com/watch?v=06JirDRMpwc
 Zabavna]Djogani}Hej, tugo moja=http://www.youtube.com/watch?v=W21Cr6RbMd0
 Zabavna]Djogani}Hiljadu dana=http://www.youtube.com/watch?v=xXPXM8HSt8Q
 Zabavna]Djogani}Hiljadu suza=http://www.youtube.com/watch?v=xXPXM8HSt8Q
+Zabavna]Djogani}Hladno, hladno=--start-time=6 http://www.youtube.com/watch?v=nDBFkWPfDnY
 Zabavna]Djogani}Idemo na mars=http://www.youtube.com/watch?v=wt4L9NZTOmE
 Zabavna]Djogani}Idi s Bogom=http://www.youtube.com/watch?v=RsjqqYTw0Dc
 Zabavna]Djogani}Igraj, igraj=http://www.youtube.com/watch?v=k_NGZy5s2IA
