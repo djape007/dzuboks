@@ -970,6 +970,7 @@ Zabavna]MC Stojan}Ajmo svi=http://www.youtube.com/watch?v=ez3ftgp7tU8
 Zabavna]MC Stojan}Bicuj me Stojane=http://www.youtube.com/watch?v=udhqd2dub_A
 Zabavna]MC Stojan}Brzo=http://www.youtube.com/watch?v=nVXaQ4seZh8
 Zabavna]MC Stojan}Doktor za grudi=http://www.youtube.com/watch?v=8O2TC8uZmz4
+Zabavna]MC Stojan}Do zadnje pare (ft. Djani)=--start-time=12 http://www.youtube.com/watch?v=EbOeKlXNnys
 Zabavna]MC Stojan}Haljina bez ledja=http://www.youtube.com/watch?v=aY315DSuhVw
 Zabavna]MC Stojan}Kakva guza=http://www.youtube.com/watch?v=rruNDmgcLzQ
 Zabavna]MC Stojan}Kraljevi grada=http://www.youtube.com/watch?v=37b4KkJDEDs
@@ -7413,6 +7414,7 @@ Zabavna]Trik Fx}Lasta=http://www.youtube.com/watch?v=0PboIb-6pKY
 Zabavna]Trik Fx}Limun i Bakardi=http://www.youtube.com/watch?v=um5aCXp6o-k
 Zabavna]Trik Fx}Najbolji u ljubavi=http://www.youtube.com/watch?v=Df04K4fNPEM
 Zabavna]Trik Fx}Nocas mi je ljubav=http://www.youtube.com/watch?v=VGNRVPooHEk
+Zabavna]Trik Fx}Manijak=--start-time=6 http://www.youtube.com/watch?v=Gfa4FlqP1Ss
 Zabavna]Trik Fx}Okreces mi ledja=http://www.youtube.com/watch?v=IG3LRn06hA4
 Zabavna]Trik Fx}Opasno=http://www.youtube.com/watch?v=F4-81ye6pHw
 Zabavna]Trik Fx}Pola dva=http://www.youtube.com/watch?v=8deZBwkudfM
@@ -7931,6 +7933,8 @@ Zabavna]Vlado Georgiev}Tropski bar (duet NIggor)=http://www.youtube.com/watch?v=
 Zabavna]Vlado Georgiev}Zbogom ljubavi=http://www.youtube.com/watch?v=GdjTEzg1yBY
 Zabavna]Vlado Georgiev}Zena bez imena=http://www.youtube.com/watch?v=Fg9qvP9SbMw
 Zabavna]Vlado Georgiev}Zivim da te nadjem=http://www.youtube.com/watch?v=u7zYz1M6DPU
+Zabavna]Vuk Mob}Vatikan=--start-time=6 http://www.youtube.com/watch?v=TZ57w6TX_fo
+Zabavna]Vuk Mob}Manijak=--start-time=6 http://www.youtube.com/watch?v=Gfa4FlqP1Ss
 Narodna]Xenia Pajcin}Brka=http://www.youtube.com/watch?v=nMzMGMni1d4
 Narodna]Xenia Pajcin}Decko mi je umoran=http://www.youtube.com/watch?v=bYLm57yo24w
 Narodna]Xenia Pajcin}Divan dan=http://www.youtube.com/watch?v=XUlGlGn8Qys
