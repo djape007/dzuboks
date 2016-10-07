@@ -917,6 +917,9 @@ Zabavna]Marko Bulat}Prijatelji, braco, kumovi=http://www.youtube.com/watch?v=o8g
 Zabavna]Marko Bulat}Ritam oko=http://www.youtube.com/watch?v=gdeXKwAdgG8
 Zabavna]Marko Bulat}Sto si dosla u kafanu=http://www.youtube.com/watch?v=ZQTpBpKQnwE
 Zabavna]Marko Bulat}Svanulo je svanulo=http://www.youtube.com/watch?v=NRg-sAFjXDI
+Zabavna]Marko Mandic}Ramdagadam=--start-time=6 http://www.youtube.com/watch?v=FLA1Su3sdIU
+Zabavna]Marko Mandic}Dobar dan=--start-time=6 http://www.youtube.com/watch?v=9c-bsGNcYLw
+Zabavna]Marko Mandic}Mnogo dobro=--start-time=6 http://www.youtube.com/watch?v=SCvQ4AiMIYs
 Zabavna]Maya}100 dinara=http://www.youtube.com/watch?v=Ag4t4v2_PyY
 Zabavna]Maya}Ako ne molim, ne znaci da ne volim=http://www.youtube.com/watch?v=J3he3L3qjyI
 Zabavna]Maya}Alkohol=http://www.youtube.com/watch?v=A4_I1Anuhw0
@@ -3868,6 +3871,13 @@ Narodna]Rasa Pavlovic}Svud me diraj, al' u srce nemoj=http://www.youtube.com/wat
 Narodna]Rasa Pavlovic}Zasto mi se vinogradi suse=http://www.youtube.com/watch?v=w37gl1EWXi8
 Narodna]Rasa Pavlovic}Zbog mlade krcmarice=http://www.youtube.com/watch?v=nEMKhM22tCY
 Narodna]Rasa Pavlovic}Zvoni, zvoni pesmo nasa=http://www.youtube.com/watch?v=Ov_CMhOsn5Y
+Zabavna]Rasta}Euforija=--start-time=6 http://www.youtube.com/watch?v=QHpfrfhuiq8
+Zabavna]Rasta}Hotel=http://www.youtube.com/watch?v=Ek5yiu7rmO8
+Zabavna]Rasta}Habibi=--start-time=2 http://www.youtube.com/watch?v=ysfCNuDZTSk
+Zabavna]Rasta}Kavali=http://www.youtube.com/watch?v=XNhRXfTJK_c
+Zabavna]Rasta}Kavasaki=--start-time=17 http://www.youtube.com/watch?v=Zo8S1ErnnTE
+Zabavna]Rasta}Balkan=--start-time=50 http://www.youtube.com/watch?v=fs9XYB8LKlI
+Zabavna]Rasta}Mala=http://www.youtube.com/watch?v=Qd-zHPRBMrM
 Zabavna]Regina}A tebe nema=http://www.youtube.com/watch?v=XmTR7nPaOOI
 Zabavna]Regina}Bez tebe=http://www.youtube.com/watch?v=PlkBxKA0VCM
 Zabavna]Regina}Bijele zore=http://www.youtube.com/watch?v=V8DnQdpUGME
@@ -5935,6 +5945,10 @@ Zabavna]Severina}More tuge (duet Sasa Matic)=http://www.youtube.com/watch?v=5ZUI
 Zabavna]Severina}Tarapana=http://www.youtube.com/watch?v=Z91AN4vOtCA
 Zabavna]Severina}Uno momento=http://www.youtube.com/watch?v=Gvchbkh4jQY
 Zabavna]Severina}Uzbuna=http://www.youtube.com/watch?v=pdnDPKNoshk
+Zabavna]SHA}Top model=--start-time=12 http://www.youtube.com/watch?v=s3H_8S8c5II
+Zabavna]SHA}Maserati=--start-time=8 http://www.youtube.com/watch?v=UiTGSOePfMs
+Zabavna]SHA}Zlato=http://www.youtube.com/watch?v=9_7Jk49jIqY
+Zabavna]SHA}Twerk=--start-time=15 http://www.youtube.com/watch?v=FMdaCPdCnLw
 Narodna]Silvana Armenulic}A sto cemo ljubav kriti=http://www.youtube.com/watch?v=B1w7xCzxWlU
 Narodna]Silvana Armenulic}Ciganine, sviraj, sviraj=http://www.youtube.com/watch?v=LwVHFpQ-cn0
 Narodna]Silvana Armenulic}Ciganka sam mala=http://www.youtube.com/watch?v=-ig4Wra-sSw
@@ -8397,7 +8411,7 @@ Zabavna]Zeljko Vasic}Samo da dobro si=http://www.youtube.com/watch?v=TutJbPxuX5Q
 Zabavna]Zeljko Vasic}Samo moja=http://www.youtube.com/watch?v=44B9M13Qgsk
 Zabavna]Zeljko Vasic}Sva od sna=http://www.youtube.com/watch?v=8OyGGmiX5x0
 Zabavna]Zeljko Vasic}Svako ima nekog koga nema=http://www.youtube.com/watch?v=5mk1CO86mSM
-Zabavna]Zeljko Vasic}Svrati na pice=http://www.youtube.com/watch?v=7-gUCjIcKug
+Zabavna]Zeljko Vasic}Svrati na pice=--start-time=30 http://www.youtube.com/watch?v=7-gUCjIcKug
 Zabavna]Zeljko Vasic}Voli me i ne voli me=http://www.youtube.com/watch?v=CwWSM3ePmkA
 Zabavna]Zeljko Vasic}Zanjisi kukovima=http://www.youtube.com/watch?v=UNtLmgiylHA
 Zabavna]Zeljko Vasic}Zauvek=http://www.youtube.com/watch?v=J2_ZIyV4_wE
