@@ -872,6 +872,7 @@ Zabavna]Anabela}Preventiva=http://www.youtube.com/watch?v=3s4CkvaFEVA
 Zabavna]Anabela}Sto ratova=http://www.youtube.com/watch?v=iqncDzkdENo
 Zabavna]Anabela}Vise nas nema=http://www.youtube.com/watch?v=3QOg7qUoLCw
 Zabavna]Anabela}Zena ratnik=http://www.youtube.com/watch?v=ncQ-rFlQxh4
+Zabavna]Anabela]Beograd=--start-time=30 http://www.youtube.com/watch?v=RyGSOKRT5IY
 Zabavna]Andreana Cekic}Hendikep=http://www.youtube.com/watch?v=W9ZoXa2JWbM
 Zabavna]Andreana Cekic}Kraljica u zlatu=http://www.youtube.com/watch?v=Lx0BONJW8eE
 Zabavna]Andreana Cekic}Mrzela bih da te manje volim=http://www.youtube.com/watch?v=HLcwtRLQ7RI
@@ -2523,7 +2524,7 @@ Rok]Crvena Jabuka}Zvijezda Danica=http://www.youtube.com/watch?v=AKFF9TBH7tc
 Rok]Crvena Jabuka}Zvona zvone=http://www.youtube.com/watch?v=Z2hTZvAk6bg
 Zabavna]Cvija}100 ljubavi=http://www.youtube.com/watch?v=xCUKwYxrkME
 Zabavna]Cvija}Bogu hvala=http://www.youtube.com/watch?v=xvOyVXrNrEk
-Zabavna]Cvija}Brzina=http://www.youtube.com/watch?v=DQVCLOK_f4w
+Zabavna]Cvija}Brzina=--start-time=6 http://www.youtube.com/watch?v=DQVCLOK_f4w
 Zabavna]Cvija}Bahami=--start-time=67 http://www.youtube.com/watch?v=Utbzuo7Eado
 Zabavna]Cvija}Cekam te=http://www.youtube.com/watch?v=L6MjKumilCc
 Zabavna]Cvija}Daj, daj=http://www.youtube.com/watch?v=3BTuPws_ta8
@@ -4754,14 +4755,14 @@ Rok]Elektricni Orgazam}Zlatni papagaj=http://www.youtube.com/watch?v=vE73lFOBi1k
 Rok]Elektricni Orgazam}Znam=http://www.youtube.com/watch?v=NJqqIanofh0
 Rok]Elektricni Orgazam}Zuto=http://www.youtube.com/watch?v=lV-bIoEQSg4
 Zabavna]Elitni Odredi}Alkohola litar=http://www.youtube.com/watch?v=VS9rffsKw7g
-Zabavna]Elitni Odredi}Beograd=http://www.youtube.com/watch?v=RyGSOKRT5IY
+Zabavna]Elitni Odredi}Beograd=--start-time=31 http://www.youtube.com/watch?v=RyGSOKRT5IY
 Zabavna]Elitni Odredi}Cemu zivot uci me=http://www.youtube.com/watch?v=cXMz1bJlkzU
 Zabavna]Elitni Odredi}Deca grada=http://www.youtube.com/watch?v=zvG3VaMWogg
 Zabavna]Elitni Odredi}Dodaj mi taj viski=http://www.youtube.com/watch?v=ZTy3TtVhS4E
 Zabavna]Elitni Odredi}Drugu necu=http://www.youtube.com/watch?v=4nWGbEl7Zs8
 Zabavna]Elitni Odredi}Dzek i chivas=http://www.youtube.com/watch?v=ySeEBwC2d5Y
 Zabavna]Elitni Odredi}Gde god da krene=http://www.youtube.com/watch?v=pywK117bQc4
-Zabavna]Elitni Odredi}Ima mnogo zena i kafana=http://www.youtube.com/watch?v=s7KF9V5djno
+Zabavna]Elitni Odredi}Ima mnogo zena i kafana=--start-time=30 http://www.youtube.com/watch?v=s7KF9V5djno
 Zabavna]Elitni Odredi}Ja bih hteo da znam=http://www.youtube.com/watch?v=XDzBHIm2qjk
 Zabavna]Elitni Odredi}Jednostavno=http://www.youtube.com/watch?v=IU7W252sVts
 Zabavna]Elitni Odredi}Kad bi znala=http://www.youtube.com/watch?v=SGgkevylEYc
@@ -4769,17 +4770,17 @@ Zabavna]Elitni Odredi}Kao kokain=http://www.youtube.com/watch?v=jRSriNn8gWQ
 Zabavna]Elitni Odredi}Krivi smo oboje=http://www.youtube.com/watch?v=V0lYVxZ15GI
 Zabavna]Elitni Odredi}Kulijana=http://www.youtube.com/watch?v=RyGSOKRT5IY
 Zabavna]Elitni Odredi}Ljubav i milion dolara=http://www.youtube.com/watch?v=l4zUHE2p9GY
-Zabavna]Elitni Odredi}Ljubavi moja=http://www.youtube.com/watch?v=FFafv0PCN4Q
-Zabavna]Elitni Odredi}Moja jedina=http://www.youtube.com/watch?v=FFafv0PCN4Q
+Zabavna]Elitni Odredi}Ljubavi moja=--start-time=67 http://www.youtube.com/watch?v=FFafv0PCN4Q
+Zabavna]Elitni Odredi}Moja jedina=http://www.youtube.com/watch?v=RzcGJIGvmZE
 Zabavna]Elitni Odredi}Moja riba=http://www.youtube.com/watch?v=uUi4cwwFVqE
 Zabavna]Elitni Odredi}Molim Boga=http://www.youtube.com/watch?v=ldhtcSeSLxI
 Zabavna]Elitni Odredi}Moze bolje=http://www.youtube.com/watch?v=jZcTNE-587s
-Zabavna]Elitni Odredi}Ne koci=http://www.youtube.com/watch?v=LtMMRirmTOU
+Zabavna]Elitni Odredi}Ne koci=http://www.youtube.com/watch?v=b9k889LgJp0
 Zabavna]Elitni Odredi}Nema nas=http://www.youtube.com/watch?v=IU7W252sVts
 Zabavna]Elitni Odredi}Nemam ljubavi=http://www.youtube.com/watch?v=MzUj5IYgqsc
 Zabavna]Elitni Odredi}Nemamo limit=http://www.youtube.com/watch?v=lvKnNZBRXYM
 Zabavna]Elitni Odredi}Nije mi zao=http://www.youtube.com/watch?v=3sQLyjaNU-U
-Zabavna]Elitni Odredi}Ona sija=http://www.youtube.com/watch?v=eKt98cjz-Ag
+Zabavna]Elitni Odredi}Ona sija=--start-time=6 http://www.youtube.com/watch?v=eKt98cjz-Ag
 Zabavna]Elitni Odredi}Osecaj=http://www.youtube.com/watch?v=LBUxOHCdqkw
 Zabavna]Elitni Odredi}Ovaj svet je lova=http://www.youtube.com/watch?v=Y7_deiqWgJs
 Zabavna]Elitni Odredi}Par miliona=http://www.youtube.com/watch?v=IldPiHolzfw
@@ -4792,7 +4793,7 @@ Zabavna]Elitni Odredi}Sto te volim=http://www.youtube.com/watch?v=B7NHLSGxSrs
 Zabavna]Elitni Odredi}Sve sto znam=http://www.youtube.com/watch?v=mA0loK7Yr28
 Zabavna]Elitni Odredi}U trecem licu=http://www.youtube.com/watch?v=z3AmdOO8pjk
 Zabavna]Elitni Odredi}Ulica me zna=http://www.youtube.com/watch?v=hC9rdltBtPo
-Zabavna]Elitni Odredi}Zapali grad=http://www.youtube.com/watch?v=LAYkVWLmbyw
+Zabavna]Elitni Odredi}Zapali grad=--start-time=8 http://www.youtube.com/watch?v=LAYkVWLmbyw
 Zabavna]Elitni Odredi}Zvezde ostaju sjajne=http://www.youtube.com/watch?v=OEfic5V-9HU
 90]Ella B}Ajkula=http://www.youtube.com/watch?v=snr6ouB2XCQ
 90]Ella B}Bas cu te nervirati=http://www.youtube.com/watch?v=0g7uP5OusUs
