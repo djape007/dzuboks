@@ -2300,7 +2300,6 @@ Narodna]Nedeljko Bilkic}U lijepom starom gradu Visegradu=http://www.youtube.com/
 Narodna]Nedeljko Bilkic}U mahali pusta kula stara=http://www.youtube.com/watch?v=_HaaujgGMRY
 Narodna]Nedeljko Bilkic}Veseli se srce moje=http://www.youtube.com/watch?v=1zBi0J_AAwM
 Narodna]Nedeljko Bilkic}Zemljace jarane=http://www.youtube.com/watch?v=VLvM0EtkFJk
-Narodna]Nedeljko Bilkic}Zivot roman pise=http://www.youtube.com/watch?v=IkV7qXkjO8A
 Narodna]Nemanja Nikolic}Bebo moja=http://www.youtube.com/watch?v=zoqaHSx0B58
 Narodna]Nemanja Nikolic}Cuvaj me=http://www.youtube.com/watch?v=6x3wG0vwXp8
 Narodna]Nemanja Nikolic}Da se napijem=http://www.youtube.com/watch?v=7nlO5FG_pT4
@@ -6376,7 +6375,6 @@ Zabavna]Slobodan Bajic}Sta mi vredi tvoje telo=http://www.youtube.com/watch?v=jQ
 Zabavna]Slobodan Bajic}Ti znas=http://www.youtube.com/watch?v=X8Ie1QBhWmY
 Narodna]Slobodan Mulina}Joj mala brigo moja=http://www.youtube.com/watch?v=JbyOUy4GuAU
 Narodna]Slobodan Mulina}Kad u vojsku ja polazim=http://www.youtube.com/watch?v=P6pj5BhlmvE
-Narodna]Slobodan Mulina}Livada je moja uspomena=http://www.youtube.com/watch?v=dncakviQdNM
 Narodna]Slobodan Mulina}Nema moje cobanice=http://www.youtube.com/watch?v=rP4nzI9L2W0
 Narodna]Slobodan Mulina}Osvetnik ljubavi=http://www.youtube.com/watch?v=174Ypuurkbw
 Narodna]Slobodan Mulina}Pesma rastanka=http://www.youtube.com/watch?v=8Lb0MpfYn-I
@@ -7484,7 +7482,7 @@ Zabavna]Tropico Band}Zar ti=http://www.youtube.com/watch?v=89J8hAS2rgo
 Narodna]Usnija Redzepova}Dajte mi daire=http://www.youtube.com/watch?v=i9fe_23YKyg
 Narodna]Usnija Redzepova}Idi, idi drugoj=http://www.youtube.com/watch?v=BxrCHu4jL7Q
 Narodna]Usnija Redzepova}Kad ljubim ja=http://www.youtube.com/watch?v=Dig7WA1-72Y
-Narodna]Usnija Redzepova}Kazi, zoro=http://www.youtube.com/watch?v=-ym9ELA9eKQ
+Narodna]Usnija Redzepova}Kazi, zoro=http://www.youtube.com/watch?v=UDQg0Csxuz4
 Narodna]Usnija Redzepova}Kazuj, krcmo, dzerimo=http://www.youtube.com/watch?v=NWa4RDKQ_Rc
 Narodna]Usnija Redzepova}Kome li ce verovati ljudi=http://www.youtube.com/watch?v=W-UpQ8CpbSw
 Narodna]Usnija Redzepova}O, pesmo, o, igro moja=http://www.youtube.com/watch?v=oBCYFQJBsf4
