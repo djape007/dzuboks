@@ -414,7 +414,7 @@ Narodna]Aleksandra Prijovic}Totalna anestezija=--start-time=6 http://www.youtube
 Narodna]Aleksandra Prijovic}Boli svaka tvoja rec=http://www.youtube.com/watch?v=vW6ca-2OScA
 Narodna]Aleksandra Prijovic}Jos veceras plakacu za tobom=http://www.youtube.com/watch?v=UHw50ZRBtKM
 Narodna]Aleksandra Prijovic}Majko=http://www.youtube.com/watch?v=BpxmbwkQMm0
-Narodna]Aleksandra Prijovic}Sta bi=http://www.youtube.com/watch?v=cN_bK5qXNf0
+Narodna]Aleksandra Prijovic}Sta bi=--start-time=8 http://www.youtube.com/watch?v=cN_bK5qXNf0
 Narodna]Aleksandra Prijovic}Za nas kasno je=http://www.youtube.com/watch?v=cUFaZVIcE_0
 Zabavna]Alen Islamovic}Aida=http://www.youtube.com/watch?v=4oZ7xTw0QbI
 Zabavna]Alen Islamovic}Aj jaj joj=http://www.youtube.com/watch?v=qo1X4TO6iYI
@@ -848,7 +848,7 @@ Zabavna]Ana Nikolic}Zadnji voz=http://www.youtube.com/watch?v=dPVGOfhj8Pw
 Zabavna]Ana Nikolic}Zla barbika=http://www.youtube.com/watch?v=xbZeRytl-aI
 Zabavna]Anabela}DJ pumpaj=http://www.youtube.com/watch?v=_tk29H71WlE
 Zabavna]Anabela}Igra istine=http://www.youtube.com/watch?v=dOWDljkqY8w
-Zabavna]Anabela}Ljubav zna=http://www.youtube.com/watch?v=60KvE3JXK-Y
+Zabavna]Anabela}Ljubav zna=--start-time=6 http://www.youtube.com/watch?v=60KvE3JXK-Y
 Zabavna]Anabela}Lujke moje=http://www.youtube.com/watch?v=iykWT6ONia4
 Zabavna]Anabela}Lutka bez ruku=http://www.youtube.com/watch?v=yoc_mNp3Fto
 Zabavna]Anabela}Moj dragi=http://www.youtube.com/watch?v=6QOlCAnEk9g
@@ -2501,35 +2501,35 @@ Rok]Crvena Jabuka}Znas da nekad=http://www.youtube.com/watch?v=NTu-MPmb44g
 Rok]Crvena Jabuka}Zovu nas ulice=http://www.youtube.com/watch?v=w5bu5ENvohM
 Rok]Crvena Jabuka}Zvijezda Danica=http://www.youtube.com/watch?v=aTPh7ftekPw
 Rok]Crvena Jabuka}Zvona zvone=http://www.youtube.com/watch?v=Z2hTZvAk6bg
-Zabavna]Cvija}100 ljubavi=http://www.youtube.com/watch?v=xCUKwYxrkME
-Zabavna]Cvija}Bogu hvala=http://www.youtube.com/watch?v=xvOyVXrNrEk
+Zabavna]Cvija}100 ljubavi=--start-time=6 http://www.youtube.com/watch?v=xCUKwYxrkME
+Zabavna]Cvija}Bogu hvala=--start-time=6 http://www.youtube.com/watch?v=xvOyVXrNrEk
 Zabavna]Cvija}Brzina=--start-time=6 http://www.youtube.com/watch?v=DQVCLOK_f4w
 Zabavna]Cvija}Bahami=--start-time=67 http://www.youtube.com/watch?v=Utbzuo7Eado
-Zabavna]Cvija}Cekam te=http://www.youtube.com/watch?v=L6MjKumilCc
+Zabavna]Cvija}Cekam te=--start-time=6 http://www.youtube.com/watch?v=L6MjKumilCc
 Zabavna]Cvija}Daj, daj=http://www.youtube.com/watch?v=3BTuPws_ta8
 Zabavna]Cvija}Diskoteka=http://www.youtube.com/watch?v=467yJj_MZEQ
 Zabavna]Cvija}Gde si ti=http://www.youtube.com/watch?v=tELCQ0X7heQ
 Zabavna]Cvija}Haos=http://www.youtube.com/watch?v=_Shj3JSdhO4
-Zabavna]Cvija}Jace od vina=http://www.youtube.com/watch?v=PfGdp_9RGG4
+Zabavna]Cvija}Jace od vina=--start-time=6 http://www.youtube.com/watch?v=PfGdp_9RGG4
 Zabavna]Cvija}Javi se bejbe=http://www.youtube.com/watch?v=4oGdJaKt4kU
-Zabavna]Cvija}Mene radis ti=http://www.youtube.com/watch?v=AppPVfbOiqo
+Zabavna]Cvija}Mene radis ti=--start-time=6 http://www.youtube.com/watch?v=AppPVfbOiqo
 Zabavna]Cvija}Moja zelja si ti=http://www.youtube.com/watch?v=My6FKiyCzEY
 Zabavna]Cvija}Ne placi=http://www.youtube.com/watch?v=OmzTj13J40M
 Zabavna]Cvija}Neka je boli=http://www.youtube.com/watch?v=JZeqxHWzR9Q
 Zabavna]Cvija}Nema te=http://www.youtube.com/watch?v=8Vt2WOyfLxI
 Zabavna]Cvija}Nisam mogao da cutim=http://www.youtube.com/watch?v=TLs2HLonmKk
-Zabavna]Cvija}Noc za nas=http://www.youtube.com/watch?v=5_9DueSwO_M
+Zabavna]Cvija}Noc za nas=--start-time=27 http://www.youtube.com/watch?v=5_9DueSwO_M
 Zabavna]Cvija}Odlazim od tebe=http://www.youtube.com/watch?v=-ijV--o7KZQ
 Zabavna]Cvija}Oprostaj=http://www.youtube.com/watch?v=UeBqPWTjQ4E
 Zabavna]Cvija}Ostavljam te=http://www.youtube.com/watch?v=E5tCiC0925c
-Zabavna]Cvija}Pozovi me (Obadi mi se)=http://www.youtube.com/watch?v=tEp4_Qn8lb8
+Zabavna]Cvija}Pozovi me (Obadi mi se)=--start-time=14 http://www.youtube.com/watch?v=tEp4_Qn8lb8
 Zabavna]Cvija}Reci brate=http://www.youtube.com/watch?v=prsZjaVx0hQ
-Zabavna]Cvija}Rulet=http://www.youtube.com/watch?v=P7j63Bk4qIk
+Zabavna]Cvija}Rulet=--start-time=6 http://www.youtube.com/watch?v=P7j63Bk4qIk
 Zabavna]Cvija}Sexy dupe=http://www.youtube.com/watch?v=lKwB11x7yIw
 Zabavna]Cvija}Ti si uvek bila tu=http://www.youtube.com/watch?v=my07PpROevY
-Zabavna]Cvija}Ubila si me=http://www.youtube.com/watch?v=VkJCglIqjWs
+Zabavna]Cvija}Ubila si me=--start-time=6 http://www.youtube.com/watch?v=VkJCglIqjWs
 Zabavna]Cvija}Vodi me=http://www.youtube.com/watch?v=C_mH71wb4zY
-Zabavna]Cvija}Volim to sto radis=http://www.youtube.com/watch?v=5jDrMfsHbUE
+Zabavna]Cvija}Volim to sto radis=--start-time=49 http://www.youtube.com/watch?v=5jDrMfsHbUE
 Zabavna]Dado Glisic}Adriana=http://www.youtube.com/watch?v=nF84ihlMqS4
 Zabavna]Dado Glisic}Ako je sve laz=http://www.youtube.com/watch?v=RfRKvl-PJwI
 Zabavna]Dado Glisic}Australija i Amerika=http://www.youtube.com/watch?v=bDfPQIfE5FM
@@ -3333,7 +3333,7 @@ DJ]Dj Krmak}Zasto onaj covjek place=http://www.youtube.com/watch?v=gl4PPuUpqSU
 DJ]Dj Krmak}Zenidba jarana=http://www.youtube.com/watch?v=grI161h3Cf4
 DJ]Dj Krmak}Zigolo=http://www.youtube.com/watch?v=p1gTihW0WhU
 DJ]Dj Krmak}Zlatna ribica=http://www.youtube.com/watch?v=-3gENduVvXI
-DJ]Dj Shone}Bambola=http://www.youtube.com/watch?v=-1quPnAzimk
+DJ]Dj Shone}Bambola=--start-time=51 http://www.youtube.com/watch?v=-1quPnAzimk
 DJ]Dj Shone}Igraj=http://www.youtube.com/watch?v=IVKR3eXuELs
 DJ]Dj Shone}Muske price=http://www.youtube.com/watch?v=6NtOh5mOtkg
 DJ]Dj Shone}Nadji mi zamenu=http://www.youtube.com/watch?v=JmPFs_sxcU0
@@ -4238,7 +4238,7 @@ Zabavna]Dunja Ilic}Gladna tvoje ljubavi=http://www.youtube.com/watch?v=Mj97Q7tFf
 Zabavna]Dunja Ilic}Jedino sto pamtim i postujem=http://www.youtube.com/watch?v=BcyiuzA0luU
 Zabavna]Dunja Ilic}Kosmar=http://www.youtube.com/watch?v=ldMJ7aoqcTc
 Zabavna]Dunja Ilic}Luksuzni apartman=http://www.youtube.com/watch?v=DUMGdg3LZnQ
-Zabavna]Dunja Ilic}Milion promila=http://www.youtube.com/watch?v=Y08esyK2GYc
+Zabavna]Dunja Ilic}Milion promila=--start-time=6 http://www.youtube.com/watch?v=Y08esyK2GYc
 Zabavna]Dunja Ilic}Misterija=http://www.youtube.com/watch?v=ScTIYCUomxA
 Zabavna]Dunja Ilic}Navikla na poraze=http://www.youtube.com/watch?v=rvujKiUi-70
 Zabavna]Dunja Ilic}Ne stize me kajanje=http://www.youtube.com/watch?v=0tegbTQIAI0
@@ -4444,7 +4444,7 @@ Zabavna]Dzenan Loncarevic}Ja sada imam sve=http://www.youtube.com/watch?v=icdZTx
 Zabavna]Dzenan Loncarevic}Kad me nece=http://www.youtube.com/watch?v=RFlzk4EQij0
 Zabavna]Dzenan Loncarevic}Kad ostave te svi=http://www.youtube.com/watch?v=jnWzja-axTA
 Zabavna]Dzenan Loncarevic}Kap u moru=http://www.youtube.com/watch?v=rxmnlaU7kn0
-Zabavna]Dzenan Loncarevic}Kazino=http://www.youtube.com/watch?v=RFIsnD-iuDM
+Zabavna]Dzenan Loncarevic}Kazino=--start-time=6 http://www.youtube.com/watch?v=RFIsnD-iuDM
 Zabavna]Dzenan Loncarevic}Kosa do ramena=http://www.youtube.com/watch?v=oxGGx5q2cvM
 Zabavna]Dzenan Loncarevic}Laufer=http://www.youtube.com/watch?v=A154rrmMAv8
 Zabavna]Dzenan Loncarevic}Laura=http://www.youtube.com/watch?v=n9O6OIknk4s
@@ -4452,7 +4452,7 @@ Zabavna]Dzenan Loncarevic}Leptira let=http://www.youtube.com/watch?v=gH9eu7zyuxE
 Zabavna]Dzenan Loncarevic}Ljubi il' me ubi=http://www.youtube.com/watch?v=_bWzYaKtDsM
 Zabavna]Dzenan Loncarevic}Ljubim u prolazu=http://www.youtube.com/watch?v=WKBCoLdRHAE
 Zabavna]Dzenan Loncarevic}Losa=http://www.youtube.com/watch?v=T11r-kLbdKI
-Zabavna]Dzenan Loncarevic}Lose su godine=http://www.youtube.com/watch?v=uuILFySqKUM
+Zabavna]Dzenan Loncarevic}Lose su godine=--start-time=6 http://www.youtube.com/watch?v=uuILFySqKUM
 Zabavna]Dzenan Loncarevic}Ludujem=http://www.youtube.com/watch?v=PNfOp21q-V4
 Zabavna]Dzenan Loncarevic}Mirno spavaj=http://www.youtube.com/watch?v=tjEmw3RBSVs
 Zabavna]Dzenan Loncarevic}Moram=http://www.youtube.com/watch?v=LzArSEoJr1g
@@ -5196,7 +5196,7 @@ Narodna]Fazlija}Zgarista=http://www.youtube.com/watch?v=b3HJZaKJgEk
 Narodna]Fazlija}Zivotna skola=http://www.youtube.com/watch?v=kMhh9KTuvUM
 Zabavna]Filip Mitrovic}Antidepresiv=http://www.youtube.com/watch?v=dqBMfhWJU_k
 Zabavna]Filip Mitrovic}Beli grad=http://www.youtube.com/watch?v=dm2bBCoc4ek
-Zabavna]Filip Mitrovic}Brojim=http://www.youtube.com/watch?v=dmFW3rWu0ko
+Zabavna]Filip Mitrovic}Brojim=--start-time=25 http://www.youtube.com/watch?v=dmFW3rWu0ko
 Zabavna]Filip Mitrovic}Ljubavni parazit=http://www.youtube.com/watch?v=mXq4XD2Q1yM
 Zabavna]Filip Mitrovic}Ludo srce=http://www.youtube.com/watch?v=Mer3c8eyUrk
 Zabavna]Filip Mitrovic}Nesreco=http://www.youtube.com/watch?v=4_4y_nWhSgw
@@ -6012,7 +6012,7 @@ Narodna]Gordana Stoicevic}Zagrli me i oprosti mi=http://www.youtube.com/watch?v=
 Rep]Gru}5ak=http://www.youtube.com/watch?v=RpQY2R47Ay8
 Rep]Gru}Adrenalin dzanki=http://www.youtube.com/watch?v=6R4vDuYb36g
 Rep]Gru}Bas kao ti=http://www.youtube.com/watch?v=Ds_2rX60IxA
-Rep]Gru}Bicu tu - 20 godina kasnije=http://www.youtube.com/watch?v=u64yGbMbZoc
+Rep]Gru}Bicu tu - 20 godina kasnije=--start-time=6 http://www.youtube.com/watch?v=u64yGbMbZoc
 Rep]Gru}Bicu tu=http://www.youtube.com/watch?v=aG8tDTKB8x8
 Rep]Gru}Covek je coveku vuk=http://www.youtube.com/watch?v=YKlW2WEe92w
 Rep]Gru}Da li imas pravo=http://www.youtube.com/watch?v=k_OZFldNCF8
@@ -7076,11 +7076,11 @@ Zabavna]In Vivo}Nijedna sad=http://www.youtube.com/watch?v=GN5fDwva-KA
 Zabavna]In Vivo}Odbegla mlada=http://www.youtube.com/watch?v=PC8OU31YSyc
 Zabavna]In Vivo}Partimanijak=http://www.youtube.com/watch?v=JDli7jzfX_E
 Zabavna]In Vivo}Poruka=--start-time=133 http://www.youtube.com/watch?v=9cq_cPPVqR0
-Zabavna]In Vivo}Remek delo=http://www.youtube.com/watch?v=FBY8JPWNUyI
+Zabavna]In Vivo}Remek delo=--start-time=16 http://www.youtube.com/watch?v=FBY8JPWNUyI
 Zabavna]In Vivo}Rolerkoster=http://www.youtube.com/watch?v=rnIA-aI2CtI
 Zabavna]In Vivo}Sad kad nema nas=http://www.youtube.com/watch?v=fGy69T4HVHA
 Zabavna]In Vivo}Tu, tu, tu=http://www.youtube.com/watch?v=yTAd4QFXs-Y
-Zabavna]In Vivo}Zauvek mladi=http://www.youtube.com/watch?v=oRyuzRTM1BY
+Zabavna]In Vivo}Zauvek mladi=--start-time=133 http://www.youtube.com/watch?v=oRyuzRTM1BY
 Zabavna]In Vivo}Zivot unazad=http://www.youtube.com/watch?v=KIb0Lnsngo4
 Rok]Indexi}Bacila je sve niz rijeku=http://www.youtube.com/watch?v=OmalLf3RbnI
 Rok]Indexi}Predaj se srce=http://www.youtube.com/watch?v=UPlYS0UCIIU
@@ -8107,7 +8107,7 @@ Narodna]Jovan Perisic}Nije moje bilo vilo=http://www.youtube.com/watch?v=NYr7xxP
 Narodna]Jovan Perisic}Nikada se promeniti necu=http://www.youtube.com/watch?v=s-n53vIm-8A
 Narodna]Jovan Perisic}O, da li znas=http://www.youtube.com/watch?v=ZI64vWKrYaI
 Narodna]Jovan Perisic}Odose stari vozovi=http://www.youtube.com/watch?v=rx7526Au7jc
-Narodna]Jovan Perisic}Opila me=http://www.youtube.com/watch?v=uNl4187EYnY
+Narodna]Jovan Perisic}Opila me=--start-time=6 http://www.youtube.com/watch?v=uNl4187EYnY
 Narodna]Jovan Perisic}Ostala si u mom srcu=http://www.youtube.com/watch?v=Ky2lf9f8KUM
 Narodna]Jovan Perisic}Otrovna strela=http://www.youtube.com/watch?v=7LChrJkqW9I
 Narodna]Jovan Perisic}Oziljci=http://www.youtube.com/watch?v=2CKOgYPNw7Q
