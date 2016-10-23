@@ -749,7 +749,7 @@ Narodna]Ana Bekuta}Tugo moja crnooka=http://www.youtube.com/watch?v=FYXAzD0cDck
 Narodna]Ana Bekuta}Tvoje pravo ime=http://www.youtube.com/watch?v=TTvrFjxymDo
 Narodna]Ana Bekuta}Umori me usnama=http://www.youtube.com/watch?v=eibFwiuroyg
 Narodna]Ana Bekuta}Umrecu na tudji dan=http://www.youtube.com/watch?v=gyKT9473au8
-Narodna]Ana Bekuta}Umri muski=http://www.youtube.com/watch?v=MOXtTbQKuCA
+Narodna]Ana Bekuta}Umri muski=http://www.youtube.com/watch?v=2GCQFsBmHXY
 Narodna]Ana Bekuta}Uspomene=http://www.youtube.com/watch?v=AXaI0Wq78j4
 Narodna]Ana Bekuta}Uvek postoji nada=http://www.youtube.com/watch?v=ym75sVr9aVE
 Narodna]Ana Bekuta}Uzice i Cacak=http://www.youtube.com/watch?v=Ek3o_oSjpgE
@@ -4291,7 +4291,7 @@ Narodna]Dusko Kulis}Draga Marija=http://www.youtube.com/watch?v=ZFTEr0NTc78
 Narodna]Dusko Kulis}Ivana=http://www.youtube.com/watch?v=HwjscnXugvk
 Narodna]Dusko Kulis}Kako cu bez tebe=http://www.youtube.com/watch?v=zS6vf0SlOFI
 Narodna]Dusko Kulis}Kceri moja, sine moj=http://www.youtube.com/watch?v=eXNafe1enkg
-Narodna]Dusko Kulis}Najljepse oci=http://www.youtube.com/watch?v=PeGqJ20kqbs
+Narodna]Dusko Kulis}Najljepse oci=http://www.youtube.com/watch?v=QsNHjeeSFkw
 Narodna]Dusko Kulis}Ne zovi me u zoru=http://www.youtube.com/watch?v=dWSTUBEMAyk
 Narodna]Dusko Kulis}Nemam kes=http://www.youtube.com/watch?v=xuccCAUIYao
 Narodna]Dusko Kulis}Nije srce na prodaju=http://www.youtube.com/watch?v=iRrXH2khgvE
@@ -8766,7 +8766,6 @@ Narodna]Lepa Brena}Kuca lazi=http://www.youtube.com/watch?v=BHC1S5Uk_CQ
 Narodna]Lepa Brena}Lagano, tiho, tise=http://www.youtube.com/watch?v=i1Jmkvh_NGM
 Narodna]Lepa Brena}Lagarija, lagara=http://www.youtube.com/watch?v=4ZlIEdOBCPQ
 Narodna]Lepa Brena}Lazu te duso moja=http://www.youtube.com/watch?v=LiM4cX0Ph6w
-Narodna]Lepa Brena}Lepa Brena=http://www.youtube.com/watch?v=n8lOenaYZlY
 Narodna]Lepa Brena}Ljubav cuvam za kraj=http://www.youtube.com/watch?v=AUdjlxnaAs4
 Narodna]Lepa Brena}Ljubav nova=http://www.youtube.com/watch?v=ojRV6lk6ejg
 Narodna]Lepa Brena}Ljubavne igrarije=http://www.youtube.com/watch?v=cVkbVf1D8So
