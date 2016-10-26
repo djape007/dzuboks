@@ -200,7 +200,7 @@ Narodna]Aco Pejovic}Na sve spreman=http://www.youtube.com/watch?v=WUDnEn4vB4I
 Narodna]Aco Pejovic}Naj, naj, naj=http://www.youtube.com/watch?v=nSeZCVvSTC8
 Narodna]Aco Pejovic}Ne diraj mi noci=http://www.youtube.com/watch?v=aOiY5rVibA4
 Narodna]Aco Pejovic}Ne pitaj=http://www.youtube.com/watch?v=bdE-iQP8dL4
-Narodna]Aco Pejovic}Ne umem da te ne volim=http://www.youtube.com/watch?v=RHpe_yGSsfk
+Narodna]Aco Pejovic}Ne umem da te ne volim=http://www.youtube.com/watch?v=ROQN8Pn7XoA
 Narodna]Aco Pejovic}Ne zovite je=http://www.youtube.com/watch?v=UDPDfkTvsjQ
 Narodna]Aco Pejovic}Nema te, nema=http://www.youtube.com/watch?v=zD_mCuXv9Ck
 Narodna]Aco Pejovic}Nepopravljivo=http://www.youtube.com/watch?v=YN6FLkOS5V4
@@ -414,7 +414,6 @@ Narodna]Aleksandra Prijovic}Totalna anestezija=--start-time=6 http://www.youtube
 Narodna]Aleksandra Prijovic}Boli svaka tvoja rec=http://www.youtube.com/watch?v=vW6ca-2OScA
 Narodna]Aleksandra Prijovic}Jos veceras plakacu za tobom=http://www.youtube.com/watch?v=UHw50ZRBtKM
 Narodna]Aleksandra Prijovic}Majko=http://www.youtube.com/watch?v=BpxmbwkQMm0
-Narodna]Aleksandra Prijovic}Senke=--start-time=6 http://www.youtube.com/watch?v=gz9bWCrdcC4
 Narodna]Aleksandra Prijovic}Sta bi=--start-time=8 http://www.youtube.com/watch?v=cN_bK5qXNf0
 Narodna]Aleksandra Prijovic}Za nas kasno je=http://www.youtube.com/watch?v=cUFaZVIcE_0
 Zabavna]Alen Islamovic}Aida=http://www.youtube.com/watch?v=4oZ7xTw0QbI
@@ -3469,7 +3468,6 @@ Zabavna]Djogani}Srce mi je zastalo=http://www.youtube.com/watch?v=SpriXbnQti4
 Zabavna]Djogani}Super sredstvo=http://www.youtube.com/watch?v=Mmbq-Ji6xLA
 Zabavna]Djogani}Svaki nas tren=http://www.youtube.com/watch?v=fOCpywPvjHo
 Zabavna]Djogani}Sve bih dala=http://www.youtube.com/watch?v=R5LEMgwQ05M
-Zabavna]Djogani}Svila=http://www.youtube.com/watch?v=j9PSrYSRbLA
 Zabavna]Djogani}Takva kao ja=http://www.youtube.com/watch?v=QhyFXoHF7nY
 Zabavna]Djogani}To nije to=http://www.youtube.com/watch?v=2QMw-arSTfU
 Zabavna]Djogani}U ovom gradu=http://www.youtube.com/watch?v=I8qOmBKhRd4
@@ -5604,7 +5602,7 @@ Rok]Goblini}Mame=http://www.youtube.com/watch?v=2IG9zwdRAIY
 Rok]Goblini}Minijatura=http://www.youtube.com/watch?v=saUWkwCwIi8
 Rok]Goblini}Na ivici=http://www.youtube.com/watch?v=u8M3V2tklU8
 Rok]Goblini}Nagrada=http://www.youtube.com/watch?v=QV1TNDyXmFo
-Rok]Goblini}Ne mogu vise=http://www.youtube.com/watch?v=cONmFBWQ6Nw
+Rok]Goblini}Ne mogu vise=http://www.youtube.com/watch?v=9OY0tD33kF8
 Rok]Goblini}Ne trebam nikome=http://www.youtube.com/watch?v=09Aw6WfFqgo
 Rok]Goblini}Nostalgija=http://www.youtube.com/watch?v=dmgKaj-8E3U
 Rok]Goblini}On je, ona je=http://www.youtube.com/watch?v=t906m5K2BV8
@@ -5612,7 +5610,7 @@ Rok]Goblini}On=http://www.youtube.com/watch?v=aCzgpv0KsWI
 Rok]Goblini}Ona=http://www.youtube.com/watch?v=7edhXlbrO14
 Rok]Goblini}P 5=http://www.youtube.com/watch?v=T31_lZyoHLo
 Rok]Goblini}Pecenja i rakije=http://www.youtube.com/watch?v=juw3gXXMeq8
-Rok]Goblini}Pesma o ribaru Marinu, Marini i moru=http://www.youtube.com/watch?v=QlMcIT_FAmg
+Rok]Goblini}Pesma o ribaru Marinu, Marini i moru=http://www.youtube.com/watch?v=sF5I77X69Yg
 Rok]Goblini}Petra=http://www.youtube.com/watch?v=5S6PGNeUG2Q
 Rok]Goblini}Pod ledom=http://www.youtube.com/watch?v=1lT-ItlmawI
 Rok]Goblini}Ponedeljak=http://www.youtube.com/watch?v=mLRA4HWPeO4
