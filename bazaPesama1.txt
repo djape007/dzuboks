@@ -1373,6 +1373,7 @@ Rep]Beogradski Sindikat}Govedina=https://www.youtube.com/watch?v=N5TLsiD72-8
 Rep]Beogradski Sindikat}Ja u zivotu imam sve=http://www.youtube.com/watch?v=wjlINg88aLs
 Rep]Beogradski Sindikat}Jos ovu noc=http://www.youtube.com/watch?v=3HZH5sleyQc
 Rep]Beogradski Sindikat}Ljiga=http://www.youtube.com/watch?v=ELbbVy8IS98
+Rep]Beogradski Sindikat}Kasno je=http://www.youtube.com/watch?v=Fn2K5N9cJVM
 Rep]Beogradski Sindikat}Mi smo ta ekipa=http://www.youtube.com/watch?v=KkAwPOm5z7w
 Rep]Beogradski Sindikat}Na bojnom polju=--start-time=44 http://www.youtube.com/watch?v=rT807BShPik
 Rep]Beogradski Sindikat}Olovni vojnici=http://www.youtube.com/watch?v=iH9rGKYlA3w
@@ -8623,6 +8624,7 @@ Zabavna]Kuguars}Jagnjeca balada=http://www.youtube.com/watch?v=0gRiJ-9lYDY
 Zabavna]Kuguars}Javor=http://www.youtube.com/watch?v=FTQLSK6G44A
 Zabavna]Kuguars}Leptiricu, sarenicu=http://www.youtube.com/watch?v=FZb3cGXPgic
 Zabavna]Kuguars}Zidareva ljubav=http://www.youtube.com/watch?v=UlISegjqn30
+Zabavna]Lapsus Band}Hendikepiran=http://www.youtube.com/watch?v=o3lpZBmu7go
 Narodna]Legende}A mogli smo sve=http://www.youtube.com/watch?v=YiEVdC4KK6I
 Narodna]Legende}Ako zivim bez tebe=http://www.youtube.com/watch?v=P0RliONpViI
 Narodna]Legende}Cetrdesete=http://www.youtube.com/watch?v=XTcr83qYk_s
