@@ -54,7 +54,7 @@ Narodna]Aca Ilic}Zakucacu ja na vrata njena=http://www.youtube.com/watch?v=rZg7R
 Narodna]Aca Ilic}Zato idem u kafanu=http://www.youtube.com/watch?v=OO__6b6-G5E
 Narodna]Aca Ilic}Zbogom mala=http://www.youtube.com/watch?v=xpb-PmcOAKg
 Narodna]Aca Ilic}Zeljo moja najveca=http://www.youtube.com/watch?v=bDjXUR4tTKA
-Narodna]Aca Ilic}Zivele zene=http://www.youtube.com/watch?v=lc_SCetvCoA
+Narodna]Aca Ilic}Zivele zene=http://www.youtube.com/watch?v=oLhhusAUDnc
 Narodna]Aca Lukas}A kada odem=http://www.youtube.com/watch?v=WTlEJ2WiFwI
 Narodna]Aca Lukas}Ako mislis da sam=http://www.youtube.com/watch?v=WWTOOJ4rXhk
 Narodna]Aca Lukas}Ako su tvoja usta otrov sipala=http://www.youtube.com/watch?v=x57ypiPplhs
@@ -1369,8 +1369,7 @@ Rep]Beogradski Sindikat}Duga je ulica=http://www.youtube.com/watch?v=SoeiEX4sN2M
 Rep]Beogradski Sindikat}Gala socijala=http://www.youtube.com/watch?v=1Uv89Nu4fAI
 Rep]Beogradski Sindikat}Glavom u zid=http://www.youtube.com/watch?v=BekIyc-rxvI
 Rep]Beogradski Sindikat}Gorila u magli=http://www.youtube.com/watch?v=gwFdZ6_cB60
-Rep]Beogradski Sindikat}Govedina=http://www.youtube.com/watch?v=N5TLsiD72-8
-Rep]Beogradski Sindikat}Kasno je=http://www.youtube.com/watch?v=Fn2K5N9cJVM
+Rep]Beogradski Sindikat}Govedina=https://www.youtube.com/watch?v=N5TLsiD72-8
 Rep]Beogradski Sindikat}Ja u zivotu imam sve=http://www.youtube.com/watch?v=wjlINg88aLs
 Rep]Beogradski Sindikat}Jos ovu noc=http://www.youtube.com/watch?v=3HZH5sleyQc
 Rep]Beogradski Sindikat}Ljiga=http://www.youtube.com/watch?v=ELbbVy8IS98
@@ -8259,10 +8258,9 @@ Zabavna]Karolina Goceva}Volela sam te=http://www.youtube.com/watch?v=SLt9_CrVKCw
 Zabavna]Karolina Goceva}Zacaran krug=http://www.youtube.com/watch?v=dFT7kroOzzI
 Zabavna]Karolina Goceva}Zelim samo tebe=http://www.youtube.com/watch?v=NUwQx-dMgZg
 Zabavna]Karolina Goceva}Znam koliko vredim=http://www.youtube.com/watch?v=ZpcA9EdoRgA
-Zabavna]Katarina Grujic}Greska=--start-time=23 http://www.youtube.com/watch?v=O3m7jGKz1hc
-Zabavna]Katarina Grujic}Jedno djubre obicno=--start-time=5 http://www.youtube.com/watch?v=AV_ftDkpzqE
-Zabavna]Katarina Grujic}Lutka=--start-time=6 http://www.youtube.com/watch?v=X7Vjkn2bD1E
-Zabavna]Katarina Grujic}Drugovi=--start-time=6 http://www.youtube.com/watch?v=b8_naCdCzRA
+Narodna]Katarina Grujic}Greska=http://www.youtube.com/watch?v=O3m7jGKz1hc
+Narodna]Katarina Grujic}Jedno djubre obicno=http://www.youtube.com/watch?v=AV_ftDkpzqE
+Narodna]Katarina Grujic}Lutka=--start-time=6 http://www.youtube.com/watch?v=X7Vjkn2bD1E
 Zabavna]Katarina Kovacevic}Hajde, nazdravi bivsoj ljubavi=http://www.youtube.com/watch?v=npOj5nwiOhw
 Zabavna]Katarina Kovacevic}Neizlecivo zaljubljena=http://www.youtube.com/watch?v=qEJ6htTSrdA
 Zabavna]Katarina Kovacevic}Svetica=http://www.youtube.com/watch?v=nCZcNb9jygo
