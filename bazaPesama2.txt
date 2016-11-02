@@ -972,11 +972,11 @@ Zabavna]MC Stojan}Doktor za grudi=http://www.youtube.com/watch?v=8O2TC8uZmz4
 Zabavna]MC Stojan}Do zadnje pare (ft. Djani)=--start-time=11 http://www.youtube.com/watch?v=EbOeKlXNnys
 Zabavna]MC Stojan}Haljina bez ledja=--start-time=6 http://www.youtube.com/watch?v=aY315DSuhVw
 Zabavna]MC Stojan}Kakva guza=http://www.youtube.com/watch?v=rruNDmgcLzQ
-Zabavna]MC Stojan}Kraljevi grada=http://www.youtube.com/watch?v=37b4KkJDEDs
+Zabavna]MC Stojan}Kraljevi grada=--start-time=13 http://www.youtube.com/watch?v=37b4KkJDEDs
 Zabavna]MC Stojan}Kuku lele=http://www.youtube.com/watch?v=VRkVZ6FLTTk
 Zabavna]MC Stojan}Luda zurka=--start-time=6 http://www.youtube.com/watch?v=y943qF58Hug
 Zabavna]MC Stojan}Nadice isprzi mi jaja=http://www.youtube.com/watch?v=MIobbX7pguE
-Zabavna]MC Stojan}Navucen na tebe=http://www.youtube.com/watch?v=AmEZvNabl_Y
+Zabavna]MC Stojan}Navucen na tebe=--start-time=10 http://www.youtube.com/watch?v=AmEZvNabl_Y
 Zabavna]MC Stojan}Ne znam gde sam=--start-time=6 http://www.youtube.com/watch?v=F55nCdoqw_o
 Zabavna]MC Stojan}Samo me ljubi=--start-time=6 http://www.youtube.com/watch?v=9iO7j1aS4p0
 Zabavna]MC Stojan}Samo zaigraj=http://www.youtube.com/watch?v=CXwlATCjcmk
@@ -2464,7 +2464,7 @@ Narodna]Nikola Rokvic}Za najboljeg druga=http://www.youtube.com/watch?v=d0-RZ7zi
 Narodna]Nikola Rokvic}Zavoli=--start-time=10 http://www.youtube.com/watch?v=cdCBC0ywNFU
 Zabavna]Nikolija}Alkohola litar (Elitni odredi, Dj Mladja)=http://www.youtube.com/watch?v=gAgievLY0YA
 Zabavna]Nikolija}Kako posle mene=http://www.youtube.com/watch?v=d0YNd9fPWt0
-Zabavna]Nikolija}Ljubavni maneken=http://www.youtube.com/watch?v=K37NlPObj5o
+Zabavna]Nikolija}Ljubavni maneken=--start-time=6 http://www.youtube.com/watch?v=K37NlPObj5o
 Zabavna]Nikolija}101 propusten poziv=--start-time=12 http://www.youtube.com/watch?v=0pLhB4kRplY
 Zabavna]Nikolija}Opasna igra=--start-time=6 http://www.youtube.com/watch?v=0IoRKY6pjQQ
 Zabavna]Nikolija}Niko kao mi=--start-time=8 http://www.youtube.com/watch?v=rsprwEbsp40
