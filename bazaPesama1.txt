@@ -5869,7 +5869,7 @@ Zabavna]Goga Sekulic}Nisi ti nizasta=http://www.youtube.com/watch?v=o5OMGV1-850
 Zabavna]Goga Sekulic}Nova=http://www.youtube.com/watch?v=hV563PkK0xs
 Zabavna]Goga Sekulic}Opasno po zivot=http://www.youtube.com/watch?v=IK5YyXtAGYg
 Zabavna]Goga Sekulic}Osvajac=http://www.youtube.com/watch?v=IvMBm_Fy9_c
-Zabavna]Goga Sekulic}Ovaj grad=http://www.youtube.com/watch?v=ESs74h2qY8A
+Zabavna]Goga Sekulic}Ovaj grad=--start-time=11 http://www.youtube.com/watch?v=ESs74h2qY8A
 Zabavna]Goga Sekulic}Ovo nije tvoj dan=http://www.youtube.com/watch?v=4YIvI7wPhCM
 Zabavna]Goga Sekulic}Pijes li=http://www.youtube.com/watch?v=vN8N7_UoPVc
 Zabavna]Goga Sekulic}Po zakonu=http://www.youtube.com/watch?v=OD6S09Pv8nk
@@ -7063,7 +7063,7 @@ Zabavna]In Vivo}Bice sve u redu=http://www.youtube.com/watch?v=Cl8DVfq-9RY
 Zabavna]In Vivo}Cuca=http://www.youtube.com/watch?v=gp9T1or-Rzw
 Zabavna]In Vivo}Da nema zena=http://www.youtube.com/watch?v=zUUT3vynCUM
 Zabavna]In Vivo}Devica=http://www.youtube.com/watch?v=WjBmjp9asNQ
-Zabavna]In Vivo}Ferari=http://www.youtube.com/watch?v=GNMCT3sqYNY
+Zabavna]In Vivo}Ferari=--start-time=33 http://www.youtube.com/watch?v=GNMCT3sqYNY
 Zabavna]In Vivo}Gazda=http://www.youtube.com/watch?v=1v8em-oiU34
 Zabavna]In Vivo}Kada nocu te suze probude=http://www.youtube.com/watch?v=C1W4YxXldfo
 Zabavna]In Vivo}Karamela=http://www.youtube.com/watch?v=gL70ZPolaXM
@@ -8259,7 +8259,7 @@ Zabavna]Karolina Goceva}Volela sam te=http://www.youtube.com/watch?v=SLt9_CrVKCw
 Zabavna]Karolina Goceva}Zacaran krug=http://www.youtube.com/watch?v=dFT7kroOzzI
 Zabavna]Karolina Goceva}Zelim samo tebe=http://www.youtube.com/watch?v=NUwQx-dMgZg
 Zabavna]Karolina Goceva}Znam koliko vredim=http://www.youtube.com/watch?v=ZpcA9EdoRgA
-Narodna]Katarina Grujic}Greska=http://www.youtube.com/watch?v=O3m7jGKz1hc
+Narodna]Katarina Grujic}Greska=--start-time=23 http://www.youtube.com/watch?v=O3m7jGKz1hc
 Narodna]Katarina Grujic}Jedno djubre obicno=http://www.youtube.com/watch?v=AV_ftDkpzqE
 Narodna]Katarina Grujic}Lutka=--start-time=6 http://www.youtube.com/watch?v=X7Vjkn2bD1E
 Zabavna]Katarina Kovacevic}Hajde, nazdravi bivsoj ljubavi=http://www.youtube.com/watch?v=npOj5nwiOhw
