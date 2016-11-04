@@ -916,7 +916,6 @@ Zabavna]Marko Bulat}Svanulo je svanulo=http://www.youtube.com/watch?v=NRg-sAFjXD
 Zabavna]Marko Mandic}Ramdagadam=--start-time=6 http://www.youtube.com/watch?v=FLA1Su3sdIU
 Zabavna]Marko Mandic}Dobar dan=--start-time=6 http://www.youtube.com/watch?v=9c-bsGNcYLw
 Zabavna]Marko Mandic}Mnogo dobro=--start-time=6 http://www.youtube.com/watch?v=SCvQ4AiMIYs
-Zabavna]Marko Mandic}Troje=http://www.youtube.com/watch?v=sv0XSBjLq18
 Zabavna]Maya}100 dinara=http://www.youtube.com/watch?v=Ag4t4v2_PyY
 Zabavna]Maya}Ako ne molim, ne znaci da ne volim=http://www.youtube.com/watch?v=J3he3L3qjyI
 Zabavna]Maya}Alkohol=http://www.youtube.com/watch?v=A4_I1Anuhw0
@@ -1735,7 +1734,6 @@ Narodna]Mirza Selimovic}Nju da zaboravim=http://www.youtube.com/watch?v=al_xUKw0
 Narodna]Mirza Selimovic}Sto kafana=http://www.youtube.com/watch?v=zJDXGb37uyc
 Narodna]Mirza Selimovic}Tesko onom ko volio nije=http://www.youtube.com/watch?v=r7ZM8gCpn-E
 Narodna]Mirza Selimovic}Ti mi namjerno nedostajes=http://www.youtube.com/watch?v=TaLfE2-SqAI
-Narodna]Mirza Selimovic}Imas me=--start-time=6 http://www.youtube.com/watch?v=xSNA3lwbZp8
 Narodna]Mirza Selimovic}Zelim da se vratis=http://www.youtube.com/watch?v=9PoJETeq1yU
 Zabavna]Mirzino Jato}Apsolutno tvoj=http://www.youtube.com/watch?v=5koLHRwl4yc
 Zabavna]Mirzino Jato}Bolujem ja=http://www.youtube.com/watch?v=5SUO8qkxe4o
@@ -4857,7 +4855,6 @@ Zabavna]Sanja Maletic}Vode teku=http://www.youtube.com/watch?v=KdNTI3_Hu_Y
 Zabavna]Sara Jovanovic}Ko je ovde ko=--start-time=19 http://www.youtube.com/watch?v=5W_QjSpFNBU
 Zabavna]Sara Jovanovic}Mahovina=--start-time=9 http://www.youtube.com/watch?v=hKoo7VIRnNU
 Zabavna]Sara Jovanovic}Molio sam andjele=--start-time=9 http://www.youtube.com/watch?v=wx92n19hcBE
-Zabavna]Sara Jovanovic}Troje=http://www.youtube.com/watch?v=sv0XSBjLq18
 Zabavna]Sara Jovanovic}Zauvek=http://www.youtube.com/watch?v=pHN_7-oAFlo
 Rok]Sarlo Akrobata}Bes=http://www.youtube.com/watch?v=UgE6GFdJey4
 Rok]Sarlo Akrobata}Covek=http://www.youtube.com/watch?v=NwGhXw7XDRs
@@ -5486,7 +5483,6 @@ Narodna]Selma Bajrami}Kako vrijeme prolazi=http://www.youtube.com/watch?v=pIutSN
 Narodna]Selma Bajrami}Kakvo tijelo Selma ima=http://www.youtube.com/watch?v=azSV0FM_m2o
 Narodna]Selma Bajrami}Korak do nervnog sloma=http://www.youtube.com/watch?v=fm-HxHNWk1s
 Narodna]Selma Bajrami}Lijepe zene=http://www.youtube.com/watch?v=qHcoL0Nc9Gs
-Narodna]Selma Bajrami}Ljubavi jedina=http://www.youtube.com/watch?v=6XxJP3lLVj0
 Narodna]Selma Bajrami}Malo se poigraj=http://www.youtube.com/watch?v=nyOAgh6FIyA
 Narodna]Selma Bajrami}Moje milo=http://www.youtube.com/watch?v=Pd8KrUnn9Vk
 Narodna]Selma Bajrami}Muska suza=http://www.youtube.com/watch?v=orbvZZ-BA-Q
@@ -5502,7 +5498,6 @@ Narodna]Selma Bajrami}Otvori se zemljo=http://www.youtube.com/watch?v=OgmmEwLpgv
 Narodna]Selma Bajrami}Pamtim=http://www.youtube.com/watch?v=37KGqbTPsoo
 Narodna]Selma Bajrami}Pijanico=http://www.youtube.com/watch?v=khizAUYrdrc
 Narodna]Selma Bajrami}Promijeni se=http://www.youtube.com/watch?v=gN721OHRtbA
-Narodna]Selma Bajrami}Prva ljubav=http://www.youtube.com/watch?v=GVu-uihVCE8
 Narodna]Selma Bajrami}Rukujmo se kao prijatelji=http://www.youtube.com/watch?v=MI6aR2hb15g
 Narodna]Selma Bajrami}Samo tvoje oci=http://www.youtube.com/watch?v=KsYF_NoYjoc
 Narodna]Selma Bajrami}Sarajevo=http://www.youtube.com/watch?v=1OS90-EylkA
@@ -7872,7 +7867,6 @@ Narodna]Viki Miljkovic}Pet minuta=http://www.youtube.com/watch?v=WpehIe5jZ1I
 Narodna]Viki Miljkovic}Ponedeljak=http://www.youtube.com/watch?v=lbyquH7MeYo
 Narodna]Viki Miljkovic}Prazna soba=http://www.youtube.com/watch?v=oYjJIipW8OY
 Narodna]Viki Miljkovic}Razlika=http://www.youtube.com/watch?v=YQI4S-SXvTQ
-Narodna]Viki Miljkovic}Rodjendan=http://www.youtube.com/watch?v=NIGyRttyU60
 Narodna]Viki Miljkovic}S' tobom sam princeza=http://www.youtube.com/watch?v=3h9UT3RmFU4
 Narodna]Viki Miljkovic}Sanjala sam ruzan san=http://www.youtube.com/watch?v=df7cV0vcP1g
 Narodna]Viki Miljkovic}Srce juzno=http://www.youtube.com/watch?v=MFV6emI7pu8
