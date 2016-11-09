@@ -226,7 +226,7 @@ Narodna]Aco Pejovic}Sed i beo=http://www.youtube.com/watch?v=ffJxaP7fGf4
 Narodna]Aco Pejovic}Seti me se=http://www.youtube.com/watch?v=BHkwthL9uGY
 Narodna]Aco Pejovic}Spavas li=http://www.youtube.com/watch?v=QX51YtvCBP8
 Narodna]Aco Pejovic}Sreca u nesreci=http://www.youtube.com/watch?v=oONl-EDDgD4
-Narodna]Aco Pejovic}Sreco moja gde si sad=http://www.youtube.com/watch?v=m5AvpRUp0x0
+Narodna]Aco Pejovic}Sreco moja gde si sad=http://www.youtube.com/watch?v=knx_cCGiTuE
 Narodna]Aco Pejovic}Sta da kazem=http://www.youtube.com/watch?v=22yAuAkfD1A
 Narodna]Aco Pejovic}Sto je puteva i dana=http://www.youtube.com/watch?v=Yn-ViBUMDS8
 Narodna]Aco Pejovic}Sve ti dugujem=http://www.youtube.com/watch?v=khrkhzmOPPk
@@ -3154,7 +3154,7 @@ Zabavna]Dino Merlin}Ako me ikada sretnes=http://www.youtube.com/watch?v=YlLpF7lR
 Zabavna]Dino Merlin}Da je tuga sneg=http://www.youtube.com/watch?v=nO4gCGm5bhg
 Zabavna]Dino Merlin}Da sutis=http://www.youtube.com/watch?v=5m5XcwaG1ic
 Zabavna]Dino Merlin}Danas sam OK=http://www.youtube.com/watch?v=1yh-oidUIPM
-Zabavna]Dino Merlin}Deset mladja=http://www.youtube.com/watch?v=83q_-de4v1M
+Zabavna]Dino Merlin}Deset mladja=--start-time=10 http://www.youtube.com/watch?v=7MHPwS1cDGw
 Zabavna]Dino Merlin}E, otkad mi se nisi javila=http://www.youtube.com/watch?v=qGcu5LLwTpE
 Zabavna]Dino Merlin}Fotografija=http://www.youtube.com/watch?v=bPVpJkN6pu4
 Zabavna]Dino Merlin}Hajde nocas mi dodji=http://www.youtube.com/watch?v=8xt47-aRFrE
