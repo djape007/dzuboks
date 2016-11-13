@@ -501,7 +501,7 @@ Narodna]Alen Slavica}Zar na usnama=http://www.youtube.com/watch?v=PJAcey8Et7Q
 Zabavna]Allegro Band}Andjeo=http://www.youtube.com/watch?v=OA-Yja8sC-I
 Zabavna]Allegro Band}Drugarica=http://www.youtube.com/watch?v=noLUaernjG4
 Zabavna]Allegro Band}Gde si duso, gde si rano=http://www.youtube.com/watch?v=ibBPV5CKvqE
-Zabavna]Allegro Band}Gresne duse=http://www.youtube.com/watch?v=cLCVWon9MhA
+Zabavna]Allegro Band}Gresne duse=--start-time=25 http://www.youtube.com/watch?v=cLCVWon9MhA
 Zabavna]Allegro Band}Hiljadu zima=http://www.youtube.com/watch?v=9A-QYGckmck
 Zabavna]Allegro Band}Hrabro srce=http://www.youtube.com/watch?v=kOEb4uhpsb0
 Zabavna]Allegro Band}Imendan=http://www.youtube.com/watch?v=8qMznGe8Jac
