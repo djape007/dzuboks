@@ -3742,7 +3742,6 @@ Zabavna]Doris Dragovic}Kao Marija=http://www.youtube.com/watch?v=skP-IoeNiEQ
 Zabavna]Doris Dragovic}Kao ti=http://www.youtube.com/watch?v=4CmFei5x0gI
 Zabavna]Doris Dragovic}Kap veselja=http://www.youtube.com/watch?v=TC8Z1A3z1M4
 Zabavna]Doris Dragovic}Kazna=http://www.youtube.com/watch?v=FRJyjifHweU
-Zabavna]Doris Dragovic}Kralj=http://www.youtube.com/watch?v=aFHBKrPwuIQ
 Zabavna]Doris Dragovic}Krivi ljudi=http://www.youtube.com/watch?v=BfaJwqPZkwI
 Zabavna]Doris Dragovic}Leti, leti lastavice=http://www.youtube.com/watch?v=rCgwi-coA8c
 Zabavna]Doris Dragovic}Lice=http://www.youtube.com/watch?v=eXxwDV1bAAk
@@ -4322,7 +4321,7 @@ Narodna]Dzej}Dok u zivot zuris=http://www.youtube.com/watch?v=wOnyF-xZ76w
 Narodna]Dzej}Drugi put=http://www.youtube.com/watch?v=SWBSezquBx4
 Narodna]Dzej}Dunav=http://www.youtube.com/watch?v=1BkTy2U1rWI
 Narodna]Dzej}Dve godine duge=http://www.youtube.com/watch?v=_Mnh-RStV8E
-Narodna]Dzej}Eto sada vidis, eto sada znas=http://www.youtube.com/watch?v=3prnb2yDzxo
+Narodna]Dzej}Eto sada vidis, eto sada znas=http://www.youtube.com/watch?v=ZcRPWWjbtes
 Narodna]Dzej}Gde cu sad, moja ruzo=http://www.youtube.com/watch?v=FnoGhcvb72k
 Narodna]Dzej}Gde je ljubav nasa=http://www.youtube.com/watch?v=ZmB12ZDYPmo
 Narodna]Dzej}Greh=http://www.youtube.com/watch?v=gumd6sqh6qY
@@ -4334,7 +4333,7 @@ Narodna]Dzej}Imati pa nemati=http://www.youtube.com/watch?v=JZUfTDTNT5Y
 Narodna]Dzej}Ja bitanga i baraba=http://www.youtube.com/watch?v=_V06YN31fwQ
 Narodna]Dzej}Ja se nikad ne predajem=http://www.youtube.com/watch?v=XTIVfxHiZGA
 Narodna]Dzej}Jedan, dva=http://www.youtube.com/watch?v=xUsfz9Ti6XE
-Narodna]Dzej}Jednom se zivi=http://www.youtube.com/watch?v=bCYpmO5Rmas
+Narodna]Dzej}Jednom se zivi=http://www.youtube.com/watch?v=W8H7apqZA0c
 Narodna]Dzej}Jos me bude misli lude=http://www.youtube.com/watch?v=nEwRnr-Ue0I
 Narodna]Dzej}Karte za srecu=http://www.youtube.com/watch?v=Ry5gdX2Vu3g
 Narodna]Dzej}Ko nije priveo=http://www.youtube.com/watch?v=e4E_oBPV2Uw
@@ -4390,7 +4389,7 @@ Narodna]Dzej}Ti bi mogla da mi budes cerka=http://www.youtube.com/watch?v=FBZHGP
 Narodna]Dzej}To je zena mojih snova=http://www.youtube.com/watch?v=PdMfLyro1A4
 Narodna]Dzej}Tri godine zivim sam=http://www.youtube.com/watch?v=Lsnm4WVjbas
 Narodna]Dzej}Tvoje oko garavo=http://www.youtube.com/watch?v=vqGRQrEsby4
-Narodna]Dzej}U krizi sam velikoj=http://www.youtube.com/watch?v=eP6iCc8cysU
+Narodna]Dzej}U krizi sam velikoj=http://www.youtube.com/watch?v=mqDIYGFL9pQ
 Narodna]Dzej}Ucini nesto zivote=http://www.youtube.com/watch?v=RxV9v6ZDOHA
 Narodna]Dzej}Ugasila si me=http://www.youtube.com/watch?v=slyPOl43xcA
 Narodna]Dzej}Upalite za mnom svece=--start-time=15 http://www.youtube.com/watch?v=ntKFgZXmvlY
@@ -7458,7 +7457,7 @@ Zabavna]Ivana Selakov}Daleko si (ft. Aca Lukas)=http://www.youtube.com/watch?v=a
 Zabavna]Ivana Selakov}Jastuci=http://www.youtube.com/watch?v=49oQFefftH0
 Zabavna]Ivana Selakov}Mesec dana=http://www.youtube.com/watch?v=7W7dr1pte2o
 Zabavna]Ivana Selakov}Moje je ime sreca=http://www.youtube.com/watch?v=zYgcftlDD8s
-Zabavna]Ivana Selakov}Nase malo slavlje=http://www.youtube.com/watch?v=km-lMUESUJk
+Zabavna]Ivana Selakov}Nase malo slavlje=--start-time=6 http://www.youtube.com/watch?v=1Xwl1pPZS8I
 Zabavna]Ivana Selakov}Nek na tvoju dusu ide sve=http://www.youtube.com/watch?v=Jda05oMlLNY
 Zabavna]Ivana Selakov}Nema plana=http://www.youtube.com/watch?v=It798-GxOcI
 Zabavna]Ivana Selakov}Omaklo mi se=http://www.youtube.com/watch?v=ljXDVeiu_fM
