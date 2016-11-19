@@ -1040,7 +1040,7 @@ Narodna]Meho Puzic}Budila majka Mehmeda=http://www.youtube.com/watch?v=QUafCy0u6
 Narodna]Meho Puzic}Cicak=http://www.youtube.com/watch?v=IC8uHiGdmDY
 Narodna]Meho Puzic}Da bog da se i ti udala=http://www.youtube.com/watch?v=y-Ur4HRJeS4
 Narodna]Meho Puzic}Daj mi draga=http://www.youtube.com/watch?v=FS0_v4VNdgg
-Narodna]Meho Puzic}Daruj mi noc=http://www.youtube.com/watch?v=TOifNDx_Jq0
+Narodna]Meho Puzic}Daruj mi noc=http://www.youtube.com/watch?v=JRbYidZjJRs
 Narodna]Meho Puzic}Davno vec davno=http://www.youtube.com/watch?v=XcH42VwOWlI
 Narodna]Meho Puzic}Dodji, sutra zenim sina=http://www.youtube.com/watch?v=X7OgtmTj2ok
 Narodna]Meho Puzic}Edina=http://www.youtube.com/watch?v=9BQm4Tc3hqw
@@ -4853,7 +4853,7 @@ Zabavna]Sanja Maletic}Vode teku=http://www.youtube.com/watch?v=KdNTI3_Hu_Y
 Zabavna]Sara Jovanovic}Ko je ovde ko=--start-time=19 http://www.youtube.com/watch?v=5W_QjSpFNBU
 Zabavna]Sara Jovanovic}Mahovina=--start-time=9 http://www.youtube.com/watch?v=hKoo7VIRnNU
 Zabavna]Sara Jovanovic}Molio sam andjele=--start-time=9 http://www.youtube.com/watch?v=wx92n19hcBE
-Zabavna]Sara Jovanovic}Zauvek=http://www.youtube.com/watch?v=pHN_7-oAFlo
+Zabavna]Sara Jovanovic}Zauvek=http://www.youtube.com/watch?v=OIHGQFpMPxQ
 Rok]Sarlo Akrobata}Bes=http://www.youtube.com/watch?v=UgE6GFdJey4
 Rok]Sarlo Akrobata}Covek=http://www.youtube.com/watch?v=NwGhXw7XDRs
 Rok]Sarlo Akrobata}Fenomen=http://www.youtube.com/watch?v=AtzojB-dCjw
@@ -6813,7 +6813,7 @@ Narodna]Stoja}Sve sto sam imala=http://www.youtube.com/watch?v=1RVunsCRWk4
 Narodna]Stoja}Takva je ljubav=http://www.youtube.com/watch?v=Pf2GiNmLrnI
 Narodna]Stoja}Takvog decka hocu ja=http://www.youtube.com/watch?v=8Mpmgmo3V8k
 Narodna]Stoja}Tesko mi je jer je ljubav mrznja postala=http://www.youtube.com/watch?v=Z3RQ9JAXXJ4
-Narodna]Stoja}Ti, brate, imas sve=http://www.youtube.com/watch?v=0VoxsePrTOk
+Narodna]Stoja}Ti, brate, imas sve=http://www.youtube.com/watch?v=ALz1_GczX6Y
 Narodna]Stoja}Umri=http://www.youtube.com/watch?v=WGMfUD3odhA
 Narodna]Stoja}Volim te=http://www.youtube.com/watch?v=iR2-bbxNnEE
 Narodna]Stoja}Zajedno do kraja=http://www.youtube.com/watch?v=v_o-8IwBKoc
@@ -7229,29 +7229,29 @@ Zabavna]Toni Cetinski}Dodjite mi nocas svi=http://www.youtube.com/watch?v=103i67
 Zabavna]Toni Cetinski}Hodam=http://www.youtube.com/watch?v=oiBpFiM1XfA
 Zabavna]Toni Cetinski}Iz dana u dan=http://www.youtube.com/watch?v=GTLR_VngJOg
 Zabavna]Toni Cetinski}Ja sam zaljubljen=http://www.youtube.com/watch?v=JdIhfqDyDZ8
-Zabavna]Toni Cetinski}Jednom u zivotu=http://www.youtube.com/watch?v=tZvQ7cS3dCo
+Zabavna]Toni Cetinski}Jednom u zivotu=http://www.youtube.com/watch?v=3So3uYm1f5A
 Zabavna]Toni Cetinski}K'o da je sudbina htjela=http://www.youtube.com/watch?v=fQGMLby1Nns
 Zabavna]Toni Cetinski}Kad bi dao Bog=http://www.youtube.com/watch?v=b-KYDhxJcEU
 Zabavna]Toni Cetinski}Kad zena zavoli=http://www.youtube.com/watch?v=QE29kgnfhuM
 Zabavna]Toni Cetinski}Kraj jedne ljubavi=http://www.youtube.com/watch?v=zucSixT9O1A
 Zabavna]Toni Cetinski}Krik=http://www.youtube.com/watch?v=YC3GhhYaQCY
-Zabavna]Toni Cetinski}Kriv=http://www.youtube.com/watch?v=HviKe3m-Iyg
+Zabavna]Toni Cetinski}Kriv=--start-time=20 http://www.youtube.com/watch?v=mz9zV55FmqU
 Zabavna]Toni Cetinski}Ljubav i bol=http://www.youtube.com/watch?v=izUBfW7wX1A
-Zabavna]Toni Cetinski}Ljubav tjera krv u venama=http://www.youtube.com/watch?v=8qYNcl9vVPM
+Zabavna]Toni Cetinski}Ljubav tjera krv u venama=http://www.youtube.com/watch?v=f7ksFFrEVnM
 Zabavna]Toni Cetinski}Mi=http://www.youtube.com/watch?v=KWkZ0rrdhuk
 Zabavna]Toni Cetinski}Moje drugo proljece=http://www.youtube.com/watch?v=r-PRLl1GhmM
 Zabavna]Toni Cetinski}Moje sve=http://www.youtube.com/watch?v=O3Yue9qkHh8
-Zabavna]Toni Cetinski}Ne daj=http://www.youtube.com/watch?v=K1-uKCL_HdY
+Zabavna]Toni Cetinski}Ne daj=http://www.youtube.com/watch?v=Fzsk9m_pEDA
 Zabavna]Toni Cetinski}Nebo iznad nas=http://www.youtube.com/watch?v=1yRUqRxYzfo
 Zabavna]Toni Cetinski}Neka nocas dodju svi=http://www.youtube.com/watch?v=8q6HN3EJ8lU
 Zabavna]Toni Cetinski}Neka te odvede=http://www.youtube.com/watch?v=rUEc0QRiR88
 Zabavna]Toni Cetinski}Nemirne noci=http://www.youtube.com/watch?v=TbuPtET8IkQ
-Zabavna]Toni Cetinski}Od jednog poljupca=http://www.youtube.com/watch?v=YHtOYsQJzUE
+Zabavna]Toni Cetinski}Od jednog poljupca=http://www.youtube.com/watch?v=goGDxag740A
 Zabavna]Toni Cetinski}Od milijun zena=http://www.youtube.com/watch?v=ACkiplIIy-U
 Zabavna]Toni Cetinski}Od trnja do zvijezda=http://www.youtube.com/watch?v=e_-Kxkza6QE
 Zabavna]Toni Cetinski}Onaj ko te ljubi sretan je=http://www.youtube.com/watch?v=W2o_KucHXZs
 Zabavna]Toni Cetinski}Opet ljubim prvi put=http://www.youtube.com/watch?v=6XZrrdxsYcI
-Zabavna]Toni Cetinski}Opet si pobijedila=http://www.youtube.com/watch?v=BCtczpu0xyc
+Zabavna]Toni Cetinski}Opet si pobijedila=http://www.youtube.com/watch?v=dZvwBUtd7O4
 Zabavna]Toni Cetinski}Oprostija bi sve=http://www.youtube.com/watch?v=G2lPGXEeteA
 Zabavna]Toni Cetinski}Ostani zauvijek=http://www.youtube.com/watch?v=1GE-IbvAVUc
 Zabavna]Toni Cetinski}Plamen ljubavi=http://www.youtube.com/watch?v=LOEgMq7Vih8
@@ -7261,27 +7261,26 @@ Zabavna]Toni Cetinski}Samo tvoja ljubav, Boze=http://www.youtube.com/watch?v=zQ9
 Zabavna]Toni Cetinski}Sigurni=http://www.youtube.com/watch?v=GTR48cLcxlM
 Zabavna]Toni Cetinski}Sjecanje=http://www.youtube.com/watch?v=Lk__aAIsT2E
 Zabavna]Toni Cetinski}Sjena sto te prati=http://www.youtube.com/watch?v=FDF1X0Pd5VI
-Zabavna]Toni Cetinski}Skriveno mjesto=http://www.youtube.com/watch?v=4vlT26-cjX8
+Zabavna]Toni Cetinski}Skriveno mjesto=http://www.youtube.com/watch?v=TxLuoxcE5fY
 Zabavna]Toni Cetinski}Sto si ti meni=http://www.youtube.com/watch?v=ArIzdYorEEM
 Zabavna]Toni Cetinski}Sve bih opet=http://www.youtube.com/watch?v=1TIDKUFg6kM
 Zabavna]Toni Cetinski}Sve je dobro kad' si tu=http://www.youtube.com/watch?v=6Afo_vMEnyQ
 Zabavna]Toni Cetinski}Sve svoje snove=http://www.youtube.com/watch?v=pzdrtqidTio
 Zabavna]Toni Cetinski}Tebe ne bih mjenjao=http://www.youtube.com/watch?v=ZkFCUpQEye8
 Zabavna]Toni Cetinski}Ti si najbolje=http://www.youtube.com/watch?v=n8Xx_juOUug
-Zabavna]Toni Cetinski}Ti si znala=http://www.youtube.com/watch?v=VjLuvr4-nSc
-Zabavna]Toni Cetinski}Ti=http://www.youtube.com/watch?v=VjLuvr4-nSc
-Zabavna]Toni Cetinski}Ti=http://www.youtube.com/watch?v=VjLuvr4-nSc
+Zabavna]Toni Cetinski}Ti si znala=http://www.youtube.com/watch?v=I_5dzsK4v9g
+Zabavna]Toni Cetinski}Ti=http://www.youtube.com/watch?v=_KaFtUJDTcI
 Zabavna]Toni Cetinski}Tlo pod njenim nogama=http://www.youtube.com/watch?v=xqETwr5xv4I
-Zabavna]Toni Cetinski}To ljubav je=http://www.youtube.com/watch?v=P3qsw6HQzrE
+Zabavna]Toni Cetinski}To ljubav je=http://www.youtube.com/watch?v=L3tKSNlAO-c
 Zabavna]Toni Cetinski}Trazim te=http://www.youtube.com/watch?v=7qb0QyZBy4o
 Zabavna]Toni Cetinski}Tvoje tijelo=http://www.youtube.com/watch?v=Kcrn_xLa_b8
 Zabavna]Toni Cetinski}Umirem sto puta dnevno=http://www.youtube.com/watch?v=sNQu946ZRsk
-Zabavna]Toni Cetinski}Usne ledene=http://www.youtube.com/watch?v=H1BLBVrr3vk
+Zabavna]Toni Cetinski}Usne ledene=http://www.youtube.com/watch?v=69VPsw0ed9I
 Zabavna]Toni Cetinski}Volim te jos=http://www.youtube.com/watch?v=_lI5ToM0JdI
-Zabavna]Toni Cetinski}Zar malo to je=http://www.youtube.com/watch?v=erOh8OOcQSI
+Zabavna]Toni Cetinski}Zar malo to je=http://www.youtube.com/watch?v=6UNwFTNmplo
 Zabavna]Toni Cetinski}Zauvijek=http://www.youtube.com/watch?v=n03J0xAw5UQ
 Zabavna]Toni Cetinski}Zbog nje=http://www.youtube.com/watch?v=C5vP9PYUvnM
-Zabavna]Toni Cetinski}Zbogom odlazim=http://www.youtube.com/watch?v=jJLIPgqgslI
+Zabavna]Toni Cetinski}Zbogom odlazim=http://www.youtube.com/watch?v=mns2zfhPmZA
 Zabavna]Toni Cetinski}Zena nad zenama=http://www.youtube.com/watch?v=MR4f4jyC90s
 Zabavna]Toni Cetinski}Znaj da bit' cu tu=http://www.youtube.com/watch?v=TODTI90aEwA
 Zabavna]Toni Cetinski}Zvijezda=http://www.youtube.com/watch?v=ecacHM34zN0
@@ -8180,9 +8179,9 @@ Zabavna]Zdravko Colic}Zar se nismo shvatili=http://www.youtube.com/watch?v=xY2wF
 Zabavna]Zdravko Colic}Zivis u oblacima=http://www.youtube.com/watch?v=bsTLEoz5cIM
 Zabavna]Zdravko Colic}Zlocin i kazna=http://www.youtube.com/watch?v=xs2nmUO7Z_8
 Zabavna]Zdravko Colic}Zvao sam je Emili=http://www.youtube.com/watch?v=eiRkq1fmg-4
-Rok]Zeljko Bebek}Da je srece bilo=http://www.youtube.com/watch?v=zJTuLBlV9tE
+Rok]Zeljko Bebek}Da je srece bilo=--start-time=15 http://www.youtube.com/watch?v=1d6u3rA3OW4
 Rok]Zeljko Bebek}Dernek=http://www.youtube.com/watch?v=yo5LbHIsvJ4
-Rok]Zeljko Bebek}Gdje sam bio=http://www.youtube.com/watch?v=h8D8VB0mIvc
+Rok]Zeljko Bebek}Gdje sam bio=http://www.youtube.com/watch?v=zJxCwMe2gUI
 Rok]Zeljko Bebek}Kucka nevjerna=http://www.youtube.com/watch?v=fclQQO_OXiM
 Rok]Zeljko Bebek}Laku noc sviraci=http://www.youtube.com/watch?v=2NsBDNlbej4
 Rok]Zeljko Bebek}Mene tjera neki vrag=http://www.youtube.com/watch?v=DsaGGs-xQA8
