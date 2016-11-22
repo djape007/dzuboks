@@ -1044,9 +1044,9 @@ Narodna]Meho Puzic}Daruj mi noc=http://www.youtube.com/watch?v=JRbYidZjJRs
 Narodna]Meho Puzic}Davno vec davno=http://www.youtube.com/watch?v=XcH42VwOWlI
 Narodna]Meho Puzic}Dodji, sutra zenim sina=http://www.youtube.com/watch?v=X7OgtmTj2ok
 Narodna]Meho Puzic}Edina=http://www.youtube.com/watch?v=9BQm4Tc3hqw
-Narodna]Meho Puzic}Gore tvoja pisma=http://www.youtube.com/watch?v=Ya-QiUoK2rY
+Narodna]Meho Puzic}Gore tvoja pisma=http://www.youtube.com/watch?v=iXrMtxFdClA
 Narodna]Meho Puzic}Grijeh je mlado ne ljubiti=http://www.youtube.com/watch?v=ms0GuGaA8Cw
-Narodna]Meho Puzic}Hajde duso da asikujemo=http://www.youtube.com/watch?v=6NU9itKeZ7k
+Narodna]Meho Puzic}Hajde duso da asikujemo=http://www.youtube.com/watch?v=LmVwj6fF_ws
 Narodna]Meho Puzic}Hanko, lijepa bosanko=http://www.youtube.com/watch?v=xs2ThhjI-j8
 Narodna]Meho Puzic}Hocu da te ljubim=http://www.youtube.com/watch?v=wIM81yrZluQ
 Narodna]Meho Puzic}Ibro bekrija=http://www.youtube.com/watch?v=pkQLKTiKcAw
@@ -1098,7 +1098,7 @@ Narodna]Meho Puzic}Samo Bosnu ne dirajte=http://www.youtube.com/watch?v=Eia2gyls
 Narodna]Meho Puzic}Sanj'o sam te majko=http://www.youtube.com/watch?v=qxmYGaBKuSk
 Narodna]Meho Puzic}Sedam bula=http://www.youtube.com/watch?v=yGcUeSSP-YE
 Narodna]Meho Puzic}Srce te jedno voli=http://www.youtube.com/watch?v=jxEJVgn8q2c
-Narodna]Meho Puzic}Sretan sine put=http://www.youtube.com/watch?v=SUyPlTHq8jo
+Narodna]Meho Puzic}Sretan sine put=http://www.youtube.com/watch?v=l5n_5qjafN8
 Narodna]Meho Puzic}Sta je ljubav nisam znao=http://www.youtube.com/watch?v=fadcdkKuoPQ
 Narodna]Meho Puzic}Stara ljubav=http://www.youtube.com/watch?v=iWEREbRq0CU
 Narodna]Meho Puzic}Sudbino moja=http://www.youtube.com/watch?v=ESnkGJHYydk
@@ -5754,7 +5754,7 @@ Narodna]Serif Konjevic}Jasmina=http://www.youtube.com/watch?v=YQhWdnWBmkE
 Narodna]Serif Konjevic}Jedina=http://www.youtube.com/watch?v=z4zHYzTjCxc
 Narodna]Serif Konjevic}Jedino s tobom mogu da disem=http://www.youtube.com/watch?v=_a57dIdSrcU
 Narodna]Serif Konjevic}Jednom kad se rastanemo=http://www.youtube.com/watch?v=34MstB8XdSE
-Narodna]Serif Konjevic}Jos me proslo nije=http://www.youtube.com/watch?v=uR3NDYPlIr8
+Narodna]Serif Konjevic}Jos me proslo nije=http://www.youtube.com/watch?v=EI8u2vNXz94
 Narodna]Serif Konjevic}Jos mi jutro mirise na tebe=http://www.youtube.com/watch?v=3sP3x1O9d3Q
 Narodna]Serif Konjevic}Jos na svijetu ima zena=http://www.youtube.com/watch?v=E8euRauyYWM
 Narodna]Serif Konjevic}Jos samo ove noci=http://www.youtube.com/watch?v=ic1fgCI_l9M
@@ -7364,14 +7364,14 @@ Zabavna]Tribal Band}Nisi moja=http://www.youtube.com/watch?v=TngHUxjdBhM
 Zabavna]Tribal Band}Sve zapali=http://www.youtube.com/watch?v=pXdpuACjj1k
 Zabavna]Trik Fx}Bas me briga s' kim si=http://www.youtube.com/watch?v=nbzCUsweiSc
 Zabavna]Trik Fx}Cik cik=http://www.youtube.com/watch?v=cvMovRXhySE
-Zabavna]Trik Fx}Ciko ciko=http://www.youtube.com/watch?v=O1oQkeLOLz0
+Zabavna]Trik Fx}Ciko ciko=http://www.youtube.com/watch?v=uVdb0I04xzE
 Zabavna]Trik Fx}Crno ili belo=http://www.youtube.com/watch?v=YfUhX-PS8vs
 Zabavna]Trik Fx}Cura sa Balkana=http://www.youtube.com/watch?v=FJ_7y0R96Jw
 Zabavna]Trik Fx}Da l' sam ti ja=http://www.youtube.com/watch?v=lRvY8pdAM2s
 Zabavna]Trik Fx}Devojka za primer=http://www.youtube.com/watch?v=EIHKdDP8J4c
 Zabavna]Trik Fx}Do jaja=http://www.youtube.com/watch?v=_fnuk5A9m6o
 Zabavna]Trik Fx}Doktore=http://www.youtube.com/watch?v=0H_ZcAuG7PM
-Zabavna]Trik Fx}Dzoker=http://www.youtube.com/watch?v=mF9l7W-80c4
+Zabavna]Trik Fx}Dzoker=http://www.youtube.com/watch?v=edTQ-TOm-us
 Zabavna]Trik Fx}Gorim sva=http://www.youtube.com/watch?v=U5BlNewyhdo
 Zabavna]Trik Fx}Hajde pridji=http://www.youtube.com/watch?v=b-Gs3rsiAHs
 Zabavna]Trik Fx}Halo halo=http://www.youtube.com/watch?v=kAp0oQoxQNw
@@ -7381,16 +7381,15 @@ Zabavna]Trik Fx}Kamikaza=http://www.youtube.com/watch?v=0OfvQKMWVgM
 Zabavna]Trik Fx}Kokoska=http://www.youtube.com/watch?v=5zydVozWSFc
 Zabavna]Trik Fx}Kratak spoj (duet Cvija)=http://www.youtube.com/watch?v=TQIca3NtACs
 Zabavna]Trik Fx}Limun i Bakardi=http://www.youtube.com/watch?v=um5aCXp6o-k
-Zabavna]Trik Fx}Najbolji u ljubavi=http://www.youtube.com/watch?v=l-5qSvE1KWo
 Zabavna]Trik Fx}Manijak=--start-time=6 http://www.youtube.com/watch?v=Gfa4FlqP1Ss
 Zabavna]Trik Fx}Opasno=http://www.youtube.com/watch?v=F4-81ye6pHw
 Zabavna]Trik Fx}Pola dva=http://www.youtube.com/watch?v=8deZBwkudfM
 Zabavna]Trik Fx}Retrovizor=http://www.youtube.com/watch?v=zoamjaAdklo
 Zabavna]Trik Fx}Spasi me=http://www.youtube.com/watch?v=fFgTNx_oCGE
-Zabavna]Trik Fx}Tajna skrivena=http://www.youtube.com/watch?v=7lEylGeH4m0
-Zabavna]Trik Fx}Temperatura=http://www.youtube.com/watch?v=j6u3MUulJ34
-Zabavna]Trik Fx}Trazi sebi slicnu=http://www.youtube.com/watch?v=q6Bw_NXkzs0
-Zabavna]Trik Fx}Treca sreca=http://www.youtube.com/watch?v=-PpMuB6J6Ms
+Zabavna]Trik Fx}Tajna skrivena=http://www.youtube.com/watch?v=-2xaawccOSQ
+Zabavna]Trik Fx}Temperatura=http://www.youtube.com/watch?v=ZlTYyDzIDN8
+Zabavna]Trik Fx}Trazi sebi slicnu=http://www.youtube.com/watch?v=BEtKDvEz-_k
+Zabavna]Trik Fx}Treca sreca=http://www.youtube.com/watch?v=cN5Mzsp9Hvo
 Zabavna]Trik Fx}Vanredno stanje=http://www.youtube.com/watch?v=OwHnckx-qHM
 Zabavna]Trik Fx}Varalica=http://www.youtube.com/watch?v=9wYcgnaUEw4
 Zabavna]Trik Fx}Vozi vozi=http://www.youtube.com/watch?v=Y7AG-baO_Rg
