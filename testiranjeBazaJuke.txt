@@ -1,7 +1,7 @@
 Narodna]Aca Lukas}Burbon=Upisati u fajl :D
 Narodna]Aca Ilic}Idemooo=radiii
 Zabavna]Miroslav Gilic}brmmm=i ovo radi
-Rok]Bajaga}Pesma1=link
+Rok~Narodna]Bajaga}Pesma1=link
 Rok]Bajaga}Pesma2=link
 Rok]Bajaga}Pesma3=link
 Rok]Bajaga}Pesma4=link
