@@ -6961,7 +6961,7 @@ Zabavna]Tanja Savic}Visa sila=http://www.youtube.com/watch?v=JyOMesZPNrI
 Zabavna]Tanja Savic}Za moje dobro=http://www.youtube.com/watch?v=avloL4QdqUg
 Zabavna]Tanja Savic}Zasto me u obraz ljubis=http://www.youtube.com/watch?v=3-xtLjDMtmI
 Zabavna]Tanja Savic}Zlatnik=http://www.youtube.com/watch?v=WFFyTCZa3ME
-90]Tap 011}Bunda=http://www.youtube.com/watch?v=BlF9FeX7Uj4
+90]Tap 011}Bunda=http://www.youtube.com/watch?v=OXTMoYTkY-4
 90]Tap 011}Dan po dan=http://www.youtube.com/watch?v=KtA8w_0vG9E
 90]Tap 011}Jegulja=http://www.youtube.com/watch?v=MawtHf-HMFs
 90]Tap 011}Jeti Sumadinac=http://www.youtube.com/watch?v=t21uaHH06Aw
@@ -6972,7 +6972,7 @@ Zabavna]Tanja Savic}Zlatnik=http://www.youtube.com/watch?v=WFFyTCZa3ME
 90]Tap 011}Sta to bese mozak=http://www.youtube.com/watch?v=Fo1uXjq0knU
 90]Tap 011}Sume=http://www.youtube.com/watch?v=YrZcyfQKyf8
 90]Tap 011}Televizor=http://www.youtube.com/watch?v=oY-XsqzjWdM
-90]Tap 011}Tvoja mala lujka=http://www.youtube.com/watch?v=nv2lRbvfVvA
+90]Tap 011}Tvoja mala lujka=http://www.youtube.com/watch?v=3IVLH5em1N0
 90]Tap 011}Vrapci=http://www.youtube.com/watch?v=pLwr9ilxDtc
 90]Tap 011}Vuk=http://www.youtube.com/watch?v=oTb3KkZIHYo
 90]Tap 011}Zbog tebe=http://www.youtube.com/watch?v=ubg2h_kBYSA
@@ -7445,15 +7445,13 @@ Zabavna]Tropico Band}Zar ti=http://www.youtube.com/watch?v=89J8hAS2rgo
 90]Twins}Palim se na suze=http://www.youtube.com/watch?v=1TeJOnx44tE
 90]Twins}Panter=http://www.youtube.com/watch?v=RdrEX1p-oy8
 90]Twins}Plavi slon=http://www.youtube.com/watch?v=4Xf_tH4q1g0
-90]Twins}Plaza=http://www.youtube.com/watch?v=YMd9VpZgExc
 90]Twins}Popio sam sve sto bese=http://www.youtube.com/watch?v=pXEmtCbx9RM
 90]Twins}Propalica=http://www.youtube.com/watch?v=ErFQ_XzNZVA
 90]Twins}Ranjeni lav=http://www.youtube.com/watch?v=fW9ALajCnXI
 90]Twins}Stara bagra=http://www.youtube.com/watch?v=vhYwF56vgYE
 90]Twins}Stari panj=http://www.youtube.com/watch?v=xgp3MdGtQ9c
 90]Twins}Za tebe=http://www.youtube.com/watch?v=b8hQNaRB2aQ
-90]Twins}Zaboravi, zaboravi=http://www.youtube.com/watch?v=cVD3t6AOTxc
-90]Twins}Zaboravi=http://www.youtube.com/watch?v=cVD3t6AOTxc
+90]Twins}Zaboravi, zaboravi=http://www.youtube.com/watch?v=6dlDqeTvt0Q
 Narodna]Usnija Redzepova}Dajte mi daire=http://www.youtube.com/watch?v=i9fe_23YKyg
 Narodna]Usnija Redzepova}Idi, idi drugoj=http://www.youtube.com/watch?v=BxrCHu4jL7Q
 Narodna]Usnija Redzepova}Kad ljubim ja=http://www.youtube.com/watch?v=Dig7WA1-72Y
@@ -7897,7 +7895,7 @@ Narodna]Xenia Pajcin}Lezi=http://www.youtube.com/watch?v=-6gigK6skls
 Narodna]Xenia Pajcin}Magije=http://www.youtube.com/watch?v=pm5w1LyzQg8
 Narodna]Xenia Pajcin}Mene ne zanima to=http://www.youtube.com/watch?v=V8NxiKkuDn8
 Narodna]Xenia Pajcin}Mozda se ne probudim=http://www.youtube.com/watch?v=hKWEOtpyfHQ
-Narodna]Xenia Pajcin}Najbolje za oboje=http://www.youtube.com/watch?v=WGi8wmtkRJI
+Narodna]Xenia Pajcin}Najbolje za oboje=http://www.youtube.com/watch?v=hH37nuqMFi0
 Narodna]Xenia Pajcin}Neven=http://www.youtube.com/watch?v=5EwZUwFfku4
 Narodna]Xenia Pajcin}Nino=http://www.youtube.com/watch?v=ytPpqQLudQg
 Narodna]Xenia Pajcin}Pica=--start-time=20 http://www.youtube.com/watch?v=XD9qUGBslBg
