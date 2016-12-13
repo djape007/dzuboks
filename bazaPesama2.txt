@@ -1562,7 +1562,7 @@ Zabavna]Miligram}Drzi se ti mene=http://www.youtube.com/watch?v=aW5x-Z_bWXA
 Zabavna]Miligram}Kao nova=http://www.youtube.com/watch?v=ExqvFAlDHUs
 Zabavna]Miligram}Kavijar=http://www.youtube.com/watch?v=pwqwPTt-ooU
 Zabavna]Miligram}Kruska=http://www.youtube.com/watch?v=nNUkZZpX3I4
-Zabavna]Miligram}Laka lova=http://www.youtube.com/watch?v=erII85FtA3c
+Zabavna]Miligram}Laka lova=http://www.youtube.com/watch?v=2Esch9vsJbw
 Zabavna]Miligram}Ludi petak=http://www.youtube.com/watch?v=O-bkzEXCqxM
 Zabavna]Miligram}Medena=http://www.youtube.com/watch?v=6J4gup9BLno
 Zabavna]Miligram}Mene nista ne vadi=http://www.youtube.com/watch?v=U4xgmwwPZU8
@@ -2370,7 +2370,7 @@ Narodna]Nervozni postar}Postar u finalu, jaro u kanalu=http://www.youtube.com/wa
 Narodna]Nervozni postar}Salko Dinamitas=http://www.youtube.com/watch?v=624X6qqZTb4
 Narodna]Nervozni postar}Sanjam=http://www.youtube.com/watch?v=MPBCZZKGL08
 Narodna]Nervozni postar}Sarajevo, slatki dome moj=http://www.youtube.com/watch?v=S4Csfuz6o6M
-Narodna]Nervozni postar}Seher Sarajevo=http://www.youtube.com/watch?v=ycnqJNSHglQ
+Narodna]Nervozni postar}Seher Sarajevo=http://www.youtube.com/watch?v=KCFMeF8o0_o
 Narodna]Nervozni postar}Sljivovica ljuta=http://www.youtube.com/watch?v=KqPIz6ZCQu4
 Narodna]Nervozni postar}Sretno mladenci=http://www.youtube.com/watch?v=WGJNnpA2wJw
 Narodna]Nervozni postar}Sve su duse ljudske jednake=--start-time=36 http://www.youtube.com/watch?v=pOoA8ZWjQAI
@@ -3341,7 +3341,6 @@ Narodna]Pedja Medenica}Pomozi mi kad te molim=http://www.youtube.com/watch?v=gFU
 Narodna]Pedja Medenica}Posle tebe=http://www.youtube.com/watch?v=BHAJS4G75NI
 Narodna]Pedja Medenica}Prosla si pored mene=http://www.youtube.com/watch?v=mUarcv9Othk
 Narodna]Pedja Medenica}Samo tuga ostala (duet Indira Radic)=http://www.youtube.com/watch?v=EkvfCgZ7GsM
-Narodna]Pedja Medenica}Sreco dal ces doci=http://www.youtube.com/watch?v=DCgKtURYmB4
 Narodna]Pedja Medenica}Ubij me al polako=http://www.youtube.com/watch?v=UWRKOVErfpM
 Narodna]Pedja Medenica}Umri u samoci=http://www.youtube.com/watch?v=xEgP7i1MN78
 Narodna]Pedja Medenica}Za tebe=http://www.youtube.com/watch?v=KSlAh1336DA
@@ -5908,7 +5907,7 @@ Narodna]Serif Konjevic}Mili dome moj=http://www.youtube.com/watch?v=vFTRCm2BpSA
 Narodna]Serif Konjevic}Mislis da svejedno mi je=http://www.youtube.com/watch?v=hXEk-qkvgYU
 Narodna]Serif Konjevic}Mogu dalje sam=http://www.youtube.com/watch?v=b2DQRzCt_0g
 Narodna]Serif Konjevic}Moj sokole=http://www.youtube.com/watch?v=zyqZJIpbkv0
-Narodna]Serif Konjevic}Moja draga najljepsa je=http://www.youtube.com/watch?v=C9F1t647mHk
+Narodna]Serif Konjevic}Moja draga najljepsa je=http://www.youtube.com/watch?v=QQoaZLCApYs
 Narodna]Serif Konjevic}Moja malena=http://www.youtube.com/watch?v=NDQ9Wv8yv1Q
 Narodna]Serif Konjevic}Mom bratu rahmetli=http://www.youtube.com/watch?v=wYaJqaEgfpY
 Narodna]Serif Konjevic}Na rastanku ne ljubi me=http://www.youtube.com/watch?v=Jhaq1hAsQIk
