@@ -3908,10 +3908,14 @@ Narodna]Rasa Pavlovic}Zvoni, zvoni pesmo nasa=http://www.youtube.com/watch?v=Ov_
 Zabavna]Rasta}Balkan=--start-time=50 http://www.youtube.com/watch?v=fs9XYB8LKlI
 Zabavna]Rasta}Euforija=--start-time=6 http://www.youtube.com/watch?v=QHpfrfhuiq8
 Zabavna]Rasta}Habibi=--start-time=2 http://www.youtube.com/watch?v=ysfCNuDZTSk
+Zabavna]Rasta}Indigo=--start-time=3 http://www.youtube.com/watch?v=PGOihM5NQbY
 Zabavna]Rasta}Hotel=http://www.youtube.com/watch?v=Ek5yiu7rmO8
 Zabavna]Rasta}Kavali=http://www.youtube.com/watch?v=XNhRXfTJK_c
 Zabavna]Rasta}Kavasaki=--start-time=17 http://www.youtube.com/watch?v=Zo8S1ErnnTE
 Zabavna]Rasta}Mala=http://www.youtube.com/watch?v=Qd-zHPRBMrM
+Zabavna]Rasta}Sreca=--start-time=3 http://www.youtube.com/watch?v=BuVnUTW-0ps
+Zabavna]Rasta}Vedro nebo=--start-time=27 http://www.youtube.com/watch?v=nor4y16zJ3k
+Zabavna]Rasta}Moja stvar=--start-time=3 http://www.youtube.com/watch?v=cO8bTCjCkd4
 Zabavna]Regina}A tebe nema=http://www.youtube.com/watch?v=XmTR7nPaOOI
 Zabavna]Regina}Bez tebe=http://www.youtube.com/watch?v=PlkBxKA0VCM
 Zabavna]Regina}Bijele zore=http://www.youtube.com/watch?v=V8DnQdpUGME
