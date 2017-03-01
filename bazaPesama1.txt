@@ -3093,7 +3093,7 @@ Narodna]Deni Bonestaj}Crno mece=http://www.youtube.com/watch?v=I2XEcliTrf4
 Narodna]Deni Bonestaj}Idemo odavde=http://www.youtube.com/watch?v=GTGAyTWIY6s
 Narodna]Deni Bonestaj}Idi iz mog zivota=http://www.youtube.com/watch?v=jpmJE8rTQBo
 Narodna]Deni Bonestaj}Kad ti cujem glas=http://www.youtube.com/watch?v=2QPZurypfFk
-Narodna]Deni Bonestaj}Kada suze progovore=http://www.youtube.com/watch?v=C281wjk_JXQ
+Narodna]Deni Bonestaj}Kada suze progovore=--start-time=10 http://www.youtube.com/watch?v=5AIPJk0xhi0
 Narodna]Deni Bonestaj}Maske=http://www.youtube.com/watch?v=sevwOetkVfE
 Narodna]Deni Bonestaj}Morfijum=http://www.youtube.com/watch?v=Tcui_J1kJ2U
 Narodna]Deni Bonestaj}Strijelac=http://www.youtube.com/watch?v=3rzMPzYvHV4
