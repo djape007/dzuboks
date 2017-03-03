@@ -176,10 +176,11 @@ Narodna]Lepa Lukic}Zora=http://www.youtube.com/watch?v=FZynKBkbdFU
 Narodna]Lepa Lukic}Zorane=http://www.youtube.com/watch?v=lUq_cqguXsM
 Zabavna]Lexington}2012.=http://www.youtube.com/watch?v=ohvF2gucvwI
 Zabavna]Lexington}Ako se ne vidimo=http://www.youtube.com/watch?v=lWjeqJmxRZY
+Zabavna]Lexington}Ako volis me=http://www.youtube.com/watch?v=cv9Ex2s1s3E
 Zabavna]Lexington}Andjele moj mali=http://www.youtube.com/watch?v=UU94IFFQajs
 Zabavna]Lexington}Balkanska pravila=http://www.youtube.com/watch?v=92AY33NRBPg
 Zabavna]Lexington}Bol je uvek ista=http://www.youtube.com/watch?v=5HEt2GMo_5s
-Zabavna]Lexington}Bosanka=http://www.youtube.com/watch?v=mPlhWClaqsE
+Zabavna]Lexington}Bosanka=http://www.youtube.com/watch?v=Hg2HE0SIBNE
 Zabavna]Lexington}Cvijece=http://www.youtube.com/watch?v=-YwGuojSizI
 Zabavna]Lexington}Da me malo hoce=http://www.youtube.com/watch?v=XoePivhRT00
 Zabavna]Lexington}Da me nemaju neke bolje=http://www.youtube.com/watch?v=yBCR6146t9s
@@ -188,6 +189,11 @@ Zabavna]Lexington}Dodji ove noci=http://www.youtube.com/watch?v=EbAPmOgYkFc
 Zabavna]Lexington}Donesi=http://www.youtube.com/watch?v=lgQdSmLeTg8
 Zabavna]Lexington}Dve case=http://www.youtube.com/watch?v=wE21M16LAQQ
 Zabavna]Lexington}Godinama=http://www.youtube.com/watch?v=0xThUk1vMb0
+Zabavna]Lexington}Gdje mi je pamet bila=http://www.youtube.com/watch?v=hlLImvMhnGQ
+Zabavna]Lexington}Dobro mi dosla=http://www.youtube.com/watch?v=3ycIkGALHqo
+Zabavna]Lexington}Noc pod zvijezdama=http://www.youtube.com/watch?v=Qc6r5VOngf0
+Zabavna]Lexington}Carobna=http://www.youtube.com/watch?v=7wpnysU8ojw
+Zabavna]Lexington}Tvoja je svaka noc=http://www.youtube.com/watch?v=xCOi3tpjb-M
 Zabavna]Lexington}Jer sam tvoj kad nema ko=http://www.youtube.com/watch?v=7Y1oeT9MwXA
 Zabavna]Lexington}Kad krenes=http://www.youtube.com/watch?v=12DLR9m7X3Y
 Zabavna]Lexington}Kako je, tako je=http://www.youtube.com/watch?v=VivEsrKLcoc
@@ -195,9 +201,10 @@ Zabavna]Lexington}Letnje kise=http://www.youtube.com/watch?v=bTLCVfJwl78
 Zabavna]Lexington}Ma sretno=http://www.youtube.com/watch?v=evC_vP1nbJ0
 Zabavna]Lexington}Miris karmina=http://www.youtube.com/watch?v=KaMvb_6gv9w
 Zabavna]Lexington}Na dlanu=http://www.youtube.com/watch?v=-S-LVhT14fE
+Zabavna]Lexington}Navucen na tvoje usne=http://www.youtube.com/watch?v=uhm_-sQhrtk
 Zabavna]Lexington}Ne govori=http://www.youtube.com/watch?v=E7zbXhFPuCI
 Zabavna]Lexington}Ne kradi srce od lopova=http://www.youtube.com/watch?v=eDaS_EhhW3Q
-Zabavna]Lexington}Ne postoji razlog=--start-time=5 http://www.youtube.com/watch?v=gKuqwJX3mA4
+Zabavna]Lexington}Ne postoji razlog=http://www.youtube.com/watch?v=ktPub_XV_Hc
 Zabavna]Lexington}Ne znam cija si=http://www.youtube.com/watch?v=gXROYyQix3s
 Zabavna]Lexington}Ne zovi me=http://www.youtube.com/watch?v=qrqCHTIaAbM
 Zabavna]Lexington}Nemiru moj=http://www.youtube.com/watch?v=QG3m-N9xSFA
