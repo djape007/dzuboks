@@ -2495,9 +2495,11 @@ Zabavna]Cvija}Daj, daj=http://www.youtube.com/watch?v=3BTuPws_ta8
 Zabavna]Cvija}Diskoteka=http://www.youtube.com/watch?v=467yJj_MZEQ
 Zabavna]Cvija}Gde si ti=http://www.youtube.com/watch?v=tELCQ0X7heQ
 Zabavna]Cvija}Haos=http://www.youtube.com/watch?v=_Shj3JSdhO4
+Zabavna]Cvija}Heroji=--start-time=6 http://www.youtube.com/watch?v=fXYiRuq6noI
 Zabavna]Cvija}Jace od vina=--start-time=6 http://www.youtube.com/watch?v=PfGdp_9RGG4
 Zabavna]Cvija}Javi se bejbe=http://www.youtube.com/watch?v=4oGdJaKt4kU
 Zabavna]Cvija}Mene radis ti=--start-time=6 http://www.youtube.com/watch?v=AppPVfbOiqo
+Zabavna]Cvija}Meni od sinoc nije dobro=--start-time=6 http://www.youtube.com/watch?v=csxybiDXvPY
 Zabavna]Cvija}Moja zelja si ti=http://www.youtube.com/watch?v=My6FKiyCzEY
 Zabavna]Cvija}Ne placi=http://www.youtube.com/watch?v=OmzTj13J40M
 Zabavna]Cvija}Neka je boli=http://www.youtube.com/watch?v=JZeqxHWzR9Q
