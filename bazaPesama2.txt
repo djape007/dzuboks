@@ -1096,7 +1096,7 @@ Zabavna]Mia Borisavljevic}Bumerang=http://www.youtube.com/watch?v=PEpCZCRuJOA
 Zabavna]Mia Borisavljevic}Covek mog zivota=http://www.youtube.com/watch?v=pevOsPG7EG8
 Zabavna]Mia Borisavljevic}Ja bih se s' tobom topila=http://www.youtube.com/watch?v=O3bQ2sh39FQ
 Zabavna]Mia Borisavljevic}Kako da ne=http://www.youtube.com/watch?v=UnTktXX6M1M
-Zabavna]Mia Borisavljevic}Ko je gore prosao=--start-time18 http://www.youtube.com/watch?v=EIUKMgMgmCU
+Zabavna]Mia Borisavljevic}Ko je gore prosao=http://www.youtube.com/watch?v=EIUKMgMgmCU
 Zabavna]Mia Borisavljevic}Laki=http://www.youtube.com/watch?v=VKDe97qlczI
 Zabavna]Mia Borisavljevic}Lepota Balkanska=http://www.youtube.com/watch?v=LeBiJKfQ_TU
 Zabavna]Mia Borisavljevic}Luda glava=http://www.youtube.com/watch?v=kewYu5zLLvk
@@ -5390,8 +5390,8 @@ Zabavna]Seka Aleksic}Ti i ja smo par=http://www.youtube.com/watch?v=pZ2JUtXvuJc
 Zabavna]Seka Aleksic}Haljina na pruge=http://www.youtube.com/watch?v=e717k21aw_g
 Zabavna]Seka Aleksic}Poludela=http://www.youtube.com/watch?v=K9kqCexLZH0
 Zabavna]Seka Aleksic}Fine i postene=http://www.youtube.com/watch?v=7tcxLvV5PuM
-Zabavna]Seka Aleksic}Doktore=http://www.youtube.com/watch?v=tzBbgaAc_n8
-Zabavna]Seka Aleksic}Koma=http://www.youtube.com/watch?v=jPuqc2xdF6Y
+Zabavna]Seka Aleksic}Doktore=http://www.youtube.com/watch?v=99hQadn2VIk
+Zabavna]Seka Aleksic}Koma=http://www.youtube.com/watch?v=A4IVaNzAfY8
 Narodna]Seki Turkovic}'Ajmo brate moj=http://www.youtube.com/watch?v=bbOg4M6QjX0
 Narodna]Seki Turkovic}Ah, zene, zene=http://www.youtube.com/watch?v=Roq6wYSqyS4
 Narodna]Seki Turkovic}Ako te nekad zaboli dusa=http://www.youtube.com/watch?v=swjkwLCiI1Q
