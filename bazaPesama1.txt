@@ -2250,7 +2250,7 @@ Zabavna~90]Colonia}Suvenir=http://www.youtube.com/watch?v=jlGyikUDc0s
 Zabavna~90]Colonia}Suze sa zvijezda=http://www.youtube.com/watch?v=1XLtN-80p3Y
 Zabavna~90]Colonia}Suzo moja=http://www.youtube.com/watch?v=eHrf6Ko6kvI
 Zabavna~90]Colonia}Svasta mi pada na pamet=http://www.youtube.com/watch?v=mbT1EeRrku8
-Zabavna~90]Colonia}Sve oko mene je grijeh=http://www.youtube.com/watch?v=66tt_Md8tGM
+Zabavna~90]Colonia}Sve oko mene je grijeh=http://www.youtube.com/watch?v=tW88-lHA-tw
 Zabavna~90]Colonia}Svijet voli pobjednike=http://www.youtube.com/watch?v=100LtGMmd7U
 Zabavna~90]Colonia}Svijetla grada=http://www.youtube.com/watch?v=IO1sBEW8TsM
 Zabavna~90]Colonia}Tako kratko te znam=http://www.youtube.com/watch?v=QDTccqOnr_Q
@@ -4410,13 +4410,13 @@ Zabavna]Dzenan Loncarevic}Crni labude=http://www.youtube.com/watch?v=lKD9VdIOmyU
 Zabavna]Dzenan Loncarevic}Cvete beli=http://www.youtube.com/watch?v=_XecOgpt2sg
 Zabavna]Dzenan Loncarevic}Da si tu=http://www.youtube.com/watch?v=0268LzBCVUQ
 Zabavna]Dzenan Loncarevic}Danas takve se traze=http://www.youtube.com/watch?v=QBgKrP7vF4g
-Zabavna]Dzenan Loncarevic}Dao sam ti srce=http://www.youtube.com/watch?v=vSka0yQaVOE
+Zabavna]Dzenan Loncarevic}Dao sam ti srce=http://www.youtube.com/watch?v=pCBFTXwD6-4
 Zabavna]Dzenan Loncarevic}Dio moga tijela=http://www.youtube.com/watch?v=X5OL6KY-xXM
 Zabavna]Dzenan Loncarevic}Divljem se divljem raduje=http://www.youtube.com/watch?v=WEjKmAK2NGE
 Zabavna]Dzenan Loncarevic}Dobro je to=http://www.youtube.com/watch?v=Fv_-UgHUxPM
 Zabavna]Dzenan Loncarevic}Dobro mi ide=http://www.youtube.com/watch?v=M8W-860bNpQ
-Zabavna]Dzenan Loncarevic}Dosla je=http://www.youtube.com/watch?v=6i-UguiP8i0
-Zabavna]Dzenan Loncarevic}Dva su koraka=http://www.youtube.com/watch?v=EixG0pgPPG4
+Zabavna]Dzenan Loncarevic}Dosla je=http://www.youtube.com/watch?v=_UjP29wzZG0
+Zabavna]Dzenan Loncarevic}Dva su koraka=http://www.youtube.com/watch?v=6i-UguiP8i0
 Zabavna]Dzenan Loncarevic}Hvala ti suboto uvece=http://www.youtube.com/watch?v=EHZUG6UM9zQ
 Zabavna]Dzenan Loncarevic}Idi bilo kome=http://www.youtube.com/watch?v=Kcrv_k11fKU
 Zabavna]Dzenan Loncarevic}Ispod mojih dodira=http://www.youtube.com/watch?v=g2yTJarEZZk
@@ -4427,12 +4427,12 @@ Zabavna]Dzenan Loncarevic}Kad ostave te svi=http://www.youtube.com/watch?v=jnWzj
 Zabavna]Dzenan Loncarevic}Kap u moru=http://www.youtube.com/watch?v=rxmnlaU7kn0
 Zabavna]Dzenan Loncarevic}Kazino=--start-time=6 http://www.youtube.com/watch?v=RFIsnD-iuDM
 Zabavna]Dzenan Loncarevic}Kosa do ramena=http://www.youtube.com/watch?v=oxGGx5q2cvM
-Zabavna]Dzenan Loncarevic}Laku noc=http://www.youtube.com/watch?v=iU0VL5IA4LM
-Zabavna]Dzenan Loncarevic}Laufer=http://www.youtube.com/watch?v=A154rrmMAv8
+Zabavna]Dzenan Loncarevic}Laku noc=http://www.youtube.com/watch?v=ZUd9uJSfV_I
+Zabavna]Dzenan Loncarevic}Laufer=http://www.youtube.com/watch?v=ffUdzXshcHI
 Zabavna]Dzenan Loncarevic}Laura=http://www.youtube.com/watch?v=n9O6OIknk4s
 Zabavna]Dzenan Loncarevic}Leptira let=http://www.youtube.com/watch?v=gH9eu7zyuxE
-Zabavna]Dzenan Loncarevic}Ljubi il' me ubi=http://www.youtube.com/watch?v=_bWzYaKtDsM
 Zabavna]Dzenan Loncarevic}Ljubim u prolazu=http://www.youtube.com/watch?v=WKBCoLdRHAE
+Zabavna]Dzenan Loncarevic}Ljubi ili me ubi=http://www.youtube.com/watch?v=vJcP3rwQJIc
 Zabavna]Dzenan Loncarevic}Losa=http://www.youtube.com/watch?v=T11r-kLbdKI
 Zabavna]Dzenan Loncarevic}Lose su godine=--start-time=6 http://www.youtube.com/watch?v=uuILFySqKUM
 Zabavna]Dzenan Loncarevic}Ludujem=http://www.youtube.com/watch?v=PNfOp21q-V4
@@ -4442,30 +4442,27 @@ Zabavna]Dzenan Loncarevic}Najbolja=http://www.youtube.com/watch?v=SCr-uU_7AnM
 Zabavna]Dzenan Loncarevic}Ne budi me=http://www.youtube.com/watch?v=MFG2-4qIES8
 Zabavna]Dzenan Loncarevic}Ne kuni me, poljubi me=http://www.youtube.com/watch?v=8juk4SpVH8w
 Zabavna]Dzenan Loncarevic}Nepar=http://www.youtube.com/watch?v=_pVhas7tSzw
-Zabavna]Dzenan Loncarevic}Nije dovoljno samo jedno da=http://www.youtube.com/watch?v=lm8DR6HRMTA
+Zabavna]Dzenan Loncarevic}Nije dovoljno samo jedno da=http://www.youtube.com/watch?v=w_oXQCmtT-g
 Zabavna]Dzenan Loncarevic}Nije mi stalo=http://www.youtube.com/watch?v=mT3TPTTm2sU
-Zabavna]Dzenan Loncarevic}Nije zlato da izblijedi=http://www.youtube.com/watch?v=MeV1mAPbqF4
 Zabavna]Dzenan Loncarevic}Nikome ni rec=http://www.youtube.com/watch?v=-8RyzuRl0hA
 Zabavna]Dzenan Loncarevic}Odavno=http://www.youtube.com/watch?v=tbt9lhAfaEQ
-Zabavna]Dzenan Loncarevic}Oko moje=http://www.youtube.com/watch?v=VmRdzRPM3xY
 Zabavna]Dzenan Loncarevic}Oprosti mi=http://www.youtube.com/watch?v=zNENaE90mss
 Zabavna]Dzenan Loncarevic}Otkad nema nas=http://www.youtube.com/watch?v=qQ-2D3wK4tc
 Zabavna]Dzenan Loncarevic}Oui=http://www.youtube.com/watch?v=QCUFFyPufGI
 Zabavna]Dzenan Loncarevic}Ovo je moj grad=http://www.youtube.com/watch?v=9FltmNn2D98
-Zabavna]Dzenan Loncarevic}Pamuk usne=http://www.youtube.com/watch?v=GpsvE8WdqFI
 Zabavna]Dzenan Loncarevic}Pozitiva=http://www.youtube.com/watch?v=BSBI83_hRPI
 Zabavna]Dzenan Loncarevic}Prokleto i sveto=http://www.youtube.com/watch?v=rGReGMKJwxw
 Zabavna]Dzenan Loncarevic}Putnicka=http://www.youtube.com/watch?v=9PnIxp5Edbs
-Zabavna]Dzenan Loncarevic}Rano crna=http://www.youtube.com/watch?v=OS-PJTLgJBQ
+Zabavna]Dzenan Loncarevic}Rano crna=http://www.youtube.com/watch?v=R3pEAJzCC5A
 Zabavna]Dzenan Loncarevic}Rodjendan=http://www.youtube.com/watch?v=Da9DlLqVJjc
-Zabavna]Dzenan Loncarevic}Samica za tugu=http://www.youtube.com/watch?v=XDjrtpUEQGc
+Zabavna]Dzenan Loncarevic}Samica za tugu=http://www.youtube.com/watch?v=9GLKqAN43M8
 Zabavna]Dzenan Loncarevic}Sasvim sam=http://www.youtube.com/watch?v=IorTgMNR9J4
 Zabavna]Dzenan Loncarevic}Sta mi je, sta mi je=http://www.youtube.com/watch?v=IzrKSDr-7g0
 Zabavna]Dzenan Loncarevic}Stare ljubavi=http://www.youtube.com/watch?v=RfoLOrlwkgk
 Zabavna]Dzenan Loncarevic}Starim sam=http://www.youtube.com/watch?v=C4aRxTBik-k
 Zabavna]Dzenan Loncarevic}Strah me je da te sanjam=http://www.youtube.com/watch?v=KFjHzbM0u7Q
 Zabavna]Dzenan Loncarevic}Sve se mijenja=http://www.youtube.com/watch?v=cE4qkoAtalU
-Zabavna]Dzenan Loncarevic}Tajna nesreca=http://www.youtube.com/watch?v=JeWPnEHfwgw
+Zabavna]Dzenan Loncarevic}Tajna nesreca=http://www.youtube.com/watch?v=e3OJx587ytE
 Zabavna]Dzenan Loncarevic}Tako lako=http://www.youtube.com/watch?v=0ZkNDMzk-t4
 Zabavna]Dzenan Loncarevic}Ti amo=http://www.youtube.com/watch?v=HkeIKYkLOmk
 Zabavna]Dzenan Loncarevic}Ti me pitas=http://www.youtube.com/watch?v=OvYqJLwFe44
