@@ -6054,7 +6054,7 @@ Narodna]Hakala}A o sreci pjevajte mi=http://www.youtube.com/watch?v=1_kc__zq8Ts
 Narodna]Hakala}Bekrija (remix)=https://www.youtube.com/watch?v=ojpBrQI9p_0
 Narodna]Hakala}Bekrija=https://www.youtube.com/watch?v=BTmecdPEBc4
 Narodna]Hakala}Bole me tvoje godine=http://www.youtube.com/watch?v=zZiPEXV-8Dg
-Narodna]Hakala}Bosno hamajlijo=http://www.youtube.com/watch?v=Q3rXNBwf-Pg
+Narodna]Hakala}Bosno hamajlijo=http://www.youtube.com/watch?v=61HrXZXFnD8
 Narodna]Hakala}Brate moj=http://www.youtube.com/watch?v=taqClJnfVP0
 Narodna]Hakala}Crna zeno=http://www.youtube.com/watch?v=I9gZTlGf5J8
 Narodna]Hakala}Cug=http://www.youtube.com/watch?v=vgF5eNL4klc
@@ -6131,14 +6131,13 @@ Narodna]Hakala}Sestra=http://www.youtube.com/watch?v=kI6UYzZbN6M
 Narodna]Hakala}Skitnica velegradskih ulica=http://www.youtube.com/watch?v=cbFOiDi0hv8
 Narodna]Hakala}Sluga=http://www.youtube.com/watch?v=6VxBorF9524
 Narodna]Hakala}Spavam sa drugim zenama=http://www.youtube.com/watch?v=tTEniVi12-M
-Narodna]Hakala}Sta cu kad je volim=http://www.youtube.com/watch?v=Elqxqj89ukY
+Narodna]Hakala}Sta cu kad je volim=http://www.youtube.com/watch?v=qSfZOkLClRA
 Narodna]Hakala}Sta cu sutra ja=http://www.youtube.com/watch?v=1cm_th3jqw4
 Narodna]Hakala}Sto me nisi cekala=http://www.youtube.com/watch?v=W1YPYSt8ntM
 Narodna]Hakala}Svadba=http://www.youtube.com/watch?v=QeG2D5HoXbE
 Narodna]Hakala}Svatovska kletva=http://www.youtube.com/watch?v=slcXnAQftC4
 Narodna]Hakala}Sve je propalo=http://www.youtube.com/watch?v=PSi3SKziDl8
 Narodna]Hakala}Sve mi reci, jedno nemoj=http://www.youtube.com/watch?v=ZRbu2ZDeJwo
-Narodna]Hakala}Sve za tebe=http://www.youtube.com/watch?v=LGFwNdqMDFI
 Narodna]Hakala}Svi su ga zvali pijanac=http://www.youtube.com/watch?v=_O4FChRtpUU
 Narodna]Hakala}Tako se ne ljube prijatelji=http://www.youtube.com/watch?v=5jKhSGk11H4
 Narodna]Hakala}Tako ti je pao grah=http://www.youtube.com/watch?v=LcrBiTI1WfA
@@ -6154,7 +6153,6 @@ Narodna]Hakala}Vuk samotnjak=http://www.youtube.com/watch?v=JYCuQ6qin7k
 Narodna]Hakala}Zabranicu=http://www.youtube.com/watch?v=y1qjOyBUwjc
 Narodna]Hakala}Zalud zivim bez tebe=http://www.youtube.com/watch?v=VRajt-4-wfg
 Narodna]Hakala}Zaoka=http://www.youtube.com/watch?v=g76CTdbmhNA
-Narodna]Hakala}Zena plava, ociju zeleni=http://www.youtube.com/watch?v=moGnpEOYhUU
 Narodna]Hakala}Zenica=http://www.youtube.com/watch?v=aQWNFCq9PRg
 Narodna]Hakala}Ziva bila=http://www.youtube.com/watch?v=01-fn-HnePk
 Narodna]Hakala}Zivi sama=http://www.youtube.com/watch?v=9aoA9aa0NK4
@@ -6424,7 +6422,6 @@ Narodna]Halid Muslimovic}O, Ciganko moja=http://www.youtube.com/watch?v=jmGj5xQ_
 Narodna]Halid Muslimovic}Oboje smo ostavljeni=http://www.youtube.com/watch?v=rh4nsav1q3w
 Narodna]Halid Muslimovic}Od rakije nema bolje zene=http://www.youtube.com/watch?v=UEsSDnKdklA
 Narodna]Halid Muslimovic}Oj, jarane, jarane=http://www.youtube.com/watch?v=Cnpi3X1yFN0
-Narodna]Halid Muslimovic}Oluja se sprema=http://www.youtube.com/watch?v=0GGXiKAr7_U
 Narodna]Halid Muslimovic}Ona, zna=http://www.youtube.com/watch?v=FxGhHRXZ51w
 Narodna]Halid Muslimovic}Opsesija=http://www.youtube.com/watch?v=hcshxptqewM
 Narodna]Halid Muslimovic}Ostala si sama=http://www.youtube.com/watch?v=kLbZbJZaV28
@@ -6437,7 +6434,6 @@ Narodna]Halid Muslimovic}Pjesma prijatelju=http://www.youtube.com/watch?v=b85DVY
 Narodna]Halid Muslimovic}Pjesma za fajront=http://www.youtube.com/watch?v=XgO3Brej9Wo
 Narodna]Halid Muslimovic}Plakao bih, plakao=http://www.youtube.com/watch?v=JpgcGI10A6E
 Narodna]Halid Muslimovic}Pomozi kukavici=http://www.youtube.com/watch?v=z54lw0wPte8
-Narodna]Halid Muslimovic}Ponos neda da te molim=http://www.youtube.com/watch?v=WkD723sxrsQ
 Narodna]Halid Muslimovic}Pozdravi mi jarane=http://www.youtube.com/watch?v=EMLeGX7xEOE
 Narodna]Halid Muslimovic}Pozeljeces opet mene=http://www.youtube.com/watch?v=1Q9P09YuifU
 Narodna]Halid Muslimovic}Prastao sam=http://www.youtube.com/watch?v=kR0wjcESgXY
@@ -6480,7 +6476,6 @@ Narodna]Halid Muslimovic}Sve me tebi vraca=http://www.youtube.com/watch?v=OmSnGA
 Narodna]Halid Muslimovic}Sve te zene=http://www.youtube.com/watch?v=nZTh2igioq4
 Narodna]Halid Muslimovic}Svirajte mi djelem, djelem=http://www.youtube.com/watch?v=KDXeLXRfptU
 Narodna]Halid Muslimovic}Takav sam ja=http://www.youtube.com/watch?v=dSLWoIYR1es
-Narodna]Halid Muslimovic}Ti i ja=http://www.youtube.com/watch?v=wi9ChwaUDsE
 Narodna]Halid Muslimovic}Ti si moja djevojka=http://www.youtube.com/watch?v=8jKM8R1P04w
 Narodna]Halid Muslimovic}Ti si vino koje pijem=http://www.youtube.com/watch?v=_VFVdKR1pOA
 Narodna]Halid Muslimovic}To nisi ti, to nisam ja=http://www.youtube.com/watch?v=scHRq4mQGv0
@@ -6496,7 +6491,7 @@ Narodna]Halid Muslimovic}Voz bez granica=http://www.youtube.com/watch?v=P5XvC470
 Narodna]Halid Muslimovic}Vrati se sunce moje=http://www.youtube.com/watch?v=OSgrA8z8BNo
 Narodna]Halid Muslimovic}Vrati se, dok mladosti ima=http://www.youtube.com/watch?v=LNQ9aY7M8Oc
 Narodna]Halid Muslimovic}Za moju tugu nosaca nema=http://www.youtube.com/watch?v=67ZzWrinR6M
-Narodna]Halid Muslimovic}Zagrli me i radosna budi=http://www.youtube.com/watch?v=4-RV3cD1Bw0
+Narodna]Halid Muslimovic}Zagrli me i radosna budi=http://www.youtube.com/watch?v=Q9KLgfVsHek
 Narodna]Halid Muslimovic}Zapjevaj mi brate=http://www.youtube.com/watch?v=MeomSeBCx7w
 Narodna]Halid Muslimovic}Zaplakala Bosna=http://www.youtube.com/watch?v=dKqovk2I7sA
 Narodna]Halid Muslimovic}Zasto sam ostao sam=http://www.youtube.com/watch?v=INufjuYwoOY
@@ -6515,11 +6510,9 @@ Narodna]Hanka Paldum}Bez tvoje ljubavi=http://www.youtube.com/watch?v=WfSOTimE3d
 Narodna]Hanka Paldum}Bolno srce=http://www.youtube.com/watch?v=1eT9Ks83amw
 Narodna]Hanka Paldum}Ceznja=http://www.youtube.com/watch?v=xakvgT2Xx3o
 Narodna]Hanka Paldum}Crne kose=http://www.youtube.com/watch?v=V_e1Vely-mw
-Narodna]Hanka Paldum}Crni snijeg=http://www.youtube.com/watch?v=GlhwiBfc8bk
 Narodna]Hanka Paldum}Da l' cu vise ikad ljubit'=http://www.youtube.com/watch?v=aAT02G45Uyo
 Narodna]Hanka Paldum}Dobro dosli prijatelji=http://www.youtube.com/watch?v=2Q5xnqSrOz0
 Narodna]Hanka Paldum}Dodji=http://www.youtube.com/watch?v=rLJRETsfrQI
-Narodna]Hanka Paldum}Gazi, gazi=http://www.youtube.com/watch?v=GOVICapiU_0
 Narodna]Hanka Paldum}Gdje si duso=http://www.youtube.com/watch?v=GMLVoUmgM3U
 Narodna]Hanka Paldum}Hej, ljubavi=http://www.youtube.com/watch?v=Cpac6i1g0Eg
 Narodna]Hanka Paldum}Hocu da budem samo zena=http://www.youtube.com/watch?v=ToOenvnVhC8
@@ -6552,7 +6545,6 @@ Narodna]Hanka Paldum}Med i mlijeko=http://www.youtube.com/watch?v=BTfiZkZNxkg
 Narodna]Hanka Paldum}Miris kose=http://www.youtube.com/watch?v=YEJtv0LvcBk
 Narodna]Hanka Paldum}Mojoj majci=http://www.youtube.com/watch?v=1ih77zs7H1o
 Narodna]Hanka Paldum}Moras doci ove noci=http://www.youtube.com/watch?v=kMNPi4gYQ8c
-Narodna]Hanka Paldum}Na sve navikne zena=http://www.youtube.com/watch?v=QkbrRLiy94Q
 Narodna]Hanka Paldum}Najdrazoj ljubavi=http://www.youtube.com/watch?v=xYV-fDyVtPw
 Narodna]Hanka Paldum}Ne dirajte uspomene=http://www.youtube.com/watch?v=P-vG6DLkOKQ
 Narodna]Hanka Paldum}Ne idi=http://www.youtube.com/watch?v=LxeFOHzN-6k
@@ -6561,7 +6553,6 @@ Narodna]Hanka Paldum}Ne ljubi me nocas, mili=http://www.youtube.com/watch?v=j48g
 Narodna]Hanka Paldum}Ne mogu kroz zivot sama=http://www.youtube.com/watch?v=NyyDUT_e3hg
 Narodna]Hanka Paldum}Ne smijemo se rastaviti=http://www.youtube.com/watch?v=iGCBZjQ4Pyw
 Narodna]Hanka Paldum}Necu oprostaj da ti dam=http://www.youtube.com/watch?v=wXpP1Act5y0
-Narodna]Hanka Paldum}Nek je od srca=http://www.youtube.com/watch?v=Kjz58PZc5GM
 Narodna]Hanka Paldum}Neka te, neka=http://www.youtube.com/watch?v=oSqSLas-5CQ
 Narodna]Hanka Paldum}Nema kajanja=http://www.youtube.com/watch?v=T9aDbjzgVyM
 Narodna]Hanka Paldum}Nevjera tvoja nevjera=http://www.youtube.com/watch?v=azJ_1PsyQ_k
@@ -6592,7 +6583,6 @@ Narodna]Hanka Paldum}Srce je moje kamen=http://www.youtube.com/watch?v=zQ-wHb-8q
 Narodna]Hanka Paldum}Stezem srce=http://www.youtube.com/watch?v=_ThRN6kXOiI
 Narodna]Hanka Paldum}Sto svaka zena sanja=http://www.youtube.com/watch?v=Ds7hWE4vEsc
 Narodna]Hanka Paldum}Svadjalica=http://www.youtube.com/watch?v=DF242MvNG5I
-Narodna]Hanka Paldum}Svaka rijeka moru stici ce=http://www.youtube.com/watch?v=tQUVe8J0gqU
 Narodna]Hanka Paldum}Svatovi meni ne pjevaju=http://www.youtube.com/watch?v=c7Ieyy7witQ
 Narodna]Hanka Paldum}Sve sam tebi dala=http://www.youtube.com/watch?v=t0dmvLqnoWs
 Narodna]Hanka Paldum}Te su me oci lagale=http://www.youtube.com/watch?v=JBoITihlY50
