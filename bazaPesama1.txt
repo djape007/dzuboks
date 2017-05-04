@@ -4555,7 +4555,7 @@ Rep]Edo Maajka}No sikiriki=http://www.youtube.com/watch?v=MBgG3Er6DWA
 Rep]Edo Maajka}Obecana rijec=http://www.youtube.com/watch?v=nCOPIquwTak
 Rep]Edo Maajka}On je mladji=http://www.youtube.com/watch?v=oUpiHvRVqlQ
 Rep]Edo Maajka}Ozezi=http://www.youtube.com/watch?v=bcNzHLlN2aw
-Rep]Edo Maajka}Panika=http://www.youtube.com/watch?v=6XLIpmnQDqg
+Rep]Edo Maajka}Panika=--start-time=15 http://www.youtube.com/watch?v=i_Sk2ll0aqU
 Rep]Edo Maajka}Pare, pare=http://www.youtube.com/watch?v=VGSd07sGUj0
 Rep]Edo Maajka}Prikaze=http://www.youtube.com/watch?v=1SzR3b78648
 Rep]Edo Maajka}Przi=http://www.youtube.com/watch?v=_cHktBRUO9M
