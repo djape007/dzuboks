@@ -1360,7 +1360,6 @@ Zabavna]Bebi Dol}Zmaj=http://www.youtube.com/watch?v=IYUgEVulTNI
 Zabavna]Bebi Dol}Zrno neznosti=http://www.youtube.com/watch?v=y8pbOYbTOHk
 90]Belic Story}Miris baruta=http://www.youtube.com/watch?v=BncCnBIBk0s
 Rep]Beogradski Sindikat}Ala vera=http://www.youtube.com/watch?v=AjD7h8xXvpc
-Rep]Beogradski Sindikat}Sindikalna prica=http://www.youtube.com/watch?v=DWLyL5UuMr4
 Rep]Beogradski Sindikat}BS armija=http://www.youtube.com/watch?v=4hxUlCJ1XPE
 Rep]Beogradski Sindikat}BS=http://www.youtube.com/watch?v=g8bk4bjWfD4
 Rep]Beogradski Sindikat}Balada disidenta=http://www.youtube.com/watch?v=14I20qp1On0
@@ -1386,6 +1385,7 @@ Rep]Beogradski Sindikat}Povratak=http://www.youtube.com/watch?v=TXstBHvZrNk
 Rep]Beogradski Sindikat}Pravo kroz vetar=http://www.youtube.com/watch?v=fSBEhz-0y00
 Rep]Beogradski Sindikat}Pretorijanska garda=http://www.youtube.com/watch?v=KaNGwq4GVVI
 Rep]Beogradski Sindikat}SbS=http://www.youtube.com/watch?v=4J9-mkB65k8
+Rep]Beogradski Sindikat}Sindikalna prica=http://www.youtube.com/watch?v=DWLyL5UuMr4
 Rep]Beogradski Sindikat}Sistem te laze=http://www.youtube.com/watch?v=uE2QdPqH0iY
 Rep]Beogradski Sindikat}Slatke male maloletnice=http://www.youtube.com/watch?v=u2IKDKdc7ms
 Rep]Beogradski Sindikat}Svedok=http://www.youtube.com/watch?v=xwfXfSGW2Qs
@@ -4154,6 +4154,7 @@ Narodna]Dragana Mirkovic}To nije tvoja stvar=http://www.youtube.com/watch?v=ETYb
 Narodna]Dragana Mirkovic}Trag u vremenu=http://www.youtube.com/watch?v=lDg3qRagL70
 Narodna]Dragana Mirkovic}Treba mi neko=http://www.youtube.com/watch?v=5bAFK1e4iaI
 Narodna]Dragana Mirkovic}Treba mi to=http://www.youtube.com/watch?v=v_T6xxknYw8
+Narodna]Dragana Mirkovic}Trovanje=--start-time=6 http://www.youtube.com/watch?v=Q7EpnAbE6fg
 Narodna]Dragana Mirkovic}Tugo mojih dana=http://www.youtube.com/watch?v=3ayd66vT8N4
 Narodna]Dragana Mirkovic}U godini=http://www.youtube.com/watch?v=WyKGlanYDs8
 Narodna]Dragana Mirkovic}Ucini greh=http://www.youtube.com/watch?v=Wyq0zjtHAHs
@@ -4180,7 +4181,6 @@ Narodna]Dragana Mirkovic}Zemljo okreni se=http://www.youtube.com/watch?v=3AEgAuu
 Narodna]Dragana Mirkovic}Zenico oka mog=http://www.youtube.com/watch?v=rU9DLoL4MvY
 Narodna]Dragana Mirkovic}Zensko srce=http://www.youtube.com/watch?v=KCGjHIZybkM
 Narodna]Dragana Mirkovic}Znas da nosim prsten tvoj=http://www.youtube.com/watch?v=7z4CutYsbUw
-Narodna]Dragana Mirkovic}Trovanje=--start-time=6 http://www.youtube.com/watch?v=Q7EpnAbE6fg
 Zabavna]Dubioza Kolektiv}99%=http://www.youtube.com/watch?v=R1BFLokM9JM
 Zabavna]Dubioza Kolektiv}Balkan Funk=http://www.youtube.com/watch?v=lJrMlmhjDtI
 Zabavna]Dubioza Kolektiv}Blam=http://www.youtube.com/watch?v=bkctOPUI8Fw
@@ -4405,10 +4405,6 @@ Narodna]Dzej}Zivote, zeno bez morala=--start-time=6 http://www.youtube.com/watch
 Narodna]Dzej}Zrno mudrosti=http://www.youtube.com/watch?v=V02lfyZnPwM
 Zabavna]Dzenan Loncarevic}Ana ne budi luda=http://www.youtube.com/watch?v=EFSiOzVWrHQ
 Zabavna]Dzenan Loncarevic}Bezgresna=http://www.youtube.com/watch?v=y1ydo1j4Emg
-Zabavna]Dzenan Loncarevic}Nije zlato da izblijedi=http://www.youtube.com/watch?v=b1rWrbnB5vw
-Zabavna]Dzenan Loncarevic}Oko moje=http://www.youtube.com/watch?v=Wa_16D1gjiw
-Zabavna]Dzenan Loncarevic}Pamuk usne=http://www.youtube.com/watch?v=zk1N8kzPzGU
-Zabavna]Dzenan Loncarevic}Pitam te=http://www.youtube.com/watch?v=rDKbWe0SZjI
 Zabavna]Dzenan Loncarevic}Bombona=http://www.youtube.com/watch?v=2mzcsdUNx1c
 Zabavna]Dzenan Loncarevic}Crna damo=http://www.youtube.com/watch?v=3zMN63FHQiI
 Zabavna]Dzenan Loncarevic}Crni labude=http://www.youtube.com/watch?v=lKD9VdIOmyU
@@ -4449,12 +4445,16 @@ Zabavna]Dzenan Loncarevic}Ne kuni me, poljubi me=http://www.youtube.com/watch?v=
 Zabavna]Dzenan Loncarevic}Nepar=http://www.youtube.com/watch?v=_pVhas7tSzw
 Zabavna]Dzenan Loncarevic}Nije dovoljno samo jedno da=http://www.youtube.com/watch?v=w_oXQCmtT-g
 Zabavna]Dzenan Loncarevic}Nije mi stalo=http://www.youtube.com/watch?v=mT3TPTTm2sU
+Zabavna]Dzenan Loncarevic}Nije zlato da izblijedi=http://www.youtube.com/watch?v=b1rWrbnB5vw
 Zabavna]Dzenan Loncarevic}Nikome ni rec=http://www.youtube.com/watch?v=-8RyzuRl0hA
 Zabavna]Dzenan Loncarevic}Odavno=http://www.youtube.com/watch?v=tbt9lhAfaEQ
+Zabavna]Dzenan Loncarevic}Oko moje=http://www.youtube.com/watch?v=Wa_16D1gjiw
 Zabavna]Dzenan Loncarevic}Oprosti mi=http://www.youtube.com/watch?v=zNENaE90mss
 Zabavna]Dzenan Loncarevic}Otkad nema nas=http://www.youtube.com/watch?v=qQ-2D3wK4tc
 Zabavna]Dzenan Loncarevic}Oui=http://www.youtube.com/watch?v=QCUFFyPufGI
 Zabavna]Dzenan Loncarevic}Ovo je moj grad=http://www.youtube.com/watch?v=9FltmNn2D98
+Zabavna]Dzenan Loncarevic}Pamuk usne=http://www.youtube.com/watch?v=zk1N8kzPzGU
+Zabavna]Dzenan Loncarevic}Pitam te=http://www.youtube.com/watch?v=rDKbWe0SZjI
 Zabavna]Dzenan Loncarevic}Pozitiva=http://www.youtube.com/watch?v=BSBI83_hRPI
 Zabavna]Dzenan Loncarevic}Prokleto i sveto=http://www.youtube.com/watch?v=rGReGMKJwxw
 Zabavna]Dzenan Loncarevic}Putnicka=http://www.youtube.com/watch?v=9PnIxp5Edbs
@@ -5866,8 +5866,8 @@ Zabavna]Goga Sekulic}Po zakonu=http://www.youtube.com/watch?v=OD6S09Pv8nk
 Zabavna]Goga Sekulic}Premalo, premalo=http://www.youtube.com/watch?v=yxyqKjUS_Pc
 Zabavna]Goga Sekulic}Prosto nek ti je=http://www.youtube.com/watch?v=rxoT2I49Pzo
 Zabavna]Goga Sekulic}Pun mesec=http://www.youtube.com/watch?v=N4053u3D_hg
-Zabavna]Goga Sekulic}Red za ljubav=http://www.youtube.com/watch?v=RYI08LAUpfI
 Zabavna]Goga Sekulic}Red i zakon=--start-time=6 http://www.youtube.com/watch?v=yxSzDCd_tqQ
+Zabavna]Goga Sekulic}Red za ljubav=http://www.youtube.com/watch?v=RYI08LAUpfI
 Zabavna]Goga Sekulic}Rekord sam oborila=http://www.youtube.com/watch?v=2-oJIip8ckI
 Zabavna]Goga Sekulic}Sama se pozvala=http://www.youtube.com/watch?v=f1L0MFJ26dY
 Zabavna]Goga Sekulic}Semafor=http://www.youtube.com/watch?v=1TUKwtFeXz4
@@ -6332,6 +6332,7 @@ Narodna]Halid Muslimovic}Bolan sam ti majko=http://www.youtube.com/watch?v=iBkxx
 Narodna]Halid Muslimovic}Bolje svatovi=http://www.youtube.com/watch?v=jtfFc02KSC4
 Narodna]Halid Muslimovic}Casa tuge=http://www.youtube.com/watch?v=tEFRQf9x9y8
 Narodna]Halid Muslimovic}Case lomim=http://www.youtube.com/watch?v=nHN8ygjYDFk
+Narodna]Halid Muslimovic}Castio bi sve jarane=http://www.youtube.com/watch?v=U1fUFizcOyQ
 Narodna]Halid Muslimovic}Cuvaj prvu ljubav=http://www.youtube.com/watch?v=xnRzGVMDsvE
 Narodna]Halid Muslimovic}Da, da, da=http://www.youtube.com/watch?v=O9s9ldwFlsk
 Narodna]Halid Muslimovic}Drugom na grudima=http://www.youtube.com/watch?v=eKSG0YTw_OU
@@ -6435,7 +6436,6 @@ Narodna]Halid Muslimovic}Zelis mi srecu=http://www.youtube.com/watch?v=zlgJrwd1L
 Narodna]Halid Muslimovic}Zelja si mi samo ti=http://www.youtube.com/watch?v=9GqA5c6GNwU
 Narodna]Halid Muslimovic}Znam ne mogu biti tvoj=http://www.youtube.com/watch?v=A3YIBqfpaR8
 Narodna]Halid Muslimovic}Znam za sve sam kriv=http://www.youtube.com/watch?v=Dqn7QzgLOhY
-Narodna]Halid Muslimovic}Castio bi sve jarane=http://www.youtube.com/watch?v=U1fUFizcOyQ
 Narodna]Hanka Paldum}Ako bude ono cega se bojim=http://www.youtube.com/watch?v=skGl_songP0
 Narodna]Hanka Paldum}Ako ti kazem=http://www.youtube.com/watch?v=XXgCEfr3qEY
 Narodna]Hanka Paldum}Aman zaman=http://www.youtube.com/watch?v=deOoKHb-FlU
@@ -8790,3 +8790,40 @@ Narodna]Lepa Lukic}Kceri moja=http://www.youtube.com/watch?v=PT1LFTA5sUA
 Narodna]Lepa Lukic}Kiso tiho padaj=http://www.youtube.com/watch?v=2HRSZDSFMRk
 Narodna]Lepa Lukic}Ko ce da me voli=http://www.youtube.com/watch?v=jnzwASr6Z2o
 Narodna]Lepa Lukic}Ko je vatra a ko slama=http://www.youtube.com/watch?v=DQ6DKOTogLM
+Narodna]Lepa Lukic}Kome srce ranjeno da nudim=http://www.youtube.com/watch?v=LWGIfkPF1jg
+Narodna]Lepa Lukic}Kosacu moj=http://www.youtube.com/watch?v=F6bQQQwPyCQ
+Narodna]Lepa Lukic}Kraljica bez krune=http://www.youtube.com/watch?v=eh1aAMjcR8Y
+Narodna]Lepa Lukic}Krijes, krijes=http://www.youtube.com/watch?v=CQD1-pQhe7k
+Narodna]Lepa Lukic}Lep sanak=http://www.youtube.com/watch?v=MXMotSuOqrU
+Narodna]Lepa Lukic}Lepa moja=http://www.youtube.com/watch?v=1Hgsw7IfGg8
+Narodna]Lepa Lukic}Lepotan, vragolan=http://www.youtube.com/watch?v=s4-7ScTZrS8
+Narodna]Lepa Lukic}Leti, leti bijeli golube=http://www.youtube.com/watch?v=42eWddzatWY
+Narodna]Lepa Lukic}Ljubavni hajduce=http://www.youtube.com/watch?v=Js_pftgj9so
+Narodna]Lepa Lukic}Ljubi, dragi, molim te=http://www.youtube.com/watch?v=blo4VkkvnHg
+Narodna]Lepa Lukic}Ljudi ko zna leka srcu mom=http://www.youtube.com/watch?v=ngfUbRCudqg
+Narodna]Lepa Lukic}Lojze se reze=http://www.youtube.com/watch?v=zZAnOLtzQ08
+Narodna]Lepa Lukic}Ludo sam te zavolela=http://www.youtube.com/watch?v=vhmaU-t2AQ4
+Narodna]Lepa Lukic}Ludujem da ne tugujem=http://www.youtube.com/watch?v=NxeQmcCDtmA
+Narodna]Lepa Lukic}Majka me je ostavila=http://www.youtube.com/watch?v=tuI1JH4L5gY
+Narodna]Lepa Lukic}Majka=http://www.youtube.com/watch?v=OddlbhhfAWI
+Narodna]Lepa Lukic}Misli Mile da je meni zao=http://www.youtube.com/watch?v=TQmtvt3hThI
+Narodna]Lepa Lukic}Moj Milence=http://www.youtube.com/watch?v=p2VydXfsqAw
+Narodna]Lepa Lukic}Momak iz mog sela=http://www.youtube.com/watch?v=dGy4TKHBxIU
+Narodna]Lepa Lukic}Morava je u mom srcu=http://www.youtube.com/watch?v=pqBCSTeyVe4
+Narodna]Lepa Lukic}Na rastanku kazi, dragi=http://www.youtube.com/watch?v=q9j4hJAmq-8
+Narodna]Lepa Lukic}Na saboru Sumadije=http://www.youtube.com/watch?v=MmMIBHMcp9c
+Narodna]Lepa Lukic}Najsladja zabluda=http://www.youtube.com/watch?v=a196_Hxq67Q
+Narodna]Lepa Lukic}Nas ne mogu posvadjati=http://www.youtube.com/watch?v=P3ZfpXj4gFc
+Narodna]Lepa Lukic}Naslednica=http://www.youtube.com/watch?v=JxrsJpP2Gmc
+Narodna]Lepa Lukic}Ne mogu srce da lazem=http://www.youtube.com/watch?v=GAZ1ZU94Hgg
+Narodna]Lepa Lukic}Ne ostavljaj me samu=http://www.youtube.com/watch?v=RyHxvvMn0ho
+Narodna]Lepa Lukic}Ne pitaj me=http://www.youtube.com/watch?v=KxzC-PFXGzw
+Narodna]Lepa Lukic}Ne plasi se mog pogleda=http://www.youtube.com/watch?v=_L10o6dGitI
+Narodna]Lepa Lukic}Ne skidaj burmu=http://www.youtube.com/watch?v=INdhN1lwO1Q
+Narodna]Lepa Lukic}Ne smej se mesece=http://www.youtube.com/watch?v=jqMra0srJoY
+Narodna]Lepa Lukic}Ne verujem vise tebi=http://www.youtube.com/watch?v=8uCfcJnAzMo
+Narodna]Lepa Lukic}Ne zivi se hiljadu godina=http://www.youtube.com/watch?v=nAuzkX4-hw4
+Narodna]Lepa Lukic}Ne znas ti=http://www.youtube.com/watch?v=aZuG-1XoQcw
+Narodna]Lepa Lukic}Ne zovi me sebi, dragi=http://www.youtube.com/watch?v=68QSRhGLX2c
+Narodna]Lepa Lukic}Necu da padam na kolena=http://www.youtube.com/watch?v=nRMplUdJs9I
+Narodna]Lepa Lukic}Neka ode=http://www.youtube.com/watch?v=lpeDvrs7ccY
