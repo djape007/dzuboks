@@ -2846,6 +2846,7 @@ Narodna]Olja Bajrami}Amnezija=http://www.youtube.com/watch?v=unFonEEO0oA
 Narodna]Olja Bajrami}Andoli=http://www.youtube.com/watch?v=90LxZVwLWKs
 Narodna]Olja Bajrami}Aperitiv=--start-time=10 http://www.youtube.com/watch?v=XWyVzGClJCY
 Narodna]Olja Bajrami}Losa navika=--start-time=6 http://www.youtube.com/watch?v=bUvhX0Bx3O8
+Narodna]Olja Bajrami}Dao si mi zeleno=--start-time=10 http://www.youtube.com/watch?v=h-OcagerhJc
 Narodna]Olja Bajrami}Ludi od rodjenja=http://www.youtube.com/watch?v=TaNFv5loo54
 Narodna]Olja Bajrami}Na moru Crne Gore=http://www.youtube.com/watch?v=5rvdfWe8dLs
 Narodna]Olja Bajrami}Panika=http://www.youtube.com/watch?v=OK9k05EjEQU
@@ -3886,6 +3887,7 @@ Zabavna]Rasta}Kavasaki=--start-time=17 http://www.youtube.com/watch?v=Zo8S1ErnnT
 Zabavna]Rasta}Mala=http://www.youtube.com/watch?v=Qd-zHPRBMrM
 Zabavna]Rasta}Moja stvar=--start-time=3 http://www.youtube.com/watch?v=cO8bTCjCkd4
 Zabavna]Rasta}Sreca=--start-time=3 http://www.youtube.com/watch?v=BuVnUTW-0ps
+Zabavna]Rasta}Slucajnost (ft. Ana Nikolic)=--start-time=15 http://www.youtube.com/watch?v=0fhrf-BMPxY
 Zabavna]Rasta}Vedro nebo=--start-time=27 http://www.youtube.com/watch?v=nor4y16zJ3k
 Narodna]Radisa Urosevic}Tebi za ljubav=http://www.youtube.com/watch?v=zB9j39VZ7U4
 Narodna]Radisa Urosevic}Plave kose jos me nose=http://www.youtube.com/watch?v=0VqM6WpBzWM

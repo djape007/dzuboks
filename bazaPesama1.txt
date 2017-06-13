@@ -423,6 +423,8 @@ Narodna]Aleksandra Prijovic}Testament=--start-time=5 http://www.youtube.com/watc
 Narodna]Aleksandra Prijovic}Za nas kasno je=http://www.youtube.com/watch?v=cUFaZVIcE_0
 Narodna]Aleksandra Prijovic}Telo=--start-time=6 http://www.youtube.com/watch?v=wq2RqlQt1Q4
 Narodna]Aleksandra Prijovic}Sledeca=--start-time=5 http://www.youtube.com/watch?v=u1iAIwW5PBg
+Narodna]Aleksandra Prijovic}Separe=--start-time=5 http://www.youtube.com/watch?v=o7b6BVcVTSQ
+Narodna]Aleksandra Prijovic}Klizav pod=--start-time=5 http://www.youtube.com/watch?v=OeW-UtJ5_bg
 Zabavna]Alen Islamovic}Aida=http://www.youtube.com/watch?v=4oZ7xTw0QbI
 Zabavna]Alen Islamovic}Aj jaj joj=http://www.youtube.com/watch?v=qo1X4TO6iYI
 Zabavna]Alen Islamovic}Alcatraz=http://www.youtube.com/watch?v=zMJRk9g4ODo
@@ -845,6 +847,7 @@ Zabavna]Ana Nikolic}Romale, romali=http://www.youtube.com/watch?v=e51vpPQ2_t4
 Zabavna]Ana Nikolic}Sizofrenija=http://www.youtube.com/watch?v=AvE-OwWgZZA
 Zabavna]Ana Nikolic}Solo ti, solo ja=http://www.youtube.com/watch?v=4IY7VLU0XU0
 Zabavna]Ana Nikolic}Srecan mi ne dolazi=http://www.youtube.com/watch?v=ugoMJOE6Yvc
+Zabavna]Ana Nikolic}Slucajnost (ft. Rasta)=--start-time=15 http://www.youtube.com/watch?v=0fhrf-BMPxY
 Zabavna]Ana Nikolic}Uvek ima jedan jos=http://www.youtube.com/watch?v=564Ko4Li1HA
 Zabavna]Ana Nikolic}Vatra=http://www.youtube.com/watch?v=QhV9bf3cXVE
 Zabavna]Ana Nikolic}Verna do kolena=http://www.youtube.com/watch?v=Acw2PNpuGMA
@@ -2725,6 +2728,7 @@ Zabavna]Danijel Djokic}Zagrli me ti=http://www.youtube.com/watch?v=6XHVFsYEHTI
 Zabavna]Danijel Djokic}Zivot moj=http://www.youtube.com/watch?v=aEic9gGNj5U
 Zabavna]Danijel Djuric}Ako ti jave=http://www.youtube.com/watch?v=hyxDW6bRhxU
 Zabavna]Danijel Djuric}Boginja=http://www.youtube.com/watch?v=qrVAnQ3pdyk
+Zabavna]Danijel Djuric}Baron (ft. Indy)=--start-time=15 http://www.youtube.com/watch?v=b2197__ydQo
 Zabavna]Danijel Djuric}Cudna ljubav=http://www.youtube.com/watch?v=ORSUiF6VyW8
 Zabavna]Danijel Djuric}Cutim, cutim=http://www.youtube.com/watch?v=rSjVJqkHgFA
 Zabavna]Danijel Djuric}Daira=http://www.youtube.com/watch?v=V2pKHKGfvZs
@@ -7438,6 +7442,7 @@ Narodna]Jadranka Barjaktarovic}Krv sam tvoja=http://www.youtube.com/watch?v=S-MZ
 Narodna]Jadranka Barjaktarovic}Laka=http://www.youtube.com/watch?v=WdKcJt-KzI0
 Narodna]Jadranka Barjaktarovic}Linija nadanja=http://www.youtube.com/watch?v=7tFRn8IwhZQ
 Narodna]Jadranka Barjaktarovic}Lude godine=http://www.youtube.com/watch?v=4_SU9Ow95zs
+Narodna]Jadranka Barjaktarovic}Luzeru=--start-time=35 http://www.youtube.com/watch?v=JRDmZJApj9g
 Narodna]Jadranka Barjaktarovic}Mambo=http://www.youtube.com/watch?v=4KcIb3Fsa6s
 Narodna]Jadranka Barjaktarovic}Moj zivote, moja tugo=http://www.youtube.com/watch?v=_Lk5imeIZ6E
 Narodna]Jadranka Barjaktarovic}Neotporna=http://www.youtube.com/watch?v=JvvZR1jbK24
