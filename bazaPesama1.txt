@@ -379,7 +379,7 @@ Rep]Ajs Nigrutin}Pjur pleja=http://www.youtube.com/watch?v=TlvAyePJPM8
 Rep]Ajs Nigrutin}Prolece je stiglo=http://www.youtube.com/watch?v=vhqcrfFvGIM
 Rep]Ajs Nigrutin}Skit Asher=http://www.youtube.com/watch?v=bNGP_LzrneQ
 Rep]Ajs Nigrutin}Skrec po guzi jedan=http://www.youtube.com/watch?v=g6sMc9f0fKY
-Rep]Ajs Nigrutin}Space Nigrutin=http://www.youtube.com/watch?v=hbuOFMFOZQA
+Rep]Ajs Nigrutin}Space Nigrutin=--start-time=7 http://www.youtube.com/watch?v=7203okW3Bgg
 Rep]Ajs Nigrutin}Strokavi mozak=http://www.youtube.com/watch?v=L965g7By6uA
 Rep]Ajs Nigrutin}Svasta s tobom, Ajzace=http://www.youtube.com/watch?v=_RVBaD9K7Sc
 Rep]Ajs Nigrutin}Tako se ispostavilo=http://www.youtube.com/watch?v=E7SK85YEoQk
@@ -8614,7 +8614,7 @@ Narodna]Lepa Brena}Danas placem ja, a sutra ces ti=http://www.youtube.com/watch?
 Narodna]Lepa Brena}Decko mi je skolarac=http://www.youtube.com/watch?v=Z7KGJRnRGYk
 Narodna]Lepa Brena}Disko urnebes=http://www.youtube.com/watch?v=PKgVaW6GRsM
 Narodna]Lepa Brena}Djordje=http://www.youtube.com/watch?v=O6w7hf3XNS4
-Narodna]Lepa Brena}Dobra gresnica=http://www.youtube.com/watch?v=xS_2sh2YLgs
+Narodna]Lepa Brena}Dobra gresnica=http://www.youtube.com/watch?v=06-bZ7xu25Q
 Narodna]Lepa Brena}Dominantan=http://www.youtube.com/watch?v=iP8nwfxmSY4
 Narodna]Lepa Brena}Dud=http://www.youtube.com/watch?v=f4u5Wbkt9lI
 Narodna]Lepa Brena}Duge noge=http://www.youtube.com/watch?v=2BUWjzlj4-E
@@ -8732,7 +8732,7 @@ Narodna]Lepa Brena}Zaboravljena zena=http://www.youtube.com/watch?v=Tjtu8CHXksI
 Narodna]Lepa Brena}Zali Boze=http://www.youtube.com/watch?v=Zz4sguOiOxQ
 Narodna]Lepa Brena}Zaljubiska=http://www.youtube.com/watch?v=RtxdJccYGWE
 Narodna]Lepa Brena}Zaljubljeni veruju u sve=http://www.youtube.com/watch?v=MXtotEy7n2c
-Narodna]Lepa Brena}Zasto=http://www.youtube.com/watch?v=rWQlDV7dpTk
+Narodna]Lepa Brena}Zasto=http://www.youtube.com/watch?v=QufTqBKpXlE
 Narodna]Lepa Brena}Zatvori oci=http://www.youtube.com/watch?v=8IuPqIfYcVI
 Narodna]Lepa Brena}Zbog tebe=http://www.youtube.com/watch?v=K9Gyzb72V5M
 Narodna]Lepa Brena}Zeravica=http://www.youtube.com/watch?v=zF9zLYLH1Ds
