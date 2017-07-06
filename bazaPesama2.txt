@@ -1535,6 +1535,7 @@ Zabavna]Ministarke}Moje jedino=--start-time=19 http://www.youtube.com/watch?v=4J
 Zabavna]Ministarke}Mrtav ili ziv=http://www.youtube.com/watch?v=0aUb_YgTwtM
 Zabavna]Ministarke}Paradoks=http://www.youtube.com/watch?v=eyX4AwkQqwk
 Zabavna]Ministarke}Poplava (vs Aco Pejovic)=--start-time=6 http://www.youtube.com/watch?v=p4gA8Ak8KHc
+Zabavna]Ministarke}Tutto completo=--start-time=14 http://www.youtube.com/watch?v=N-QcZ3CU724
 Zabavna]Ministarke}Zver (duet Sasa Matic)=--start-time=6 http://www.youtube.com/watch?v=1CgZniByhfg
 Zabavna]Ministarke}Zauzeto=--start-time=34 http://www.youtube.com/watch?v=Rb2JCencYqs
 Narodna]Mira Skoric}Bicu nekom dobra ja=http://www.youtube.com/watch?v=mWqq-j3_WNU
@@ -4325,10 +4326,12 @@ Zabavna]Ruzica Cavic}Zivot=http://www.youtube.com/watch?v=O5vJJuU1AbI
 Zabavna]S.A.R.S}Budjav lebac=http://www.youtube.com/watch?v=YAMClna5m8k
 Zabavna]S.A.R.S}Dane brojim=http://www.youtube.com/watch?v=IZ50j34m3jg
 Zabavna]S.A.R.S}Debeli lad=http://www.youtube.com/watch?v=PSat2QUVb5c
+Zabavna]S.A.R.S}Diploma=http://www.youtube.com/watch?v=mhoE8YyPSYs
 Zabavna]S.A.R.S}Klinka=http://www.youtube.com/watch?v=KrBf04hnIBA
 Zabavna]S.A.R.S}Lutka=http://www.youtube.com/watch?v=P8KhDiYeN_g
 Zabavna]S.A.R.S}Neka te kraj mene=http://www.youtube.com/watch?v=bY4LsGcuFYk
 Zabavna]S.A.R.S}Perspektiva=http://www.youtube.com/watch?v=l0lldUn-b64
+Zabavna]S.A.R.S}Pepeo=http://www.youtube.com/watch?v=4Hd97DBuQLs
 Zabavna]S.A.R.S}Prakticna zena=http://www.youtube.com/watch?v=oijqK3ahxis
 Zabavna]S.A.R.S}Rakija=http://www.youtube.com/watch?v=X6USypJjYSM
 Zabavna]S.A.R.S}Ratujemo ti i ja=http://www.youtube.com/watch?v=4hijhSmOpjk
@@ -7426,6 +7429,7 @@ Zabavna]Tropico Band}Evo ti sve=http://www.youtube.com/watch?v=kHcYFAHNNUE
 Zabavna]Tropico Band}Jos ovo vece=http://www.youtube.com/watch?v=eOU09hH5Hyc
 Zabavna]Tropico Band}Ko zna zasto=http://www.youtube.com/watch?v=pJ9cC07yqaw
 Zabavna]Tropico Band}Mislicu na tebe=http://www.youtube.com/watch?v=nA1Myvq2mks
+Zabavna]Tropico Band}Haluciniram=--start-time=15 http://www.youtube.com/watch?v=h__styc_jCQ
 Zabavna]Tropico Band}Mrve od ljubavi=http://www.youtube.com/watch?v=9mB9NSf7G00
 Zabavna]Tropico Band}Ne zovi me=http://www.youtube.com/watch?v=GHVX2GBJiz0
 Zabavna]Tropico Band}Ni mrtav ni ziv=http://www.youtube.com/watch?v=OrOvqTyO4mk
@@ -8291,6 +8295,7 @@ Zabavna]Zeljko Joksimovic}Ljubavi=http://www.youtube.com/watch?v=uGlFTOBdPBc
 Zabavna]Zeljko Joksimovic}Lud i ponosan=http://www.youtube.com/watch?v=addSmYIYQ-E
 Zabavna]Zeljko Joksimovic}Ludak kao ja=http://www.youtube.com/watch?v=TVmIAwSrT78
 Zabavna]Zeljko Joksimovic}Lutko moja=http://www.youtube.com/watch?v=WGg0AwZ5w2I
+Zabavna]Zeljko Joksimovic}Milimetar=http://www.youtube.com/watch?v=37MRz_B7WTo
 Zabavna]Zeljko Joksimovic}Najmoje=http://www.youtube.com/watch?v=qyaSwOlrk5M
 Zabavna]Zeljko Joksimovic}Ne das mi mira=http://www.youtube.com/watch?v=SoI-74l__eQ
 Zabavna]Zeljko Joksimovic}Nema tebi doveka=http://www.youtube.com/watch?v=CVDsWfpIl5w
