@@ -547,6 +547,7 @@ Narodna]Ljupka Stevic}Etiketa=http://www.youtube.com/watch?v=qP1HLCWVrBQ
 Narodna]Ljupka Stevic}Ljubi, ljubi dok si mlad=http://www.youtube.com/watch?v=o_DP1tdh660
 Narodna]Ljupka Stevic}Masina=http://www.youtube.com/watch?v=KzVbt1NmUZw
 Narodna]Ljupka Stevic}Mora po mom=http://www.youtube.com/watch?v=2CNWDU1TIzA
+Narodna]Ljupka Stevic}Ostavi telefon=--start-time=5 http://www.youtube.com/watch?v=VBXYuaq2n68
 Narodna]Ljupka Stevic}Sreca nisam s njim=http://www.youtube.com/watch?v=5j3FzNrZ9iA
 Narodna]Louis}Bilo cija=http://www.youtube.com/watch?v=PImJihEN8Zw
 Narodna]Louis}Blago onom ko te ima=http://www.youtube.com/watch?v=lXzdREDDon0
@@ -2034,6 +2035,7 @@ Narodna]Nada Topcagic}Zovem te, zovem=http://www.youtube.com/watch?v=mmK5BrmRNYk
 Zabavna]Natasa Bekvalac}Bolesno te volim=http://www.youtube.com/watch?v=y-p0dDS12CE
 Zabavna]Natasa Bekvalac}Bolja sam od nje=http://www.youtube.com/watch?v=2MdkWVSlmUM
 Zabavna]Natasa Bekvalac}Cistija=http://www.youtube.com/watch?v=aVKNZiUryDU
+Zabavna]Natasa Bekvalac}Crta=http://www.youtube.com/watch?v=sTvxXlomumo
 Zabavna]Natasa Bekvalac}Dobro moje=http://www.youtube.com/watch?v=DlimK2zoTQk
 Zabavna]Natasa Bekvalac}Dve pilule=http://www.youtube.com/watch?v=cH-EAqrGtWQ
 Zabavna]Natasa Bekvalac}Gubim tlo pod nogama=http://www.youtube.com/watch?v=obd_avIlORA
