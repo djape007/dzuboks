@@ -2434,6 +2434,7 @@ Zabavna]Nikolija}101 propusten poziv=--start-time=12 http://www.youtube.com/watc
 Zabavna]Nikolija}Alkohola litar (Elitni odredi, Dj Mladja)=http://www.youtube.com/watch?v=gAgievLY0YA
 Zabavna]Nikolija}Kako posle mene=http://www.youtube.com/watch?v=d0YNd9fPWt0
 Zabavna]Nikolija}Ljubavni maneken=--start-time=6 http://www.youtube.com/watch?v=K37NlPObj5o
+Zabavna]Nikolija}Los momak=--start-time=12 http://www.youtube.com/watch?v=1zqVnbzN9ps
 Zabavna]Nikolija}Niko kao mi=--start-time=8 http://www.youtube.com/watch?v=rsprwEbsp40
 Zabavna]Nikolija}Opasna igra=--start-time=6 http://www.youtube.com/watch?v=0IoRKY6pjQQ
 Zabavna]Nikolija}Promeni mi planove=--start-time=6 http://www.youtube.com/watch?v=VBFIidX09uc
@@ -3925,6 +3926,7 @@ Zabavna]Radmila Manojlovic}Moje milo=http://www.youtube.com/watch?v=pr7rohyu9WM
 Zabavna]Radmila Manojlovic}Nije meni=http://www.youtube.com/watch?v=3_i17S64-EA
 Zabavna]Radmila Manojlovic}Nikada vise=http://www.youtube.com/watch?v=lF554o9TkjU
 Zabavna]Radmila Manojlovic}Pusti noci neka bole=http://www.youtube.com/watch?v=jayLqg8LMSQ
+Zabavna]Radmila Manojlovic}Spavaj mirno=--start-time=9 http://www.youtube.com/watch?v=sOobpyPzzN8
 Rok]Rambo Amadeus}Asik mlaka voda meraklijska=http://www.youtube.com/watch?v=psvwMI9TcdI
 Rok]Rambo Amadeus}Beton=http://www.youtube.com/watch?v=-6xm1PDG6I8
 Rok]Rambo Amadeus}Cobane vrati se=http://www.youtube.com/watch?v=dwIGf3qGTAM
@@ -3964,6 +3966,7 @@ Zabavna]Rasta}Hotel=http://www.youtube.com/watch?v=Ek5yiu7rmO8
 Zabavna]Rasta}Indigo=--start-time=3 http://www.youtube.com/watch?v=PGOihM5NQbY
 Zabavna]Rasta}Kavali=http://www.youtube.com/watch?v=XNhRXfTJK_c
 Zabavna]Rasta}Kavasaki=--start-time=17 http://www.youtube.com/watch?v=Zo8S1ErnnTE
+Zabavna]Rasta}Kilo kilo=http://www.youtube.com/watch?v=Jrc4Zg4g2bQ
 Zabavna]Rasta}Mala=http://www.youtube.com/watch?v=Qd-zHPRBMrM
 Zabavna]Rasta}Moja stvar=--start-time=3 http://www.youtube.com/watch?v=cO8bTCjCkd4
 Zabavna]Rasta}Slucajnost (ft. Ana Nikolic)=--start-time=15 http://www.youtube.com/watch?v=0fhrf-BMPxY
@@ -6026,6 +6029,7 @@ Zabavna]Severina}Italiana=http://www.youtube.com/watch?v=NyqXia8XTfI
 Zabavna]Severina}Ja samo pjevam=http://www.youtube.com/watch?v=Nqo3Th60vv8
 Zabavna]Severina}Lola=http://www.youtube.com/watch?v=nMzCz21lR9M
 Zabavna]Severina}Mala je dala=http://www.youtube.com/watch?v=nxLJO-_Nam4
+Zabavna]Severina}Kuda za vikend=--start-time=6 http://www.youtube.com/watch?v=XWorj1CVbI4
 Zabavna]Severina}More tuge (duet Sasa Matic)=--start-time=7 http://www.youtube.com/watch?v=5ZUIkoNuGwE
 Zabavna]Severina}Mrtav bez mene=http://www.youtube.com/watch?v=UGiF2lxuz8o
 Zabavna]Severina}Otrove (ft. Jala Brat)=http://www.youtube.com/watch?v=cFpJwUiOM-o
