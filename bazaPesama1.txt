@@ -3606,7 +3606,7 @@ Zabavna]Djordje Balasevic}Civutski vrt=http://www.youtube.com/watch?v=4CpnsHD88O
 Zabavna]Djordje Balasevic}Covek sa mesecom u ocima=http://www.youtube.com/watch?v=SrR6O8pT5Mo
 Zabavna]Djordje Balasevic}Covek za kog se udala Buba Erdeljan=http://www.youtube.com/watch?v=Dj8K7D4G1OI
 Zabavna]Djordje Balasevic}Crni labud=http://www.youtube.com/watch?v=D070wZ7dDhs
-Zabavna]Djordje Balasevic}D-moll=http://www.youtube.com/watch?v=wwl1qtMiFuI
+Zabavna]Djordje Balasevic}D-moll=--start-time=5 http://www.youtube.com/watch?v=F4dIiV4jFG4
 Zabavna]Djordje Balasevic}Dan posle ponedeljka=http://www.youtube.com/watch?v=n8-cTzHj5Os
 Zabavna]Djordje Balasevic}Devojka sa cardas nogama=http://www.youtube.com/watch?v=WhuVMwZRXKo
 Zabavna]Djordje Balasevic}Divlji badem=http://www.youtube.com/watch?v=YJcD1dZSsO8
@@ -3708,7 +3708,6 @@ Zabavna]Djordje Balasevic}Put u srediste zemlje=http://www.youtube.com/watch?v=8
 Zabavna]Djordje Balasevic}Ratnik paorskog srca=http://www.youtube.com/watch?v=QqNdo4RyhNI
 Zabavna]Djordje Balasevic}Ringispil=http://www.youtube.com/watch?v=8CTJYTyk_uk
 Zabavna]Djordje Balasevic}Regruteska=--start-time=35 http://www.youtube.com/watch?v=JdMrEy8R83I
-Zabavna]Djordje Balasevic}Remorker=http://www.youtube.com/watch?v=iik3PXtluMA
 Zabavna]Djordje Balasevic}Requiem=http://www.youtube.com/watch?v=1_5iO8cakYg
 Zabavna]Djordje Balasevic}Salas ni na nebu ni na zemlji=http://www.youtube.com/watch?v=wny-F5HzASw
 Zabavna]Djordje Balasevic}Samo da rata ne bude=http://www.youtube.com/watch?v=yC5qEbuGves
