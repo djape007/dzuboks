@@ -3592,7 +3592,6 @@ Zabavna]Djordje Balasevic}Balkanski tango=http://www.youtube.com/watch?v=QawlwSb
 Zabavna]Djordje Balasevic}Becarac=http://www.youtube.com/watch?v=BQN6nkmtHXI
 Zabavna]Djordje Balasevic}Bela ladja=http://www.youtube.com/watch?v=PD5kFIGxk2Y
 Zabavna]Djordje Balasevic}Berba '59.=http://www.youtube.com/watch?v=dDnlQiOub3U
-Zabavna]Djordje Balasevic}Bezdan=http://www.youtube.com/watch?v=XXpbWYFjR0o
 Zabavna]Djordje Balasevic}Blues mutne vode=http://www.youtube.com/watch?v=ZfsGeW3jSqI
 Zabavna]Djordje Balasevic}Boza zvani pub=http://www.youtube.com/watch?v=6n2sXOBafiI
 Zabavna]Djordje Balasevic}Boze, Boze=http://www.youtube.com/watch?v=_n7_QF6DdV4
@@ -3681,7 +3680,7 @@ Zabavna]Djordje Balasevic}Odlazi cirkus=http://www.youtube.com/watch?v=G_KLMvQXN
 Zabavna]Djordje Balasevic}Prica o Vasi Ladackom=http://www.youtube.com/watch?v=R75cM4OjREw
 Zabavna]Djordje Balasevic}Ognjena=http://www.youtube.com/watch?v=LPfNFVRdyJQ
 Zabavna]Djordje Balasevic}Ole Lole=http://www.youtube.com/watch?v=fY7SlYlShLg
-Zabavna]Djordje Balasevic}Olivera=http://www.youtube.com/watch?v=Tr5fnMcmb2k
+Zabavna]Djordje Balasevic}Olivera=--start-time=38 http://www.youtube.com/watch?v=zo6pEv8G67U
 Zabavna]Djordje Balasevic}Oni=http://www.youtube.com/watch?v=FVTf986IXtQ
 Zabavna]Djordje Balasevic}Oprosti mi, Katrin=http://www.youtube.com/watch?v=ukFOxYjj7KQ
 Zabavna]Djordje Balasevic}Osmeh se vratio u grad=http://www.youtube.com/watch?v=dmzi6qRCMdI
@@ -3696,10 +3695,10 @@ Zabavna]Djordje Balasevic}Poluuspavanka=http://www.youtube.com/watch?v=Du3BU4Mxz
 Zabavna]Djordje Balasevic}Portret zivota mog=http://www.youtube.com/watch?v=BZ07AVs3GKY
 Zabavna]Djordje Balasevic}Poslednja nevesta=http://www.youtube.com/watch?v=NsJ2yFd7XTk
 Zabavna]Djordje Balasevic}Posvadjana pesma=http://www.youtube.com/watch?v=vMN6KKHovcE
-Zabavna]Djordje Balasevic}Pred zadnji sneg=http://www.youtube.com/watch?v=yi9QlR2kSCQ
 Zabavna]Djordje Balasevic}Predlog=http://www.youtube.com/watch?v=TCbi-48Y10w
 Zabavna]Djordje Balasevic}Prodaje se prijatelj=http://www.youtube.com/watch?v=4CTHiS2Lv3w
 Zabavna]Djordje Balasevic}Provincijalka=http://www.youtube.com/watch?v=8oWuKScoNio
+Zabavna]Djordje Balasevic}Pred zadnji sneg=http://www.youtube.com/watch?v=_3oOPTip410
 Zabavna]Djordje Balasevic}Prva ljubav=http://www.youtube.com/watch?v=Keg24c8bA9s
 Zabavna]Djordje Balasevic}Prvi januar=http://www.youtube.com/watch?v=NeikcMKtx2Y
 Zabavna]Djordje Balasevic}Put u srediste zemlje=http://www.youtube.com/watch?v=8OMsvH8INYU

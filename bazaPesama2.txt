@@ -5359,15 +5359,12 @@ Narodna]Seka Aleksic}Devet dana=http://www.youtube.com/watch?v=32EwuoPAaFI
 Narodna]Seka Aleksic}Dim srca mog=http://www.youtube.com/watch?v=Figby8eZnUM
 Narodna]Seka Aleksic}Dobri druze moj=http://www.youtube.com/watch?v=i-Y4WCRXnZ4
 Narodna]Seka Aleksic}Dodji i uzmi me=http://www.youtube.com/watch?v=XQxRntt7Rpw
-Zabavna]Seka Aleksic}Doktore=http://www.youtube.com/watch?v=vQvkdMM17N0
 Narodna]Seka Aleksic}Doktore=http://www.youtube.com/watch?v=vQvkdMM17N0
 Narodna]Seka Aleksic}Dva srca na zidu=http://www.youtube.com/watch?v=o6Vn5n0S6dg
 Narodna]Seka Aleksic}Evo=--start-time=18 http://www.youtube.com/watch?v=fRaR2ksbBlM
 Narodna]Seka Aleksic}Fine i postene=http://www.youtube.com/watch?v=gZb-2ajFPtI
-Zabavna]Seka Aleksic}Flaster=http://www.youtube.com/watch?v=gcFLcgPT2eI
 Narodna]Seka Aleksic}Flaster=http://www.youtube.com/watch?v=gcFLcgPT2eI
 Narodna]Seka Aleksic}Gde sam ti ja=http://www.youtube.com/watch?v=P4-TIB_j0UQ
-Zabavna]Seka Aleksic}Haljina na pruge=http://www.youtube.com/watch?v=ztRMC3jA1I8
 Narodna]Seka Aleksic}Haljina na pruge=http://www.youtube.com/watch?v=ztRMC3jA1I8
 Narodna]Seka Aleksic}Hirosima=http://www.youtube.com/watch?v=uLZZtiHucpU
 Narodna]Seka Aleksic}I u vatru, i u vodu=http://www.youtube.com/watch?v=LeSJ-oK0qkE
@@ -5387,7 +5384,6 @@ Narodna]Seka Aleksic}K'o da sutra ne postoji=http://www.youtube.com/watch?v=udxh
 Narodna]Seka Aleksic}K'o ta casa=http://www.youtube.com/watch?v=47YtyKVbbK8
 Narodna]Seka Aleksic}Kad cujem korak tvoj=http://www.youtube.com/watch?v=hW5_BfYWQd0
 Narodna]Seka Aleksic}Kazu svi=http://www.youtube.com/watch?v=llwVJ2f5b5U
-Zabavna]Seka Aleksic}Koma=http://www.youtube.com/watch?v=-b10o_WoZRg
 Narodna]Seka Aleksic}Koma=http://www.youtube.com/watch?v=-b10o_WoZRg
 Narodna]Seka Aleksic}Kraljica=http://www.youtube.com/watch?v=UkvW91n2Ico
 Narodna]Seka Aleksic}Kucka=http://www.youtube.com/watch?v=7gbbwKF9WHE
@@ -5412,7 +5408,6 @@ Narodna]Seka Aleksic}Odiseja=http://www.youtube.com/watch?v=DHpDGu_29zw
 Narodna]Seka Aleksic}Opet=http://www.youtube.com/watch?v=ogO1VZpRKXY
 Narodna]Seka Aleksic}Otrovnica=http://www.youtube.com/watch?v=bJMBWsfXWCs
 Narodna]Seka Aleksic}Pocetak kraja=http://www.youtube.com/watch?v=Fsns-Z7Cx8A
-Zabavna]Seka Aleksic}Poludela=http://www.youtube.com/watch?v=fUHuVvbhV30
 Narodna]Seka Aleksic}Poludela=http://www.youtube.com/watch?v=fUHuVvbhV30
 Narodna]Seka Aleksic}Poslednji let=http://www.youtube.com/watch?v=D8GixtJ56jE
 Narodna]Seka Aleksic}Ranjeni lav=http://www.youtube.com/watch?v=CrxOQbTvMM4
@@ -5431,7 +5426,6 @@ Narodna]Seka Aleksic}Svi tvoji milioni=http://www.youtube.com/watch?v=_9FduRfz6Q
 Narodna]Seka Aleksic}Svidja mi se tvoja devojka=http://www.youtube.com/watch?v=aTfDqmgI-f8
 Narodna]Seka Aleksic}Tamo gde si ti=http://www.youtube.com/watch?v=NqVIhODvvUQ
 Narodna]Seka Aleksic}Tesna koza=http://www.youtube.com/watch?v=LrbW88RsuGs
-Zabavna]Seka Aleksic}Ti i ja smo par=http://www.youtube.com/watch?v=7ZUP-ucFNBk
 Narodna]Seka Aleksic}Ti i ja smo par=http://www.youtube.com/watch?v=7ZUP-ucFNBk
 Narodna]Seka Aleksic}Ti se hrani mojim bolom II=http://www.youtube.com/watch?v=hjedLMFtoz4
 Narodna]Seka Aleksic}Ti se hrani mojim bolom=http://www.youtube.com/watch?v=aoJPvx2Lr2k
