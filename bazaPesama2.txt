@@ -4628,6 +4628,7 @@ Narodna]Saban Saulic}Opasna si kao kobra=http://www.youtube.com/watch?v=uhQKJJBb
 Narodna]Saban Saulic}Oprosti mi ako mozes=http://www.youtube.com/watch?v=Upe9V0Z9PUU
 Narodna]Saban Saulic}Oprosti mi nano=http://www.youtube.com/watch?v=q4KuIMI5Ln4
 Narodna]Saban Saulic}Otisla si draga=http://www.youtube.com/watch?v=aZ7BtWVRt2M
+Narodna]Saban Saulic}Otkad tebe znam (ft. Tea Tairovic)=--start-time=6 http://www.youtube.com/watch?v=XUqT9lL5vac
 Narodna]Saban Saulic}Otisla si tugo moja=http://www.youtube.com/watch?v=u4ahpQ_KC3w
 Narodna]Saban Saulic}Ovde su svirali tiho=http://www.youtube.com/watch?v=i5HYDj-GNW8
 Narodna]Saban Saulic}Pati veni, ko svi ostavljeni=http://www.youtube.com/watch?v=1DzirvzeN5U
@@ -7168,6 +7169,10 @@ Rep]Tatula}U mojoj sobi=http://www.youtube.com/watch?v=ZdDCHGKvkbQ
 Rep]Tatula}U ovom gradu=http://www.youtube.com/watch?v=4PwMkocLkWo
 Rep]Tatula}Za moje ljude=http://www.youtube.com/watch?v=DsDFTGNrvww
 Rep]Tatula}Zene i alkohol=http://www.youtube.com/watch?v=utQKL4G3DpQ
+Narodna]Tea Tairovic}Otkad tebe znam (ft. Saban Saulic)=--start-time6 http://www.youtube.com/watch?v=XUqT9lL5vac
+Narodna]Tea Tairovic}Igracica=--start-time=5 http://www.youtube.com/watch?v=vtO-8z9LGx8
+Narodna]Tea Tairovic}Nevolja=--start-time=16 http://www.youtube.com/watch?v=FR1_fLdB_RE
+Narodna]Tea Tairovic}Meni odgovara=--start-time=12 http://www.youtube.com/watch?v=UUbUvxMON-A
 Rok]Tifa}21 vek (duet Miligram)=http://www.youtube.com/watch?v=TDtRcKBdQVc
 Rok]Tifa}Baraba (duet Elvira)=http://www.youtube.com/watch?v=NNJ5EBsyIpM
 Rok]Tifa}Evo ima godina=http://www.youtube.com/watch?v=FCiI3cGJFd8
