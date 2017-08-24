@@ -626,7 +626,7 @@ Zabavna]Magazin}Kad u vojsku podjes=http://www.youtube.com/watch?v=A9aPdlc_06s
 Zabavna]Magazin}Kako sam te voljela=http://www.youtube.com/watch?v=uqxlQl2BL9Q
 Zabavna]Magazin}Kemija=http://www.youtube.com/watch?v=ZVrWbTSeeB0
 Zabavna]Magazin}Ko me zove=http://www.youtube.com/watch?v=2njrAHgUdEQ
-Zabavna]Magazin}Ljube se dobri, losi, zli=http://www.youtube.com/watch?v=My2t7x51fZQ
+Zabavna]Magazin}Ljube se dobri, losi, zli=http://www.youtube.com/watch?v=HLNZG_Hcf9k
 Zabavna]Magazin}Luna=http://www.youtube.com/watch?v=hYMDUvFopXs
 Zabavna]Magazin}Maslacak=http://www.youtube.com/watch?v=OJVdf4z8Le8
 Zabavna]Magazin}Minus i plus=http://www.youtube.com/watch?v=ee4DjrVC_Jk
@@ -640,12 +640,12 @@ Zabavna]Magazin}Opijum=http://www.youtube.com/watch?v=dJbclmhnrYo
 Zabavna]Magazin}Parada=http://www.youtube.com/watch?v=0bDwLclE57I
 Zabavna]Magazin}Prorok=http://www.youtube.com/watch?v=ac-p3Rk1dN0
 Zabavna]Magazin}Put putujem=http://www.youtube.com/watch?v=t95eQGIG-dk
-Zabavna]Magazin}Rano, ranije=http://www.youtube.com/watch?v=YLu08bFwJzA
+Zabavna]Magazin}Rano, ranije=--start-time=3 http://www.youtube.com/watch?v=LAeLRLvQqyA
 Zabavna]Magazin}Sijamski blizanci=http://www.youtube.com/watch?v=MRNF6W3LpyU
 Zabavna]Magazin}Suze biserne=http://www.youtube.com/watch?v=To8THPLl7Yw
 Zabavna]Magazin}Suze krijem, one padaju=http://www.youtube.com/watch?v=GST6UqDR9TY
 Zabavna]Magazin}Tamara=http://www.youtube.com/watch?v=5u311Kr1eWc
-Zabavna]Magazin}Ti si zelja mog zivota=http://www.youtube.com/watch?v=YdXZAkGIfCU
+Zabavna]Magazin}Ti si zelja mog zivota=http://www.youtube.com/watch?v=ra3-QsIfIIg
 Zabavna]Magazin}Tri sam ti zime saptala ime=http://www.youtube.com/watch?v=FcFM4BvaqnY
 Narodna]Maja Marijana}Andjeli ljubavi=http://www.youtube.com/watch?v=kiUsSJh7z-A
 Narodna]Maja Marijana}Bio mi je dobar drug=http://www.youtube.com/watch?v=WvEi1b4PXmM
@@ -2603,7 +2603,7 @@ Zabavna]Novi Fosili}Bilo je prelijepo=http://www.youtube.com/watch?v=XiJsVJc1OWU
 Zabavna]Novi Fosili}Bilo mi je prvi put=http://www.youtube.com/watch?v=RCbjg_GIKiU
 Zabavna]Novi Fosili}Budi uvijek blizu=http://www.youtube.com/watch?v=nPz0fIbh1yI
 Zabavna]Novi Fosili}Cujes li me, je l' ti drago=http://www.youtube.com/watch?v=e9s20bK2xV8
-Zabavna]Novi Fosili}Da te ne volim=http://www.youtube.com/watch?v=xcqSLPLbV9E
+Zabavna]Novi Fosili}Da te ne volim=http://www.youtube.com/watch?v=SPmrG22WOMU
 Zabavna]Novi Fosili}Dijete srece=http://www.youtube.com/watch?v=zssBrUSGmJ4
 Zabavna]Novi Fosili}Diridonda=http://www.youtube.com/watch?v=ZM5zIZXSALo
 Zabavna]Novi Fosili}Djeca ljubavi=http://www.youtube.com/watch?v=QQA2xkWt2lo
@@ -2624,11 +2624,11 @@ Zabavna]Novi Fosili}Kazi mi, mama=http://www.youtube.com/watch?v=EJcAz3Dx1Q4
 Zabavna]Novi Fosili}Kljuc je ispod otiraca=http://www.youtube.com/watch?v=OmJr9rJHVok
 Zabavna]Novi Fosili}Kraj ljubavi=http://www.youtube.com/watch?v=JukRpN5gC_w
 Zabavna]Novi Fosili}Lastavice mala=http://www.youtube.com/watch?v=Y-5Mn9BVTeA
-Zabavna]Novi Fosili}Ljubav koja nema kraj=http://www.youtube.com/watch?v=yt5bXrdYBnc
+Zabavna]Novi Fosili}Ljubav koja nema kraj=http://www.youtube.com/watch?v=VBu6H8budg4
 Zabavna]Novi Fosili}Majcine oci=http://www.youtube.com/watch?v=uizU7DbwBoc
 Zabavna]Novi Fosili}Marina iz moje ulice=http://www.youtube.com/watch?v=NeR_5l1CMO0
 Zabavna]Novi Fosili}Mario=http://www.youtube.com/watch?v=atJFxDBHF7Y
-Zabavna]Novi Fosili}Milena=http://www.youtube.com/watch?v=w2CLs0Ue94g
+Zabavna]Novi Fosili}Milena=http://www.youtube.com/watch?v=mcRPMesVpUM
 Zabavna]Novi Fosili}Moj prijatelj Anu ljubi=http://www.youtube.com/watch?v=9Wg-CSoVcQo
 Zabavna]Novi Fosili}Najdraze moje=http://www.youtube.com/watch?v=3OZ52qusexQ
 Zabavna]Novi Fosili}Ne plasi se=http://www.youtube.com/watch?v=SUppFC5sXmM
@@ -2645,7 +2645,7 @@ Zabavna]Novi Fosili}Obrisi suze generacijo=http://www.youtube.com/watch?v=TXqYMR
 Zabavna]Novi Fosili}Okreni se, idi=http://www.youtube.com/watch?v=Tf5bSMswmrc
 Zabavna]Novi Fosili}Otis'o je on=http://www.youtube.com/watch?v=GSVZRWkh8wE
 Zabavna]Novi Fosili}Pazi da ne nazebes=http://www.youtube.com/watch?v=BumHAuY1UZE
-Zabavna]Novi Fosili}Plava kosulja=http://www.youtube.com/watch?v=Zxr4qUPmx50
+Zabavna]Novi Fosili}Plava kosulja=http://www.youtube.com/watch?v=8DzwRtRKigc
 Zabavna]Novi Fosili}Plovi mala barka=http://www.youtube.com/watch?v=P5nOSiNhVd4
 Zabavna]Novi Fosili}Poslije svega=http://www.youtube.com/watch?v=8LLla5p11KU
 Zabavna]Novi Fosili}Pricaj mi o ljubavi=http://www.youtube.com/watch?v=b0M0J1h5hgs
@@ -2663,7 +2663,7 @@ Zabavna]Novi Fosili}Sedam dugih godina=http://www.youtube.com/watch?v=-CNGdyNAE-
 Zabavna]Novi Fosili}Sjecam se jos=http://www.youtube.com/watch?v=VJ1JvVs9v2Y
 Zabavna]Novi Fosili}Sklopi oci=http://www.youtube.com/watch?v=bLBScFeL4hQ
 Zabavna]Novi Fosili}Su, su=http://www.youtube.com/watch?v=qbkhCKjGIjM
-Zabavna]Novi Fosili}Suti moj djecace plavi=http://www.youtube.com/watch?v=CaDkXj4zedw
+Zabavna]Novi Fosili}Suti moj djecace plavi=http://www.youtube.com/watch?v=pHN5eGmm1fM
 Zabavna]Novi Fosili}Svakoga dana=http://www.youtube.com/watch?v=NMrwypQJqac
 Zabavna]Novi Fosili}Tako je malo rijeci palo=http://www.youtube.com/watch?v=Gw8wZKpD74I
 Zabavna]Novi Fosili}Tonka=http://www.youtube.com/watch?v=3mRCv2LCY28
