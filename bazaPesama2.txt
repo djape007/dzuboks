@@ -5105,7 +5105,7 @@ Zabavna]Sasa Kovacevic}Kazes ne=--start-time=23 http://www.youtube.com/watch?v=o
 Zabavna]Sasa Kovacevic}Kome da verujem=http://www.youtube.com/watch?v=NQTQ4z6-GmU
 Zabavna]Sasa Kovacevic}Korak do dna=http://www.youtube.com/watch?v=i9yvOf17tuU
 Zabavna]Sasa Kovacevic}Lagala me il ne lagala=http://www.youtube.com/watch?v=U3gGMjU4trw
-Zabavna]Sasa Kovacevic}Lapsus=http://www.youtube.com/watch?v=KIa54IniRvQ
+Zabavna]Sasa Kovacevic}Lapsus=--start-time=28 http://www.youtube.com/watch?v=KIa54IniRvQ
 Zabavna]Sasa Kovacevic}Lazu te=http://www.youtube.com/watch?v=39WcnZwSTH0
 Zabavna]Sasa Kovacevic}Ludak=http://www.youtube.com/watch?v=Fr2iCEneboA
 Zabavna]Sasa Kovacevic}Mila=http://www.youtube.com/watch?v=GmJ7W9tsS40
