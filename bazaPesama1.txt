@@ -394,7 +394,7 @@ Narodna]Aleksandar Olujic}Party harmonica=http://www.youtube.com/watch?v=aPnYOko
 Narodna]Aleksandar Olujic}Sipaj da ubije=http://www.youtube.com/watch?v=ZPj4tmcz_Y8
 Narodna]Aleksandar Olujic}Ustani rajo=http://www.youtube.com/watch?v=5pSUSmRdq_s
 Narodna]Aleksandra Bursac}Dobri momci ne postoje=http://www.youtube.com/watch?v=6Fao_vbpyhs
-Narodna]Aleksandra Bursac}Grom=http://www.youtube.com/watch?v=5ugVxEQSjik
+Narodna]Aleksandra Bursac}Grom=--start-time=10 http://www.youtube.com/watch?v=5ugVxEQSjik
 Narodna]Aleksandra Bursac}Izdajica=http://www.youtube.com/watch?v=J0thQot3BBk
 Narodna]Aleksandra Bursac}Jabuka=http://www.youtube.com/watch?v=4dU-5NJUL2k
 Narodna]Aleksandra Bursac}Kad mi kaze=http://www.youtube.com/watch?v=LcZUv_tpwoM
@@ -402,7 +402,7 @@ Narodna]Aleksandra Bursac}Mala, mala=http://www.youtube.com/watch?v=9iGFaR3aBDM
 Narodna]Aleksandra Bursac}Padale su kise=http://www.youtube.com/watch?v=3xg8VaUldow
 Narodna]Aleksandra Bursac}Prva liga=http://www.youtube.com/watch?v=1uCkAzItm_o
 Narodna]Aleksandra Bursac}Slomljena od bola=http://www.youtube.com/watch?v=QnK6EIL2LqA
-Narodna]Aleksandra Bursac}Sto te nema ljubavi (feat. Milos Brkic)=http://www.youtube.com/watch?v=eET6OHZqayA
+Narodna]Aleksandra Bursac}Sto te nema ljubavi (feat. Milos Brkic)=--start-time=6 http://www.youtube.com/watch?v=eET6OHZqayA
 Zabavna]Aleksandra Kovac}Da te volim=http://www.youtube.com/watch?v=DgcoJNeQMR8
 Zabavna]Aleksandra Kovac}Idemo dalje=http://www.youtube.com/watch?v=KKAJi5N3iiU
 Zabavna]Aleksandra Kovac}Jedna zena=http://www.youtube.com/watch?v=vhy0YGm2hO0
@@ -1090,46 +1090,46 @@ Zabavna]Ana Nikolic}Voulez vous coucher avec moi=http://www.youtube.com/watch?v=
 Zabavna]Ana Nikolic}Zadnji voz=http://www.youtube.com/watch?v=dPVGOfhj8Pw
 Zabavna]Ana Nikolic}Zla barbika=http://www.youtube.com/watch?v=xbZeRytl-aI
 Zabavna]Ana Stanic}20, 30 godina=http://www.youtube.com/watch?v=OW6CaPqiTO8
-Zabavna]Ana Stanic}Ako zivis za mene=http://www.youtube.com/watch?v=PMtkRJDYRTQ
+Zabavna]Ana Stanic}Ako zivis za mene=--start-time=5 http://www.youtube.com/watch?v=PMtkRJDYRTQ
 Zabavna]Ana Stanic}Autoput=--start-time=5 http://www.youtube.com/watch?v=STUq8NIdHN4
-Zabavna]Ana Stanic}Duh=http://www.youtube.com/watch?v=8kyuhgIJ3Q0
+Zabavna]Ana Stanic}Duh=--start-time=5 http://www.youtube.com/watch?v=8kyuhgIJ3Q0
 Zabavna]Ana Stanic}Falis mi sve vreme=http://www.youtube.com/watch?v=BUJyOS-Fo0M
 Zabavna]Ana Stanic}Grad=--start-time=5 http://www.youtube.com/watch?v=set4DSP-9fU
 Zabavna]Ana Stanic}Hotel=http://www.youtube.com/watch?v=GrFGE9pHshg
-Zabavna]Ana Stanic}Javi se=http://www.youtube.com/watch?v=BglCuatmKo0
+Zabavna]Ana Stanic}Javi se=--start-time=5 http://www.youtube.com/watch?v=BglCuatmKo0
 Zabavna]Ana Stanic}Klinka=http://www.youtube.com/watch?v=3FMf0yznt8Q
 Zabavna]Ana Stanic}Luda=http://www.youtube.com/watch?v=sE2UD1mZvLo
-Zabavna]Ana Stanic}Molila sam andjele=http://www.youtube.com/watch?v=O0G6F-rbNQ0
-Zabavna]Ana Stanic}Neka gori sve=http://www.youtube.com/watch?v=SdMSSnUV8pQ
-Zabavna]Ana Stanic}Neon=http://www.youtube.com/watch?v=AOKfxCOOcGY
-Zabavna]Ana Stanic}Nepokret=http://www.youtube.com/watch?v=fWhlBNKBou8
+Zabavna]Ana Stanic}Molila sam andjele=--start-time=5 http://www.youtube.com/watch?v=O0G6F-rbNQ0
+Zabavna]Ana Stanic}Neka gori sve=--start-time=5 http://www.youtube.com/watch?v=SdMSSnUV8pQ
+Zabavna]Ana Stanic}Neon=--start-time=5 http://www.youtube.com/watch?v=AOKfxCOOcGY
+Zabavna]Ana Stanic}Nepokret=--start-time=5 http://www.youtube.com/watch?v=fWhlBNKBou8
 Zabavna]Ana Stanic}Nepopravljiva=http://www.youtube.com/watch?v=TGtWF_39Ej4
-Zabavna]Ana Stanic}Ni veru ni ljubav=http://www.youtube.com/watch?v=II54cHPuEVs
+Zabavna]Ana Stanic}Ni veru ni ljubav=--start-time=5 http://www.youtube.com/watch?v=II54cHPuEVs
 Zabavna]Ana Stanic}Obicna ljubav=http://www.youtube.com/watch?v=N2gT8ePAjMI
-Zabavna]Ana Stanic}Od tebe mogu vise=http://www.youtube.com/watch?v=uv19CsNgjpc
-Zabavna]Ana Stanic}Ovaj dan=http://www.youtube.com/watch?v=F1S6Vn1FLOU
-Zabavna]Ana Stanic}Panika=http://www.youtube.com/watch?v=UUgN6SKWs_0
+Zabavna]Ana Stanic}Od tebe mogu vise=--start-time=5 http://www.youtube.com/watch?v=uv19CsNgjpc
+Zabavna]Ana Stanic}Ovaj dan=--start-time=5 http://www.youtube.com/watch?v=F1S6Vn1FLOU
+Zabavna]Ana Stanic}Panika=--start-time=5 http://www.youtube.com/watch?v=UUgN6SKWs_0
 Zabavna]Ana Stanic}Pazi sta sanjas=http://www.youtube.com/watch?v=81WxQz8R3Oo
 Zabavna]Ana Stanic}Pogresan=http://www.youtube.com/watch?v=jAkdUU-mQKo
 Zabavna]Ana Stanic}Prezivecu=http://www.youtube.com/watch?v=gDbT_RoHvNY
-Zabavna]Ana Stanic}Prijateljska=http://www.youtube.com/watch?v=1zlr9z0nfVY
-Zabavna]Ana Stanic}Sama=http://www.youtube.com/watch?v=44Rjt3jtlVQ
-Zabavna]Ana Stanic}Samba=http://www.youtube.com/watch?v=jtCbG2a210Q
-Zabavna]Ana Stanic}Sat=http://www.youtube.com/watch?v=9E7u2krL0eo
-Zabavna]Ana Stanic}Skrivanje=http://www.youtube.com/watch?v=oF8Lu0qWIiA
+Zabavna]Ana Stanic}Prijateljska=--start-time=5 http://www.youtube.com/watch?v=1zlr9z0nfVY
+Zabavna]Ana Stanic}Sama=--start-time=5 http://www.youtube.com/watch?v=44Rjt3jtlVQ
+Zabavna]Ana Stanic}Samba=--start-time=5 http://www.youtube.com/watch?v=jtCbG2a210Q
+Zabavna]Ana Stanic}Sat=--start-time=5 http://www.youtube.com/watch?v=9E7u2krL0eo
+Zabavna]Ana Stanic}Skrivanje=--start-time=5 http://www.youtube.com/watch?v=oF8Lu0qWIiA
 Zabavna]Ana Stanic}Srce me laze=http://www.youtube.com/watch?v=dzW1lIoJUSk
 Zabavna]Ana Stanic}Sudar=http://www.youtube.com/watch?v=Zy_bSDDBauM
-Zabavna]Ana Stanic}Suncan dan=http://www.youtube.com/watch?v=X7ckgBFXKBA
-Zabavna]Ana Stanic}Svetionik=http://www.youtube.com/watch?v=hCGPnVDP614
-Zabavna]Ana Stanic}Taj koji zna=http://www.youtube.com/watch?v=6j8NDI23gMU
-Zabavna]Ana Stanic}Tamno nebo=http://www.youtube.com/watch?v=HaDPaG_nueE
-Zabavna]Ana Stanic}Tockovi=http://www.youtube.com/watch?v=F_1m5JGkA3w
+Zabavna]Ana Stanic}Suncan dan=--start-time=5 http://www.youtube.com/watch?v=X7ckgBFXKBA
+Zabavna]Ana Stanic}Svetionik=--start-time=5 http://www.youtube.com/watch?v=hCGPnVDP614
+Zabavna]Ana Stanic}Taj koji zna=--start-time=5 http://www.youtube.com/watch?v=6j8NDI23gMU
+Zabavna]Ana Stanic}Tamno nebo=--start-time=5 http://www.youtube.com/watch?v=HaDPaG_nueE
+Zabavna]Ana Stanic}Tockovi=--start-time=5 http://www.youtube.com/watch?v=F_1m5JGkA3w
 Zabavna]Ana Stanic}Trag ljubomore=http://www.youtube.com/watch?v=Bb1YG2OowpI
 Zabavna]Ana Stanic}Udahni me=http://www.youtube.com/watch?v=vtciNsd88nA
 Zabavna]Ana Stanic}Veliko A=http://www.youtube.com/watch?v=Y2Rmj4_zopM
-Zabavna]Ana Stanic}Vidim te kad=http://www.youtube.com/watch?v=V3CD0F_tJE0
-Zabavna]Ana Stanic}Zadnji sjaj=http://www.youtube.com/watch?v=rcVQdgVY2q4
-Zabavna]Ana Stanic}Zivot je lep=http://www.youtube.com/watch?v=6bZ1anKf12w
+Zabavna]Ana Stanic}Vidim te kad=--start-time=5 http://www.youtube.com/watch?v=V3CD0F_tJE0
+Zabavna]Ana Stanic}Zadnji sjaj=--start-time=5 http://www.youtube.com/watch?v=rcVQdgVY2q4
+Zabavna]Ana Stanic}Zivot je lep=--start-time=5 http://www.youtube.com/watch?v=6bZ1anKf12w
 Zabavna]Anabela}Beograd=--start-time=30 http://www.youtube.com/watch?v=RyGSOKRT5IY
 Zabavna]Anabela}DJ pumpaj=http://www.youtube.com/watch?v=_tk29H71WlE
 Zabavna]Anabela}Igra istine=http://www.youtube.com/watch?v=dOWDljkqY8w
@@ -2256,7 +2256,7 @@ Narodna]Bojan Bjelic}Falim li ti ja=http://www.youtube.com/watch?v=OdIUnk73A2k
 Narodna]Bojan Bjelic}Foliram te=http://www.youtube.com/watch?v=VnRgIigunHs
 Narodna]Bojan Bjelic}Hrid=http://www.youtube.com/watch?v=GmYjDnHTkiI
 Narodna]Bojan Bjelic}Isto ko i sad=http://www.youtube.com/watch?v=TtdxrDNYeSE
-Narodna]Bojan Bjelic}Jedino moje=http://www.youtube.com/watch?v=XEUJQNqj4oo
+Narodna]Bojan Bjelic}Jedino moje=--start-time=6 http://www.youtube.com/watch?v=XEUJQNqj4oo
 Narodna]Bojan Bjelic}Kad ljubav ledja okrene=http://www.youtube.com/watch?v=UkYc3bCV2eg
 Narodna]Bojan Bjelic}Kad me ne bude=http://www.youtube.com/watch?v=wincpmEDMOU
 Narodna]Bojan Bjelic}Kalibar=http://www.youtube.com/watch?v=loGCLG5j9PM
