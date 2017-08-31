@@ -592,6 +592,7 @@ Narodna]Louis}Verujem ti=http://www.youtube.com/watch?v=MU5T-GwMIEc
 Narodna]Louis}Vestica=http://www.youtube.com/watch?v=WK11akki9xQ
 Narodna]Louis}Zbogom, odlazim=http://www.youtube.com/watch?v=VODDQ5s15vc
 Narodna]Louis}Zenim te=http://www.youtube.com/watch?v=CD1puhEh524
+Zabavna]MC Stojan}Mein schatzi (feat. Darko Lazic)=--start-time=16 http://www.youtube.com/watch?v=tuWM6uG79RI
 Zabavna]MC Stojan}Ajmo svi=--start-time=23 http://www.youtube.com/watch?v=ez3ftgp7tU8
 Zabavna]MC Stojan}Bicuj me Stojane=http://www.youtube.com/watch?v=udhqd2dub_A
 Zabavna]MC Stojan}Brzo=http://www.youtube.com/watch?v=nVXaQ4seZh8
@@ -1840,6 +1841,18 @@ Narodna]Mira Skoric}Zaplakace bela zora=http://www.youtube.com/watch?v=9SCWdo8U-
 Narodna]Mira Skoric}Zasto nosis prsten moj=http://www.youtube.com/watch?v=LB6tEiILGOY
 Narodna]Mira Skoric}Zivot krsi pravila=http://www.youtube.com/watch?v=gYBGoWUi5r8
 Narodna]Mira Skoric}Zrno ljubavi=http://www.youtube.com/watch?v=o62qpMgVmoE
+Narodna]Mirjana Aleksic}Rodjendan=http://www.youtube.com/watch?v=HvHhD8dhfEA
+Narodna]Mirjana Aleksic}Sladak rastanak=http://www.youtube.com/watch?v=NJVLIN-h1Ck
+Narodna]Mirjana Aleksic}Cuti i ljubi me=http://www.youtube.com/watch?v=veuO5UYRrzw
+Narodna]Mirjana Aleksic}Zaboravi me (ft. Randevu bend)=http://www.youtube.com/watch?v=Kp2fSa7pP0Q
+Narodna]Mirjana Aleksic}Rano moje mladosti=http://www.youtube.com/watch?v=bku4BO6esCk
+Narodna]Mirjana Aleksic}Tamburalo momce=http://www.youtube.com/watch?v=nadbpEun-SQ
+Narodna]Mirjana Aleksic}Kad ja podjoh na Bembasu=http://www.youtube.com/watch?v=CjMHQhijgT4
+Narodna]Mirjana Aleksic}Opa opa=http://www.youtube.com/watch?v=OHRWfQGB9-w
+Narodna]Mirjana Mirkovic}Dobar ti, losa ja=http://www.youtube.com/watch?v=xqrp-08Hrpo
+Narodna]Mirjana Mirkovic}Peva se i pije (ft. Mareli)=http://www.youtube.com/watch?v=snKKzj4gKBU
+Narodna]Mirjana Mirkovic}Kralj prevare=http://www.youtube.com/watch?v=f2kk_tBN-i8
+Narodna]Mirjana Mirkovic}Zasto me ne pogledas=http://www.youtube.com/watch?v=cnFORrS25jI
 Narodna]Miroslav Ilic}Ah ljubav ljubav=http://www.youtube.com/watch?v=l0T1OktIw5w
 Narodna]Miroslav Ilic}Ako se pitate ljudi=http://www.youtube.com/watch?v=0P0IKAFa-Xo
 Narodna]Miroslav Ilic}Amerika, Amerika=http://www.youtube.com/watch?v=jpVy6HRmR-I
@@ -2006,6 +2019,7 @@ Tamburasi]Miroslav Skoro}Zivot spaja, razdvaja=http://www.youtube.com/watch?v=nL
 Narodna]Mirza Selimovic}Bolis me=http://www.youtube.com/watch?v=hE4FhIOfDa0
 Narodna]Mirza Selimovic}Bolje da ne znas=http://www.youtube.com/watch?v=vOZdct6F14o
 Narodna]Mirza Selimovic}Brod ludaka=--start-time=3 http://www.youtube.com/watch?v=C6V6b3C8i0M
+Narodna]Mirza Selimovic}Da se opet rodim (ft. Ivana Selakov)=http://www.youtube.com/watch?v=Dj_KEwqlAH0
 Narodna]Mirza Selimovic}Gdje smo sada mi=http://www.youtube.com/watch?v=v3C11RV_cU4
 Narodna]Mirza Selimovic}Hiljadu ruza=--start-time=4 http://www.youtube.com/watch?v=Y4vW069SLsU
 Narodna]Mirza Selimovic}Imas me=--start-time=4 http://www.youtube.com/watch?v=xSNA3lwbZp8
@@ -2906,6 +2920,7 @@ Zabavna]Nina Badric}Sto da ti dam=http://www.youtube.com/watch?v=mLrjsY8SVcc
 Zabavna]Nina Badric}Sve je u redu=http://www.youtube.com/watch?v=5-fn7j_NRDM
 Zabavna]Nina Badric}Sve mi pamti=http://www.youtube.com/watch?v=rfm2-zM2JO0
 Zabavna]Nina Badric}Takvi kao ti=http://www.youtube.com/watch?v=Kut9YCXiJwc
+Zabavna]Nina Badric}Ti si mene (duet Dino Merlin)=http://www.youtube.com/watch?v=Crd_cTcQxvQ
 Zabavna]Nina Badric}Ti ne znas kako je=http://www.youtube.com/watch?v=1-zbIE1Ib3Q
 Zabavna]Nina Badric}Tko si ti=http://www.youtube.com/watch?v=fFFsTv6f64s
 Zabavna]Nina Badric}Trebam te=http://www.youtube.com/watch?v=SX6umQRdZDc
@@ -6768,11 +6783,11 @@ Narodna]Serif Konjevic}Ispijam casu srece=http://www.youtube.com/watch?v=l-jcgFi
 Narodna]Serif Konjevic}Istina i san=http://www.youtube.com/watch?v=2feg6xB1wlo
 Narodna]Serif Konjevic}Isto kao prije=http://www.youtube.com/watch?v=Kalwmmy5Fjo
 Narodna]Serif Konjevic}Ja bih da se zabavljamo=http://www.youtube.com/watch?v=icDk982hLrA
-Narodna]Serif Konjevic}Ja bogatstvo ne trebam=http://www.youtube.com/watch?v=B2CqIBAtZlI
+Narodna]Serif Konjevic}Ja bogatstvo ne trebam=http://www.youtube.com/watch?v=L4xmArfM6kE
 Narodna]Serif Konjevic}Ja nemam prava=http://www.youtube.com/watch?v=ma8bf8q7vCQ
 Narodna]Serif Konjevic}Ja nisam od kamena=http://www.youtube.com/watch?v=kmiGbFyi2BE
 Narodna]Serif Konjevic}Ja sam putnik zalutali=http://www.youtube.com/watch?v=Ns1FIZgTL90
-Narodna]Serif Konjevic}Ja te zovem da se vratis=http://www.youtube.com/watch?v=zkhg8spOGz8
+Narodna]Serif Konjevic}Ja te zovem da se vratis=http://www.youtube.com/watch?v=BC1UnIYxCQs
 Narodna]Serif Konjevic}Jasmina=http://www.youtube.com/watch?v=YQhWdnWBmkE
 Narodna]Serif Konjevic}Jedina=http://www.youtube.com/watch?v=z4zHYzTjCxc
 Narodna]Serif Konjevic}Jedino s tobom mogu da disem=http://www.youtube.com/watch?v=_a57dIdSrcU
@@ -6821,6 +6836,7 @@ Narodna]Serif Konjevic}Ne zovite doktore=http://www.youtube.com/watch?v=rXG5aTTr
 Narodna]Serif Konjevic}Necu da se rastajemo=http://www.youtube.com/watch?v=zwXJ1falnYg
 Narodna]Serif Konjevic}Nek' mi oproste=http://www.youtube.com/watch?v=C2p2eKplIxE
 Narodna]Serif Konjevic}Neka si sreco=http://www.youtube.com/watch?v=rgFZq8xinus
+Narodna]Serif Konjevic}Nevjernica=http://www.youtube.com/watch?v=j-5l8dV9hCA
 Narodna]Serif Konjevic}Neko cudno vrijeme=http://www.youtube.com/watch?v=-AT4FIPlmfI
 Narodna]Serif Konjevic}Nema vise vina=http://www.youtube.com/watch?v=pjW1E30gT_Y
 Narodna]Serif Konjevic}Nemam zlata da te platim=http://www.youtube.com/watch?v=zS9kfTSOqIo
@@ -6860,6 +6876,7 @@ Narodna]Serif Konjevic}Put do bola=http://www.youtube.com/watch?v=TIW10hzFgpw
 Narodna]Serif Konjevic}Putnik bez adrese=http://www.youtube.com/watch?v=7rHtWyczafU
 Narodna]Serif Konjevic}Ranjen sam majko od ljubavi=http://www.youtube.com/watch?v=woBH0pHXSZw
 Narodna]Serif Konjevic}Rodi me majko ponovo=http://www.youtube.com/watch?v=GS6yA4ysd3Q
+Narodna]Serif Konjevic}Rodni kraj=http://www.youtube.com/watch?v=qzqh78kaxPE
 Narodna]Serif Konjevic}Ruze iz mog kraja=http://www.youtube.com/watch?v=vLO4CV_b4iY
 Narodna]Serif Konjevic}Sad kad imam sve=http://www.youtube.com/watch?v=reHyuyCWrtk
 Narodna]Serif Konjevic}Samo se jednom zakunes=http://www.youtube.com/watch?v=VnK--qEoMLY
@@ -6880,7 +6897,7 @@ Narodna]Serif Konjevic}Stari se=http://www.youtube.com/watch?v=2u0Ut6u2utY
 Narodna]Serif Konjevic}Suza po suza=http://www.youtube.com/watch?v=AFQOjIHHpJg
 Narodna]Serif Konjevic}Tacno znam=http://www.youtube.com/watch?v=7kgRP6GgeoA
 Narodna]Serif Konjevic}Tek tako=http://www.youtube.com/watch?v=ed1pZVHxWgg
-Narodna]Serif Konjevic}Tesko je=http://www.youtube.com/watch?v=VTRFdeYW2sw
+Narodna]Serif Konjevic}Tesko je=http://www.youtube.com/watch?v=QiawMElhPNI
 Narodna]Serif Konjevic}Ti me ne prepoznajes=http://www.youtube.com/watch?v=JTfrZMdV8Is
 Narodna]Serif Konjevic}Ti nisi andjeo=http://www.youtube.com/watch?v=JTfhAjmOqaw
 Narodna]Serif Konjevic}Ti samo moja si=http://www.youtube.com/watch?v=xSyV8r20lUw
