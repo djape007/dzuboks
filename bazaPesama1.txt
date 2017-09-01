@@ -1636,7 +1636,7 @@ Rok]Bajaga}Ako treba da je kraj=http://www.youtube.com/watch?v=dDYfd9uUnq0
 Rok]Bajaga}Ala=http://www.youtube.com/watch?v=GXRLQcpSiTo
 Rok]Bajaga}Bademi i so=http://www.youtube.com/watch?v=gTrOa4VEtNA
 Rok]Bajaga}Berlin=http://www.youtube.com/watch?v=8CqbaAnC-pE
-Rok]Bajaga}Bezis od mene, ljubavi=http://www.youtube.com/watch?v=x0KSW7d4s_U
+Rok]Bajaga}Bezis od mene, ljubavi=http://www.youtube.com/watch?v=LFXjWdi-4wI
 Rok]Bajaga}Budjenje ranog proleca=http://www.youtube.com/watch?v=q3hEH1M_0kM
 Rok]Bajaga}Da li da odem ili ne=http://www.youtube.com/watch?v=PiKB5JTrsvY
 Rok]Bajaga}Daljina, dim i prasina=http://www.youtube.com/watch?v=hJjbLj3O0OE
@@ -1670,7 +1670,7 @@ Rok]Bajaga}Lepa Janja ribareva kci=http://www.youtube.com/watch?v=cRWzxWfWSIw
 Rok]Bajaga}Leti, leti ptico=http://www.youtube.com/watch?v=DQCuspGwzwA
 Rok]Bajaga}Limene trube=http://www.youtube.com/watch?v=UD22XhPDsOw
 Rok]Bajaga}Lolita=http://www.youtube.com/watch?v=jOwZ1aeM0tM
-Rok]Bajaga}Mala uska haljina=http://www.youtube.com/watch?v=zOf1tEp9fho
+Rok]Bajaga}Mala uska haljina=http://www.youtube.com/watch?v=WuFBoSlmYlE
 Rok]Bajaga}Mali slonovi=http://www.youtube.com/watch?v=7Y3kPg_MCSY
 Rok]Bajaga}Mali svira gitaru=http://www.youtube.com/watch?v=pwGtGJRVljg
 Rok]Bajaga}Marinina tema=http://www.youtube.com/watch?v=vqIqHIaB_4s
@@ -3159,7 +3159,6 @@ Rok]Crvena Jabuka}Radio=http://www.youtube.com/watch?v=_XKPbdSsZFE
 Rok]Crvena Jabuka}Reci mi=http://www.youtube.com/watch?v=eCQGgkbUT0I
 Rok]Crvena Jabuka}Riznice sjecanja=http://www.youtube.com/watch?v=bDRWrGmUmug
 Rok]Crvena Jabuka}Rodjendan=http://www.youtube.com/watch?v=YKsksDrZs8s
-Rok]Crvena Jabuka}Sa tobom znam=http://www.youtube.com/watch?v=_Vo37y5W4fU
 Rok]Crvena Jabuka}Sa tvojih usana=http://www.youtube.com/watch?v=8wePV_2toG0
 Rok]Crvena Jabuka}Sad je srce stijena=http://www.youtube.com/watch?v=6AC1rKg2VHc
 Rok]Crvena Jabuka}Samo da me ne iznevjeris ti=http://www.youtube.com/watch?v=7Ve2YRVxMfg
@@ -3212,7 +3211,7 @@ Rok]Crvena Jabuka}Zauvijek=http://www.youtube.com/watch?v=djEaXnPiMyM
 Rok]Crvena Jabuka}Zbogom, pameti=http://www.youtube.com/watch?v=rW0_ML7z2fs
 Rok]Crvena Jabuka}Zivota moga tajna=http://www.youtube.com/watch?v=ZeGg-TTZwfc
 Rok]Crvena Jabuka}Zlatna ruza=http://www.youtube.com/watch?v=Tv6ULkYXbuc
-Rok]Crvena Jabuka}Znam=http://www.youtube.com/watch?v=_Vo37y5W4fU
+Rok]Crvena Jabuka}Znam=http://www.youtube.com/watch?v=B4grWflI7Kw
 Rok]Crvena Jabuka}Znas da nekad=http://www.youtube.com/watch?v=NTu-MPmb44g
 Rok]Crvena Jabuka}Zovu nas ulice=http://www.youtube.com/watch?v=w5bu5ENvohM
 Rok]Crvena Jabuka}Zvijezda Danica=http://www.youtube.com/watch?v=aTPh7ftekPw
@@ -4515,7 +4514,6 @@ Kantautori]Djordje Balasevic}Virovitica=http://www.youtube.com/watch?v=7uqg_EHTp
 Kantautori]Djordje Balasevic}Za sve je kriv Toma Sojer=http://www.youtube.com/watch?v=dLoH6OcX46I
 Kantautori]Djordje Balasevic}Za trecu smenu=http://www.youtube.com/watch?v=OWpQnUBhd3w
 Kantautori]Djordje Balasevic}Ziveti slobodno=http://www.youtube.com/watch?v=dCAQG3rYgMU
-Kantautori]Djordje Balasevic}Zivot je jednosmerna cesta=http://www.youtube.com/watch?v=iW_mRA_V-Lc
 Kantautori]Djordje Balasevic}Zivot je more=http://www.youtube.com/watch?v=urn6n1xsiA4
 Rep]Dobar Los Zao}Bices moj=http://www.youtube.com/watch?v=qhlgi7nrRIA
 Rep]Dobar Los Zao}Biseri=http://www.youtube.com/watch?v=r_SF14i7VtM
