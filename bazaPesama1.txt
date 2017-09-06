@@ -687,7 +687,7 @@ Zabavna]Alka Vuica}Voli me jos=http://www.youtube.com/watch?v=mOjeQy95VCc
 Zabavna]Alka Vuica}Zauzeto=http://www.youtube.com/watch?v=ilrpFa5sdXs
 Zabavna]Alka Vuica}Zena=http://www.youtube.com/watch?v=oYgmZdln-Ws
 Zabavna]Allegro Band}Andjeo=http://www.youtube.com/watch?v=OA-Yja8sC-I
-Zabavna]Allegro Band}Drugarica=http://www.youtube.com/watch?v=dNldlCQviGg
+Zabavna]Allegro Band}Drugarica=http://www.youtube.com/watch?v=noLUaernjG4
 Zabavna]Allegro Band}Gde si duso, gde si rano=http://www.youtube.com/watch?v=ibBPV5CKvqE
 Zabavna]Allegro Band}Gresne duse=--start-time=25 http://www.youtube.com/watch?v=cLCVWon9MhA
 Zabavna]Allegro Band}Hiljadu zima=http://www.youtube.com/watch?v=9A-QYGckmck
@@ -701,7 +701,7 @@ Zabavna]Allegro Band}Medene=http://www.youtube.com/watch?v=BRzl5xAgKLk
 Zabavna]Allegro Band}Na tvojoj strani=http://www.youtube.com/watch?v=qAfVaXqiSys
 Zabavna]Allegro Band}Neka ide zivot=http://www.youtube.com/watch?v=9NbWiZew7ho
 Zabavna]Allegro Band}Nevera=http://www.youtube.com/watch?v=CyQyu2-z6CA
-Zabavna]Allegro Band}Neveran=http://www.youtube.com/watch?v=LJ-ik266h3s
+Zabavna]Allegro Band}Neveran=http://www.youtube.com/watch?v=jUIXc2vaKGU
 Zabavna]Allegro Band}Nostalgija=http://www.youtube.com/watch?v=3maqeTib2H8
 Zabavna]Allegro Band}Novo vreme=http://www.youtube.com/watch?v=heYj7TG_QR0
 Zabavna]Allegro Band}Opasna=http://www.youtube.com/watch?v=dyxmbQRBSfY
@@ -5826,7 +5826,7 @@ Narodna]Era Ojdanic}Jelo, Jelo, jagnje moje belo=http://www.youtube.com/watch?v=
 Narodna]Era Ojdanic}Kad se ljubav za ljubav ne vrati=http://www.youtube.com/watch?v=Ur2YCPdQiWo
 Narodna]Era Ojdanic}Kakav otac, takav sin=http://www.youtube.com/watch?v=dkFfFSbEb4Y
 Narodna]Era Ojdanic}Kazanova=http://www.youtube.com/watch?v=u7OGk3jODRs
-Narodna]Era Ojdanic}Ko se zeni na brzinu, taj se kaje na tenane=http://www.youtube.com/watch?v=WeW7xCp8HUg
+Narodna]Era Ojdanic}Ko se zeni na brzinu, taj se kaje na tenane=http://www.youtube.com/watch?v=-o_UCabEzOw
 Narodna]Era Ojdanic}Kopa cura vinograd=http://www.youtube.com/watch?v=3_LzjlFgsTc
 Narodna]Era Ojdanic}Kradljivica=http://www.youtube.com/watch?v=v1NnK1l_bvI
 Narodna]Era Ojdanic}Kravate=http://www.youtube.com/watch?v=83Uj0fopxsI
