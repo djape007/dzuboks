@@ -1,16 +1,3 @@
-Narodna]Lepa Lukic}Kceri moja milija od zlata=http://www.youtube.com/watch?v=PT1LFTA5sUA
-Narodna]Lepa Lukic}Kceri moja=http://www.youtube.com/watch?v=PT1LFTA5sUA
-Narodna]Lepa Lukic}Kiso tiho padaj=http://www.youtube.com/watch?v=2HRSZDSFMRk
-Narodna]Lepa Lukic}Ko ce da me voli=http://www.youtube.com/watch?v=jnzwASr6Z2o
-Narodna]Lepa Lukic}Ko je vatra a ko slama=http://www.youtube.com/watch?v=DQ6DKOTogLM
-Narodna]Lepa Lukic}Kome srce ranjeno da nudim=http://www.youtube.com/watch?v=LWGIfkPF1jg
-Narodna]Lepa Lukic}Kosacu moj=http://www.youtube.com/watch?v=F6bQQQwPyCQ
-Narodna]Lepa Lukic}Kraljica bez krune=http://www.youtube.com/watch?v=eh1aAMjcR8Y
-Narodna]Lepa Lukic}Krijes, krijes=http://www.youtube.com/watch?v=CQD1-pQhe7k
-Narodna]Lepa Lukic}Lep sanak=http://www.youtube.com/watch?v=MXMotSuOqrU
-Narodna]Lepa Lukic}Lepa moja=http://www.youtube.com/watch?v=1Hgsw7IfGg8
-Narodna]Lepa Lukic}Lepotan, vragolan=http://www.youtube.com/watch?v=s4-7ScTZrS8
-Narodna]Lepa Lukic}Leti, leti bijeli golube=http://www.youtube.com/watch?v=42eWddzatWY
 Narodna]Lepa Lukic}Ljubavni hajduce=http://www.youtube.com/watch?v=Js_pftgj9so
 Narodna]Lepa Lukic}Ljubi, dragi, molim te=http://www.youtube.com/watch?v=blo4VkkvnHg
 Narodna]Lepa Lukic}Ljudi ko zna leka srcu mom=http://www.youtube.com/watch?v=ngfUbRCudqg
@@ -592,7 +579,6 @@ Narodna]Louis}Verujem ti=http://www.youtube.com/watch?v=MU5T-GwMIEc
 Narodna]Louis}Vestica=http://www.youtube.com/watch?v=WK11akki9xQ
 Narodna]Louis}Zbogom, odlazim=http://www.youtube.com/watch?v=VODDQ5s15vc
 Narodna]Louis}Zenim te=http://www.youtube.com/watch?v=CD1puhEh524
-Zabavna]MC Stojan}Mein schatzi (feat. Darko Lazic)=--start-time=16 http://www.youtube.com/watch?v=tuWM6uG79RI
 Zabavna]MC Stojan}Ajmo svi=--start-time=23 http://www.youtube.com/watch?v=ez3ftgp7tU8
 Zabavna]MC Stojan}Bicuj me Stojane=http://www.youtube.com/watch?v=udhqd2dub_A
 Zabavna]MC Stojan}Brzo=http://www.youtube.com/watch?v=nVXaQ4seZh8
@@ -603,6 +589,7 @@ Zabavna]MC Stojan}Kakva guza=http://www.youtube.com/watch?v=rruNDmgcLzQ
 Zabavna]MC Stojan}Kraljevi grada=--start-time=13 http://www.youtube.com/watch?v=37b4KkJDEDs
 Zabavna]MC Stojan}Kuku lele=http://www.youtube.com/watch?v=VRkVZ6FLTTk
 Zabavna]MC Stojan}Luda zurka=--start-time=6 http://www.youtube.com/watch?v=y943qF58Hug
+Zabavna]MC Stojan}Mein schatzi (feat. Darko Lazic)=--start-time=16 http://www.youtube.com/watch?v=tuWM6uG79RI
 Zabavna]MC Stojan}Nadice isprzi mi jaja=http://www.youtube.com/watch?v=MIobbX7pguE
 Zabavna]MC Stojan}Navucen na tebe=--start-time=10 http://www.youtube.com/watch?v=AmEZvNabl_Y
 Zabavna]MC Stojan}Ne znam gde sam=--start-time=6 http://www.youtube.com/watch?v=F55nCdoqw_o
@@ -1806,16 +1793,15 @@ Narodna]Mira Skoric}Bicu nekom dobra ja=http://www.youtube.com/watch?v=mWqq-j3_W
 Narodna]Mira Skoric}Bilo bi njoj=http://www.youtube.com/watch?v=W_XUxLhvYLE
 Narodna]Mira Skoric}Bog mi tebe dao=http://www.youtube.com/watch?v=Nrz-ctEGPSE
 Narodna]Mira Skoric}Bulbul mi poje=http://www.youtube.com/watch?v=2RLgdSXkaok
-Narodna]Mira Skoric}Dve oluje (duet Zeljko Bebek)=--start-time=7 http://www.youtube.com/watch?v=chp6XbsllR8
 Narodna]Mira Skoric}Dobro smo se nasle=http://www.youtube.com/watch?v=Y-hJisSgAhc
 Narodna]Mira Skoric}Duso moja cista=http://www.youtube.com/watch?v=HGsRHp8bsQ0
+Narodna]Mira Skoric}Dve oluje (duet Zeljko Bebek)=--start-time=7 http://www.youtube.com/watch?v=chp6XbsllR8
 Narodna]Mira Skoric}Ili ja ili rakija (feat. Preldzije)=http://www.youtube.com/watch?v=igCQ44JiWmA
 Narodna]Mira Skoric}Ime moje tuge=http://www.youtube.com/watch?v=e6TjA-6ZOtU
 Narodna]Mira Skoric}Ista nam je tuga=http://www.youtube.com/watch?v=izwCiBZ7EAY
-Narodna]Mira Skoric}Ti si ko i ja=http://www.youtube.com/watch?v=EIMQe6JHvdA
-Narodna]Mira Skoric}Kao led se istopim=http://www.youtube.com/watch?v=BZqeQwlhGtI
 Narodna]Mira Skoric}Kad me vise ne bude=http://www.youtube.com/watch?v=BELaVUuTwQM
 Narodna]Mira Skoric}Kafano=http://www.youtube.com/watch?v=DmfWrLw0_FQ
+Narodna]Mira Skoric}Kao led se istopim=http://www.youtube.com/watch?v=BZqeQwlhGtI
 Narodna]Mira Skoric}Kosa crna=http://www.youtube.com/watch?v=281eoCAoKfs
 Narodna]Mira Skoric}Kumina pesma=http://www.youtube.com/watch?v=nZIT7cNHCKA
 Narodna]Mira Skoric}Los za loseg ne brine=http://www.youtube.com/watch?v=YV6scyRcbno
@@ -1837,26 +1823,27 @@ Narodna]Mira Skoric}Rodicu ti sina=http://www.youtube.com/watch?v=fm9Ju5EJcAk
 Narodna]Mira Skoric}Ruse kose (feat. Rodja Raicevic)=http://www.youtube.com/watch?v=kQ2Ml3xMT0A
 Narodna]Mira Skoric}Srce sa kvarom=http://www.youtube.com/watch?v=A5M3oqX57Ys
 Narodna]Mira Skoric}Tako si pao=http://www.youtube.com/watch?v=BmbqCWB8s6U
+Narodna]Mira Skoric}Ti si ko i ja=http://www.youtube.com/watch?v=EIMQe6JHvdA
 Narodna]Mira Skoric}Tragovi secanja=http://www.youtube.com/watch?v=gFLcMeuYKVs
+Narodna]Mira Skoric}Varao me je=http://www.youtube.com/watch?v=XtrA9rzrMfg
 Narodna]Mira Skoric}Voli je=http://www.youtube.com/watch?v=TIumYZliKUA
 Narodna]Mira Skoric}Vraticu ti jednom sve=http://www.youtube.com/watch?v=QedGngzmIJw
 Narodna]Mira Skoric}Zabava=http://www.youtube.com/watch?v=awDMngDMzl4
-Narodna]Mira Skoric}Varao me je=http://www.youtube.com/watch?v=XtrA9rzrMfg
 Narodna]Mira Skoric}Zaplakace bela zora=http://www.youtube.com/watch?v=9SCWdo8U--c
 Narodna]Mira Skoric}Zasto nosis prsten moj=http://www.youtube.com/watch?v=LB6tEiILGOY
 Narodna]Mira Skoric}Zivot krsi pravila=http://www.youtube.com/watch?v=gYBGoWUi5r8
 Narodna]Mira Skoric}Zrno ljubavi=http://www.youtube.com/watch?v=o62qpMgVmoE
-Narodna]Mirjana Aleksic}Rodjendan=http://www.youtube.com/watch?v=HvHhD8dhfEA
-Narodna]Mirjana Aleksic}Sladak rastanak=http://www.youtube.com/watch?v=NJVLIN-h1Ck
 Narodna]Mirjana Aleksic}Cuti i ljubi me=http://www.youtube.com/watch?v=veuO5UYRrzw
-Narodna]Mirjana Aleksic}Zaboravi me (ft. Randevu bend)=http://www.youtube.com/watch?v=Kp2fSa7pP0Q
-Narodna]Mirjana Aleksic}Rano moje mladosti=http://www.youtube.com/watch?v=bku4BO6esCk
-Narodna]Mirjana Aleksic}Tamburalo momce=http://www.youtube.com/watch?v=nadbpEun-SQ
 Narodna]Mirjana Aleksic}Kad ja podjoh na Bembasu=http://www.youtube.com/watch?v=CjMHQhijgT4
 Narodna]Mirjana Aleksic}Opa opa=http://www.youtube.com/watch?v=OHRWfQGB9-w
+Narodna]Mirjana Aleksic}Rano moje mladosti=http://www.youtube.com/watch?v=bku4BO6esCk
+Narodna]Mirjana Aleksic}Rodjendan=http://www.youtube.com/watch?v=HvHhD8dhfEA
+Narodna]Mirjana Aleksic}Sladak rastanak=http://www.youtube.com/watch?v=NJVLIN-h1Ck
+Narodna]Mirjana Aleksic}Tamburalo momce=http://www.youtube.com/watch?v=nadbpEun-SQ
+Narodna]Mirjana Aleksic}Zaboravi me (ft. Randevu bend)=http://www.youtube.com/watch?v=Kp2fSa7pP0Q
 Narodna]Mirjana Mirkovic}Dobar ti, losa ja=http://www.youtube.com/watch?v=xqrp-08Hrpo
-Narodna]Mirjana Mirkovic}Peva se i pije (ft. Mareli)=http://www.youtube.com/watch?v=snKKzj4gKBU
 Narodna]Mirjana Mirkovic}Kralj prevare=http://www.youtube.com/watch?v=f2kk_tBN-i8
+Narodna]Mirjana Mirkovic}Peva se i pije (ft. Mareli)=http://www.youtube.com/watch?v=snKKzj4gKBU
 Narodna]Mirjana Mirkovic}Zasto me ne pogledas=http://www.youtube.com/watch?v=cnFORrS25jI
 Narodna]Miroslav Ilic}Ah ljubav ljubav=http://www.youtube.com/watch?v=l0T1OktIw5w
 Narodna]Miroslav Ilic}Ako se pitate ljudi=http://www.youtube.com/watch?v=0P0IKAFa-Xo
@@ -2925,8 +2912,8 @@ Zabavna]Nina Badric}Sto da ti dam=http://www.youtube.com/watch?v=mLrjsY8SVcc
 Zabavna]Nina Badric}Sve je u redu=http://www.youtube.com/watch?v=5-fn7j_NRDM
 Zabavna]Nina Badric}Sve mi pamti=http://www.youtube.com/watch?v=rfm2-zM2JO0
 Zabavna]Nina Badric}Takvi kao ti=http://www.youtube.com/watch?v=Kut9YCXiJwc
-Zabavna]Nina Badric}Ti si mene (duet Dino Merlin)=http://www.youtube.com/watch?v=Crd_cTcQxvQ
 Zabavna]Nina Badric}Ti ne znas kako je=http://www.youtube.com/watch?v=1-zbIE1Ib3Q
+Zabavna]Nina Badric}Ti si mene (duet Dino Merlin)=http://www.youtube.com/watch?v=Crd_cTcQxvQ
 Zabavna]Nina Badric}Tko si ti=http://www.youtube.com/watch?v=fFFsTv6f64s
 Zabavna]Nina Badric}Trebam te=http://www.youtube.com/watch?v=SX6umQRdZDc
 Zabavna]Nina Badric}Velika ljubav=http://www.youtube.com/watch?v=23fpcw1wn00
@@ -5366,7 +5353,7 @@ Narodna]Saban Saulic}Sanela, Sanela=http://www.youtube.com/watch?v=ygoGVLpugik
 Narodna]Saban Saulic}Sanjam zenu s malisanom=http://www.youtube.com/watch?v=YDK22IRX44Y
 Narodna]Saban Saulic}Secam se te zene=http://www.youtube.com/watch?v=okia9aUNfb8
 Narodna]Saban Saulic}Sejo moja=http://www.youtube.com/watch?v=pL2bIov-7B0
-Narodna]Saban Saulic}Sesir=http://www.youtube.com/watch?v=fNBmVoKIUjA
+Narodna]Saban Saulic}Sesir=http://www.youtube.com/watch?v=LElqzM0ZGv8
 Narodna]Saban Saulic}Sestra brata kani da vecera=http://www.youtube.com/watch?v=ByXXHfGJZjE
 Narodna]Saban Saulic}Sestra kose raspletala ISECI POCETAK=http://www.youtube.com/watch?v=JmGHLQgO9Is
 Narodna]Saban Saulic}Sine sine=http://www.youtube.com/watch?v=GsHSLCk04x4
@@ -5403,7 +5390,7 @@ Narodna]Saban Saulic}Tajna zelja=http://www.youtube.com/watch?v=l6J0SpDhpc8
 Narodna]Saban Saulic}Takav je Kole=http://www.youtube.com/watch?v=av3s8D9J4f4
 Narodna]Saban Saulic}Tamo kod najdaljih brda=http://www.youtube.com/watch?v=HVhxYbPrCZY
 Narodna]Saban Saulic}Tebe da zaboravim=http://www.youtube.com/watch?v=rAYZzG47i5c
-Narodna]Saban Saulic}Tebi Rada meni Seherzada (duet Sasa Matic)=http://www.youtube.com/watch?v=xsxkWN9tYzU
+Narodna]Saban Saulic}Tebi Rada meni Seherzada (duet Sasa Matic)=http://www.youtube.com/watch?v=J9r7umgGS7Y
 Narodna]Saban Saulic}Tebi koja si otisla=http://www.youtube.com/watch?v=wKm8Z9R2jqc
 Narodna]Saban Saulic}Tebi ne mogu da kazem ne=http://www.youtube.com/watch?v=lNysaaS-izI
 Narodna]Saban Saulic}Telo uz telo=http://www.youtube.com/watch?v=HmeaW1kPL6A
@@ -6839,10 +6826,10 @@ Narodna]Serif Konjevic}Ne zovite doktore=http://www.youtube.com/watch?v=rXG5aTTr
 Narodna]Serif Konjevic}Necu da se rastajemo=http://www.youtube.com/watch?v=zwXJ1falnYg
 Narodna]Serif Konjevic}Nek' mi oproste=http://www.youtube.com/watch?v=C2p2eKplIxE
 Narodna]Serif Konjevic}Neka si sreco=http://www.youtube.com/watch?v=rgFZq8xinus
-Narodna]Serif Konjevic}Nevjernica=http://www.youtube.com/watch?v=j-5l8dV9hCA
 Narodna]Serif Konjevic}Neko cudno vrijeme=http://www.youtube.com/watch?v=-AT4FIPlmfI
 Narodna]Serif Konjevic}Nema vise vina=http://www.youtube.com/watch?v=pjW1E30gT_Y
 Narodna]Serif Konjevic}Nemam zlata da te platim=http://www.youtube.com/watch?v=zS9kfTSOqIo
+Narodna]Serif Konjevic}Nevjernica=http://www.youtube.com/watch?v=j-5l8dV9hCA
 Narodna]Serif Konjevic}Nije za tebe covjek k'o ja=http://www.youtube.com/watch?v=081ZtLJRKjE
 Narodna]Serif Konjevic}Nikad u proljece=http://www.youtube.com/watch?v=CCH4juvZ9M4
 Narodna]Serif Konjevic}Nisam te ponizio=http://www.youtube.com/watch?v=CpOQjFqr5Sk
@@ -8105,11 +8092,11 @@ Rep]Tatula}U mojoj sobi=http://www.youtube.com/watch?v=ZdDCHGKvkbQ
 Rep]Tatula}U ovom gradu=http://www.youtube.com/watch?v=4PwMkocLkWo
 Rep]Tatula}Za moje ljude=http://www.youtube.com/watch?v=DsDFTGNrvww
 Rep]Tatula}Zene i alkohol=http://www.youtube.com/watch?v=utQKL4G3DpQ
+Narodna]Tea Tairovic}Idu dani (ft. Rimski)=--start-time=11 http://www.youtube.com/watch?v=v6rxbvEe7CM
 Narodna]Tea Tairovic}Igracica=--start-time=5 http://www.youtube.com/watch?v=vtO-8z9LGx8
 Narodna]Tea Tairovic}Meni odgovara=--start-time=12 http://www.youtube.com/watch?v=UUbUvxMON-A
 Narodna]Tea Tairovic}Nevolja=--start-time=16 http://www.youtube.com/watch?v=FR1_fLdB_RE
 Narodna]Tea Tairovic}Otkad tebe znam (ft. Saban Saulic)=--start-time=6 http://www.youtube.com/watch?v=XUqT9lL5vac
-Narodna]Tea Tairovic}Idu dani (ft. Rimski)=--start-time=11 http://www.youtube.com/watch?v=v6rxbvEe7CM
 Rok]Tifa}21 vek (duet Miligram)=http://www.youtube.com/watch?v=TDtRcKBdQVc
 Rok]Tifa}Baraba (duet Elvira)=http://www.youtube.com/watch?v=NNJ5EBsyIpM
 Rok]Tifa}Evo ima godina=http://www.youtube.com/watch?v=FCiI3cGJFd8
@@ -8988,8 +8975,8 @@ Narodna]Vida Pavlovic}Sreco moja=http://www.youtube.com/watch?v=fZiWkpf7rR0
 Narodna]Vida Pavlovic}Svako trazi novu ljubav=http://www.youtube.com/watch?v=EPdAXkrK-Tc
 Narodna]Vida Pavlovic}Teku casi bola=http://www.youtube.com/watch?v=VUMqu5HOQ8c
 Narodna]Vida Pavlovic}U ime ljubavi=http://www.youtube.com/watch?v=KweYII99B_A
-Narodna]Vida Pavlovic}Uvek cu da te volim=http://www.youtube.com/watch?v=iz4a_E7Vtes
 Narodna]Vida Pavlovic}Usamljena zena=http://www.youtube.com/watch?v=uq5kiNoA2OI
+Narodna]Vida Pavlovic}Uvek cu da te volim=http://www.youtube.com/watch?v=iz4a_E7Vtes
 Narodna]Vida Pavlovic}Uzalud te trazim=http://www.youtube.com/watch?v=eAlmXwqMmxc
 Narodna]Vida Pavlovic}Vec godina ima=http://www.youtube.com/watch?v=cdD7mdFygaY
 Narodna]Vida Pavlovic}Verovah mu=http://www.youtube.com/watch?v=8L-dbtkJ2ZE
@@ -9070,8 +9057,8 @@ Narodna]Viki Miljkovic}Zenske bubice=http://www.youtube.com/watch?v=WBy1eDIYpkE
 Zabavna]Vlada Matovic}Ne preti mi=--start-time=11 http://www.youtube.com/watch?v=Huh_H8QsaOE
 Zabavna]Vlada Matovic}Pakao i raj=--start-time=6 http://www.youtube.com/watch?v=Sm1m2lp4Lck
 Zabavna]Vlada Matovic}Peta brzina=--start-time=7 http://www.youtube.com/watch?v=060zedOExjM
-Zabavna]Vlada Matovic}Sve sto zaradim=--start-time=8 http://www.youtube.com/watch?v=aXBg5Lg2ZgE
 Zabavna]Vlada Matovic}Skupo (ft. Limma)=--start-time=5 http://www.youtube.com/watch?v=lmBl9uuyODI
+Zabavna]Vlada Matovic}Sve sto zaradim=--start-time=8 http://www.youtube.com/watch?v=aXBg5Lg2ZgE
 Zabavna]Vlado Georgiev}Andjele=http://www.youtube.com/watch?v=FXCJi4ZEoos
 Zabavna]Vlado Georgiev}Bolesni od ljubavi=http://www.youtube.com/watch?v=77mcyXQksOk
 Zabavna]Vlado Georgiev}Do svitanja=http://www.youtube.com/watch?v=B5O789KJnpI
@@ -9696,6 +9683,7 @@ Narodna]Zoran Kalezic}Vraticu se majko=http://www.youtube.com/watch?v=Lyn3ssdyu-
 Narodna]Zoran Kalezic}Zaboravi, zaboravi=http://www.youtube.com/watch?v=fZF0dL-ElbA
 Rok]Zoran Kiki Lesendric}Ako prestanem da te volim=http://www.youtube.com/watch?v=gqYEy3Bw9AA
 Rok]Zoran Kiki Lesendric}Bog vidi sve=http://www.youtube.com/watch?v=MHYHleJby-g
+Rok]Zoran Kiki Lesendric}Budi tu kad padne sneg=http://www.youtube.com/watch?v=Z4yCAZ_pTs0
 Rok]Zoran Kiki Lesendric}Daleko bilo=http://www.youtube.com/watch?v=r35_VZmnD7M
 Rok]Zoran Kiki Lesendric}Dve ili tri stvari koje znam o njoj=http://www.youtube.com/watch?v=4czUu84WCHM
 Rok]Zoran Kiki Lesendric}Kazu da ljubav je samo rec (duet Piloti)=http://www.youtube.com/watch?v=8nj-L7il74o
@@ -9706,7 +9694,6 @@ Rok]Zoran Kiki Lesendric}Noc kao iz sna=--start-time=9 http://www.youtube.com/wa
 Rok]Zoran Kiki Lesendric}Oltar=http://www.youtube.com/watch?v=gjhZj3T4Ywk
 Rok]Zoran Kiki Lesendric}Slucajno=http://www.youtube.com/watch?v=fNumMYpnPrM
 Rok]Zoran Kiki Lesendric}Uvek te djavo nadje lakse nego ja=http://www.youtube.com/watch?v=HBabG9voUZw
-Rok]Zoran Kiki Lesendric}Budi tu kad padne sneg=http://www.youtube.com/watch?v=Z4yCAZ_pTs0
 Narodna]Zoran Vanev}Amerika, Australija=http://www.youtube.com/watch?v=5W7ZWvGmuGc
 Narodna]Zoran Vanev}Bagremovi=http://www.youtube.com/watch?v=TPee2E99duc
 Narodna]Zoran Vanev}Balkanac=http://www.youtube.com/watch?v=xI3jdBvWiRk
