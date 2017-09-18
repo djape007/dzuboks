@@ -3813,7 +3813,7 @@ Narodna]Pedja Medenica}Bivsi covek=http://www.youtube.com/watch?v=FouCdwZC7f8
 Narodna]Pedja Medenica}Cisto da znas=http://www.youtube.com/watch?v=WZMHFMtbqdA
 Narodna]Pedja Medenica}Da l' mi ime spominje=http://www.youtube.com/watch?v=XTjvWgxoPhg
 Narodna]Pedja Medenica}Da me neko pita=http://www.youtube.com/watch?v=IK3WjwTPcdA
-Narodna]Pedja Medenica}Imam ljubav ali kome da je dam=http://www.youtube.com/watch?v=9TYEMPXsbZ8
+Narodna]Pedja Medenica}Imam ljubav ali kome da je dam=http://www.youtube.com/watch?v=Rp-InIp7XeU
 Narodna]Pedja Medenica}Istina je druze=http://www.youtube.com/watch?v=6ee4k9bzyA0
 Narodna]Pedja Medenica}Ja odavno ne postojim=http://www.youtube.com/watch?v=79_bWwSBB3s
 Narodna]Pedja Medenica}Malena=http://www.youtube.com/watch?v=3gKvDnyubfg
@@ -6933,6 +6933,7 @@ Zabavna]Severina}Da si moj=http://www.youtube.com/watch?v=LXM9qbs0eZo
 Zabavna]Severina}Dobrodosao u klub=http://www.youtube.com/watch?v=sXmXzGN-NZI
 Zabavna]Severina}Gas gas=http://www.youtube.com/watch?v=9vNoEEv8JdU
 Zabavna]Severina}Generale=http://www.youtube.com/watch?v=_MAz-gOjeb0
+Zabavna]Severina}Hazarder (ft. Leon)=--start-time=14 http://www.youtube.com/watch?v=ZjYU1e-5e5A
 Zabavna]Severina}Haljinica boje lila=http://www.youtube.com/watch?v=2SU5qtIuZ3M
 Zabavna]Severina}Italiana=http://www.youtube.com/watch?v=NyqXia8XTfI
 Zabavna]Severina}Ja samo pjevam=http://www.youtube.com/watch?v=Nqo3Th60vv8
