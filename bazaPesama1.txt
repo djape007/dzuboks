@@ -325,7 +325,7 @@ Narodna]Ado Gegaj}Oko tebe ogledala=http://www.youtube.com/watch?v=6jUjOzV_dXQ
 Narodna]Ado Gegaj}Okreni moj broj=http://www.youtube.com/watch?v=riRK5xE5_Ck
 Narodna]Ado Gegaj}Ona se udaje=http://www.youtube.com/watch?v=JLENqwvz4b8
 Narodna]Ado Gegaj}Oprosti krcmaru stari=http://www.youtube.com/watch?v=BQNAR3qnpnk
-Narodna]Ado Gegaj}Otvori mi svoja vrata=http://www.youtube.com/watch?v=Vnmz1N3qxJ4
+Narodna]Ado Gegaj}Otvori mi svoja vrata=http://www.youtube.com/watch?v=dHXzJPDjSFo
 Narodna]Ado Gegaj}Ovo malo duse=http://www.youtube.com/watch?v=IksAdS3sm7w
 Narodna]Ado Gegaj}Pijem jer je volim=http://www.youtube.com/watch?v=FkirBW5Dmp4
 Narodna]Ado Gegaj}Plavuse=http://www.youtube.com/watch?v=ovmACgwZXpc
@@ -3088,7 +3088,7 @@ Rok]Crvena Jabuka}Jedina=http://www.youtube.com/watch?v=bbVsrXyTQXE
 Rok]Crvena Jabuka}Jukebox=http://www.youtube.com/watch?v=nBlEt0CQfks
 Rok]Crvena Jabuka}Kad ces mi doci=http://www.youtube.com/watch?v=65RYizgu1zw
 Rok]Crvena Jabuka}Kad je noc hladna i zvjezdana=http://www.youtube.com/watch?v=p2nzJllc03o
-Rok]Crvena Jabuka}Kad kazaljke se poklope=http://www.youtube.com/watch?v=gbH-CXwI38k
+Rok]Crvena Jabuka}Kad kazaljke se poklope=http://www.youtube.com/watch?v=zaQ4jj7nBeI
 Rok]Crvena Jabuka}Kad te jednom pitam=http://www.youtube.com/watch?v=ICdzRO9K_js
 Rok]Crvena Jabuka}Kao da sanjam=http://www.youtube.com/watch?v=2zPcECDmvPM
 Rok]Crvena Jabuka}Kletva=http://www.youtube.com/watch?v=MM6KUfJGwH0
@@ -3180,7 +3180,7 @@ Rok]Crvena Jabuka}Tuga, ti i ja=http://www.youtube.com/watch?v=ssaJG5QhHo0
 Rok]Crvena Jabuka}Tugo, nesreco=http://www.youtube.com/watch?v=1aA1rXWYz-g
 Rok]Crvena Jabuka}Tvoga srca vrata=http://www.youtube.com/watch?v=jtTDCBZjCPA
 Rok]Crvena Jabuka}Tvojim zeljama vodjen=http://www.youtube.com/watch?v=6wFTW5kUJaY
-Rok]Crvena Jabuka}Ucinicu sve da te zadovoljim=http://www.youtube.com/watch?v=OBpID0DfNCg
+Rok]Crvena Jabuka}Ucinicu sve da te zadovoljim=http://www.youtube.com/watch?v=UBcJJTUvx-0
 Rok]Crvena Jabuka}Ukrast cu ti snove=http://www.youtube.com/watch?v=Tw5fdQ7ZT9g
 Rok]Crvena Jabuka}Umoran=http://www.youtube.com/watch?v=FyICAsmmMos
 Rok]Crvena Jabuka}Umrijet cu nocas od ljepote=http://www.youtube.com/watch?v=3SDGAk3HmhI
@@ -4368,9 +4368,9 @@ Zabavna]Djomla KS}Zivot je muzika=http://www.youtube.com/watch?v=Wr3760E8qmg
 Kantautori]Djordje Balasevic}1987=http://www.youtube.com/watch?v=4afMIOpRRqI
 Kantautori]Djordje Balasevic}Aco Braco=http://www.youtube.com/watch?v=9XiSuXP-pls
 Kantautori]Djordje Balasevic}Al' se nekad dobro jelo=http://www.youtube.com/watch?v=9aeChZPnvwE
-Kantautori]Djordje Balasevic}Andjela=http://www.youtube.com/watch?v=ISHQ7vVAfSA
-Kantautori]Djordje Balasevic}Anita=http://www.youtube.com/watch?v=OBJ-ekfkoQY
-Kantautori]Djordje Balasevic}Ankica=http://www.youtube.com/watch?v=R-hLmpP3Dbc
+Kantautori]Djordje Balasevic}Andjela=http://www.youtube.com/watch?v=eEs_9ts1nNk
+Kantautori]Djordje Balasevic}Anita=http://www.youtube.com/watch?v=vZf_23vnUAg
+Kantautori]Djordje Balasevic}Ankica=http://www.youtube.com/watch?v=vhqWE-kdz4g
 Kantautori]Djordje Balasevic}Baby blue=http://www.youtube.com/watch?v=KXqcuQjFC0c
 Kantautori]Djordje Balasevic}Badnje vece=http://www.youtube.com/watch?v=WB9BNVlLocg
 Kantautori]Djordje Balasevic}Balkanski tango=http://www.youtube.com/watch?v=EvVn4hr2dto
@@ -4381,7 +4381,7 @@ Kantautori]Djordje Balasevic}Blues mutne vode=http://www.youtube.com/watch?v=8wl
 Kantautori]Djordje Balasevic}Boza zvani pub=http://www.youtube.com/watch?v=D3tZmUOJ2Ro
 Kantautori]Djordje Balasevic}Boze, Boze=http://www.youtube.com/watch?v=_n7_QF6DdV4
 Kantautori]Djordje Balasevic}Brakolomac=http://www.youtube.com/watch?v=J2zbUg1k7Kg
-Kantautori]Djordje Balasevic}Budimpestanski sneg=http://www.youtube.com/watch?v=OBJ-ekfkoQY
+Kantautori]Djordje Balasevic}Budimpestanski sneg=http://www.youtube.com/watch?v=vZf_23vnUAg
 Kantautori]Djordje Balasevic}Cekajuci Montenegro Express=http://www.youtube.com/watch?v=jkL53jxrUJo
 Kantautori]Djordje Balasevic}Celovecernji the Kid=http://www.youtube.com/watch?v=ZP00qqcZ1s0
 Kantautori]Djordje Balasevic}Citron pesma=http://www.youtube.com/watch?v=bjTG28pO-L0
@@ -4396,7 +4396,7 @@ Kantautori]Djordje Balasevic}Dok gori nebo nad Novim Sadom=http://www.youtube.co
 Kantautori]Djordje Balasevic}Drago mi je zbog mog starog=http://www.youtube.com/watch?v=07SKRspuj4g
 Kantautori]Djordje Balasevic}Drvena pesma=http://www.youtube.com/watch?v=ZQ1c9vdY2Zg
 Kantautori]Djordje Balasevic}Duet=http://www.youtube.com/watch?v=gV_vxPqdEiw
-Kantautori]Djordje Balasevic}Eleonora=http://www.youtube.com/watch?v=twurnqLdRQ0
+Kantautori]Djordje Balasevic}Eleonora=http://www.youtube.com/watch?v=M5Kx-UoCyKY
 Kantautori]Djordje Balasevic}Fina, lagana stvar=http://www.youtube.com/watch?v=2I58rayJNVg
 Kantautori]Djordje Balasevic}Gde bas sada da se zaljubim=http://www.youtube.com/watch?v=-WnePmhpPcY
 Kantautori]Djordje Balasevic}Hej haj bas nas briga=http://www.youtube.com/watch?v=yNaIfr0B8lE
@@ -4405,7 +4405,7 @@ Kantautori]Djordje Balasevic}Ilona=http://www.youtube.com/watch?v=L-vXou1Rhes
 Kantautori]Djordje Balasevic}Ja je ljubim a ona podriguje=http://www.youtube.com/watch?v=ZmbD9xNKXVw
 Kantautori]Djordje Balasevic}Ja nisam luzer=http://www.youtube.com/watch?v=-jjM3j5i3ZE
 Kantautori]Djordje Balasevic}Ja vas Kanda znam=http://www.youtube.com/watch?v=imJXjE6hAmc
-Kantautori]Djordje Balasevic}Jaroslava=http://www.youtube.com/watch?v=YrfNpcUjDSY
+Kantautori]Djordje Balasevic}Jaroslava=http://www.youtube.com/watch?v=5oyvICoEb7s
 Kantautori]Djordje Balasevic}Jedan Sasa iz voza=http://www.youtube.com/watch?v=-TWpTbUaLMg
 Kantautori]Djordje Balasevic}Jednom su sadili lipu=http://www.youtube.com/watch?v=ZjP9I8BxHeA
 Kantautori]Djordje Balasevic}Jos jedna gorka pesma=http://www.youtube.com/watch?v=yCSN0gWoLKs
@@ -4415,7 +4415,7 @@ Kantautori]Djordje Balasevic}Kao talas=http://www.youtube.com/watch?v=ECJzdkZ4S2
 Kantautori]Djordje Balasevic}Kere varosanke=http://www.youtube.com/watch?v=nvAFwC8gG-Y
 Kantautori]Djordje Balasevic}Ladjarska serenata=http://www.youtube.com/watch?v=fIKtAMGuImA
 Kantautori]Djordje Balasevic}Lepa protina kci=http://www.youtube.com/watch?v=or80G_iRyVo
-Kantautori]Djordje Balasevic}Ljerka=http://www.youtube.com/watch?v=LEdhP7JvIY8
+Kantautori]Djordje Balasevic}Ljerka=http://www.youtube.com/watch?v=gGxIDt95Npk
 Kantautori]Djordje Balasevic}Ljubav ne pobedjuje=http://www.youtube.com/watch?v=h9x5GhdJds0
 Kantautori]Djordje Balasevic}Ljudmila=http://www.youtube.com/watch?v=k_NL5MyEe1I
 Kantautori]Djordje Balasevic}Lunjo=http://www.youtube.com/watch?v=MFsouIelYL8
@@ -4429,7 +4429,7 @@ Kantautori]Djordje Balasevic}Moj friend ima rock and roll band=http://www.youtub
 Kantautori]Djordje Balasevic}Moja draga sad je u Japanu=http://www.youtube.com/watch?v=ZtSNXRF0408
 Kantautori]Djordje Balasevic}Morao sam da se odselim=http://www.youtube.com/watch?v=1nUtmRMSp3s
 Kantautori]Djordje Balasevic}Mrtvi=http://www.youtube.com/watch?v=wcyOm-YSooc
-Kantautori]Djordje Balasevic}Na bogojavljensku noc=http://www.youtube.com/watch?v=twurnqLdRQ0
+Kantautori]Djordje Balasevic}Na bogojavljensku noc=http://www.youtube.com/watch?v=M5Kx-UoCyKY
 Kantautori]Djordje Balasevic}Na pola puta=http://www.youtube.com/watch?v=ZkHGuLSzLRA
 Kantautori]Djordje Balasevic}Namcor=http://www.youtube.com/watch?v=bXygfk0zQtY
 Kantautori]Djordje Balasevic}Naposletku=http://www.youtube.com/watch?v=lH0cq73FSlE
@@ -4437,7 +4437,7 @@ Kantautori]Djordje Balasevic}Ne volim januar=http://www.youtube.com/watch?v=qqlO
 Kantautori]Djordje Balasevic}Nedostaje mi nasa ljubav=http://www.youtube.com/watch?v=FnpbsQMBT2M
 Kantautori]Djordje Balasevic}Neki novi klinci=http://www.youtube.com/watch?v=TTyWI52zkIs
 Kantautori]Djordje Balasevic}Neko to od gore vidi sve=http://www.youtube.com/watch?v=n-98z9F7o3U
-Kantautori]Djordje Balasevic}Nevena=http://www.youtube.com/watch?v=0udjp47rUxw
+Kantautori]Djordje Balasevic}Nevena=http://www.youtube.com/watch?v=mh6TspJBqL8
 Kantautori]Djordje Balasevic}Nevernik=http://www.youtube.com/watch?v=FHiqm9bGsF8
 Kantautori]Djordje Balasevic}Nikad kao Bane=http://www.youtube.com/watch?v=1mDi6pMtQEk
 Kantautori]Djordje Balasevic}Noc kad sam preplivao Dunav=http://www.youtube.com/watch?v=yF5aMcIjvq4
@@ -4445,7 +4445,7 @@ Kantautori]Djordje Balasevic}Novi Sad=http://www.youtube.com/watch?v=sAYxlV7pT0k
 Kantautori]Djordje Balasevic}O kako tuznih ljubavi ima=http://www.youtube.com/watch?v=tNtJbAx91hM
 Kantautori]Djordje Balasevic}O, mati=http://www.youtube.com/watch?v=vl1fZuzIFQ4
 Kantautori]Djordje Balasevic}Odlazi cirkus=--start-time=27 http://www.youtube.com/watch?v=YBIoieBoYCE
-Kantautori]Djordje Balasevic}Ognjena=http://www.youtube.com/watch?v=P39TunBJcf8
+Kantautori]Djordje Balasevic}Ognjena=http://www.youtube.com/watch?v=toykcMnYGgw
 Kantautori]Djordje Balasevic}Ole Lole=http://www.youtube.com/watch?v=QMnaxXXxhYs
 Kantautori]Djordje Balasevic}Olivera=--start-time=38 http://www.youtube.com/watch?v=zo6pEv8G67U
 Kantautori]Djordje Balasevic}Oni=http://www.youtube.com/watch?v=olpVOzg7nOo
@@ -4483,7 +4483,6 @@ Kantautori]Djordje Balasevic}U razdeljak te ljubim=http://www.youtube.com/watch?
 Kantautori]Djordje Balasevic}Uspavanka za decaka=http://www.youtube.com/watch?v=0FhWA9Y-mfE
 Kantautori]Djordje Balasevic}Uticaj rodjaka na moj zivotni put=http://www.youtube.com/watch?v=hwIUywt-gSs
 Kantautori]Djordje Balasevic}Uvod=http://www.youtube.com/watch?v=m0A6W9_VhL0
-Kantautori]Djordje Balasevic}Velikim kanalom=http://www.youtube.com/watch?v=xjpyiECS8RQ
 Kantautori]Djordje Balasevic}Vi ste jedan obican mis=http://www.youtube.com/watch?v=Ml-SXia5dIs
 Kantautori]Djordje Balasevic}Za sve je kriv Toma Sojer=http://www.youtube.com/watch?v=dLoH6OcX46I
 Kantautori]Djordje Balasevic}Za trecu smenu=http://www.youtube.com/watch?v=OWpQnUBhd3w
@@ -5001,33 +5000,47 @@ Narodna]Dragana Mirkovic}Zemljo okreni se=http://www.youtube.com/watch?v=3AEgAuu
 Narodna]Dragana Mirkovic}Zenico oka mog=http://www.youtube.com/watch?v=rU9DLoL4MvY
 Narodna]Dragana Mirkovic}Zensko srce=http://www.youtube.com/watch?v=KCGjHIZybkM
 Narodna]Dragana Mirkovic}Znas da nosim prsten tvoj=http://www.youtube.com/watch?v=7z4CutYsbUw
-Zabavna]Dubioza Kolektiv}Balkan Funk=http://www.youtube.com/watch?v=lJrMlmhjDtI
-Zabavna]Dubioza Kolektiv}Blam=http://www.youtube.com/watch?v=bkctOPUI8Fw
-Zabavna]Dubioza Kolektiv}Brijuni=http://www.youtube.com/watch?v=UjVQnc5rbMA
-Zabavna]Dubioza Kolektiv}Domacica=http://www.youtube.com/watch?v=fsucFDo2llg
-Zabavna]Dubioza Kolektiv}Dosta=http://www.youtube.com/watch?v=PxsBlkz-leo
-Zabavna]Dubioza Kolektiv}Firma ilegal=http://www.youtube.com/watch?v=x_PV8XmvLMw
-Zabavna]Dubioza Kolektiv}K.P. dom=http://www.youtube.com/watch?v=0nEjRyDnRpI
-Zabavna]Dubioza Kolektiv}Kazu=http://www.youtube.com/watch?v=NameDSkWU0Y
-Zabavna]Dubioza Kolektiv}Kokuz=http://www.youtube.com/watch?v=XR1kjXalzuY
-Zabavna]Dubioza Kolektiv}Krivo je more 2=http://www.youtube.com/watch?v=_gBuDGn-wYo
-Zabavna]Dubioza Kolektiv}Kupi=http://www.youtube.com/watch?v=Gpk01ZaOF10
-Zabavna]Dubioza Kolektiv}Niko nije kriv=http://www.youtube.com/watch?v=G9QWkMFlSdA
-Zabavna]Dubioza Kolektiv}Njihovi i nasi=http://www.youtube.com/watch?v=wS8xpXxpaBE
-Zabavna]Dubioza Kolektiv}Oni dolaze=http://www.youtube.com/watch?v=IclBfHAk-6U
-Zabavna]Dubioza Kolektiv}Prvi maj=http://www.youtube.com/watch?v=iO79DhItC_c
-Zabavna]Dubioza Kolektiv}Recesija=http://www.youtube.com/watch?v=ZPp4RODYfsY
-Zabavna]Dubioza Kolektiv}Sjecam se=http://www.youtube.com/watch?v=KfvRR-fYv2c
-Zabavna]Dubioza Kolektiv}Stav=http://www.youtube.com/watch?v=PPksDnfOYl8
-Zabavna]Dubioza Kolektiv}Suti i trpi=http://www.youtube.com/watch?v=gAd0fQZs5UQ
-Zabavna]Dubioza Kolektiv}Svi u strajk=http://www.youtube.com/watch?v=fMxTb0rd3pY
-Zabavna]Dubioza Kolektiv}Tranzicija=http://www.youtube.com/watch?v=rY2O_PgKHCQ
-Zabavna]Dubioza Kolektiv}Um klade valja=http://www.youtube.com/watch?v=FAHDCX0lm24
-Zabavna]Dubioza Kolektiv}Vidi, vidi, vidi=http://www.youtube.com/watch?v=0P4UOTVe13s
-Zabavna]Dubioza Kolektiv}Vlast i policija=http://www.youtube.com/watch?v=rrOjrnU756w
-Zabavna]Dubioza Kolektiv}Volio BiH=http://www.youtube.com/watch?v=NZOf47Iv2Zo
-Zabavna]Dubioza Kolektiv}Walter=http://www.youtube.com/watch?v=KaEtamySwHo
-Zabavna]Dubioza Kolektiv}Zrak=http://www.youtube.com/watch?v=FunPbJJF2lo
+Rok]Dubioza Kolektiv}Balkan Funk=http://www.youtube.com/watch?v=_JBQY4hbW7o
+Rok]Dubioza Kolektiv}Blam blam=http://www.youtube.com/watch?v=bkctOPUI8Fw
+Rok]Dubioza Kolektiv}Brijuni=http://www.youtube.com/watch?v=UjVQnc5rbMA
+Rok]Dubioza Kolektiv}No Escape (from Balkan)=http://www.youtube.com/watch?v=jtgA0jvhp2A
+Rok]Dubioza Kolektiv}Himna generacije=--start-time=3 http://www.youtube.com/watch?v=Z5xuauDWxYw
+Rok]Dubioza Kolektiv}One more time=http://www.youtube.com/watch?v=0Ce6nZyjUlw
+Rok]Dubioza Kolektiv}Making money=http://www.youtube.com/watch?v=FVnL4vYHfYo
+Rok]Dubioza Kolektiv}Red carpet (ft. Manu Chao)=http://www.youtube.com/watch?v=4_QixDwL7wE
+Rok]Dubioza Kolektiv}Boom (ft. Dzambo Agusev)=http://www.youtube.com/watch?v=6zylPRZgg1c
+Rok]Dubioza Kolektiv}All equal (ft. BEE2)=http://www.youtube.com/watch?v=3ZepI2C2yoQ
+Rok]Dubioza Kolektiv}Riot fire (ft. Benji Webbe)=http://www.youtube.com/watch?v=ULuvB5cef94
+Rok]Dubioza Kolektiv}90's surprise=http://www.youtube.com/watch?v=XrS60BPUlIM
+Rok]Dubioza Kolektiv}Whistleblower=http://www.youtube.com/watch?v=1IOBIs7u1Xc
+Rok]Dubioza Kolektiv}Wake up=http://www.youtube.com/watch?v=sapldG9YV2Y
+Rok]Dubioza Kolektiv}Free.mp3 (The Pirate Bay song)=http://www.youtube.com/watch?v=GS8-nNhWlw4
+Rok]Dubioza Kolektiv}Walter=--start-time=3 http://www.youtube.com/watch?v=rSrDm7Z2JQg
+Rok]Dubioza Kolektiv}Domacica=--start-time=20 http://www.youtube.com/watch?v=a2L5oQ82S2w
+Rok]Dubioza Kolektiv}Dosta=http://www.youtube.com/watch?v=PxsBlkz-leo
+Rok]Dubioza Kolektiv}Firma ilegal=http://www.youtube.com/watch?v=x_PV8XmvLMw
+Rok]Dubioza Kolektiv}K.P. dom=http://www.youtube.com/watch?v=0nEjRyDnRpI
+Rok]Dubioza Kolektiv}Kazu=--start-time=16 http://www.youtube.com/watch?v=FZZJeMKJV3M
+Rok]Dubioza Kolektiv}Kokuz=--start-time=10 http://www.youtube.com/watch?v=XR1kjXalzuY
+Rok]Dubioza Kolektiv}Krivo je more 2=http://www.youtube.com/watch?v=_gBuDGn-wYo
+Rok]Dubioza Kolektiv}Kupi=http://www.youtube.com/watch?v=Gpk01ZaOF10
+Rok]Dubioza Kolektiv}Niko nije kriv=http://www.youtube.com/watch?v=akdQsw9T3kI
+Rok]Dubioza Kolektiv}Njihovi i nasi=http://www.youtube.com/watch?v=65ifrIOVEgk
+Rok]Dubioza Kolektiv}Oni dolaze=http://www.youtube.com/watch?v=IclBfHAk-6U
+Rok]Dubioza Kolektiv}Ovo je zatvor=http://www.youtube.com/watch?v=YXdLNntpw7A
+Rok]Dubioza Kolektiv}Prvi maj=http://www.youtube.com/watch?v=iO79DhItC_c
+Rok]Dubioza Kolektiv}Recesija=http://www.youtube.com/watch?v=bOJ5ipNycng
+Rok]Dubioza Kolektiv}Sjecam se=http://www.youtube.com/watch?v=KfvRR-fYv2c
+Rok]Dubioza Kolektiv}Stav=http://www.youtube.com/watch?v=PPksDnfOYl8
+Rok]Dubioza Kolektiv}Suti i trpi=http://www.youtube.com/watch?v=gAd0fQZs5UQ
+Rok]Dubioza Kolektiv}Svi u strajk=http://www.youtube.com/watch?v=fMxTb0rd3pY
+Rok]Dubioza Kolektiv}Tranzicija=http://www.youtube.com/watch?v=rY2O_PgKHCQ
+Rok]Dubioza Kolektiv}Um klade valja=http://www.youtube.com/watch?v=bpeitrurP6M
+Rok]Dubioza Kolektiv}Vidi, vidi, vidi=http://www.youtube.com/watch?v=0P4UOTVe13s
+Rok]Dubioza Kolektiv}Vlast i policija=http://www.youtube.com/watch?v=rrOjrnU756w
+Rok]Dubioza Kolektiv}Volio BiH=http://www.youtube.com/watch?v=NZOf47Iv2Zo
+Rok]Dubioza Kolektiv}Zrak=http://www.youtube.com/watch?v=FunPbJJF2lo
+Rok]Dubioza Kolektiv}U.S.A.=https://www.youtube.com/watch?v=0a5BJxrarL0
 Zabavna]Dunja Ilic}Bidermajer=http://www.youtube.com/watch?v=Bb9S-ZQslKA
 Zabavna]Dunja Ilic}Ceo vek sam starija=http://www.youtube.com/watch?v=EVCOzLlZm-g
 Zabavna]Dunja Ilic}Da, ja bih probala=http://www.youtube.com/watch?v=Sa3yceNMk8Y
@@ -6276,9 +6289,9 @@ Zabavna]Galija}Uzalud se trudis=http://www.youtube.com/watch?v=LBlpW4v_gE4
 Zabavna]Galija}Vera=http://www.youtube.com/watch?v=5QC5baQW0I0
 Zabavna]Galija}Zar bas moram nesto mudro da kazem=http://www.youtube.com/watch?v=30zO6-e3wxI
 Rok]Garavi Sokak}Ako tebe ljubit ne smem=http://www.youtube.com/watch?v=NCQMbKq9czc
-Rok]Garavi Sokak}Bice bolje ako budes tu=http://www.youtube.com/watch?v=vzrMP-biXMc
+Rok]Garavi Sokak}Bice bolje ako budes tu=http://www.youtube.com/watch?v=nFyzdidywbg
 Rok]Garavi Sokak}Ciribu, ciriba=http://www.youtube.com/watch?v=ALFhqptEt3A
-Rok]Garavi Sokak}Danas su svi posteni=http://www.youtube.com/watch?v=0XovMphvKq4
+Rok]Garavi Sokak}Danas su svi posteni=http://www.youtube.com/watch?v=CUX2JfUlBx8
 Rok]Garavi Sokak}Dobro je=http://www.youtube.com/watch?v=9LGkDlo4CYc
 Rok]Garavi Sokak}Dovidjenja tugo=http://www.youtube.com/watch?v=E2WhQTs01iI
 Rok]Garavi Sokak}Honolulu=http://www.youtube.com/watch?v=13nnWd3QwEI
@@ -6288,7 +6301,7 @@ Rok]Garavi Sokak}Kao ja=http://www.youtube.com/watch?v=KwsLA6BQDj4
 Rok]Garavi Sokak}Ko te ima taj te nema=http://www.youtube.com/watch?v=iIziUkpPm50
 Rok]Garavi Sokak}Lomljeno zlato=http://www.youtube.com/watch?v=osXZvpu8XF8
 Rok]Garavi Sokak}Madjarica=http://www.youtube.com/watch?v=Up2TNvPhZgs
-Rok]Garavi Sokak}Mazi me, gazi me=http://www.youtube.com/watch?v=fxjws4KfLKY
+Rok]Garavi Sokak}Mazi me, gazi me=http://www.youtube.com/watch?v=gCSK_Z_RvLE
 Rok]Garavi Sokak}Mis u supermarketu=http://www.youtube.com/watch?v=Qs_zZcJEXvQ
 Rok]Garavi Sokak}Mornari sanjaju more=http://www.youtube.com/watch?v=oGeQVhV3-kg
 Rok]Garavi Sokak}Na Temerinskom vasaru=http://www.youtube.com/watch?v=GtDFb0YbWGY
@@ -6320,7 +6333,7 @@ Rok]Garavi Sokak}Zihernadla=http://www.youtube.com/watch?v=jnUIe4L64r0
 Rok]Garavi Sokak}Zivim=http://www.youtube.com/watch?v=ydXkj0a5_GY
 Rok]Garavi Sokak}Zivot se igra sa nama=http://www.youtube.com/watch?v=PfjoiNQe8tM
 Rok]Garavi Sokak}Zuti buldozer=http://www.youtube.com/watch?v=bl3EZI_2RUg
-Rok]Garavi Sokak}Zvao sam samo da te pozdravim=http://www.youtube.com/watch?v=16q-1gOXpGc
+Rok]Garavi Sokak}Zvao sam samo da te pozdravim=http://www.youtube.com/watch?v=1mC6_dG986E
 Rep]Gazda Paja}Bani na to (feat. Ivana Vukmirovic)=http://www.youtube.com/watch?v=ra35QufQHwI
 Rep]Gazda Paja}Cke beogradske=--start-time=17 http://www.youtube.com/watch?v=XnbVuMKW3mE
 Rep]Gazda Paja}Da se opustis=http://www.youtube.com/watch?v=8qYfvmC7QrU
