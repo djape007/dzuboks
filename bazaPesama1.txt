@@ -5879,7 +5879,6 @@ Zabavna]Eva Braun}56 km=http://www.youtube.com/watch?v=l__odvxSdrk
 Zabavna]Eva Braun}Aljaska=http://www.youtube.com/watch?v=myDX_GyPQT8
 Zabavna]Eva Braun}Balada o slanom moru=http://www.youtube.com/watch?v=EmCCfw2e7VU
 Zabavna]Eva Braun}Bubble gum=http://www.youtube.com/watch?v=jXSnJuYZ2bE
-Zabavna]Eva Braun}Cabaret Noir=http://www.youtube.com/watch?v=5csehd2XM1I
 Zabavna]Eva Braun}Cas u prirodi=http://www.youtube.com/watch?v=3Jl1OBoCf2U
 Zabavna]Eva Braun}Dan pobede=http://www.youtube.com/watch?v=x4JTxxMjndU
 Zabavna]Eva Braun}Dan velikih valova=http://www.youtube.com/watch?v=54t-Ea0anF8
@@ -7171,7 +7170,6 @@ Narodna]Halid Beslic}Pet godina volio sam tebe=http://www.youtube.com/watch?v=a5
 Narodna]Halid Beslic}Pjesma o njoj=http://www.youtube.com/watch?v=HmhH_9jynOE
 Narodna]Halid Beslic}Placem=http://www.youtube.com/watch?v=RlDiFVuM4zk
 Narodna]Halid Beslic}Plakacu ljubavi moja=http://www.youtube.com/watch?v=xSRUeE1Pkeg
-Narodna]Halid Beslic}Plavuse=http://www.youtube.com/watch?v=wuhEAZnblio
 Narodna]Halid Beslic}Pozeljet' ces=http://www.youtube.com/watch?v=ZmnPBSCfoe8
 Narodna]Halid Beslic}Pozuri=http://www.youtube.com/watch?v=iYsRr8zNZUM
 Narodna]Halid Beslic}Prokleta je zena ta=http://www.youtube.com/watch?v=DyfKvm098wY
@@ -8059,11 +8057,11 @@ Narodna]Indira Radic}Kafana=http://www.youtube.com/watch?v=QuhU277wAh8
 Narodna]Indira Radic}Kakav takav si=--start-time=7 http://www.youtube.com/watch?v=dcAb75x34Us
 Narodna]Indira Radic}Kako moze srce=http://www.youtube.com/watch?v=BO1td7SYEkM
 Narodna]Indira Radic}Kazi kako zivis=http://www.youtube.com/watch?v=gsH2wE8a9jo
-Narodna]Indira Radic}Kisa=http://www.youtube.com/watch?v=kI7z30X1SVM
+Narodna]Indira Radic}Kisa=http://www.youtube.com/watch?v=ab86IuZMGDs
 Narodna]Indira Radic}Kletva=http://www.youtube.com/watch?v=oW59ZP2L3FA
 Narodna]Indira Radic}Ko je ona zena=http://www.youtube.com/watch?v=pA_J04ij2CM
-Narodna]Indira Radic}Krug=http://www.youtube.com/watch?v=A93t_GqV-GQ
-Narodna]Indira Radic}Lepo se provedi=http://www.youtube.com/watch?v=qgPb3gP6A1o
+Narodna]Indira Radic}Krug=http://www.youtube.com/watch?v=k9IwZpG7ONU
+Narodna]Indira Radic}Lepo se provedi=--start-time=6 http://www.youtube.com/watch?v=0-t1xGxdelQ
 Narodna]Indira Radic}Ljubav kad prestane=http://www.youtube.com/watch?v=sVHkBMe6RO4
 Narodna]Indira Radic}Ljubav stara=http://www.youtube.com/watch?v=fJChv2__cW0
 Narodna]Indira Radic}Ljubavi mrtvorodjene=http://www.youtube.com/watch?v=32bhTK80aOI
@@ -8103,7 +8101,7 @@ Narodna]Indira Radic}Platio si sve=http://www.youtube.com/watch?v=QhGPCH_egLE
 Narodna]Indira Radic}Pocrnela burma=http://www.youtube.com/watch?v=9DLQRWTyJwc
 Narodna]Indira Radic}Pogledaj me sad u oci=http://www.youtube.com/watch?v=z-0bxGJF8Q8
 Narodna]Indira Radic}Poljubi me i videces=http://www.youtube.com/watch?v=K6AzoiFnAzI
-Narodna]Indira Radic}Popi jednu=http://www.youtube.com/watch?v=FNOPiaZn1aA
+Narodna]Indira Radic}Popij jednu=http://www.youtube.com/watch?v=eZYVXg0ow5E
 Narodna]Indira Radic}Pozelela=http://www.youtube.com/watch?v=lhgnAuDtGOo
 Narodna]Indira Radic}Preko, preko=http://www.youtube.com/watch?v=OdwDGpwDQmQ
 Narodna]Indira Radic}Prevara=http://www.youtube.com/watch?v=M0Il_Tdb2uk
@@ -8125,7 +8123,7 @@ Narodna]Indira Radic}Srce puno otrova=http://www.youtube.com/watch?v=SG3bk3ULp94
 Narodna]Indira Radic}Srebrna dugo=http://www.youtube.com/watch?v=AsDLUVcvqog
 Narodna]Indira Radic}Srpkinja je mene majka rodila=http://www.youtube.com/watch?v=niwtI7qPRK8
 Narodna]Indira Radic}Sto godina srece=http://www.youtube.com/watch?v=NIf98g6Hqk0
-Narodna]Indira Radic}Sto na sat=http://www.youtube.com/watch?v=TrsSgG29OhU
+Narodna]Indira Radic}Sto na sat=http://www.youtube.com/watch?v=_129ccUQlko
 Narodna]Indira Radic}Sunce u daljini=http://www.youtube.com/watch?v=i9r3KmkntQ8
 Narodna]Indira Radic}Suze moje=http://www.youtube.com/watch?v=eoP091NoY_g
 Narodna]Indira Radic}Suzo moja=http://www.youtube.com/watch?v=_TTmAjv6ygQ
@@ -8141,7 +8139,7 @@ Narodna]Indira Radic}Tuzna vrbo=http://www.youtube.com/watch?v=UsMiO0WHPPY
 Narodna]Indira Radic}Tvoj pogled=http://www.youtube.com/watch?v=j9vD9xroG3A
 Narodna]Indira Radic}Ugasi me=http://www.youtube.com/watch?v=L_G4eE62Ouc
 Narodna]Indira Radic}Ujed za srce=http://www.youtube.com/watch?v=zm8H1tdCSL0
-Narodna]Indira Radic}Upaljac=http://www.youtube.com/watch?v=CRztuti8bNs
+Narodna]Indira Radic}Upaljac=http://www.youtube.com/watch?v=xK7lvtfakWc
 Narodna]Indira Radic}Uvek sam losa prvi put=http://www.youtube.com/watch?v=DstG3qQhvCU
 Narodna]Indira Radic}Uzmi, sve mi uzmi=http://www.youtube.com/watch?v=06ksfzWYycM
 Narodna]Indira Radic}Uzvodno od ljubavi=http://www.youtube.com/watch?v=__BjttpT1nU
