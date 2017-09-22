@@ -11296,3 +11296,8 @@ Rok Strani]Rammstein}Nymphomaniac=--start-time=8 https://www.youtube.com/watch?v
 Rok Strani]Rammstein}Stripped=https://www.youtube.com/watch?v=_4Xlc8CIfOI
 Rok Strani]Rammstein}Wiener blut=https://www.youtube.com/watch?v=ikFajfP6E3M
 Rok Strani]Rammstein}Du hast=https://www.youtube.com/watch?v=W3q8Od5qJio
+TESTIRANJE]Đani}Balkanac=http://www.youtube.com/watch?v=Nde9IiBw6jc
+TESTIRANJE]Đani}Bila si mi sve drago i milo=http://www.youtube.com/watch?v=JFpkPraDWHo
+TESTIRANJE]Šani}Boli me što me ne voliš=http://www.youtube.com/watch?v=eQ4O9gyEJ98
+TESTIRANJE]Ćani}Boli me što me ne voliš=http://www.youtube.com/watch?v=eQ4O9gyEJ98
+TESTIRANJE]Čani}Boli me što me ne voliš=http://www.youtube.com/watch?v=eQ4O9gyEJ98
