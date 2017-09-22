@@ -638,7 +638,6 @@ Rep]Marchelo}I opet kafanska spika=http://www.youtube.com/watch?v=nhhQP6iovxk
 Rep]Marchelo}Ispod (Dara II)=http://www.youtube.com/watch?v=Luj8ZF2mIs4
 Rep]Marchelo}Jedan=http://www.youtube.com/watch?v=YtusT2Sq_lw
 Rep]Marchelo}Klos=http://www.youtube.com/watch?v=00YkFLlPpKU
-Rep]Marchelo}Komplikovani=http://www.youtube.com/watch?v=XHe2C5NAjuw
 Rep]Marchelo}Kostim=http://www.youtube.com/watch?v=NF81NCMhIGc
 Rep]Marchelo}Kuca na promaji=http://www.youtube.com/watch?v=UtpB5zeKRlw
 Rep]Marchelo}Mamica=http://www.youtube.com/watch?v=fdqmM4XoKuI
@@ -10310,7 +10309,7 @@ Rok Strani]Queen}Hammer to fall=--start-time=5 https://www.youtube.com/watch?v=J
 Rok Strani]Queen}Keep yourself alive=--start-time=5 https://www.youtube.com/watch?v=JofwEB9g1zg
 Rok Strani]Queen}One vision=--start-time=18 https://www.youtube.com/watch?v=0_1IMZmJe-U
 Rok Strani]Queen}Liar=--start-time=5 https://www.youtube.com/watch?v=oU7rqB9E_0M
-Rok Strani]Queen}Let me in your heart again=https://www.youtube.com/watch?v=NWzeNnq1-rAhttps://www.youtube.com/watch?v=NWzeNnq1-rA
+Rok Strani]Queen}Let me in your heart again=--start-time=4 http://www.youtube.com/watch?v=2tb-_T9uksk
 Rok Strani]Queen}You don't fool me=--start-time=13 https://www.youtube.com/watch?v=9enOd3Z7vcY
 Rok Strani]Queen}Las Palabras De Amor--start-time=8 https://www.youtube.com/watch?v=qaeKSQUdBE4
 Rok Strani]Queen}Headlong=--start-time=7 https://www.youtube.com/watch?v=zhyaAPsT1LU
