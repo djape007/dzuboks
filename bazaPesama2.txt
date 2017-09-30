@@ -11333,7 +11333,7 @@ Rok]Trigger}Inercija=https://www.youtube.com/watch?v=3UWB9SLwyGY
 ﻿DJ Strani]David Guetta}Delirious=--start-time=19 https://www.youtube.com/watch?v=wiG-TgYjHP8
 ﻿DJ Strani]David Guetta}Baby when the light=https://www.youtube.com/watch?v=uQFjavLR52Q
 ﻿DJ Strani]David Guetta}Sweat (ft. Snoop Dogg)=https://www.youtube.com/watch?v=KnEXrbAQyIo
-﻿DJ Strani]David Guetta}Hold me (ft. Justin Biber, Avicii)=https://www.youtube.com/watch?v=mxUA-8pxcAw
+﻿DJ Strani]David Guetta}Hold me (ft. Justin Biber, Avicii)=--start-time=4 https://www.youtube.com/watch?v=xbpxjnweulQ
 ﻿DJ Strani]David Guetta}Everytime we touch (ft. Chris Willis)=--start-time=25 https://www.youtube.com/watch?v=vNcchcZQyVo
 ﻿DJ Strani]David Guetta}Sunshine (ft. Avicii)=https://www.youtube.com/watch?v=fEqCGe5kdQs
 ﻿DJ Strani]David Guetta}Rise (ft. Skylar Grey)=https://www.youtube.com/watch?v=pvHYDtUh92A
