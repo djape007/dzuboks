@@ -1932,11 +1932,11 @@ Narodna]Aca Ilić}A kad malo popijem=http://www.youtube.com/watch?v=flTVAopz8tU
 ﻿Zabavna]Bebi Dol}Ludi svet=http://www.youtube.com/watch?v=BU88cETjuiU
 ﻿Zabavna]Bebi Dol}Maza, maza=http://www.youtube.com/watch?v=_BDvs_cfQ3Y
 ﻿Zabavna]Bebi Dol}Mili, mili=http://www.youtube.com/watch?v=1sYQwJ0jfuY
-﻿Zabavna]Bebi Dol}Moj andjele, u belom vencaj me=http://www.youtube.com/watch?v=g8KkfKiAXZ8
+﻿Zabavna]Bebi Dol}Moj anđele, u belom venčaj me=http://www.youtube.com/watch?v=g8KkfKiAXZ8
 ﻿Zabavna]Bebi Dol}Moj svet=http://www.youtube.com/watch?v=WGhttuS4DTs
 ﻿Zabavna]Bebi Dol}Mustafa=http://www.youtube.com/watch?v=xTCZtwdIpJ4
 ﻿Zabavna]Bebi Dol}Na planeti uzdaha=http://www.youtube.com/watch?v=Y4L9CmoEu4Q
-﻿Zabavna]Bebi Dol}Napolju je dzungla=http://www.youtube.com/watch?v=jxR1k9rZPbU
+﻿Zabavna]Bebi Dol}Napolju je džungla=http://www.youtube.com/watch?v=jxR1k9rZPbU
 ﻿Zabavna]Bebi Dol}Ovde=http://www.youtube.com/watch?v=Eof_wgwX7QQ
 ﻿Zabavna]Bebi Dol}Pesma o Simi=http://www.youtube.com/watch?v=0yy9mTf2JT8
 ﻿Zabavna]Bebi Dol}Pokloni se=http://www.youtube.com/watch?v=i5tjkAf_EbQ
@@ -1944,12 +1944,12 @@ Narodna]Aca Ilić}A kad malo popijem=http://www.youtube.com/watch?v=flTVAopz8tU
 ﻿Zabavna]Bebi Dol}Rudi=http://www.youtube.com/watch?v=B7KKKmrFxgA
 ﻿Zabavna]Bebi Dol}Ruže i krv=http://www.youtube.com/watch?v=T5QjyfHuoLM
 ﻿Zabavna]Bebi Dol}Samba jao jao=http://www.youtube.com/watch?v=p52stLzfBsg
-﻿Zabavna]Bebi Dol}Sapni mi=http://www.youtube.com/watch?v=GDfA9lO-CL0
+﻿Zabavna]Bebi Dol}Šapni mi=http://www.youtube.com/watch?v=GDfA9lO-CL0
 ﻿Zabavna]Bebi Dol}Sinu sunca i bratu meseca=http://www.youtube.com/watch?v=DId4lUWppPc
 ﻿Zabavna]Bebi Dol}Slatke suze ljubavi=http://www.youtube.com/watch?v=zTDi2nqLN4w
 ﻿Zabavna]Bebi Dol}Smejem se, smejem se=http://www.youtube.com/watch?v=TjSwHUnZkCQ
 ﻿Zabavna]Bebi Dol}Superboj=http://www.youtube.com/watch?v=_7-X2flcOXE
-﻿Zabavna]Bebi Dol}Trebace mi drug=http://www.youtube.com/watch?v=iQdkHs4SsPs
+﻿Zabavna]Bebi Dol}Trebaće mi drug=http://www.youtube.com/watch?v=iQdkHs4SsPs
 ﻿Zabavna]Bebi Dol}Tvrdoglava=http://www.youtube.com/watch?v=aEdS9Xodn3Y
 ﻿Zabavna]Bebi Dol}U 1001 noći=http://www.youtube.com/watch?v=xGHbFCXmwoE
 ﻿Zabavna]Bebi Dol}Zatvori mama prozore=http://www.youtube.com/watch?v=sRcXToT-_50
@@ -8960,13 +8960,22 @@ Narodna]Aca Ilić}A kad malo popijem=http://www.youtube.com/watch?v=flTVAopz8tU
 ﻿Zabavna]Jellena}Hej stani dušo=http://www.youtube.com/watch?v=JLE8hez754w
 ﻿Zabavna]Jellena}Kamen=http://www.youtube.com/watch?v=iha7y0ioZbk
 ﻿Zabavna]Jellena}Neće grom=http://www.youtube.com/watch?v=w8WAPJEIbik
-﻿Zabavna]Jellena}Plakaces ko žena=http://www.youtube.com/watch?v=cbtMuPL0TA4
+﻿Zabavna]Jellena}Plakaćeš ko žena=http://www.youtube.com/watch?v=cbtMuPL0TA4
 ﻿Zabavna]Jellena}Postepeno=http://www.youtube.com/watch?v=Njwsvnu7IYc
 ﻿Zabavna]Jellena}Prekovremeno=http://www.youtube.com/watch?v=ZXDZkuwjiCY
-﻿Zabavna]Jellena}Srecan ti rođendan=http://www.youtube.com/watch?v=d6UY7en-Lfc
+﻿Zabavna]Jellena}Srećan ti rođendan=http://www.youtube.com/watch?v=d6UY7en-Lfc
 ﻿Zabavna]Jellena}Stanje opsadno=http://www.youtube.com/watch?v=YsYtEd04LaM
 ﻿Zabavna]Jellena}Za dodir tvojih usana=http://www.youtube.com/watch?v=WJjKvYYwdYM
 ﻿Zabavna]Jellena}Znam=http://www.youtube.com/watch?v=MEBN5U9zoeU
+Narodna]Joca Djević}Ne svani zoro=https://www.youtube.com/watch?v=PCsqx1GjQlc
+Narodna]Joca Djević}Olivera=https://www.youtube.com/watch?v=Ct4zF5IiBdM
+Narodna]Joca Djević}Za mene kažu=--start-time=6 https://www.youtube.com/watch?v=lVanBr93TC8
+Narodna]Joca Djević}Ruke čarobnjaka=https://www.youtube.com/watch?v=ZKwaWDTQ4PQ
+Narodna]Joca Djević}Stan'te braćo tamburaši=https://www.youtube.com/watch?v=djJ07AyK3NM
+Narodna]Joca Djević}Sava=https://www.youtube.com/watch?v=FowQSJSXtqA
+Narodna]Joca Djević}Božićna pesma=https://www.youtube.com/watch?v=yq_RKcVw2bE
+Narodna]Joca Djević}Noć je tija=https://www.youtube.com/watch?v=sFkGX3TQS8w
+Narodna]Joca Djević}Kafanska=--start-time=5 https://www.youtube.com/watch?v=hn7uyXlsTLc
 ﻿Narodna]Josipa Lisac}1000 razloga=http://www.youtube.com/watch?v=-xq5u2G3JBM
 ﻿Narodna]Josipa Lisac}Avantura=http://www.youtube.com/watch?v=mG9rii9EvTU
 ﻿Narodna]Josipa Lisac}Ave Maria=http://www.youtube.com/watch?v=8Ls-NBlOnck
@@ -8975,9 +8984,9 @@ Narodna]Aca Ilić}A kad malo popijem=http://www.youtube.com/watch?v=flTVAopz8tU
 ﻿Narodna]Josipa Lisac}Bila sam žena=http://www.youtube.com/watch?v=IvMJzjd1E2w
 ﻿Narodna]Josipa Lisac}Blijede sjene=http://www.youtube.com/watch?v=qRq7bVPMZhY
 ﻿Narodna]Josipa Lisac}Boginja=http://www.youtube.com/watch?v=xHNhB4j17qc
-﻿Narodna]Josipa Lisac}Čarobna moc mjeseca=http://www.youtube.com/watch?v=UNOPv1ARr8c
+﻿Narodna]Josipa Lisac}Čarobna moć mjeseca=http://www.youtube.com/watch?v=UNOPv1ARr8c
 ﻿Narodna]Josipa Lisac}Činim sve u krivi čas=http://www.youtube.com/watch?v=oZdZXjW9ik8
-﻿Narodna]Josipa Lisac}Čovjek s tisucu mana=http://www.youtube.com/watch?v=hpPdUFpfaKw
+﻿Narodna]Josipa Lisac}Čovjek s tisuću mana=http://www.youtube.com/watch?v=hpPdUFpfaKw
 ﻿Narodna]Josipa Lisac}Covjek=http://www.youtube.com/watch?v=hpPdUFpfaKw
 ﻿Narodna]Josipa Lisac}Da li sam ti rekla da te volim=http://www.youtube.com/watch?v=O6J2bc8LxXE
 ﻿Narodna]Josipa Lisac}Daj mi riječ=http://www.youtube.com/watch?v=xpY7BkELRPc
@@ -8989,7 +8998,7 @@ Narodna]Aca Ilić}A kad malo popijem=http://www.youtube.com/watch?v=flTVAopz8tU
 ﻿Narodna]Josipa Lisac}Dvanaesta je majka Slavonije=http://www.youtube.com/watch?v=3HEvNz8ufU4
 ﻿Narodna]Josipa Lisac}Gdje Dunav ljubi nebo=http://www.youtube.com/watch?v=qKlqMQ_Sdqw
 ﻿Narodna]Josipa Lisac}Gimme some lovin'=http://www.youtube.com/watch?v=1LV2a_a3-oU
-﻿Narodna]Josipa Lisac}Godisnjica=http://www.youtube.com/watch?v=VtC9w2xX08c
+﻿Narodna]Josipa Lisac}Godišnjica=http://www.youtube.com/watch?v=VtC9w2xX08c
 ﻿Narodna]Josipa Lisac}Hazarder=http://www.youtube.com/watch?v=vQoK_X70kPk
 ﻿Narodna]Josipa Lisac}Hir, hir, hir=http://www.youtube.com/watch?v=Qsn3MG-1qGQ
 ﻿Narodna]Josipa Lisac}Hoću da te pratim svud=http://www.youtube.com/watch?v=adSyVFJI6Ok
@@ -8998,14 +9007,14 @@ Narodna]Aca Ilić}A kad malo popijem=http://www.youtube.com/watch?v=flTVAopz8tU
 ﻿Narodna]Josipa Lisac}I teče, teče vrijeme=http://www.youtube.com/watch?v=QUzfJwJqIiw
 ﻿Narodna]Josipa Lisac}I'm over you=http://www.youtube.com/watch?v=22Cl5vQqmrU
 ﻿Narodna]Josipa Lisac}Ides=http://www.youtube.com/watch?v=8C3f2CNSzHY
-﻿Narodna]Josipa Lisac}Igra valova u mom sjecanju=http://www.youtube.com/watch?v=7p38bGmDhU4
-﻿Narodna]Josipa Lisac}Ispocetka=http://www.youtube.com/watch?v=H1wLIDGCHes
+﻿Narodna]Josipa Lisac}Igra valova u mom sjećanju=http://www.youtube.com/watch?v=7p38bGmDhU4
+﻿Narodna]Josipa Lisac}Ispočetka=http://www.youtube.com/watch?v=H1wLIDGCHes
 ﻿Narodna]Josipa Lisac}Istina=http://www.youtube.com/watch?v=vziWgJCgGV8
 ﻿Narodna]Josipa Lisac}Ja bolujem=http://www.youtube.com/watch?v=dMXPN_UuPCI
 ﻿Narodna]Josipa Lisac}Jedna kratka vijest=http://www.youtube.com/watch?v=NdS-FQRow8s
 ﻿Narodna]Josipa Lisac}Još se zvijezde sjaje=http://www.youtube.com/watch?v=iXIiam-7a4c
 ﻿Narodna]Josipa Lisac}Još te čekam=http://www.youtube.com/watch?v=EzQrFRzIqlQ
-﻿Narodna]Josipa Lisac}Jucer=http://www.youtube.com/watch?v=J-t0tw-NHSQ
+﻿Narodna]Josipa Lisac}Jučer=http://www.youtube.com/watch?v=J-t0tw-NHSQ
 ﻿Narodna]Josipa Lisac}Jutro=http://www.youtube.com/watch?v=l7MIcpI9k10
 ﻿Narodna]Josipa Lisac}Kao mir=http://www.youtube.com/watch?v=v6le-iI5XYI
 ﻿Narodna]Josipa Lisac}Kao stranac=http://www.youtube.com/watch?v=knZQ8KHucSM
@@ -9013,37 +9022,37 @@ Narodna]Aca Ilić}A kad malo popijem=http://www.youtube.com/watch?v=flTVAopz8tU
 ﻿Narodna]Josipa Lisac}Karte na stol=http://www.youtube.com/watch?v=h8YmYdMUwCs
 ﻿Narodna]Josipa Lisac}Knock down=http://www.youtube.com/watch?v=CnbQny5AVuE
 ﻿Narodna]Josipa Lisac}Kraljica divljine=http://www.youtube.com/watch?v=KJR4PIWsbMY
-﻿Narodna]Josipa Lisac}Krenule su ladje=http://www.youtube.com/watch?v=jXMCRte07eg
+﻿Narodna]Josipa Lisac}Krenule su lađe=http://www.youtube.com/watch?v=jXMCRte07eg
 ﻿Narodna]Josipa Lisac}Lažeš da si moj=http://www.youtube.com/watch?v=xWuPzd_e8hw
-﻿Narodna]Josipa Lisac}Lezaj od suza=http://www.youtube.com/watch?v=0NUagPeTEyU
+﻿Narodna]Josipa Lisac}Ležaj od suza=http://www.youtube.com/watch?v=0NUagPeTEyU
 ﻿Narodna]Josipa Lisac}Ljubav=http://www.youtube.com/watch?v=kfMYvgNzezE
 ﻿Narodna]Josipa Lisac}Ljubavna pjesma=http://www.youtube.com/watch?v=pronFLd1Tr4
 ﻿Narodna]Josipa Lisac}Ljudi=http://www.youtube.com/watch?v=-ZRCiPciY8U
 ﻿Narodna]Josipa Lisac}Magla=http://www.youtube.com/watch?v=5fhC9uMZNPg
 ﻿Narodna]Josipa Lisac}Make up=http://www.youtube.com/watch?v=0k2rQFcy-gs
 ﻿Narodna]Josipa Lisac}Mister Gaf=http://www.youtube.com/watch?v=JcJpZyG66P0
-﻿Narodna]Josipa Lisac}Moj smijesni đecace=http://www.youtube.com/watch?v=Q05jTnB37Vg
+﻿Narodna]Josipa Lisac}Moj smiješni đečače=http://www.youtube.com/watch?v=Q05jTnB37Vg
 ﻿Narodna]Josipa Lisac}Možda sam se i zaljubila=http://www.youtube.com/watch?v=zJb6vXnQ-r4
 ﻿Narodna]Josipa Lisac}Na, na, na, na=http://www.youtube.com/watch?v=hWViyRGjXQs
 ﻿Narodna]Josipa Lisac}Naivni=http://www.youtube.com/watch?v=fokm5mgGnkU
-﻿Narodna]Josipa Lisac}Nasa ljubav=http://www.youtube.com/watch?v=XYRDwEQwmjc
-﻿Narodna]Josipa Lisac}Nasa zvijezda gubi svoj sjaj=http://www.youtube.com/watch?v=dcIA1nCoDoY
+﻿Narodna]Josipa Lisac}Naša ljubav=http://www.youtube.com/watch?v=XYRDwEQwmjc
+﻿Narodna]Josipa Lisac}Naša zvijezda gubi svoj sjaj=http://www.youtube.com/watch?v=dcIA1nCoDoY
 ﻿Narodna]Josipa Lisac}Ne budi lud=http://www.youtube.com/watch?v=pSpN93ZumtM
 ﻿Narodna]Josipa Lisac}Ne prepoznajem ga=http://www.youtube.com/watch?v=JUaab6Z5sAU
-﻿Narodna]Josipa Lisac}Ne stedi se=http://www.youtube.com/watch?v=J2bCIOPCzRU
+﻿Narodna]Josipa Lisac}Ne štedi se=http://www.youtube.com/watch?v=J2bCIOPCzRU
 ﻿Narodna]Josipa Lisac}Nema sunca=http://www.youtube.com/watch?v=rOMRRDodc6s
-﻿Narodna]Josipa Lisac}Nesto=http://www.youtube.com/watch?v=FqM9v1qLiP0
+﻿Narodna]Josipa Lisac}Nešto=http://www.youtube.com/watch?v=FqM9v1qLiP0
 ﻿Narodna]Josipa Lisac}Nismo mi bez cilja=http://www.youtube.com/watch?v=9YLE_vBvino
 ﻿Narodna]Josipa Lisac}Noćna ptica=http://www.youtube.com/watch?v=TeoR2xUmAC4
 ﻿Narodna]Josipa Lisac}O jednoj mladosti=http://www.youtube.com/watch?v=O0OlWJsPseI
 ﻿Narodna]Josipa Lisac}Oluja=http://www.youtube.com/watch?v=Rr8VPJk_D_A
 ﻿Narodna]Josipa Lisac}Omer beze=http://www.youtube.com/watch?v=6M692ZZfDpA
 ﻿Narodna]Josipa Lisac}Opet sam slobodna=http://www.youtube.com/watch?v=pduwGb4LHYI
-﻿Narodna]Josipa Lisac}Ostajes mi samo ti=http://www.youtube.com/watch?v=CV3BnGNY8lY
-﻿Narodna]Josipa Lisac}Pazi, ostar pas=http://www.youtube.com/watch?v=AIEejcs0sts
-﻿Narodna]Josipa Lisac}Placem=http://www.youtube.com/watch?v=6P_EdKUcIXg
+﻿Narodna]Josipa Lisac}Ostaješ mi samo ti=http://www.youtube.com/watch?v=CV3BnGNY8lY
+﻿Narodna]Josipa Lisac}Pazi, oštar pas=http://www.youtube.com/watch?v=AIEejcs0sts
+﻿Narodna]Josipa Lisac}Plačem=http://www.youtube.com/watch?v=6P_EdKUcIXg
 ﻿Narodna]Josipa Lisac}Po prvi put=http://www.youtube.com/watch?v=b_SByo8LAu8
-﻿Narodna]Josipa Lisac}Postao si drugi covjek=http://www.youtube.com/watch?v=YQEo0J4E3Go
+﻿Narodna]Josipa Lisac}Postao si drugi čovjek=http://www.youtube.com/watch?v=YQEo0J4E3Go
 ﻿Narodna]Josipa Lisac}Raduj se srce moje=http://www.youtube.com/watch?v=CSI7YHun99I
 ﻿Narodna]Josipa Lisac}Rendez-vous sa Sotonom=http://www.youtube.com/watch?v=KTRS76F6vnk
 ﻿Narodna]Josipa Lisac}Rušila sam mostove od sna=http://www.youtube.com/watch?v=qnk4KjEdO0c
@@ -9051,9 +9060,9 @@ Narodna]Aca Ilić}A kad malo popijem=http://www.youtube.com/watch?v=flTVAopz8tU
 ﻿Narodna]Josipa Lisac}Sanjala sam=http://www.youtube.com/watch?v=D1u_HVLiVDA
 ﻿Narodna]Josipa Lisac}Sloboda i mir=http://www.youtube.com/watch?v=83tpCMb2zpU
 ﻿Narodna]Josipa Lisac}Spustila se kiša=http://www.youtube.com/watch?v=GKJfStI-oZY
-﻿Narodna]Josipa Lisac}Sreca=http://www.youtube.com/watch?v=fgfr-09ebr4
+﻿Narodna]Josipa Lisac}Sreća=http://www.youtube.com/watch?v=fgfr-09ebr4
 ﻿Narodna]Josipa Lisac}Srela sam se s njim=http://www.youtube.com/watch?v=I-2Gm9rGAJk
-﻿Narodna]Josipa Lisac}Što me cini sretnom=http://www.youtube.com/watch?v=BVhMCWH3xTo
+﻿Narodna]Josipa Lisac}Što me čini sretnom=http://www.youtube.com/watch?v=BVhMCWH3xTo
 ﻿Narodna]Josipa Lisac}Svako zlo nosi nešto dobrog=http://www.youtube.com/watch?v=9n7E63qwKS0
 ﻿Narodna]Josipa Lisac}Sve majke svijeta uz more=http://www.youtube.com/watch?v=G6MSdtNVrL0
 ﻿Narodna]Josipa Lisac}Svijet oko nas=http://www.youtube.com/watch?v=c8oyZNMqo7k
@@ -9065,9 +9074,9 @@ Narodna]Aca Ilić}A kad malo popijem=http://www.youtube.com/watch?v=flTVAopz8tU
 ﻿Narodna]Josipa Lisac}Tko zna kog vidiš u meni=http://www.youtube.com/watch?v=dDgYTY-bzo4
 ﻿Narodna]Josipa Lisac}Traje noć=http://www.youtube.com/watch?v=bd-mqaR7jXo
 ﻿Narodna]Josipa Lisac}U mislima=http://www.youtube.com/watch?v=dun_Ti44dyI
-﻿Narodna]Josipa Lisac}Vecer u Luna parku=http://www.youtube.com/watch?v=IH1rpao46Vg
+﻿Narodna]Josipa Lisac}Večer u Luna parku=http://www.youtube.com/watch?v=IH1rpao46Vg
 ﻿Narodna]Josipa Lisac}Večeras=http://www.youtube.com/watch?v=af_3sePwoxc
-﻿Narodna]Josipa Lisac}Veseli se, majko Bozja=http://www.youtube.com/watch?v=8LqpA6WzetM
+﻿Narodna]Josipa Lisac}Veseli se, majko Božja=http://www.youtube.com/watch?v=8LqpA6WzetM
 ﻿Narodna]Josipa Lisac}Vjernost=http://www.youtube.com/watch?v=dhm0K5hEEz8
 ﻿Narodna]Josipa Lisac}Vjerujem ti sve=http://www.youtube.com/watch?v=SrQqnJfebPg
 ﻿Narodna]Josipa Lisac}Welcome my friend=http://www.youtube.com/watch?v=-8GTzjF8I9A
