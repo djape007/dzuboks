@@ -722,6 +722,7 @@
 ﻿Zabavna]Marina Tadić}Šta ti znači=http://www.youtube.com/watch?v=tTxgRDlT2qQ
 ﻿Zabavna]Marina Tadić}Sve sam mogla ja=http://www.youtube.com/watch?v=nu8htPOTyhc
 ﻿Zabavna]Marina Tadić}Više me ne zovi=http://www.youtube.com/watch?v=u7SCxuBwTNA
+﻿Zabavna]Marina Tadić}Ubica=http://www.youtube.com/watch?v=_Y1Bb1Q68to
 ﻿Zabavna]Marina Visković}Alisa u zemlji cuda=http://www.youtube.com/watch?v=Tj34APongzE
 ﻿Zabavna]Marina Visković}Bensedini=--start-time=11 http://www.youtube.com/watch?v=YZgQng4a_Bc
 ﻿Zabavna]Marina Visković}Kavez=--start-time=6 http://www.youtube.com/watch?v=2IoiDfVF1g4
@@ -8129,6 +8130,7 @@ Rok]Trigger}Inercija=https://www.youtube.com/watch?v=3UWB9SLwyGY
 ﻿Narodna]Stoja}Ne dam ti=http://www.youtube.com/watch?v=_3nPAlCpTsQ
 ﻿Narodna]Stoja}Ne moli me=http://www.youtube.com/watch?v=dSY9MfkFC2E
 ﻿Narodna]Stoja}Ne slušaj vesti=http://www.youtube.com/watch?v=sa_FYyDmiws
+Narodna]Stoja}Ne treba mi život=--start-time=6 https://www.youtube.com/watch?v=WDWCYeDLomw
 ﻿Narodna]Stoja}Ne volim te više=http://www.youtube.com/watch?v=4w3Ary4eIn4
 ﻿Narodna]Stoja}Ne vraćam se ja na staro=http://www.youtube.com/watch?v=FghZV38sYpY
 ﻿Narodna]Stoja}Neću proći jeftino=http://www.youtube.com/watch?v=nhUhdzGCNsk
