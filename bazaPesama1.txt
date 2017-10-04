@@ -849,6 +849,7 @@
 ﻿Zabavna]Amadeus Band}Moja zemlja=http://www.youtube.com/watch?v=9saG37DZ-fw
 ﻿Zabavna]Amadeus Band}Možda=http://www.youtube.com/watch?v=2dGGF9uzPOE
 ﻿Zabavna]Amadeus Band}Ne veruje srce pameti=http://www.youtube.com/watch?v=3rlkwmEB2Jw
+﻿Zabavna]Amadeus Band}Ne verujem ja=https://www.youtube.com/watch?v=X-RLoh_HD7A
 ﻿Zabavna]Amadeus Band}Nebo je granica=http://www.youtube.com/watch?v=3WsgUuoCvxI
 ﻿Zabavna]Amadeus Band}Neću pustiti ni glasa=http://www.youtube.com/watch?v=5iQm9mYYZyU
 ﻿Zabavna]Amadeus Band}Neću=http://www.youtube.com/watch?v=5iQm9mYYZyU
@@ -1295,6 +1296,53 @@
 ﻿Narodna]Angel Dimov}Voljena ne piši mi više=http://www.youtube.com/watch?v=q3ZhG6nptP8
 ﻿Narodna]Angel Dimov}Za oči tvoje=http://www.youtube.com/watch?v=DQJAE7THxKI
 ﻿Narodna]Angel Dimov}Ženo moja, moje milovanje=http://www.youtube.com/watch?v=ZNKHhGLMamY
+Tamburaši]Ansambl Zorule}Ljubav mi srce mori=https://www.youtube.com/watch?v=m39twzuCRJA
+Tamburaši]Ansambl Zorule}Ne klepeći nanulama=https://www.youtube.com/watch?v=80O4_RS0p6A
+Tamburaši]Ansambl Zorule}Sejdefu majka buđaše=https://www.youtube.com/watch?v=pQ2GkYAYvWA
+Tamburaši]Ansambl Zorule}Skeledžija=https://www.youtube.com/watch?v=JaIN0rguELA
+Tamburaši]Ansambl Zorule}Zapis=https://www.youtube.com/watch?v=6rVMzrQjF8Y
+Tamburaši]Ansambl Zorule}Noć o kojoj snivaš=https://www.youtube.com/watch?v=R2VJqH3SJ1U
+Tamburaši]Ansambl Zorule}Za moju Milicu=--start-time=3 https://www.youtube.com/watch?v=4Z0GfmUYnIQ
+Tamburaši]Ansambl Zorule}Usne jedne Jovane=https://www.youtube.com/watch?v=Av6qxDXzN7M
+Tamburaši]Ansambl Zorule}Na rubu tvojih usana=https://www.youtube.com/watch?v=yUSfCDJX8o8
+Tamburaši]Ansambl Zorule}Mi Mou Thimonis Matia Mou=https://www.youtube.com/watch?v=LTgEDOaIYVw
+Tamburaši]Ansambl Zorule}Julijana=https://www.youtube.com/watch?v=WEfF728tYL4
+Tamburaši]Ansambl Zorule}Ko te ima taj te nema=https://www.youtube.com/watch?v=_xXXlFcYEgA
+Tamburaši]Ansambl Zorule}Višegrade, grade=https://www.youtube.com/watch?v=232NLinBuJU
+Tamburaši]Ansambl Zorule}Temerav=https://www.youtube.com/watch?v=CQ7FXRcqo2c
+Tamburaši]Ansambl Zorule}Malo ja, malo ti=https://www.youtube.com/watch?v=kZWReJO4s28
+Tamburaši]Ansambl Zorule}Škripi đeram=https://www.youtube.com/watch?v=okVWokClUQk
+Tamburaši]Ansambl Zorule}Bila je tako lepa=https://www.youtube.com/watch?v=8KCAUvas69w
+Tamburaši]Ansambl Zorule}Žuta ruža=https://www.youtube.com/watch?v=GO_l6L_-6q4
+Tamburaši]Ansambl Zorule}Dobro jutro moj bekrijo=https://www.youtube.com/watch?v=ePsLYHkqS8g
+Tamburaši]Ansambl Zorule}Ova naša livada i seoska sam lola=https://www.youtube.com/watch?v=oSzNQA99KOU
+Tamburaši]Ansambl Zorule}U tom Somboru=https://www.youtube.com/watch?v=ATHo6wScEJU
+Tamburaši]Ansambl Zorule}8 tamburaša=https://www.youtube.com/watch?v=J2q3kxo5yXM
+Tamburaši]Ansambl Zorule}Ako si ti pupoljak od ruže=https://www.youtube.com/watch?v=cJW-I34Rkkc
+Tamburaši]Ansambl Zorule}Moj Novi Sade=https://www.youtube.com/watch?v=Ise8SZlVyDA
+Tamburaši]Ansambl Zorule}Još litar jedan=https://www.youtube.com/watch?v=4M5AVvgLHSY
+Tamburaši]Ansambl Zorule}Da smo se ranije sreli=--start-time=2 https://www.youtube.com/watch?v=WUCs8gYbAao
+Tamburaši]Ansambl Zorule}Oj Jelo, Jelo=https://www.youtube.com/watch?v=W6QBPuRRXyg
+Tamburaši]Ansambl Zorule}Đela Fato, đela zlato=--start-time=3 https://www.youtube.com/watch?v=INmTn_MH2xw
+Tamburaši]Ansambl Zorule}Baćino kolo=https://www.youtube.com/watch?v=Bf9oaAYyDvE
+Tamburaši]Ansambl Zorule}Mesečina al meseca nema=https://www.youtube.com/watch?v=B0BwKH6khv4
+Tamburaši]Ansambl Zorule}Sanjao sam da ću tebe naći=https://www.youtube.com/watch?v=L1tOzVAp-mY
+Tamburaši]Ansambl Zorule}Noćas nisu sjale=https://www.youtube.com/watch?v=XXBW7jVnfwQ
+Tamburaši]Ansambl Zorule}Velikim kanalom=https://www.youtube.com/watch?v=EaNza5pE3h4
+Tamburaši]Ansambl Zorule}Romansa ta=--start-time=14 https://www.youtube.com/watch?v=1MbCMy5DopY
+Tamburaši]Ansambl Zorule}Kišne kapljice=--start-time=3 https://www.youtube.com/watch?v=tM7aH_5vEXk
+Tamburaši]Ansambl Zorule}Moj konjiću=https://www.youtube.com/watch?v=1uIIDl7R1TA
+Tamburaši]Ansambl Zorule}Marijano večeraj pa lezi=https://www.youtube.com/watch?v=WFL36_mjLao
+Tamburaši]Ansambl Zorule}Mesečina tako divno sja=https://www.youtube.com/watch?v=djdFMnVLIF4
+Tamburaši]Ansambl Zorule}Topdžijsko kolo=https://www.youtube.com/watch?v=k8Nyh6CI1Fw
+Tamburaši]Ansambl Zorule}Ko lepi san=https://www.youtube.com/watch?v=aaHE4mvGgno
+Narodna]Andreana Čekić}300 svatova=--start-time=19 https://www.youtube.com/watch?v=AvyCC4CdyRE
+Narodna]Andreana Čekić}Nevreme=https://www.youtube.com/watch?v=9a6LvNOCb1Y
+Narodna]Andreana Čekić}Neraspoložena=https://www.youtube.com/watch?v=y1yyYgsCKaA
+Narodna]Andreana Čekić}Blago suzama=--start-time=10 https://www.youtube.com/watch?v=bVR8dSdEEp4
+Narodna]Andreana Čekić}Rođena da plačem=https://www.youtube.com/watch?v=EfsO3BDqEL0
+Narodna]Andreana Čekić}Viski=https://www.youtube.com/watch?v=G6nOAVr4P7g
+Narodna]Andreana Čekić}Kraljica u zlatu=https://www.youtube.com/watch?v=Lx0BONJW8eE
 ﻿Kantautori]Arsen Dedić}Amigo=http://www.youtube.com/watch?v=jAiqDfn7cIg
 ﻿Kantautori]Arsen Dedić}Balada iz predgradja=http://www.youtube.com/watch?v=moq0-53oP1Y
 ﻿Kantautori]Arsen Dedić}Balada o prolaznosti=http://www.youtube.com/watch?v=WfgVpt01aVI
@@ -7929,7 +7977,7 @@
 ﻿Rok]Hladno Pivo}Svi smo ga mi voljeli=http://www.youtube.com/watch?v=MOkzA2BsnLA
 ﻿Rok]Hladno Pivo}Svijet glamura=http://www.youtube.com/watch?v=TUahudC-iYE
 ﻿Rok]Hladno Pivo}Svirka=http://www.youtube.com/watch?v=cukShO7_i2c
-﻿Rok]Hladno Pivo}Tamburasi=http://www.youtube.com/watch?v=lMgJQ8gZ2UQ
+﻿Rok]Hladno Pivo}Tamburaši=http://www.youtube.com/watch?v=lMgJQ8gZ2UQ
 ﻿Rok]Hladno Pivo}Tema je žena=http://www.youtube.com/watch?v=OTJQ3IXHBWk
 ﻿Rok]Hladno Pivo}Teško je ful biti kul=http://www.youtube.com/watch?v=MUdvu4ajM5o
 ﻿Rok]Hladno Pivo}Tijana=http://www.youtube.com/watch?v=jaBnwjw-W5k
@@ -8607,6 +8655,7 @@
 ﻿Narodna]Jana}Anđele moj=http://www.youtube.com/watch?v=MVQkrsx9P6Y
 ﻿Narodna]Jana}Barabar=http://www.youtube.com/watch?v=l6MhDvmCoak
 ﻿Narodna]Jana}Beleg=http://www.youtube.com/watch?v=ttnvioDAaxE
+﻿Narodna]Jana}Bitanga=https://www.youtube.com/watch?v=tRyD0NxdWxk
 ﻿Narodna]Jana}Boginja=http://www.youtube.com/watch?v=cfQ32aMyILQ
 ﻿Narodna]Jana}Bravo, bravo=http://www.youtube.com/watch?v=lggQzX8WTB0
 ﻿Narodna]Jana}Bruka i sramota=http://www.youtube.com/watch?v=sYwVhtupyxM
@@ -8651,6 +8700,7 @@
 ﻿Narodna]Jana}Malo magije=http://www.youtube.com/watch?v=AdRWr4oVy-k
 ﻿Narodna]Jana}Miraz=http://www.youtube.com/watch?v=3S4PcDyHScM
 ﻿Narodna]Jana}Moje drugo lice=http://www.youtube.com/watch?v=4HfakGsPWbs
+﻿Narodna]Jana}Moj je život kao pesma kafanska=https://www.youtube.com/watch?v=fLNlK1_c4u0
 ﻿Narodna]Jana}Mostovi=http://www.youtube.com/watch?v=SdK3UehpfAE
 ﻿Narodna]Jana}Može, može=http://www.youtube.com/watch?v=FnSyGbgbWqE
 ﻿Narodna]Jana}Muči me=http://www.youtube.com/watch?v=yroTuUoffVc
@@ -8664,6 +8714,7 @@
 ﻿Narodna]Jana}Ostavi mi drugove=http://www.youtube.com/watch?v=qaqzMkko4-4
 ﻿Narodna]Jana}Ostavljam=http://www.youtube.com/watch?v=MhKqEsqZmio
 ﻿Narodna]Jana}Ožiljak=http://www.youtube.com/watch?v=OvQI-cQOA4w
+﻿Narodna]Jana}Oženi pevačicu=https://www.youtube.com/watch?v=qr37XmB6KDc
 ﻿Narodna]Jana}Pa nek sama večera=http://www.youtube.com/watch?v=Fm7HNJbxCVY
 ﻿Narodna]Jana}Patila sam ja=http://www.youtube.com/watch?v=SArIxgrS_dg
 ﻿Narodna]Jana}Pesmu imam samo=http://www.youtube.com/watch?v=ngz43p40aEM
@@ -9940,7 +9991,7 @@
 ﻿Narodna]Legende}Slutnja=http://www.youtube.com/watch?v=sawarG-Isis
 ﻿Narodna]Legende}Stara lipa=http://www.youtube.com/watch?v=bE5COVs-Geo
 ﻿Narodna]Legende}Ta oka dva=http://www.youtube.com/watch?v=H4M67RTTsTI
-﻿Narodna]Legende}Tamburasi=http://www.youtube.com/watch?v=wp71a1Gr0nM
+﻿Narodna]Legende}Tamburaši=http://www.youtube.com/watch?v=wp71a1Gr0nM
 ﻿Narodna]Legende}Tocak života=http://www.youtube.com/watch?v=jpwiHm4tIpo
 ﻿Narodna]Legende}Uspavanka=http://www.youtube.com/watch?v=riXwGpewVBY
 ﻿Narodna]Legende}Uspomene=http://www.youtube.com/watch?v=wOvkgicD2n8
