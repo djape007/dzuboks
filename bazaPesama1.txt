@@ -3339,18 +3339,17 @@
 ﻿Rok]Crvena Jabuka}Znaš da nekad=http://www.youtube.com/watch?v=NTu-MPmb44g
 ﻿Rok]Crvena Jabuka}Zovu nas ulice=http://www.youtube.com/watch?v=w5bu5ENvohM
 ﻿Rok]Crvena Jabuka}Zvijezda Danica=http://www.youtube.com/watch?v=aTPh7ftekPw
-Narodna]Cvele Radovanović}Pruži ruku na rastanku=https://www.youtube.com/watch?v=HtPY4f-55qI
-Narodna]Cvele Radovanović}Zelena polja=https://www.youtube.com/watch?v=V1q0GrsT6mw
-Narodna]Cvele Radovanović}Ne budi me, majko=https://www.youtube.com/watch?v=Nezx-f0yuKI
-Narodna]Cvele Radovanović}Sećanje na nju=https://www.youtube.com/watch?v=ugC_fT2Ycw0
-Narodna]Cvele Radovanović}Ako te nekada povedu puti=https://www.youtube.com/watch?v=ElkNjpXoZxo
-Narodna]Cvele Radovanović}Ne može se bez ljubavi=https://www.youtube.com/watch?v=zopv7bwKMIg
-Narodna]Cvele Radovanović}Đurđija=https://www.youtube.com/watch?v=qQEvhforHzQ
-Narodna]Cvele Radovanović}Sve je teklo burno kao reka=https://www.youtube.com/watch?v=P8nusWkenFA
-Narodna]Cvele Radovanović}Sećanje na nju=https://www.youtube.com/watch?v=HeaWgWkaTkU
-Narodna]Cvele Radovanović}Kolika je Beogradska pruga=https://www.youtube.com/watch?v=7U1jMy2C1Os
-Narodna]Cvele Radovanović}Iz noći u noć sanjam te ja=https://www.youtube.com/watch?v=PiyfEHE98Po
-Narodna]Cvele Radovanović}Naše kolo=https://www.youtube.com/watch?v=ZnSFMilJOgI
+﻿Narodna]Cvele Radovanović}Pruži ruku na rastanku=https://www.youtube.com/watch?v=HtPY4f-55qI
+﻿Narodna]Cvele Radovanović}Zelena polja=https://www.youtube.com/watch?v=V1q0GrsT6mw
+﻿Narodna]Cvele Radovanović}Ne budi me, majko=https://www.youtube.com/watch?v=Nezx-f0yuKI
+﻿Narodna]Cvele Radovanović}Sećanje na nju=https://www.youtube.com/watch?v=HeaWgWkaTkU
+﻿Narodna]Cvele Radovanović}Ako te nekada povedu puti=https://www.youtube.com/watch?v=ElkNjpXoZxo
+﻿Narodna]Cvele Radovanović}Ne može se bez ljubavi=https://www.youtube.com/watch?v=zopv7bwKMIg
+﻿Narodna]Cvele Radovanović}Đurđija=https://www.youtube.com/watch?v=qQEvhforHzQ
+﻿Narodna]Cvele Radovanović}Sve je teklo burno kao reka=https://www.youtube.com/watch?v=P8nusWkenFA
+﻿Narodna]Cvele Radovanović}Kolika je Beogradska pruga=https://www.youtube.com/watch?v=7U1jMy2C1Os
+﻿Narodna]Cvele Radovanović}Iz noći u noć sanjam te ja=https://www.youtube.com/watch?v=PiyfEHE98Po
+﻿Narodna]Cvele Radovanović}Naše kolo=https://www.youtube.com/watch?v=ZnSFMilJOgI
 ﻿Zabavna]Cvija}100 ljubavi=--start-time=6 http://www.youtube.com/watch?v=xCUKwYxrkME
 ﻿Zabavna]Cvija}Bahami=--start-time=67 http://www.youtube.com/watch?v=Utbzuo7Eado
 ﻿Zabavna]Cvija}Bogu hvala=--start-time=6 http://www.youtube.com/watch?v=xvOyVXrNrEk
@@ -4559,7 +4558,7 @@ Narodna]Cvele Radovanović}Naše kolo=https://www.youtube.com/watch?v=ZnSFMilJOg
 ﻿Kantautori]Đorđe Balašević}Duet=http://www.youtube.com/watch?v=cCx7fisQFtk
 ﻿Kantautori]Đorđe Balašević}Eleonora=http://www.youtube.com/watch?v=M5Kx-UoCyKY
 ﻿Kantautori]Đorđe Balašević}Fina, lagana stvar=http://www.youtube.com/watch?v=2I58rayJNVg
-﻿Kantautori]Đorđe Balašević}Gde baš sada da se zaljubim=http://www.youtube.com/watch?v=-WnePmhpPcY
+﻿Kantautori]Đorđe Balašević}Gde baš sada da se zaljubim=http://www.youtube.com/watch?v=kxrg8Hp2tOY
 ﻿Kantautori]Đorđe Balašević}Hej haj baš nas briga=http://www.youtube.com/watch?v=yNaIfr0B8lE
 ﻿Kantautori]Đorđe Balašević}Hej, carobnjaci=http://www.youtube.com/watch?v=w4-a_uUjLJw
 ﻿Kantautori]Đorđe Balašević}Ilona=http://www.youtube.com/watch?v=L-vXou1Rhes
@@ -5994,7 +5993,7 @@ Narodna]Cvele Radovanović}Naše kolo=https://www.youtube.com/watch?v=ZnSFMilJOg
 ﻿Narodna]Era Ojdanić}Najdraza slika=http://www.youtube.com/watch?v=AKvw13omxt4
 ﻿Narodna]Era Ojdanić}Neće Nina u sumicu=http://www.youtube.com/watch?v=JEVX_9fDciQ
 ﻿Narodna]Era Ojdanić}Nisam majstor da napravim bure=http://www.youtube.com/watch?v=dE4Qqs9P8Vk
-﻿Narodna]Era Ojdanić}Odavno sam otišo iz sela=http://www.youtube.com/watch?v=ua0bwJfKj4c
+﻿Narodna]Era Ojdanić}Odavno sam otišo iz sela=http://www.youtube.com/watch?v=GO9jo-mjznI
 ﻿Narodna]Era Ojdanić}Oj, Milice, cobanice=http://www.youtube.com/watch?v=Meod8zTg3Vo
 ﻿Narodna]Era Ojdanić}Pauk=http://www.youtube.com/watch?v=PoUPUogOShI
 ﻿Narodna]Era Ojdanić}Piši šta je pila žena plava=http://www.youtube.com/watch?v=ALMKzUn6yI0
@@ -7109,7 +7108,7 @@ Narodna]Cvele Radovanović}Naše kolo=https://www.youtube.com/watch?v=ZnSFMilJOg
 ﻿Rep]Gru}On je lud=http://www.youtube.com/watch?v=DNz5ClZ6_5w
 ﻿Rep]Gru}Pizza vegeteriana 2=http://www.youtube.com/watch?v=AHXHOB78X2o
 ﻿Rep]Gru}Pizza vegeteriana=http://www.youtube.com/watch?v=AHXHOB78X2o
-Rep]Gru}Plan B (ft. THCF, DeeJay)=--start-time=5 https://www.youtube.com/watch?v=CfBi2km-Hlo
+﻿Rep]Gru}Plan B (ft. THCF, DeeJay)=--start-time=5 https://www.youtube.com/watch?v=CfBi2km-Hlo
 ﻿Rep]Gru}Pravi broj=http://www.youtube.com/watch?v=bjYfSm0xx10
 ﻿Rep]Gru}Pravo u raj=http://www.youtube.com/watch?v=-p_XZG-NkQs
 ﻿Rep]Gru}Preko tvoga ramena=http://www.youtube.com/watch?v=no9UswWBogY
@@ -11169,7 +11168,7 @@ Rep]Gru}Plan B (ft. THCF, DeeJay)=--start-time=5 https://www.youtube.com/watch?v
 ﻿Rok Strani]Rammstein}Engel=--start-time=8 https://www.youtube.com/watch?v=h4gC0K9KlOI
 ﻿Rok Strani]Rammstein}Mein herz brennt, piano version=https://www.youtube.com/watch?v=Dv6Th7kJ64Q
 ﻿Rok Strani]Rammstein}Rammstein=https://www.youtube.com/watch?v=_sM2sKk4DPM
-﻿Rok Strani]Rammstein}Liebe ist für alle da=https://www.youtube.com/watch?v=Cx_ZalI6YMg
+﻿Rok Strani]Rammstein}Liebe ist für alle da=http://www.youtube.com/watch?v=E_WHI4rofL0
 ﻿Rok Strani]Rammstein}Spiel mit mir=--start-time=7 http://www.youtube.com/watch?v=H6xUVzYlvoA
 ﻿Rok Strani]Rammstein}Reise, reise=--start-time=13 https://www.youtube.com/watch?v=N0e3ARhJIsg
 ﻿Rok Strani]Rammstein}Buckstabu=https://www.youtube.com/watch?v=ri0kmuyec1Q
@@ -11202,7 +11201,7 @@ Rep]Gru}Plan B (ft. THCF, DeeJay)=--start-time=5 https://www.youtube.com/watch?v
 ﻿Rok Strani]Rammstein}Spring=https://www.youtube.com/watch?v=5uB78p_4J_Q
 ﻿Rok Strani]Rammstein}Weisses fleisch=https://www.youtube.com/watch?v=rqPr4bVsdlg
 ﻿Rok Strani]Rammstein}Bestrafe mich=https://www.youtube.com/watch?v=fceNB1AyGxo
-﻿Rok Strani]Rammstein}Waidmanns heil=https://www.youtube.com/watch?v=8Cg54l22qgc
+﻿Rok Strani]Rammstein}Waidmanns heil=http://www.youtube.com/watch?v=17eIC4uwQ1Y
 ﻿Rok Strani]Rammstein}Herzeleid=--start-time=2 https://www.youtube.com/watch?v=F-lfY7gfNu4
 ﻿Rok Strani]Rammstein}Feuerräder=https://www.youtube.com/watch?v=a6r_TnuUjjg
 ﻿Rok Strani]Rammstein}Frühling in Paris=https://www.youtube.com/watch?v=acCzIUE8qwc
