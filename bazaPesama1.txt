@@ -1355,7 +1355,7 @@
 ﻿Kantautori]Arsen Dedić}Gabrijela=http://www.youtube.com/watch?v=YAirV5PexuA
 ﻿Kantautori]Arsen Dedić}Kako si=http://www.youtube.com/watch?v=SoSFamSu3oI
 ﻿Kantautori]Arsen Dedić}Kuća pored mora=http://www.youtube.com/watch?v=0pZz1zUyRCQ
-﻿Kantautori]Arsen Dedić}Milena=http://www.youtube.com/watch?v=mVFuv2_7o9g
+﻿Kantautori]Arsen Dedić}Milena=http://www.youtube.com/watch?v=0MBBRL2o8yo
 ﻿Kantautori]Arsen Dedić}Ministarstvo straha=http://www.youtube.com/watch?v=cBsOfcRWlng
 ﻿Kantautori]Arsen Dedić}Moderato cantabile=http://www.youtube.com/watch?v=RzvZlkSXr9Y
 ﻿Kantautori]Arsen Dedić}Mrtvo lisce=http://www.youtube.com/watch?v=nlRg_wdpND8
@@ -2102,7 +2102,7 @@
 ﻿Rok]Bijelo Dugme}Pjesma za malu pticu=http://www.youtube.com/watch?v=18vnnq7wqAw
 ﻿Rok]Bijelo Dugme}Pljuni i zapjevaj moja Jugoslavijo=http://www.youtube.com/watch?v=GeYbYsdvuXo
 ﻿Rok]Bijelo Dugme}Polubauk polukruzi polu Evropom=http://www.youtube.com/watch?v=O4nBcLCrdgs
-﻿Rok]Bijelo Dugme}Požurite, konji moji=http://www.youtube.com/watch?v=MAngirfkbqM
+Rok]Bijelo Dugme}Požurite konji moji=http://www.youtube.com/watch?v=cH_nIlWcVck
 ﻿Rok]Bijelo Dugme}Pristao sam biću sve što hoće=http://www.youtube.com/watch?v=Flu3wdsL73g
 ﻿Rok]Bijelo Dugme}Ružica si bila=http://www.youtube.com/watch?v=_iKS3gpbUt8
 ﻿Rok]Bijelo Dugme}Sanjao sam noćas da te nemam=http://www.youtube.com/watch?v=b6oOzsOA_dQ
@@ -2584,7 +2584,7 @@
 ﻿Zabavna]Boris Novković}Ljubav nije ovih dana=http://www.youtube.com/watch?v=xjz7WuAVqBE
 ﻿Zabavna]Boris Novković}Malo ljubavi=http://www.youtube.com/watch?v=Snke55fbMhc
 ﻿Zabavna]Boris Novković}Malo nas je, al' nas ima=http://www.youtube.com/watch?v=2ZyXMfEnXdQ
-﻿Zabavna]Boris Novković}Mi smo jaci i od sudbine=http://www.youtube.com/watch?v=X_KN_NnvxnA
+﻿Zabavna]Boris Novković}Mi smo jaci i od sudbine=http://www.youtube.com/watch?v=J5K9EcBaSR0
 ﻿Zabavna]Boris Novković}Minut duze=http://www.youtube.com/watch?v=H9cGXy1qcqE
 ﻿Zabavna]Boris Novković}Ne kuni se=http://www.youtube.com/watch?v=0GdKUnRhOZE
 ﻿Zabavna]Boris Novković}Ne mogu da ne mislim na tebe=http://www.youtube.com/watch?v=bWgusoFKS4U
@@ -3312,7 +3312,7 @@
 ﻿Rok]Crvena Jabuka}To mi radi=http://www.youtube.com/watch?v=yN6QHQid8t0
 ﻿Rok]Crvena Jabuka}Tuga, ti i ja=http://www.youtube.com/watch?v=ssaJG5QhHo0
 ﻿Rok]Crvena Jabuka}Tugo, nesrećo=http://www.youtube.com/watch?v=1aA1rXWYz-g
-﻿Rok]Crvena Jabuka}Tvoga srca vrata=http://www.youtube.com/watch?v=jtTDCBZjCPA
+﻿Rok]Crvena Jabuka}Tvoga srca vrata=http://www.youtube.com/watch?v=lcqQneLJZrY
 ﻿Rok]Crvena Jabuka}Tvojim željama vođen=http://www.youtube.com/watch?v=6wFTW5kUJaY
 ﻿Rok]Crvena Jabuka}Učiniću sve da te zadovoljim=http://www.youtube.com/watch?v=UBcJJTUvx-0
 ﻿Rok]Crvena Jabuka}Ukrast ću ti snove=http://www.youtube.com/watch?v=Tw5fdQ7ZT9g
