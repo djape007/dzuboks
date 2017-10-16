@@ -3480,6 +3480,7 @@ Rok]Bijelo Dugme}Požurite konji moji=http://www.youtube.com/watch?v=cH_nIlWcVck
 ﻿Zabavna]Dado Polumenta}Za tebe uvjek biću tu, s kraja svjeta ja ću doći=--start-time=63 http://www.youtube.com/watch?v=7uZjfCkrXtI
 ﻿Zabavna]Dado Polumenta}Zauvijek tvoj=http://www.youtube.com/watch?v=Y5IQQj-yaG0
 ﻿Zabavna]Dado Polumenta}Ženim se=http://www.youtube.com/watch?v=fegelR45AWs
+﻿Zabavna]Dado Polumenta}Žene (ft. Đani)=--start-time=5 https://www.youtube.com/watch?v=xKkjOBs3VAU
 ﻿Zabavna]Dado Polumenta}Život ledenih=http://www.youtube.com/watch?v=GK9vi5Wo2fQ
 ﻿Rok]Dado Topić}Alfa Romeo GTA=http://www.youtube.com/watch?v=454RWs8NQjU
 ﻿Rok]Dado Topić}Andrija=http://www.youtube.com/watch?v=S1WuqGJ-tFk
@@ -4426,6 +4427,7 @@ Rok]Bijelo Dugme}Požurite konji moji=http://www.youtube.com/watch?v=cH_nIlWcVck
 ﻿Narodna]Đani}Zapali, zapali=http://www.youtube.com/watch?v=5VkgNqhYYK8
 ﻿Narodna]Đani}Zašto sam ti verovao=http://www.youtube.com/watch?v=TazmMyyAKdI
 ﻿Narodna]Đani}Zavede me i nestade=http://www.youtube.com/watch?v=VW1z-IyxLdw
+﻿Narodna]Đani}Žene (ft. Dado Polumenta)=--start-time=5 https://www.youtube.com/watch?v=xKkjOBs3VAU
 ﻿Zabavna]Đogani}92=http://www.youtube.com/watch?v=RIMCc-Za6lY
 ﻿Zabavna]Đogani}Ajmo sad u provod=http://www.youtube.com/watch?v=x9DDJ5Zk5Ls
 ﻿Zabavna]Đogani}Anđeo bez krila=http://www.youtube.com/watch?v=ER0obit1q2o
