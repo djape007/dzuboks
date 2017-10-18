@@ -2041,7 +2041,7 @@
 ﻿Narodna]Mitar Mirić}Najjači smo najjači=http://www.youtube.com/watch?v=Iy-x4fwPcaI
 ﻿Narodna]Mitar Mirić}Navika je od ljubavi jača=http://www.youtube.com/watch?v=zOEoJbo6lds
 ﻿Narodna]Mitar Mirić}Ne daj Bože nikome=http://www.youtube.com/watch?v=1Du9LudMwD4
-Narodna]Mitar Mirić}Ne diraj čoveka za stolom=https://www.youtube.com/watch?v=f6p84Xj_5Aw
+﻿Narodna]Mitar Mirić}Ne diraj čoveka za stolom=https://www.youtube.com/watch?v=f6p84Xj_5Aw
 ﻿Narodna]Mitar Mirić}Ne ljubi me u snovima=http://www.youtube.com/watch?v=KTExvd-I3ik
 ﻿Narodna]Mitar Mirić}Ne može nam niko ništa=http://www.youtube.com/watch?v=f46LkPDypSY
 ﻿Narodna]Mitar Mirić}Ne ostavljaj suze na mom pragu=http://www.youtube.com/watch?v=V_vKPs66_M4
@@ -11143,7 +11143,7 @@ Narodna]Mitar Mirić}Ne diraj čoveka za stolom=https://www.youtube.com/watch?v=
 ﻿Rok Strani]Limp Bizkit}Why=https://www.youtube.com/watch?v=xYm41uNfFnc
 ﻿Rok Strani]Limp Bizkit}Trust?=https://www.youtube.com/watch?v=6Ugd7QLipwE
 ﻿Rok Strani]Limp Bizkit}Build a bridge=https://www.youtube.com/watch?v=APuV3Ek-u4E
-﻿Rok Strani]Limp Bizkit}Down another day=https://www.youtube.com/watch?v=wZiBwG6XEak
+﻿Rok Strani]Limp Bizkit}Down another day=http://www.youtube.com/watch?v=PizpRXYLMmg
 ﻿Rok Strani]Limp Bizkit}Almost over=https://www.youtube.com/watch?v=YytsuolN-tM
 ﻿Rok Strani]Limp Bizkit}Red light-green light=https://www.youtube.com/watch?v=2bQToVgDS_U
 ﻿Rok Strani]Limp Bizkit}Creamer=https://www.youtube.com/watch?v=0NnleLWFd-k

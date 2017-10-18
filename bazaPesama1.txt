@@ -1492,7 +1492,6 @@
 ﻿Rok]Azra}Divno biće=http://www.youtube.com/watch?v=JZdoH1g7qws
 ﻿Rok]Azra}Dunjo, bre=http://www.youtube.com/watch?v=tPULH8alEmY
 ﻿Rok]Azra}Džoni, budi dobar=http://www.youtube.com/watch?v=OHRZp0uX9EQ
-﻿Rok]Azra}E, pa što=http://www.youtube.com/watch?v=bCLX3LBDVRc
 ﻿Rok]Azra}Fa, fa, fa=http://www.youtube.com/watch?v=AaaS5CcuI4M
 ﻿Rok]Azra}Filigranski pločnici=http://www.youtube.com/watch?v=j68UCpphO34
 ﻿Rok]Azra}Flash=http://www.youtube.com/watch?v=5fgw38ewKSM
@@ -1503,7 +1502,6 @@
 ﻿Rok]Azra}Hleba i igara=http://www.youtube.com/watch?v=YPRJd70_JXY
 ﻿Rok]Azra}I nikom ljepše neg' je nam=http://www.youtube.com/watch?v=zQ6VR9VaI3s
 ﻿Rok]Azra}I to se događa ponekad=http://www.youtube.com/watch?v=GAKlTYZe6xg
-﻿Rok]Azra}Idi za svojom sudbinom=http://www.youtube.com/watch?v=Cd0trNEUFRo
 ﻿Rok]Azra}Iggy Pop=http://www.youtube.com/watch?v=4jlhlglqlt0
 ﻿Rok]Azra}Između nas=http://www.youtube.com/watch?v=afV0JRQHfI8
 ﻿Rok]Azra}Jablan=http://www.youtube.com/watch?v=lAcq2ruZc6g
@@ -2102,7 +2100,7 @@
 ﻿Rok]Bijelo Dugme}Pjesma za malu pticu=http://www.youtube.com/watch?v=18vnnq7wqAw
 ﻿Rok]Bijelo Dugme}Pljuni i zapjevaj moja Jugoslavijo=http://www.youtube.com/watch?v=GeYbYsdvuXo
 ﻿Rok]Bijelo Dugme}Polubauk polukruzi polu Evropom=http://www.youtube.com/watch?v=O4nBcLCrdgs
-Rok]Bijelo Dugme}Požurite konji moji=http://www.youtube.com/watch?v=cH_nIlWcVck
+﻿Rok]Bijelo Dugme}Požurite konji moji=http://www.youtube.com/watch?v=cH_nIlWcVck
 ﻿Rok]Bijelo Dugme}Pristao sam biću sve što hoće=http://www.youtube.com/watch?v=Flu3wdsL73g
 ﻿Rok]Bijelo Dugme}Ružica si bila=http://www.youtube.com/watch?v=_iKS3gpbUt8
 ﻿Rok]Bijelo Dugme}Sanjao sam noćas da te nemam=http://www.youtube.com/watch?v=b6oOzsOA_dQ
@@ -9839,7 +9837,7 @@ Rok]Bijelo Dugme}Požurite konji moji=http://www.youtube.com/watch?v=cH_nIlWcVck
 ﻿Rok]Kerber}Vodi me=http://www.youtube.com/watch?v=fZ2ang7cZYU
 ﻿Rok]Kerber}Vreme za uspomene=http://www.youtube.com/watch?v=zzsqYTacito
 ﻿Rok]Kerber}Zauvek slobodna=http://www.youtube.com/watch?v=ul8JyV8bbpE
-﻿Zabavna]Knez}Adio=http://www.youtube.com/watch?v=ixXs_1dSe3U
+﻿Zabavna]Knez}Adio=http://www.youtube.com/watch?v=reCC0wxgqyM
 ﻿Zabavna]Knez}Automatic=http://www.youtube.com/watch?v=uiRxO6D7O4w
 ﻿Zabavna]Knez}Bićeš drugom žena=http://www.youtube.com/watch?v=aqT2YbE2-SM
 ﻿Zabavna]Knez}Boli me to=http://www.youtube.com/watch?v=LRVUt6wuP0s
@@ -11168,7 +11166,7 @@ Rok]Bijelo Dugme}Požurite konji moji=http://www.youtube.com/watch?v=cH_nIlWcVck
 ﻿Rok Strani]Rammstein}Mein teil=--start-time=10 https://www.youtube.com/watch?v=PBvwcH4XX6U
 ﻿Rok Strani]Rammstein}Seemann=--start-time=7 https://www.youtube.com/watch?v=srN1GsnBui8
 ﻿Rok Strani]Rammstein}Mann gegen mann=https://www.youtube.com/watch?v=_EVKy35L7MM
-﻿Rok Strani]Rammstein}Engel=--start-time=8 https://www.youtube.com/watch?v=h4gC0K9KlOI
+﻿Rok Strani]Rammstein}Engel=http://www.youtube.com/watch?v=x2rQzv8OWEY
 ﻿Rok Strani]Rammstein}Mein herz brennt, piano version=https://www.youtube.com/watch?v=Dv6Th7kJ64Q
 ﻿Rok Strani]Rammstein}Rammstein=https://www.youtube.com/watch?v=_sM2sKk4DPM
 ﻿Rok Strani]Rammstein}Liebe ist für alle da=http://www.youtube.com/watch?v=E_WHI4rofL0
