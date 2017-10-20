@@ -2462,7 +2462,6 @@
 ﻿Narodna]Nedeljko Bajić Baja}Cveta dva=http://www.youtube.com/watch?v=hAgDa7hoVa0
 ﻿Narodna]Nedeljko Bajić Baja}Dodir neba=http://www.youtube.com/watch?v=txiaeHAJ0kE
 ﻿Narodna]Nedeljko Bajić Baja}Dragana=http://www.youtube.com/watch?v=M3NSDjyt-Ek
-﻿Narodna]Nedeljko Bajić Baja}Dve ruže=http://www.youtube.com/watch?v=RKq-alZC-dc
 ﻿Narodna]Nedeljko Bajić Baja}Harala si mojom dušom=http://www.youtube.com/watch?v=BxO-QzxwzT4
 ﻿Narodna]Nedeljko Bajić Baja}Iz života nestala si tiho=http://www.youtube.com/watch?v=IT3LBsIXH6A
 ﻿Narodna]Nedeljko Bajić Baja}Ljubav=http://www.youtube.com/watch?v=4qsrYCuNVyQ
@@ -9931,7 +9930,7 @@
 ﻿Zabavna]Zdravko Čolić}Pusti, pusti modu=http://www.youtube.com/watch?v=PinmWhuDQJk
 ﻿Zabavna]Zdravko Čolić}Sinoć nisi bila tu=http://www.youtube.com/watch?v=a6Y3iR22LU8
 ﻿Zabavna]Zdravko Čolić}Šta mi radiš=http://www.youtube.com/watch?v=VZ7s0dQOKoM
-Zabavna]Zdravko Čolić}Šljive su rodile=https://www.youtube.com/watch?v=6rtNX9TxosE
+﻿Zabavna]Zdravko Čolić}Šljive su rodile=https://www.youtube.com/watch?v=6rtNX9TxosE
 ﻿Zabavna]Zdravko Čolić}Stanica podlugovi=http://www.youtube.com/watch?v=orGaEqTh3yI
 ﻿Zabavna]Zdravko Čolić}Što ti dadoh=http://www.youtube.com/watch?v=1KWiXI8HcNo
 ﻿Zabavna]Zdravko Čolić}Svadbarskim sokakom=http://www.youtube.com/watch?v=2l4rKPk4lqU
