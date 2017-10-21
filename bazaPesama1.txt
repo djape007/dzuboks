@@ -1257,6 +1257,7 @@
 ﻿Zabavna]Andreana Čekić}Viski=http://www.youtube.com/watch?v=G6nOAVr4P7g
 ﻿Zabavna]Andreana Čekić}Zaplakaće jutra=http://www.youtube.com/watch?v=mZAscL6WZnc
 ﻿Zabavna]Andreana Čekić}Zaplakaće oči moje=http://www.youtube.com/watch?v=v6aOjgdLUd4
+﻿Zabavna]Andreana Čekić}Ma samo me gledaj=https://www.youtube.com/watch?v=CC6whew_WWo
 ﻿Zabavna]Andrija Marković}Iskoristi me=http://www.youtube.com/watch?v=iIU-vUdU93A
 ﻿Zabavna]Andrija Marković}Mala=http://www.youtube.com/watch?v=SqOcFRsJW-s
 ﻿Zabavna]Andrija Marković}Noći balkanske=http://www.youtube.com/watch?v=OuarfFWNCkI
@@ -7800,6 +7801,10 @@
 ﻿Zabavna]Hari Mata Hari}Zjenico oka moga=http://www.youtube.com/watch?v=fCCWDpypn10
 ﻿Zabavna]Hari Mata Hari}Znam da te gubim=http://www.youtube.com/watch?v=YnUEh76FX5w
 ﻿Zabavna]Hari Mata Hari}Znam priču o sreći=http://www.youtube.com/watch?v=bNiGqJtj0hQ
+Narodna]Haris Berković}Prokleta=--start-time=2 https://www.youtube.com/watch?v=BWdItvWCDtU
+Narodna]Haris Berković}Magla=--start-time=12 https://www.youtube.com/watch?v=-HG2Js310xQ
+Narodna]Haris Berković}Pusti noći neka bole (duet Rada Manojlović)=https://www.youtube.com/watch?v=jayLqg8LMSQ
+Narodna]Haris Berković}Biseri i svila (duet Rada Manojlović)=--start-time=7 https://www.youtube.com/watch?v=ezHjupjSaoo
 ﻿Narodna]Haris Džinović}Ako možeš ti suzu pustiti=http://www.youtube.com/watch?v=s9WnYcU0mAk
 ﻿Narodna]Haris Džinović}Dajte vina, hoću lom=http://www.youtube.com/watch?v=fZhJ-uVK1CI
 ﻿Narodna]Haris Džinović}Daleko si brate moj=http://www.youtube.com/watch?v=yGlB-8g9x5I
