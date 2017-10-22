@@ -147,7 +147,7 @@
 ﻿Narodna]Ljuba Aličić}Javi se Jasmina=http://www.youtube.com/watch?v=tbPUmlNdco8
 ﻿Narodna]Ljuba Aličić}Jedinac sam u majke=http://www.youtube.com/watch?v=OpgQDRC65tg
 ﻿Narodna]Ljuba Aličić}Jednoj ženi=http://www.youtube.com/watch?v=G0ImUAGyi-E
-﻿Narodna]Ljuba Aličić}Još sam usana ti zedan=http://www.youtube.com/watch?v=Uvr8O9hkcPk
+﻿Narodna]Ljuba Aličić}Još sam usana ti žedan=http://www.youtube.com/watch?v=Uvr8O9hkcPk
 ﻿Narodna]Ljuba Aličić}Još te volim, još te sanjam=http://www.youtube.com/watch?v=JObqSj4ekTI
 ﻿Narodna]Ljuba Aličić}Još uvek sam sam=http://www.youtube.com/watch?v=xJbisMlx_Gg
 ﻿Narodna]Ljuba Aličić}Još uvek sanjam=http://www.youtube.com/watch?v=xJbisMlx_Gg
@@ -4542,7 +4542,7 @@
 ﻿Rok]Prljavo Kazalište}Pet dana ratujem=http://www.youtube.com/watch?v=ckIiHeTeg_Q
 ﻿Rok]Prljavo Kazalište}Pisma ljubavna=http://www.youtube.com/watch?v=VhL2OU3S4rU
 ﻿Rok]Prljavo Kazalište}Previše je previše=http://www.youtube.com/watch?v=LibUOfXrWps
-﻿Rok]Prljavo Kazalište}Previse suza u mom pivu=http://www.youtube.com/watch?v=60BM_K94yLE
+﻿Rok]Prljavo Kazalište}Previše suza u mom pivu=http://www.youtube.com/watch?v=60BM_K94yLE
 ﻿Rok]Prljavo Kazalište}Prgav il' ne=http://www.youtube.com/watch?v=5rz08raQias
 ﻿Rok]Prljavo Kazalište}Prisluškuju nas susjedi=http://www.youtube.com/watch?v=hBmU2Sx7xNI
 ﻿Rok]Prljavo Kazalište}Ptico malena=http://www.youtube.com/watch?v=lxIQL-j674Y
@@ -8201,7 +8201,7 @@ Narodna]Snežana Đurišić}Posle tebe ti=https://www.youtube.com/watch?v=fgt6ma
 ﻿Narodna]Stoja}Idi gde ti volja=http://www.youtube.com/watch?v=7TZUioZ3e9A
 ﻿Narodna]Stoja}Idi, nek te sreća prati=http://www.youtube.com/watch?v=eWkOFDWiOak
 ﻿Narodna]Stoja}Idi=http://www.youtube.com/watch?v=nQEx6ox-ka8
-﻿Narodna]Stoja}Iza laznog osmeha=http://www.youtube.com/watch?v=zS2R3VJTcHg
+﻿Narodna]Stoja}Iza lažnog osmeha=http://www.youtube.com/watch?v=zS2R3VJTcHg
 ﻿Narodna]Stoja}Jača nego pre=http://www.youtube.com/watch?v=WH1RGZ-Cx9E
 ﻿Narodna]Stoja}Kako ću bez tebe=http://www.youtube.com/watch?v=_f8EVJp4UaU
 ﻿Narodna]Stoja}Kako je meni sada=http://www.youtube.com/watch?v=JAmSvQlMapk
