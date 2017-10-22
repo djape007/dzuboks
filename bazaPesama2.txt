@@ -4423,6 +4423,7 @@
 ﻿Zabavna]Ok Band}Mesečina=https://www.youtube.com/watch?v=JL3PIn8UmRE
 ﻿Zabavna]Ok Band}Ljiljan i trn=--start-time=22 https://www.youtube.com/watch?v=nlflOhdX6lc
 ﻿Narodna]Amar Gile}Apokalipsa=--start-time=10 https://www.youtube.com/watch?v=0sRh4BYl0aE
+Narodna]Amar Gile}Prekasno=--start-time=3 https://www.youtube.com/watch?v=okgAbR3YlH4
 ﻿Narodna]Amar Gile}Spreman na sve=--start-time=5 https://www.youtube.com/watch?v=PR9CIBfw_gs
 ﻿Narodna]Amar Gile}Pijano=--start-time=19 https://www.youtube.com/watch?v=9m8uUoUR3qU
 ﻿Narodna]Amar Gile}Imam samo jednu želju=--start-time=60 https://www.youtube.com/watch?v=LXGQ4rWfN8A
