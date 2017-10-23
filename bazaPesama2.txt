@@ -710,7 +710,6 @@
 ﻿Zabavna]Marina Tadić}Disco devojka=http://www.youtube.com/watch?v=NG-SzLD5vQg
 ﻿Zabavna]Marina Tadić}Još sam ona stara=http://www.youtube.com/watch?v=CTzNJ7KudoI
 ﻿Zabavna]Marina Tadić}Ko smo mi=http://www.youtube.com/watch?v=xGFqww0eI7s
-﻿Zabavna]Marina Tadić}Ljubi, ljubi=http://www.youtube.com/watch?v=izGPyzqc4hM
 ﻿Zabavna]Marina Tadić}Mače moje=http://www.youtube.com/watch?v=fLemChGOWzM
 ﻿Zabavna]Marina Tadić}Moj lepi skote=http://www.youtube.com/watch?v=2M1STmsfFk8
 ﻿Zabavna]Marina Tadić}Neka ti je na čast=http://www.youtube.com/watch?v=7hP4gbAh-_8
@@ -4423,7 +4422,7 @@
 ﻿Zabavna]Ok Band}Mesečina=https://www.youtube.com/watch?v=JL3PIn8UmRE
 ﻿Zabavna]Ok Band}Ljiljan i trn=--start-time=22 https://www.youtube.com/watch?v=nlflOhdX6lc
 ﻿Narodna]Amar Gile}Apokalipsa=--start-time=10 https://www.youtube.com/watch?v=0sRh4BYl0aE
-Narodna]Amar Gile}Prekasno=--start-time=3 https://www.youtube.com/watch?v=okgAbR3YlH4
+﻿Narodna]Amar Gile}Prekasno=--start-time=3 https://www.youtube.com/watch?v=okgAbR3YlH4
 ﻿Narodna]Amar Gile}Spreman na sve=--start-time=5 https://www.youtube.com/watch?v=PR9CIBfw_gs
 ﻿Narodna]Amar Gile}Pijano=--start-time=19 https://www.youtube.com/watch?v=9m8uUoUR3qU
 ﻿Narodna]Amar Gile}Imam samo jednu želju=--start-time=60 https://www.youtube.com/watch?v=LXGQ4rWfN8A
@@ -8025,7 +8024,7 @@ Narodna]Amar Gile}Prekasno=--start-time=3 https://www.youtube.com/watch?v=okgAbR
 ﻿Narodna]Snežana Đurišić}Plastim suvu travu=http://www.youtube.com/watch?v=tSdBymQNoNI
 ﻿Narodna]Snežana Đurišić}Poljubi me=http://www.youtube.com/watch?v=QJL3EIkQkvQ
 ﻿Narodna]Snežana Đurišić}Pomoli se za moju sreću=http://www.youtube.com/watch?v=wTCraFE8tjQ
-Narodna]Snežana Đurišić}Posle tebe ti=https://www.youtube.com/watch?v=fgt6maexIxo
+﻿Narodna]Snežana Đurišić}Posle tebe ti=https://www.youtube.com/watch?v=fgt6maexIxo
 ﻿Narodna]Snežana Đurišić}Pomozi mi=http://www.youtube.com/watch?v=GdcifNvpnHU
 ﻿Narodna]Snežana Đurišić}Pričaj mi, pričaj=http://www.youtube.com/watch?v=DdICZ_36-zU
 ﻿Narodna]Snežana Đurišić}Puče jelek, puče bruka=http://www.youtube.com/watch?v=l7NWR0IHTlE
@@ -8680,7 +8679,7 @@ Narodna]Snežana Đurišić}Posle tebe ti=https://www.youtube.com/watch?v=fgt6ma
 ﻿Narodna]Toma Zdravković}Jelena=http://www.youtube.com/watch?v=f14oiicNmLs
 ﻿Narodna]Toma Zdravković}Jugoslavijo=http://www.youtube.com/watch?v=MEJvrHd-auk
 ﻿Narodna]Toma Zdravković}Kad se voli što se rastaje=http://www.youtube.com/watch?v=Z7OrsNLI6iQ
-﻿Narodna]Toma Zdravković}Kafana je moja sudbina=http://www.youtube.com/watch?v=v49-vJqwsDc
+﻿Narodna]Toma Zdravković}Kafana je moja sudbina=http://www.youtube.com/watch?v=d2Yy7mtZNFs
 ﻿Narodna]Toma Zdravković}Kafano muko moja=http://www.youtube.com/watch?v=lL6RP8g-ZP4
 ﻿Narodna]Toma Zdravković}Kafano=http://www.youtube.com/watch?v=lL6RP8g-ZP4
 ﻿Narodna]Toma Zdravković}Kamena stena=http://www.youtube.com/watch?v=9vcYigh5Wn4
@@ -9603,7 +9602,7 @@ Narodna]Snežana Đurišić}Posle tebe ti=https://www.youtube.com/watch?v=fgt6ma
 ﻿Zabavna]Vlada Matović}Skupo (ft. Limma)=--start-time=5 http://www.youtube.com/watch?v=lmBl9uuyODI
 ﻿Zabavna]Vlada Matović}Sve što zaradim=--start-time=8 http://www.youtube.com/watch?v=aXBg5Lg2ZgE
 ﻿Zabavna]Vlado Georgiev}Anđele=http://www.youtube.com/watch?v=FXCJi4ZEoos
-Zabavna]Vlado Georgiev}Ako mi loše krene=--start-time=5 https://www.youtube.com/watch?v=xNgUxgb_ODU
+﻿Zabavna]Vlado Georgiev}Ako mi loše krene=--start-time=5 https://www.youtube.com/watch?v=xNgUxgb_ODU
 ﻿Zabavna]Vlado Georgiev}Bolesni od ljubavi=http://www.youtube.com/watch?v=77mcyXQksOk
 ﻿Zabavna]Vlado Georgiev}Do svitanja=http://www.youtube.com/watch?v=B5O789KJnpI
 ﻿Zabavna]Vlado Georgiev}Draga (duet Rođa Raičević)=http://www.youtube.com/watch?v=C_HYNlG31RU
@@ -11435,7 +11434,7 @@ Zabavna]Vlado Georgiev}Ako mi loše krene=--start-time=5 https://www.youtube.com
 ﻿Rok Strani]Artic Monkeys}505=https://www.youtube.com/watch?v=iV5VKdcQOJE
 ﻿Rok Strani]Artic Monkeys}Do me a favour=https://www.youtube.com/watch?v=L9pKQUx3w1c
 ﻿Rok Strani]Artic Monkeys}Old yellow bricks=https://www.youtube.com/watch?v=8fhqZIgSJQE
-﻿Rok Strani]Artic Monkeys}Knee socks=https://www.youtube.com/watch?v=IZvn3KsUYwk
+﻿Rok Strani]Artic Monkeys}Knee socks=http://www.youtube.com/watch?v=R7A1mIdiheE
 ﻿Rok Strani]Artic Monkeys}I wanna be yours=https://www.youtube.com/watch?v=tQYzoE4bVlQ
 ﻿Rok Strani]Artic Monkeys}Baby i'm yours=https://www.youtube.com/watch?v=EDLhMf6voq8
 ﻿Rok Strani]Artic Monkeys}Suck it and see=--start-time=4 https://www.youtube.com/watch?v=YxNSjppLWeQ
@@ -11460,8 +11459,8 @@ Zabavna]Vlado Georgiev}Ako mi loše krene=--start-time=5 https://www.youtube.com
 ﻿Rok Strani]Artic Monkeys}If you were there beware=https://www.youtube.com/watch?v=Yr5s_3wBfJo
 ﻿Rok Strani]Artic Monkeys}Joining the dots=https://www.youtube.com/watch?v=iqbyhvzXaIc
 ﻿Rok Strani]Artic Monkeys}Knock a door run=https://www.youtube.com/watch?v=roUKWZ9iTrY
-﻿Rok Strani]Artic Monkeys}Mad sounds=https://www.youtube.com/watch?v=sVXjN365h0c
-﻿Rok Strani]Artic Monkeys}No 1 party anthem=https://www.youtube.com/watch?v=I8doLhBBocA
+﻿Rok Strani]Artic Monkeys}Mad sounds=http://www.youtube.com/watch?v=oWjc_m7HNpU
+﻿Rok Strani]Artic Monkeys}No 1 party anthem=--start-time=2 http://www.youtube.com/watch?v=U0PLz3cXT1c
 ﻿Rok Strani]Artic Monkeys}Matador=https://www.youtube.com/watch?v=cDsCWbBVGJ8
 ﻿Rok Strani]Artic Monkeys}No buses=https://www.youtube.com/watch?v=i5xNF-39fCk
 ﻿Rok Strani]Artic Monkeys}On the run from MI5=https://www.youtube.com/watch?v=_GOxkTVA17k
@@ -11536,14 +11535,14 @@ Zabavna]Vlado Georgiev}Ako mi loše krene=--start-time=5 https://www.youtube.com
 ﻿DJ Strani]David Guetta}So far away (ft. Martin Garix, Niklas Budinsky)=https://www.youtube.com/watch?v=b0fQIwydy2U
 ﻿DJ Strani]David Guetta}Versace on the floor (ft. Bruno Mars)=https://www.youtube.com/watch?v=8VXW_gW8UpM
 ﻿DJ Strani]David Guetta}Money=https://www.youtube.com/watch?v=60ahvLeZh58
-﻿DJ Strani]David Guetta}If we ever (ft. Makeba)=https://www.youtube.com/watch?v=nGftqTsz8rA
-﻿DJ Strani]David Guetta}Missing you (ft. Novel)=https://www.youtube.com/watch?v=-U4bihayCCU
-﻿DJ Strani]David Guetta}It's the way you love me (ft. Kelly Rowland)=https://www.youtube.com/watch?v=PBtm4CmJAW4
-﻿DJ Strani]David Guetta}On the dancefloor (ft. Will.I.Am, Apl. De. Ap)=https://www.youtube.com/watch?v=PzrSIraSuDQ
-﻿DJ Strani]David Guetta}I wanna go crazy (ft. Will.I.Am)=https://www.youtube.com/watch?v=7NpXkDeoASo
-﻿DJ Strani]David Guetta}Toyfriend (ft. Wynter Gordon)=https://www.youtube.com/watch?v=O7K3Mh4sRGA
-﻿DJ Strani]David Guetta}Sound of letting go (ft. Chris Willis)=https://www.youtube.com/watch?v=H1_1BmOaX1s
-﻿DJ Strani]David Guetta}Choose (ft. Ne-Yo, Kelly Rowland)=https://www.youtube.com/watch?v=g7vC9ZaAcbE
+﻿DJ Strani]David Guetta}If we ever (ft. Makeba)=http://www.youtube.com/watch?v=SGjQ-xZYDGY
+﻿DJ Strani]David Guetta}Missing you (ft. Novel)=http://www.youtube.com/watch?v=6jGBN1br80w
+﻿DJ Strani]David Guetta}It's the way you love me (ft. Kelly Rowland)=http://www.youtube.com/watch?v=jpDQz9Z6lUo
+﻿DJ Strani]David Guetta}On the dancefloor (ft. Will.I.Am, Apl. De. Ap)=http://www.youtube.com/watch?v=20Wxm0mm298
+﻿DJ Strani]David Guetta}I wanna go crazy (ft. Will.I.Am)=http://www.youtube.com/watch?v=Xms1IJDsv9E
+﻿DJ Strani]David Guetta}Toyfriend (ft. Wynter Gordon)=http://www.youtube.com/watch?v=f1IAigaT6-E
+﻿DJ Strani]David Guetta}Sound of letting go (ft. Chris Willis)=http://www.youtube.com/watch?v=87uq0QBl8JE
+﻿DJ Strani]David Guetta}Choose (ft. Ne-Yo, Kelly Rowland)=http://www.youtube.com/watch?v=mkhUQLfTEus
 ﻿DJ Strani]David Guetta}When love takes over (ft. Kelly Rowland)=https://www.youtube.com/watch?v=w74lkrIWebs
 ﻿DJ Strani]David Guetta}Light my body up (Tujamo remix)(ft. Nicki Minaj, Lil Wayne)=https://www.youtube.com/watch?v=hCDZCH6E0jE
 ﻿DJ Strani]Swedish House Mafia}Don't you worry child (ft. John Martin)=--start-time=7 https://www.youtube.com/watch?v=1y6smkh6c-0
