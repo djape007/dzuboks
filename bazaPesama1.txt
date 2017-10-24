@@ -985,7 +985,7 @@
 ﻿Narodna]Ana Bekuta}Hvataš me u zamku=http://www.youtube.com/watch?v=qUBwKLVoiCo
 ﻿Narodna]Ana Bekuta}I noći me more=http://www.youtube.com/watch?v=okUw09zfQh4
 ﻿Narodna]Ana Bekuta}Imam jedan život=http://www.youtube.com/watch?v=EjIpvsNi1qo
-﻿Narodna]Ana Bekuta}Ja nisam rođena da živimsama=http://www.youtube.com/watch?v=H64bneo7l9k
+﻿Narodna]Ana Bekuta}Ja nisam rođena da živim sama=http://www.youtube.com/watch?v=H64bneo7l9k
 ﻿Narodna]Ana Bekuta}Ja nisam željna dukata, zlata=http://www.youtube.com/watch?v=SVWEVR7KyUQ
 ﻿Narodna]Ana Bekuta}Jesam, pa šta mi možeš=http://www.youtube.com/watch?v=wb_Sblq0Zgk
 ﻿Narodna]Ana Bekuta}Još imaš kad=http://www.youtube.com/watch?v=zt89AdDjpkE
@@ -6731,6 +6731,7 @@
 ﻿Zabavna]Goca Tržan}Ako je Bog dozvolio=http://www.youtube.com/watch?v=uw5zppHQ-t8
 ﻿Zabavna]Goca Tržan}Bajka=http://www.youtube.com/watch?v=WRQla__vOmA
 ﻿Zabavna]Goca Tržan}Barmen=http://www.youtube.com/watch?v=tb6z-dgc69s
+Zabavna]Goca Tržan}Bezimeni=--start-time=5 http://www.youtube.com/watch?v=h55PeC0CL5U
 ﻿Zabavna]Goca Tržan}Bumerang=http://www.youtube.com/watch?v=Sp5QVpNLMLg
 ﻿Zabavna]Goca Tržan}Čujem da za mene pitaš=http://www.youtube.com/watch?v=whyfvOD6SWM
 ﻿Zabavna]Goca Tržan}Ćutanje=http://www.youtube.com/watch?v=g9-Lmwolaeo
