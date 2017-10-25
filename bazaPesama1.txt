@@ -4177,7 +4177,7 @@
 ﻿Zabavna]Dino Merlin}Nemam ja 18 godina=http://www.youtube.com/watch?v=-6Cqr7aBKzw
 ﻿Zabavna]Dino Merlin}Ostaće istine dvije=http://www.youtube.com/watch?v=KaoXGbQ2-_w
 ﻿Zabavna]Dino Merlin}Otkrit ću ti tajnu=http://www.youtube.com/watch?v=TI7v3oaSEiA
-﻿Zabavna]Dino Merlin}Prokletog me Bog stvorio=http://www.youtube.com/watch?v=JdjhQ0Jm3cc
+﻿Zabavna]Dino Merlin}Prokletog me Bog stvorio=http://www.youtube.com/watch?v=wGCKAt7L4rU
 ﻿Zabavna]Dino Merlin}Rane=http://www.youtube.com/watch?v=vvn4K16BkyM
 ﻿Zabavna]Dino Merlin}Ruža=http://www.youtube.com/watch?v=YY2VZ76YsmI
 ﻿Zabavna]Dino Merlin}Sredinom=http://www.youtube.com/watch?v=hwMZ0gseWXA
@@ -6731,7 +6731,7 @@
 ﻿Zabavna]Goca Tržan}Ako je Bog dozvolio=http://www.youtube.com/watch?v=uw5zppHQ-t8
 ﻿Zabavna]Goca Tržan}Bajka=http://www.youtube.com/watch?v=WRQla__vOmA
 ﻿Zabavna]Goca Tržan}Barmen=http://www.youtube.com/watch?v=tb6z-dgc69s
-Zabavna]Goca Tržan}Bezimeni=--start-time=5 http://www.youtube.com/watch?v=h55PeC0CL5U
+﻿Zabavna]Goca Tržan}Bezimeni=--start-time=5 http://www.youtube.com/watch?v=h55PeC0CL5U
 ﻿Zabavna]Goca Tržan}Bumerang=http://www.youtube.com/watch?v=Sp5QVpNLMLg
 ﻿Zabavna]Goca Tržan}Čujem da za mene pitaš=http://www.youtube.com/watch?v=whyfvOD6SWM
 ﻿Zabavna]Goca Tržan}Ćutanje=http://www.youtube.com/watch?v=g9-Lmwolaeo
@@ -7196,7 +7196,7 @@ Zabavna]Goca Tržan}Bezimeni=--start-time=5 http://www.youtube.com/watch?v=h55Pe
 ﻿Narodna]Hakala}Ja noćas pijem=http://www.youtube.com/watch?v=DhWKpYKwTDM
 ﻿Narodna]Hakala}Ja te volim ludo=http://www.youtube.com/watch?v=mEiyNfJ2Zdc
 ﻿Narodna]Hakala}Jesam li te ljubio=http://www.youtube.com/watch?v=rbSCMbwBkbU
-﻿Narodna]Hakala}Još sam sam=http://www.youtube.com/watch?v=GqiT_vOLDMI
+﻿Narodna]Hakala}Još sam sam=http://www.youtube.com/watch?v=mr-IBk6FgDo
 ﻿Narodna]Hakala}Još se nisi udala=http://www.youtube.com/watch?v=qIG3x_KHkc8
 ﻿Narodna]Hakala}Kafandžijo otvori kafanu=http://www.youtube.com/watch?v=qRacfHxo7I4
 ﻿Narodna]Hakala}Kako mi je, tako mi je=http://www.youtube.com/watch?v=Gjgyp1kU0A8
