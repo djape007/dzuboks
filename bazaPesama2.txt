@@ -1259,7 +1259,7 @@
 ﻿Narodna]Milanče Radosavljević}Oprosti, majko=http://www.youtube.com/watch?v=P421mePCg5M
 ﻿Narodna]Milanče Radosavljević}Otišli smo ti ostade majko=http://www.youtube.com/watch?v=8fAgibivgDA
 ﻿Narodna]Milanče Radosavljević}Plakale su plave oči, za očima crne boje=http://www.youtube.com/watch?v=-dQxlU-sAV8
-﻿Narodna]Milanče Radosavljević}Pozdravi draga sina=http://www.youtube.com/watch?v=dgKkb3XxHzQ
+﻿Narodna]Milanče Radosavljević}Pozdravi draga sina=http://www.youtube.com/watch?v=_kgn1ZBeZck
 ﻿Narodna]Milanče Radosavljević}Samo ona može=http://www.youtube.com/watch?v=srtT9rh6T9c
 ﻿Narodna]Milanče Radosavljević}Sećaš li se kad smo klinci bili=http://www.youtube.com/watch?v=fQTxsqqUvJg
 ﻿Narodna]Milanče Radosavljević}Selo moje, mesto najmilije=http://www.youtube.com/watch?v=GH5D3uUulAw
@@ -5627,7 +5627,7 @@
 ﻿Narodna]Šaban Šaulić}Pozno bih te među hiljadu žena=http://www.youtube.com/watch?v=_8Jpmgy_4Ng
 ﻿Narodna]Šaban Šaulić}Prestaću da verujem u ljubav=http://www.youtube.com/watch?v=Fu2vahEPFy4
 ﻿Narodna]Šaban Šaulić}Prevarih se, izgubih te=http://www.youtube.com/watch?v=dNnkE8IojK0
-﻿Narodna]Šaban Šaulić}Pričaj mi majko o ocu mome=--start-time=4 http://www.youtube.com/watch?v=E-JZLmiLVsw
+﻿Narodna]Šaban Šaulić}Pričaj mi majko o ocu mome=http://www.youtube.com/watch?v=QOwjD7kpqGU
 ﻿Narodna]Šaban Šaulić}Pričuvaj se mala=http://www.youtube.com/watch?v=2DzdeV9Yjno
 ﻿Narodna]Šaban Šaulić}Prikrašću se tebi pod prozore=http://www.youtube.com/watch?v=3exjXUvJNg4
 ﻿Narodna]Šaban Šaulić}Princ na belom konju=http://www.youtube.com/watch?v=5vkcUjYLxLo
@@ -7349,7 +7349,7 @@
 ﻿Narodna]Sinan Sakić}Kišo, kišo, prestani da padaš=http://www.youtube.com/watch?v=UM5_0xDjjAI
 ﻿Narodna]Sinan Sakić}Klošar=http://www.youtube.com/watch?v=LyQnV1ni1IY
 ﻿Narodna]Sinan Sakić}Ko bisere suze lijem=http://www.youtube.com/watch?v=HQoshPswZRw
-﻿Narodna]Sinan Sakić}Ko si ti=http://www.youtube.com/watch?v=grmqcFWtvKw
+﻿Narodna]Sinan Sakić}Ko si ti=http://www.youtube.com/watch?v=MQ-cDuOZZe4
 ﻿Narodna]Sinan Sakić}Korak do sna=http://www.youtube.com/watch?v=ZMACAnGkYXw
 ﻿Narodna]Sinan Sakić}Kraljica budi=http://www.youtube.com/watch?v=vmV_7dmhFEs
 ﻿Narodna]Sinan Sakić}Krivi sebe=http://www.youtube.com/watch?v=YRP6Fy77EYs
@@ -10100,7 +10100,7 @@
 ﻿Zabavna]Željko Samardžić}Ohladi=http://www.youtube.com/watch?v=EIuSF56dIi8
 ﻿Zabavna]Željko Samardžić}Oprosti, izvini=http://www.youtube.com/watch?v=LcNAxJAp-oE
 ﻿Zabavna]Željko Samardžić}Ove noći jedna žena=http://www.youtube.com/watch?v=3Al6YHXc1zg
-﻿Zabavna]Željko Samardžić}Pokaži mi šta znaš=http://www.youtube.com/watch?v=kZawnJdkA8o
+﻿Zabavna]Željko Samardžić}Pokaži mi šta znaš=http://www.youtube.com/watch?v=zlk2_DdMGLs
 ﻿Zabavna]Željko Samardžić}Posle duge veze=http://www.youtube.com/watch?v=q9DQif31k5o
 ﻿Zabavna]Željko Samardžić}Prava ljubav godine ne broji=http://www.youtube.com/watch?v=EDQqLp6aFAM
 ﻿Zabavna]Željko Samardžić}Slutim=http://www.youtube.com/watch?v=Nm_B6IiV77M
@@ -11725,7 +11725,7 @@
 ﻿DJ Strani]Fatboy Slim}Long way from home=https://www.youtube.com/watch?v=QqugU4KuXBs
 ﻿DJ Strani]Fatboy Slim}Song for Chesh=https://www.youtube.com/watch?v=i3TtBKkGDY4
 ﻿DJ Strani]Fatboy Slim}How can they here us=https://www.youtube.com/watch?v=_yVZBuyaBJU
-Rok Strani]Mötley Crüe}If I Die Tomorrow=http://www.youtube.com/watch?v=bg2knMSq9sQ
+﻿Rok Strani]Mötley Crüe}If I Die Tomorrow=http://www.youtube.com/watch?v=bg2knMSq9sQ
 ﻿Rok Strani]Mötley Crüe}Just Another Psycho=http://www.youtube.com/watch?v=Ko23M-4AAbg
 ﻿Rok Strani]Mötley Crüe}Keep Your Eye On The Money (Demo)=http://www.youtube.com/watch?v=00PF-sHQPsA
 ﻿Rok Strani]Mötley Crüe}Keep Your Eye On The Money=http://www.youtube.com/watch?v=Jxxl4i0Q6dU
