@@ -1634,13 +1634,16 @@
 ﻿Rep]Bad Copy}Pravi reper=http://www.youtube.com/watch?v=g0m_AKsSr0Y
 ﻿Rep]Bad Copy}Uno, due, tre=http://www.youtube.com/watch?v=PfTKTTwygnw
 ﻿Rep]Bad Copy}Vodio sam devojku na soju=http://www.youtube.com/watch?v=OYpsGBtjXPs
+Krajiska]Baja Mali Knindža}90 posto mi uzela kafana=https://www.youtube.com/watch?v=4qbJBzzHtuQ
 ﻿Krajiska]Baja Mali Knindža}Ajme meni bez tebe Krajino=http://www.youtube.com/watch?v=yiusKiTp0_g
 ﻿Krajiska]Baja Mali Knindža}Ajmo, brate, u kafanu sjesti=http://www.youtube.com/watch?v=Y05xWLGXIOU
 ﻿Krajiska]Baja Mali Knindža}Alkos nema perspektivu=http://www.youtube.com/watch?v=DK6TCvuQOk0
+Krajiska]Baja Mali Knindža}Arija nebeska=http://www.youtube.com/watch?v=Il0o8rwDWJI
 ﻿Krajiska]Baja Mali Knindža}Anđeo i đavo=http://www.youtube.com/watch?v=xCeoBRUWWog
 ﻿Krajiska]Baja Mali Knindža}Baraba sa sela=http://www.youtube.com/watch?v=VenD-auPvCU
 ﻿Krajiska]Baja Mali Knindža}Bez zavičaja=http://www.youtube.com/watch?v=dMzCS5ihmTU
 ﻿Krajiska]Baja Mali Knindža}Birtija=http://www.youtube.com/watch?v=l2idsCPr9LA
+Krajiska]Baja Mali Knindža}Bivša ljubavi=https://www.youtube.com/watch?v=nNO6CqB9ZGQ
 ﻿Krajiska]Baja Mali Knindža}Bježi, tugo=http://www.youtube.com/watch?v=JJJXKChG4Tk
 ﻿Krajiska]Baja Mali Knindža}Božić je=http://www.youtube.com/watch?v=s5VChCMOeqs
 ﻿Krajiska]Baja Mali Knindža}Bukovice, oj=http://www.youtube.com/watch?v=4rPX5YgnB2M
@@ -3341,6 +3344,7 @@
 ﻿Zabavna]Cvija}Jače od vina=--start-time=6 http://www.youtube.com/watch?v=PfGdp_9RGG4
 ﻿Zabavna]Cvija}Javi se bejbe=http://www.youtube.com/watch?v=4oGdJaKt4kU
 ﻿Zabavna]Cvija}Mene radiš ti=--start-time=6 http://www.youtube.com/watch?v=AppPVfbOiqo
+Zabavna]Cvija}Mene to ne zanima=--start-time=6 https://www.youtube.com/watch?v=zII_W4cFmdA
 ﻿Zabavna]Cvija}Meni od sinoć nije dobro=--start-time=6 http://www.youtube.com/watch?v=csxybiDXvPY
 ﻿Zabavna]Cvija}Moja želja si ti=http://www.youtube.com/watch?v=My6FKiyCzEY
 ﻿Zabavna]Cvija}Ne plači=http://www.youtube.com/watch?v=OmzTj13J40M
@@ -4570,7 +4574,7 @@
 ﻿Kantautori]Đorđe Balašević}Namćor=http://www.youtube.com/watch?v=sohqoTRFBfE
 ﻿Kantautori]Đorđe Balašević}Naposletku=http://www.youtube.com/watch?v=lH0cq73FSlE
 ﻿Kantautori]Đorđe Balašević}Ne volim januar=http://www.youtube.com/watch?v=qqlOIKDWNoA
-﻿Kantautori]Đorđe Balašević}Nedostaje mi naša ljubav=http://www.youtube.com/watch?v=FnpbsQMBT2M
+﻿Kantautori]Đorđe Balašević}Nedostaje mi naša ljubav=http://www.youtube.com/watch?v=C_DCC2SRkPQ
 ﻿Kantautori]Đorđe Balašević}Neki novi klinci=http://www.youtube.com/watch?v=TTyWI52zkIs
 ﻿Kantautori]Đorđe Balašević}Neko to od gore vidi sve=http://www.youtube.com/watch?v=n-98z9F7o3U
 ﻿Kantautori]Đorđe Balašević}Nevena=http://www.youtube.com/watch?v=mh6TspJBqL8
@@ -4578,7 +4582,6 @@
 ﻿Kantautori]Đorđe Balašević}Nikad kao Bane=http://www.youtube.com/watch?v=1mDi6pMtQEk
 ﻿Kantautori]Đorđe Balašević}Noć kad sam preplivao Dunav=http://www.youtube.com/watch?v=yF5aMcIjvq4
 ﻿Kantautori]Đorđe Balašević}O kako tužnih ljubavi ima=http://www.youtube.com/watch?v=tNtJbAx91hM
-﻿Kantautori]Đorđe Balašević}O, mati=http://www.youtube.com/watch?v=Cv2pTkpDnGY
 ﻿Kantautori]Đorđe Balašević}Odlazi cirkus=--start-time=27 http://www.youtube.com/watch?v=YBIoieBoYCE
 ﻿Kantautori]Đorđe Balašević}Ognjena=http://www.youtube.com/watch?v=toykcMnYGgw
 ﻿Kantautori]Đorđe Balašević}Ole Lole=http://www.youtube.com/watch?v=QMnaxXXxhYs
@@ -4591,7 +4594,7 @@
 ﻿Kantautori]Đorđe Balašević}Panonski mornar=http://www.youtube.com/watch?v=ODJJskhMWqc
 ﻿Kantautori]Đorđe Balašević}Pesma o jednom petlu=http://www.youtube.com/watch?v=rxl97gxsLx8
 ﻿Kantautori]Đorđe Balašević}Poluuspavanka=http://www.youtube.com/watch?v=DzuU8eiHWCU
-﻿Kantautori]Đorđe Balašević}Portret života mog=http://www.youtube.com/watch?v=GRN7JZJKdWg
+﻿Kantautori]Đorđe Balašević}Portret života mog=http://www.youtube.com/watch?v=7FrGybn-H9Y
 ﻿Kantautori]Đorđe Balašević}Poslednja nevesta=http://www.youtube.com/watch?v=TpQFKfZH6QQ
 ﻿Kantautori]Đorđe Balašević}Pred zadnji sneg=http://www.youtube.com/watch?v=yGmtq92VN7E
 ﻿Kantautori]Đorđe Balašević}Predlog=http://www.youtube.com/watch?v=TCbi-48Y10w
@@ -4603,7 +4606,7 @@
 ﻿Kantautori]Đorđe Balašević}Regruteska=http://www.youtube.com/watch?v=X5YPu8sfl8E
 ﻿Kantautori]Đorđe Balašević}Ringispil=http://www.youtube.com/watch?v=gNL7mgL7VF0
 ﻿Kantautori]Đorđe Balašević}Samo da rata ne bude=http://www.youtube.com/watch?v=yC5qEbuGves
-﻿Kantautori]Đorđe Balašević}Sedam osmina=http://www.youtube.com/watch?v=IF8nNfX9MXM
+﻿Kantautori]Đorđe Balašević}Sedam osmina=http://www.youtube.com/watch?v=7n1WKOYVHas
 ﻿Kantautori]Đorđe Balašević}Sin jedinac=http://www.youtube.com/watch?v=TMD2s5SbHng
 ﻿Kantautori]Đorđe Balašević}Slovenska=http://www.youtube.com/watch?v=Hee8aNgoibQ
 ﻿Kantautori]Đorđe Balašević}Stih na asfaltu=http://www.youtube.com/watch?v=spOwun40Qig
@@ -4781,6 +4784,7 @@
 ﻿Zabavna]Doris Dragović}Željo moja=http://www.youtube.com/watch?v=uI9XpkbF5r4
 ﻿Zabavna]Doris Dragović}Zemlja i stina=http://www.youtube.com/watch?v=LD6phiBlsfk
 ﻿Zabavna]Doris Dragović}Žute ruže=http://www.youtube.com/watch?v=56EBGG_QJZY
+Narodna]Dragan Jovanović}Ružo rumena=http://www.youtube.com/watch?v=iw3uIOdgQSQ
 ﻿Narodna]Dragan Kojić - Keba}A bila si zaljubljena=http://www.youtube.com/watch?v=uocUSyZ5mqs
 ﻿Narodna]Dragan Kojić - Keba}Akaraftu me=http://www.youtube.com/watch?v=A4FJx35V608
 ﻿Narodna]Dragan Kojić - Keba}Ako mi priđeš, zaljubiću se=http://www.youtube.com/watch?v=8f3naQf_2js
@@ -11674,7 +11678,7 @@
 ﻿Rok Strani]Aerosmith}She's On Fire=http://www.youtube.com/watch?v=i8LLkLepvoM
 ﻿Rok Strani]Aerosmith}Shela=http://www.youtube.com/watch?v=QhxGcapF_kQ
 ﻿Rok Strani]Aerosmith}Shut Up And Dance=http://www.youtube.com/watch?v=lxh0Of36-m4
-﻿Rok Strani]Aerosmith}Sick As A Dog=http://www.youtube.com/watch?v=_cVBDFhZGnM
+﻿Rok Strani]Aerosmith}Sick As A Dog=http://www.youtube.com/watch?v=mz5i2ooL2-I
 ﻿Rok Strani]Aerosmith}Sight For Sore Eyes=http://www.youtube.com/watch?v=qyG52L6wLkA
 ﻿Rok Strani]Aerosmith}Simoriah=http://www.youtube.com/watch?v=Cq32OXg2CeQ
 ﻿Rok Strani]Aerosmith}Smokestack Lightning=http://www.youtube.com/watch?v=hIHO8h2p7QU
@@ -11779,7 +11783,7 @@
 ﻿Rok Strani]Alice Cooper}Guilty=http://www.youtube.com/watch?v=HfEIYvi5YCg
 ﻿Rok Strani]Alice Cooper}Gutter Cats Vs. The Jets=http://www.youtube.com/watch?v=yy9XcruKqEg
 ﻿Rok Strani]Alice Cooper}Hallowed Be My Name=http://www.youtube.com/watch?v=_ERMZC5JTeM
-﻿Rok Strani]Alice Cooper}He's Back (The Man Behind The Mask)=http://www.youtube.com/watch?v=unkLHUE81ZA
+﻿Rok Strani]Alice Cooper}He's Back (The Man Behind The Mask)=http://www.youtube.com/watch?v=VMhQZmzaXjg
 ﻿Rok Strani]Alice Cooper}Hell Is Living Without You=http://www.youtube.com/watch?v=UTfFtjRHwpI
 ﻿Rok Strani]Alice Cooper}Hello Hooray=http://www.youtube.com/watch?v=80bqSzONHP4
 ﻿Rok Strani]Alice Cooper}Hey Stoopid=--start-time=30 http://www.youtube.com/watch?v=XcAl93uEYUA
@@ -11895,7 +11899,7 @@
 ﻿Rok Strani]Alice Cooper}Wind-Up Toy=http://www.youtube.com/watch?v=k3llFz_Jp_E
 ﻿Rok Strani]Alice Cooper}Wish I Were Born In Beverly Hills=http://www.youtube.com/watch?v=KNuj8h-1XtE
 ﻿Rok Strani]Alice Cooper}Wish You Were Here=http://www.youtube.com/watch?v=RciPGnWWzig
-﻿Rok Strani]Alice Cooper}Woman Of Mass Distraction=http://www.youtube.com/watch?v=JhWOAwoRByU
+﻿Rok Strani]Alice Cooper}Woman Of Mass Distraction=http://www.youtube.com/watch?v=b9xRwYrk7To
 ﻿Rok Strani]Alice Cooper}Yeah, Yeah, Yeah=http://www.youtube.com/watch?v=0VE-WQSoLEo
 ﻿Rok Strani]Alice Cooper}Years Ago=http://www.youtube.com/watch?v=yTFFuS1UudQ
 ﻿Rok Strani]Alice Cooper}You And Me=http://www.youtube.com/watch?v=G8LshItGk_M
@@ -12883,7 +12887,7 @@
 ﻿Rok Strani]Boston}Higher Power=http://www.youtube.com/watch?v=F03vnSb7lu0
 ﻿Rok Strani]Boston}Hitch A Ride=http://www.youtube.com/watch?v=Xp4Ugebi608
 ﻿Rok Strani]Boston}Hollyann=http://www.youtube.com/watch?v=SYj3RX525-U
-﻿Rok Strani]Boston}I Had A Good Time=http://www.youtube.com/watch?v=NQVJzaq0NZE
+﻿Rok Strani]Boston}I Had A Good Time=http://www.youtube.com/watch?v=L4hu9VlU2lA
 ﻿Rok Strani]Boston}I Need Your Love=http://www.youtube.com/watch?v=vtUwqfn08wI
 ﻿Rok Strani]Boston}I Think I Like It=http://www.youtube.com/watch?v=sRYOrLEBX6o
 ﻿Rok Strani]Boston}If You Were In Love=http://www.youtube.com/watch?v=sA4Q3y-FnqU
