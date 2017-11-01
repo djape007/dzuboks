@@ -511,43 +511,138 @@
 ﻿Zabavna]MVP}Vesela pesma=http://www.youtube.com/watch?v=EN1cRwdmxZw
 ﻿Zabavna]MVP}Volim kad te volim=http://www.youtube.com/watch?v=HQb-n3AixSc
 ﻿Zabavna]MVP}Zajedno=http://www.youtube.com/watch?v=euINJOOR5iQ
-﻿Zabavna]Magazin}Ako poludim=http://www.youtube.com/watch?v=W8nIJkAeybU
-﻿Zabavna]Magazin}Bilo bi super=http://www.youtube.com/watch?v=4IxZ87wqHV4
-﻿Zabavna]Magazin}Čekala je jedna žena=http://www.youtube.com/watch?v=l5s1rWUdq6g
-﻿Zabavna]Magazin}Da li znaš da te ne volim=http://www.youtube.com/watch?v=co_DWqF_gRM
-﻿Zabavna]Magazin}Dani su bez broja=http://www.youtube.com/watch?v=UOQe85obe18
+﻿Zabavna]Magazin}Ako poludim=http://www.youtube.com/watch?v=ssGwnGkDQ5U
+﻿Zabavna]Magazin}Bilo bi super=http://www.youtube.com/watch?v=dvxnuZ4Zw3o
+﻿Zabavna]Magazin}Čekala je jedna žena=http://www.youtube.com/watch?v=XO3LOA4MCew
+﻿Zabavna]Magazin}Da li znaš da te ne volim=https://www.youtube.com/watch?v=_rL-0iVKygQ
+﻿Zabavna]Magazin}Dani su bez broja=http://www.youtube.com/watch?v=hlluayds-EI
 ﻿Zabavna]Magazin}Doktore=http://www.youtube.com/watch?v=7XcQm1xIGj8
-﻿Zabavna]Magazin}Došlo vrijeme=http://www.youtube.com/watch?v=xFRoRoynL3I
-﻿Zabavna]Magazin}Ginem=http://www.youtube.com/watch?v=VeFYo0qYErI
+﻿Zabavna]Magazin}Došlo vrijeme=http://www.youtube.com/watch?v=U1RqubISjeY&t=6s
+﻿Zabavna]Magazin}Ginem=http://www.youtube.com/watch?v=xP7LmclNBVg
 ﻿Zabavna]Magazin}Gutljaj vina=http://www.youtube.com/watch?v=EJ0U3xjYDZM
-﻿Zabavna]Magazin}Jel zbog nje=http://www.youtube.com/watch?v=Z3TByhU9yXY
+﻿Zabavna]Magazin}Jel zbog nje?=https://www.youtube.com/watch?v=FCx5U-RsogQ
 ﻿Zabavna]Magazin}Još se ne bi udala=http://www.youtube.com/watch?v=HxPl6bURZ9A
-﻿Zabavna]Magazin}Kad bi bio blizu=http://www.youtube.com/watch?v=C47342KTOuU
-﻿Zabavna]Magazin}Kad u vojsku pođeš=http://www.youtube.com/watch?v=A9aPdlc_06s
-﻿Zabavna]Magazin}Kako sam te voljela=http://www.youtube.com/watch?v=uqxlQl2BL9Q
+﻿Zabavna]Magazin}Kad bi bio blizu=https://www.youtube.com/watch?v=ZHSGlzSxJyE
+﻿Zabavna]Magazin}Kad u vojsku pođeš=http://www.youtube.com/watch?v=2EMvBTm3Fm0
+﻿Zabavna]Magazin}Kako sam te voljela=http://www.youtube.com/watch?v=wqAP8aGXPdY
 ﻿Zabavna]Magazin}Kemija=http://www.youtube.com/watch?v=ZVrWbTSeeB0
-﻿Zabavna]Magazin}Ko me zove=http://www.youtube.com/watch?v=2njrAHgUdEQ
-﻿Zabavna]Magazin}Ljube se dobri, loši, zli=http://www.youtube.com/watch?v=HLNZG_Hcf9k
-﻿Zabavna]Magazin}Luna=http://www.youtube.com/watch?v=hYMDUvFopXs
+﻿Zabavna]Magazin}Ko me zove=http://www.youtube.com/watch?v=XjxsGEK7R3c
+﻿Zabavna]Magazin}Ljube se dobri, loši, zli=http://www.youtube.com/watch?v=feDSfiGCJMA
+﻿Zabavna]Magazin}Luna=http://www.youtube.com/watch?v=fdT3_nxgYVg
 ﻿Zabavna]Magazin}Maslačak=http://www.youtube.com/watch?v=OJVdf4z8Le8
-﻿Zabavna]Magazin}Minus i plus=http://www.youtube.com/watch?v=ee4DjrVC_Jk
-﻿Zabavna]Magazin}Minut srca tvog=http://www.youtube.com/watch?v=PAr3utbvujQ
-﻿Zabavna]Magazin}Moji prsti, pete=http://www.youtube.com/watch?v=mTKyOhlq4Ag
-﻿Zabavna]Magazin}Ne tiče me se=http://www.youtube.com/watch?v=XR18D91WJVY
-﻿Zabavna]Magazin}Ne vjerujem tebi, ne vjerujem sebi=http://www.youtube.com/watch?v=g9RIUanuOpk
+﻿Zabavna]Magazin}Minus i plus=http://www.youtube.com/watch?v=AoRJV5hneuE
+﻿Zabavna]Magazin}Minut srca tvog=https://www.youtube.com/watch?v=t4BtwKF3NZQ
+﻿Zabavna]Magazin}Moji prsti, pete=http://www.youtube.com/watch?v=7K0SlC9g64Q
+﻿Zabavna]Magazin}Ne tiče me se=https://www.youtube.com/watch?v=oRhRrQIy96c
+﻿Zabavna]Magazin}Ne vjerujem tebi, ne vjerujem sebi=http://www.youtube.com/watch?v=cEKKd3IzEZ8
+Zabavna]Magazin}Ne vjerujem tebi, ne vjerujem sebi (Radio remix)=https://www.youtube.com/watch?v=h_wVPGIkFNM
 ﻿Zabavna]Magazin}No, no, no=http://www.youtube.com/watch?v=DrPemQC0_So
 ﻿Zabavna]Magazin}Oko moje sanjivo=http://www.youtube.com/watch?v=lLEyjjgkeLI
-﻿Zabavna]Magazin}Opijum=http://www.youtube.com/watch?v=dJbclmhnrYo
+﻿Zabavna]Magazin}Opijum=http://www.youtube.com/watch?v=nkYnUTambls
 ﻿Zabavna]Magazin}Parada=http://www.youtube.com/watch?v=0bDwLclE57I
-﻿Zabavna]Magazin}Prorok=http://www.youtube.com/watch?v=ac-p3Rk1dN0
-﻿Zabavna]Magazin}Put putujem=http://www.youtube.com/watch?v=t95eQGIG-dk
-﻿Zabavna]Magazin}Rano, ranije=--start-time=3 http://www.youtube.com/watch?v=LAeLRLvQqyA
+﻿Zabavna]Magazin}Put putujem=https://www.youtube.com/watch?v=a-C5JRTiCFo
+﻿Zabavna]Magazin}Rano, ranije=http://www.youtube.com/watch?v=EWFQ9gLz4Xg
 ﻿Zabavna]Magazin}Sijamski blizanci=http://www.youtube.com/watch?v=MRNF6W3LpyU
-﻿Zabavna]Magazin}Suze biserne=http://www.youtube.com/watch?v=To8THPLl7Yw
-﻿Zabavna]Magazin}Suze krijem, one padaju=http://www.youtube.com/watch?v=GST6UqDR9TY
+﻿Zabavna]Magazin}Suze biserne=http://www.youtube.com/watch?v=6BrEM0VH6YY
+﻿Zabavna]Magazin}Suze krijem, one padaju=http://www.youtube.com/watch?v=Dytb4Gb6V7Y
 ﻿Zabavna]Magazin}Tamara=http://www.youtube.com/watch?v=5u311Kr1eWc
-﻿Zabavna]Magazin}Ti si želja mog života=http://www.youtube.com/watch?v=ra3-QsIfIIg
-﻿Zabavna]Magazin}Tri sam ti zime šaptala ime=http://www.youtube.com/watch?v=FcFM4BvaqnY
+﻿Zabavna]Magazin}Ti si želja mog života=https://www.youtube.com/watch?v=K_mi4GKVtOA
+﻿Zabavna]Magazin}Tri sam ti zime šaptala ime=http://www.youtube.com/watch?v=4UssfvzlANU
+﻿Zabavna]Magazin}Voda teče=http://www.youtube.com/watch?v=25Vrgtf0vaQ
+﻿Zabavna]Magazin}Migrena=https://www.youtube.com/watch?v=QZQHq6HpeUA
+﻿Zabavna]Magazin}Ne traži od mene=https://www.youtube.com/watch?v=OTwpkgFATA4
+﻿Zabavna]Magazin}Što Bog mi oči da=https://www.youtube.com/watch?v=jtKb5MJjVx8
+﻿Zabavna]Magazin}Nebesa=https://www.youtube.com/watch?v=cZLtyUEE1Eg
+﻿Zabavna]Magazin}Manuela=http://www.youtube.com/watch?v=qA-V_Q9fQCE
+﻿Zabavna]Magazin}Dva zrna goržđa=https://www.youtube.com/watch?v=0VxFEztPnqU
+﻿Zabavna]Magazin}Piši mi=https://www.youtube.com/watch?v=Z504trWZDAQ
+﻿Zabavna]Magazin}Teško je umrijeti sretan=https://www.youtube.com/watch?v=aExZlPVk4i0
+﻿Zabavna]Magazin}Dva bora=https://www.youtube.com/watch?v=UZeI-VGNr9Y
+﻿Zabavna]Magazin}Čija sam kad tvoja nisam=https://www.youtube.com/watch?v=vBwjtnMPBw0
+﻿Zabavna]Magazin}Vino iz Makedonije=https://www.youtube.com/watch?v=2oE2vcf14m8
+﻿Zabavna]Magazin}Dama=https://www.youtube.com/watch?v=wjVeHy7kVxU
+﻿Zabavna]Magazin}Neću plakat namjerno=https://www.youtube.com/watch?v=9PPal-MSAuU
+﻿Zabavna]Magazin}E moj anđele=https://www.youtube.com/watch?v=v9RUUwfXV34
+﻿Zabavna]Magazin}Zadnja epizoda=https://www.youtube.com/watch?v=V4bBjfs_f2g
+﻿Zabavna]Magazin}Care...zoveš kad je teško=https://www.youtube.com/watch?v=uJaOcpJAy2o
+﻿Zabavna]Magazin}Koma=https://www.youtube.com/watch?v=nUdockhdErw
+﻿Zabavna]Magazin}Optrosti mala=https://www.youtube.com/watch?v=USo_ag8uelU
+﻿Zabavna]Magazin}Nazaret=https://www.youtube.com/watch?v=2USZ9Uhtlls
+﻿Zabavna]Magazin}Slatko, ljuto, kiselo=https://www.youtube.com/watch?v=vpwgYgSbr38
+﻿Zabavna]Magazin}Lepoglava=https://www.youtube.com/watch?v=vwpW0zwjXkM
+﻿Zabavna]Magazin}Često=https://www.youtube.com/watch?v=Hb5ITmk5teA
+﻿Zabavna]Magazin}Normalno=https://www.youtube.com/watch?v=Gj7c8KeyjJY
+﻿Zabavna]Magazin}Troši i uživaj=https://www.youtube.com/watch?v=M7OeQj6y5J4
+﻿Zabavna]Magazin}Trag od krede=https://www.youtube.com/watch?v=25ZKZiAt1bo
+﻿Zabavna]Magazin}Šuti=https://www.youtube.com/watch?v=vyCM7TmNpwc
+﻿Zabavna]Magazin}Otkad sam bez tebe=https://www.youtube.com/watch?v=JuJURvmXSNE
+﻿Zabavna]Magazin}Hajde reci kako=https://www.youtube.com/watch?v=7cULLTUsVhg
+﻿Zabavna]Magazin}Ovisi o tebi=https://www.youtube.com/watch?v=ekqtea42ySo
+﻿Zabavna]Magazin}Umrit il živit=https://www.youtube.com/watch?v=qQnIyGe9hlQ
+﻿Zabavna]Magazin}Prorok=https://www.youtube.com/watch?v=g0jcMnTPzNg
+﻿Zabavna]Magazin}S druge strane Mjeseca=https://www.youtube.com/watch?v=3zdB1fn_OyE
+﻿Zabavna]Magazin}Bol=https://www.youtube.com/watch?v=K628LC_RPL4
+﻿Zabavna]Magazin}Zar je ljubav spala na to=https://www.youtube.com/watch?v=OE9fIeQXT7I
+﻿Zabavna]Magazin}Rapsodija=https://www.youtube.com/watch?v=Qg5wRTwyX9w
+﻿Zabavna]Magazin}Doviđenja=https://www.youtube.com/watch?v=qns-iBkTzWs
+﻿Zabavna]Magazin}Nemam snage da se pomirim=https://www.youtube.com/watch?v=-Uex89u7k0s
+﻿Zabavna]Magazin}Vitar nosi nevrime=https://www.youtube.com/watch?v=jRtmjeBg8ss
+﻿Zabavna]Magazin}Kasno je=https://www.youtube.com/watch?v=_uodEULZ0F0
+﻿Zabavna]Magazin}Hladovina=https://www.youtube.com/watch?v=GOQz17C0hFY
+﻿Zabavna]Magazin}Tvoje rame=https://www.youtube.com/watch?v=a5ut0OdkpIo
+﻿Zabavna]Magazin}Idi i ne budi ljude=https://www.youtube.com/watch?v=x7dVre2xA64
+﻿Zabavna]Magazin}Glas=https://www.youtube.com/watch?v=BwucgAwCNK4
+﻿Zabavna]Magazin}Na Sve svete=https://www.youtube.com/watch?v=lLdWc8YfR_s
+﻿Zabavna]Magazin}Na svijetu sve=https://www.youtube.com/watch?v=X4yS-QipaC4
+﻿Zabavna]Magazin}Briga me=https://www.youtube.com/watch?v=JtIPR2z_bnQ
+﻿Zabavna]Magazin}Duša južnjačka=https://www.youtube.com/watch?v=1ob0_zVbqHg
+﻿Zabavna]Magazin}O, ne, o, ne=https://www.youtube.com/watch?v=dtZG-ocGYVc
+﻿Zabavna]Magazin}Grana zimzelena=https://www.youtube.com/watch?v=zgvLNDbSDM0
+﻿Zabavna]Magazin}Samo navika=https://www.youtube.com/watch?v=1JG51pcOLmQ
+﻿Zabavna]Magazin}Nebo boje moje ljubavi=https://www.youtube.com/watch?v=Byxmg-Bo_qM
+﻿Zabavna]Magazin}Nek se ruke rukuju=https://www.youtube.com/watch?v=YEtPaB9PhvA
+﻿Zabavna]Magazin}Vozi me polako=https://www.youtube.com/watch?v=cw-wxLXnic8
+﻿Zabavna]Magazin}Za jednu noć života=https://www.youtube.com/watch?v=wH5cuL1UPcA
+﻿Zabavna]Magazin}Pjesma njegova=https://www.youtube.com/watch?v=K-AjfNcqH1Y
+﻿Zabavna]Magazin}Ljudi=https://www.youtube.com/watch?v=Krw5U7ymGmM
+﻿Zabavna]Magazin}Kraj tebe nisam spavala=https://www.youtube.com/watch?v=oAtXDZX-JB4
+﻿Zabavna]Magazin}Što će meni ovaj dar=https://www.youtube.com/watch?v=KmZo1sjA6oQ
+﻿Zabavna]Magazin}Simpatija=https://www.youtube.com/watch?v=Xoyhmj0ulKM
+﻿Zabavna]Magazin}Madona=https://www.youtube.com/watch?v=k3EROe-kCng
+﻿Zabavna]Magazin}Svejedno je=https://www.youtube.com/watch?v=Vl9xO4SCsN4
+﻿Zabavna]Magazin}Plakat ću sutra=https://www.youtube.com/watch?v=Eh_EIyogFO8
+﻿Zabavna]Magazin}Šok=https://www.youtube.com/watch?v=LXfE9B6HRpE
+﻿Zabavna]Magazin}Ubija me, ubija=https://www.youtube.com/watch?v=R6sl4OguJls
+﻿Zabavna]Magazin}Aleluja=https://www.youtube.com/watch?v=4z95VC4Qx70
+﻿Zabavna]Magazin}Bubi, bubi=https://www.youtube.com/watch?v=tnPy-V4L3m4
+﻿Zabavna]Magazin}Mafija=https://www.youtube.com/watch?v=91z4oy0wr_8
+﻿Zabavna]Magazin}Neću se vratiti=https://www.youtube.com/watch?v=sjecy_OiamU
+﻿Zabavna]Magazin}Mir, mir, mir do neba=https://www.youtube.com/watch?v=anjjDXk0hEc
+﻿Zabavna]Magazin}Čari=https://www.youtube.com/watch?v=EP6j0NFjit4
+﻿Zabavna]Magazin}Svi igrači=https://www.youtube.com/watch?v=kuArSwaUZIE
+﻿Zabavna]Magazin}Tišina=https://www.youtube.com/watch?v=zFyc-q_hoeM
+﻿Zabavna]Magazin}Ustani=https://www.youtube.com/watch?v=FbF8ImPEAY4
+﻿Zabavna]Magazin}Ostani nježan do kraja=https://www.youtube.com/watch?v=wOKRswtZH1U
+﻿Zabavna]Magazin}Đana=https://www.youtube.com/watch?v=pajKJQCOBFY
+﻿Zabavna]Magazin}Svileni=https://www.youtube.com/watch?v=ySoLCd-3eGM
+﻿Zabavna]Magazin}Povratak=https://www.youtube.com/watch?v=31308Ndgg_c
+﻿Zabavna]Magazin}S kim si mala sinoć bila=https://www.youtube.com/watch?v=ayAjeHZRvsw
+﻿Zabavna]Magazin}Svenut ću ti kao ruža=https://www.youtube.com/watch?v=j4i8PqTSZrE
+﻿Zabavna]Magazin}Balkanska ulica=https://www.youtube.com/watch?v=SKANH45T6b4
+﻿Zabavna]Magazin}Sijaj zvezdo Danice=https://www.youtube.com/watch?v=gQBUZpvf-Dw
+Zabavna]Magazin}Na selu...=https://www.youtube.com/watch?v=1PzPZVADw6Y
+﻿Zabavna]Magazin}Ali baba=https://www.youtube.com/watch?v=CPREPqvVEDI
+﻿Zabavna]Magazin}Što te nema, bar da svratiš=https://www.youtube.com/watch?v=8wYnwaiNxiI
+﻿Zabavna]Magazin}Oči crne, oči lažne=https://www.youtube.com/watch?v=-8LPKlMwOrQ
+﻿Zabavna]Magazin}Ema=https://www.youtube.com/watch?v=YrubHWiSNMo
+Zabavna]Magazin}Ej, ponoći=https://www.youtube.com/watch?v=oR5QGbgCB0Q
+﻿Zabavna]Magazin}Poljupci=https://www.youtube.com/watch?v=Y-XZjYkePVQ
+﻿Zabavna]Magazin}Moja je draga drugome žena=https://www.youtube.com/watch?v=uwx5b7_FEKk
+﻿Zabavna]Magazin}Besane noći=https://www.youtube.com/watch?v=P6eSORIOUfw
+﻿Zabavna]Magazin}Idu dani=https://www.youtube.com/watch?v=fq0rffhv17k
+Zabavna]Magazin}Stani, stani=https://www.youtube.com/watch?v=R-edacL-Qqc
+﻿Zabavna]Magazin}Sve bi me curice ljubile=https://www.youtube.com/watch?v=V8vcyg5VIAY
+﻿Zabavna]Magazin}Amadeus=https://www.youtube.com/watch?v=CPDklnTrl-4
 ﻿Narodna]Maja Marijana}Anđeli ljubavi=http://www.youtube.com/watch?v=kiUsSJh7z-A
 ﻿Narodna]Maja Marijana}Bio mi je dobar drug=http://www.youtube.com/watch?v=WvEi1b4PXmM
 ﻿Narodna]Maja Marijana}Činim nešto korisno za sebe=http://www.youtube.com/watch?v=78DRGzibO3I
