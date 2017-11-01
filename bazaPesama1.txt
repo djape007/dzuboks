@@ -1044,7 +1044,7 @@
 ﻿Narodna]Ana Bekuta}Praznik=http://www.youtube.com/watch?v=YomU-t1TfY4
 ﻿Narodna]Ana Bekuta}Pričaj mi=http://www.youtube.com/watch?v=640mEAyEv7Y
 ﻿Narodna]Ana Bekuta}Pustite me da ga volim=http://www.youtube.com/watch?v=7clhU7STeA4
-﻿Narodna]Ana Bekuta}Rano moja=http://www.youtube.com/watch?v=RZ7-56wblgw
+﻿Narodna]Ana Bekuta}Rano moja=http://www.youtube.com/watch?v=C2_dSAEMJSw
 ﻿Narodna]Ana Bekuta}Rastanak=http://www.youtube.com/watch?v=V2wJXygq4uc
 ﻿Narodna]Ana Bekuta}Reći svojoj deci=http://www.youtube.com/watch?v=l_Iv9_U1x6I
 ﻿Narodna]Ana Bekuta}S tobom bar znam gde je dno=http://www.youtube.com/watch?v=ThQ1RiTzans
@@ -1522,7 +1522,6 @@
 ﻿Rok]Azra}Odlazak u noć=http://www.youtube.com/watch?v=_cmjqxBNcyQ
 ﻿Rok]Azra}Ostavi me nasamo=http://www.youtube.com/watch?v=p8C36E0dZeM
 ﻿Rok]Azra}Pametni i knjiški ljudi=http://www.youtube.com/watch?v=Ob-dYdEH3jA
-﻿Rok]Azra}Pavel=http://www.youtube.com/watch?v=5iGqE1-YRaQ
 ﻿Rok]Azra}Pit, i to je Amerika=http://www.youtube.com/watch?v=ECnrsUMHGmc
 ﻿Rok]Azra}Poljubi me=http://www.youtube.com/watch?v=-nZIcQZMWFw
 ﻿Rok]Azra}Poziv na ples=http://www.youtube.com/watch?v=VO_Em29gJHg
@@ -1533,7 +1532,6 @@
 ﻿Rok]Azra}Reket roll iz šume Striborove=http://www.youtube.com/watch?v=QJugLwiNBoE
 ﻿Rok]Azra}Repeticio est mater studiorum=http://www.youtube.com/watch?v=4-CnM-laMbM
 ﻿Rok]Azra}Rođen da budem sonjo=http://www.youtube.com/watch?v=LDk_Q40uYB8
-﻿Rok]Azra}Roll over Jura=http://www.youtube.com/watch?v=EBDmIQqbTaw
 ﻿Rok]Azra}Sačekivanje=http://www.youtube.com/watch?v=daPjG-9REn8
 ﻿Rok]Azra}Sala=http://www.youtube.com/watch?v=iu7TMj9Tb_A
 ﻿Rok]Azra}Sjaj u kosi=http://www.youtube.com/watch?v=5MraBWkyUH0
@@ -1634,16 +1632,16 @@
 ﻿Rep]Bad Copy}Pravi reper=http://www.youtube.com/watch?v=g0m_AKsSr0Y
 ﻿Rep]Bad Copy}Uno, due, tre=http://www.youtube.com/watch?v=PfTKTTwygnw
 ﻿Rep]Bad Copy}Vodio sam devojku na soju=http://www.youtube.com/watch?v=OYpsGBtjXPs
-Krajiska]Baja Mali Knindža}90 posto mi uzela kafana=https://www.youtube.com/watch?v=4qbJBzzHtuQ
+﻿Krajiska]Baja Mali Knindža}90 posto mi uzela kafana=https://www.youtube.com/watch?v=4qbJBzzHtuQ
 ﻿Krajiska]Baja Mali Knindža}Ajme meni bez tebe Krajino=http://www.youtube.com/watch?v=yiusKiTp0_g
 ﻿Krajiska]Baja Mali Knindža}Ajmo, brate, u kafanu sjesti=http://www.youtube.com/watch?v=Y05xWLGXIOU
 ﻿Krajiska]Baja Mali Knindža}Alkos nema perspektivu=http://www.youtube.com/watch?v=DK6TCvuQOk0
-Krajiska]Baja Mali Knindža}Arija nebeska=http://www.youtube.com/watch?v=Il0o8rwDWJI
+﻿Krajiska]Baja Mali Knindža}Arija nebeska=http://www.youtube.com/watch?v=Il0o8rwDWJI
 ﻿Krajiska]Baja Mali Knindža}Anđeo i đavo=http://www.youtube.com/watch?v=xCeoBRUWWog
 ﻿Krajiska]Baja Mali Knindža}Baraba sa sela=http://www.youtube.com/watch?v=VenD-auPvCU
 ﻿Krajiska]Baja Mali Knindža}Bez zavičaja=http://www.youtube.com/watch?v=dMzCS5ihmTU
 ﻿Krajiska]Baja Mali Knindža}Birtija=http://www.youtube.com/watch?v=l2idsCPr9LA
-Krajiska]Baja Mali Knindža}Bivša ljubavi=https://www.youtube.com/watch?v=nNO6CqB9ZGQ
+﻿Krajiska]Baja Mali Knindža}Bivša ljubavi=https://www.youtube.com/watch?v=nNO6CqB9ZGQ
 ﻿Krajiska]Baja Mali Knindža}Bježi, tugo=http://www.youtube.com/watch?v=JJJXKChG4Tk
 ﻿Krajiska]Baja Mali Knindža}Božić je=http://www.youtube.com/watch?v=s5VChCMOeqs
 ﻿Krajiska]Baja Mali Knindža}Bukovice, oj=http://www.youtube.com/watch?v=4rPX5YgnB2M
@@ -3344,7 +3342,7 @@ Krajiska]Baja Mali Knindža}Bivša ljubavi=https://www.youtube.com/watch?v=nNO6C
 ﻿Zabavna]Cvija}Jače od vina=--start-time=6 http://www.youtube.com/watch?v=PfGdp_9RGG4
 ﻿Zabavna]Cvija}Javi se bejbe=http://www.youtube.com/watch?v=4oGdJaKt4kU
 ﻿Zabavna]Cvija}Mene radiš ti=--start-time=6 http://www.youtube.com/watch?v=AppPVfbOiqo
-Zabavna]Cvija}Mene to ne zanima=--start-time=6 https://www.youtube.com/watch?v=zII_W4cFmdA
+﻿Zabavna]Cvija}Mene to ne zanima=--start-time=6 https://www.youtube.com/watch?v=zII_W4cFmdA
 ﻿Zabavna]Cvija}Meni od sinoć nije dobro=--start-time=6 http://www.youtube.com/watch?v=csxybiDXvPY
 ﻿Zabavna]Cvija}Moja želja si ti=http://www.youtube.com/watch?v=My6FKiyCzEY
 ﻿Zabavna]Cvija}Ne plači=http://www.youtube.com/watch?v=OmzTj13J40M
@@ -3516,7 +3514,7 @@ Zabavna]Cvija}Mene to ne zanima=--start-time=6 https://www.youtube.com/watch?v=z
 ﻿Rok]Daleka Obala}Četrnaest palmi=http://www.youtube.com/watch?v=idqUkbDxHv0
 ﻿Rok]Daleka Obala}Crni vlak=http://www.youtube.com/watch?v=24Ht_ZFMZyA
 ﻿Rok]Daleka Obala}Čulo se buć, bac, boc=http://www.youtube.com/watch?v=pOnEfA4H374
-﻿Rok]Daleka Obala}Daleka obala=http://www.youtube.com/watch?v=XBVFrIy8-4k
+﻿Rok]Daleka Obala}Daleka obala=http://www.youtube.com/watch?v=oBt1_9jumAY
 ﻿Rok]Daleka Obala}Di si ti=http://www.youtube.com/watch?v=5BSmMvm09SU
 ﻿Rok]Daleka Obala}Hej, mala, hej=http://www.youtube.com/watch?v=C8zlzOIBK-M
 ﻿Rok]Daleka Obala}Jutro mijenja sve=http://www.youtube.com/watch?v=qak5yUpjZ6A
@@ -4784,7 +4782,7 @@ Zabavna]Cvija}Mene to ne zanima=--start-time=6 https://www.youtube.com/watch?v=z
 ﻿Zabavna]Doris Dragović}Željo moja=http://www.youtube.com/watch?v=uI9XpkbF5r4
 ﻿Zabavna]Doris Dragović}Zemlja i stina=http://www.youtube.com/watch?v=LD6phiBlsfk
 ﻿Zabavna]Doris Dragović}Žute ruže=http://www.youtube.com/watch?v=56EBGG_QJZY
-Narodna]Dragan Jovanović}Ružo rumena=http://www.youtube.com/watch?v=iw3uIOdgQSQ
+﻿Narodna]Dragan Jovanović}Ružo rumena=http://www.youtube.com/watch?v=iw3uIOdgQSQ
 ﻿Narodna]Dragan Kojić - Keba}A bila si zaljubljena=http://www.youtube.com/watch?v=uocUSyZ5mqs
 ﻿Narodna]Dragan Kojić - Keba}Akaraftu me=http://www.youtube.com/watch?v=A4FJx35V608
 ﻿Narodna]Dragan Kojić - Keba}Ako mi priđeš, zaljubiću se=http://www.youtube.com/watch?v=8f3naQf_2js
@@ -5762,7 +5760,7 @@ Narodna]Dragan Jovanović}Ružo rumena=http://www.youtube.com/watch?v=iw3uIOdgQS
 ﻿Zabavna]Elitni Odredi}Kad bi znala=http://www.youtube.com/watch?v=SGgkevylEYc
 ﻿Zabavna]Elitni Odredi}Kao kokain=http://www.youtube.com/watch?v=jRSriNn8gWQ
 ﻿Zabavna]Elitni Odredi}Krivi smo oboje=http://www.youtube.com/watch?v=V0lYVxZ15GI
-﻿Zabavna]Elitni Odredi}Kulijana=http://www.youtube.com/watch?v=t2jt6BJshgw
+﻿Zabavna]Elitni Odredi}Kulijana=http://www.youtube.com/watch?v=KMWfdit_Gv0
 ﻿Zabavna]Elitni Odredi}Ljubav i milion dolara=http://www.youtube.com/watch?v=l4zUHE2p9GY
 ﻿Zabavna]Elitni Odredi}Ljubavi moja=--start-time=67 http://www.youtube.com/watch?v=FFafv0PCN4Q
 ﻿Zabavna]Elitni Odredi}Moja jedina=http://www.youtube.com/watch?v=RzcGJIGvmZE
@@ -5968,14 +5966,13 @@ Narodna]Dragan Jovanović}Ružo rumena=http://www.youtube.com/watch?v=iw3uIOdgQS
 ﻿Narodna]Era Ojdanić}Ej, curice=http://www.youtube.com/watch?v=XVI-IeZtbi4
 ﻿Narodna]Era Ojdanić}Eto mene posle radne smene=http://www.youtube.com/watch?v=OaU4EJxjPro
 ﻿Narodna]Era Ojdanić}Gajio sam ružu=http://www.youtube.com/watch?v=yrfmZ-x1gvA
-﻿Narodna]Era Ojdanić}Gde sam bio, gde sam dangubio=http://www.youtube.com/watch?v=aGM9_1WavrE
+﻿Narodna]Era Ojdanić}Gde sam bio, gde sam dangubio=http://www.youtube.com/watch?v=4ddTJ9h74w8
 ﻿Narodna]Era Ojdanić}Godinama živim sam=http://www.youtube.com/watch?v=QDd6TmvmyE8
 ﻿Narodna]Era Ojdanić}Godine su moje prošle=http://www.youtube.com/watch?v=aKi046y6v6M
 ﻿Narodna]Era Ojdanić}Grešnicu sam zavoleo=http://www.youtube.com/watch?v=lAaDvQZ0EO0
 ﻿Narodna]Era Ojdanić}Hajd', živeli, druže=http://www.youtube.com/watch?v=jvcyMq5YL5s
 ﻿Narodna]Era Ojdanić}Hej, kafano prokletijo=https://www.youtube.com/watch?v=hpMvQXAqkjk
 ﻿Narodna]Era Ojdanić}Hiljadu dana=http://www.youtube.com/watch?v=2GVLEUa7anY
-﻿Narodna]Era Ojdanić}I sve što sam stek'o=http://www.youtube.com/watch?v=vHtF2AA1E9c
 ﻿Narodna]Era Ojdanić}Ibarska magistrala=http://www.youtube.com/watch?v=erBcacjpOtU
 ﻿Narodna]Era Ojdanić}Ja posadih jednu ružu belu=http://www.youtube.com/watch?v=hos-haffGP4
 ﻿Narodna]Era Ojdanić}Ja sam ženjen, sve devojke znaju=http://www.youtube.com/watch?v=4HYm_a7fNY8
@@ -5988,7 +5985,7 @@ Narodna]Dragan Jovanović}Ružo rumena=http://www.youtube.com/watch?v=iw3uIOdgQS
 ﻿Narodna]Era Ojdanić}Kopa cura vinograd=http://www.youtube.com/watch?v=3_LzjlFgsTc
 ﻿Narodna]Era Ojdanić}Kradljivica=http://www.youtube.com/watch?v=v1NnK1l_bvI
 ﻿Narodna]Era Ojdanić}Kravate=http://www.youtube.com/watch?v=83Uj0fopxsI
-﻿Narodna]Era Ojdanić}Kuće male=http://www.youtube.com/watch?v=2ytZqguXPFs
+﻿Narodna]Era Ojdanić}Kuće male=http://www.youtube.com/watch?v=5hNyP6lgW9g
 ﻿Narodna]Era Ojdanić}Kukuruzno zrnce=http://www.youtube.com/watch?v=GFLypd0rIWM
 ﻿Narodna]Era Ojdanić}Kuvaj, kuvaj kaficu=http://www.youtube.com/watch?v=_qM95LP85Yc
 ﻿Narodna]Era Ojdanić}Lako je tebi, mala=http://www.youtube.com/watch?v=q3C5HqkVunU
@@ -6006,11 +6003,12 @@ Narodna]Dragan Jovanović}Ružo rumena=http://www.youtube.com/watch?v=iw3uIOdgQS
 ﻿Narodna]Era Ojdanić}Najdraža slika=http://www.youtube.com/watch?v=AKvw13omxt4
 ﻿Narodna]Era Ojdanić}Neće Nina u šumicu=http://www.youtube.com/watch?v=JEVX_9fDciQ
 ﻿Narodna]Era Ojdanić}Nisam majstor da napravim bure=http://www.youtube.com/watch?v=dE4Qqs9P8Vk
+﻿Narodna]Era Ojdanić}I sve što sam stek'o=http://www.youtube.com/watch?v=qVjH-3JN_h0
 ﻿Narodna]Era Ojdanić}Odavno sam otišo iz sela=http://www.youtube.com/watch?v=GO9jo-mjznI
 ﻿Narodna]Era Ojdanić}Oj, Milice, čobanice=http://www.youtube.com/watch?v=Meod8zTg3Vo
 ﻿Narodna]Era Ojdanić}Pauk=http://www.youtube.com/watch?v=PoUPUogOShI
 ﻿Narodna]Era Ojdanić}Piši šta je pila žena plava=http://www.youtube.com/watch?v=ALMKzUn6yI0
-﻿Narodna]Era Ojdanić}Pravoslavac=http://www.youtube.com/watch?v=tGlkN11XSk0
+﻿Narodna]Era Ojdanić}Pravoslavac=http://www.youtube.com/watch?v=0IH9cfv0rDE
 ﻿Narodna]Era Ojdanić}Probudi se Srbine=http://www.youtube.com/watch?v=7iOA1iDFJas
 ﻿Narodna]Era Ojdanić}Prva ljubav=http://www.youtube.com/watch?v=_JYJMhwgQWc
 ﻿Narodna]Era Ojdanić}Rado, lepa Rado=http://www.youtube.com/watch?v=OqFDV-ROMVo
@@ -11752,7 +11750,7 @@ Narodna]Dragan Jovanović}Ružo rumena=http://www.youtube.com/watch?v=iw3uIOdgQS
 ﻿Rok Strani]Alice Cooper}Catch Me If You Can=http://www.youtube.com/watch?v=rw4bNre2IEk
 ﻿Rok Strani]Alice Cooper}Caught In A Dream=http://www.youtube.com/watch?v=bpXn6rffInM
 ﻿Rok Strani]Alice Cooper}Clones (We're All)=http://www.youtube.com/watch?v=t_fvX242KTU
-﻿Rok Strani]Alice Cooper}Cold Ethyl=http://www.youtube.com/watch?v=AOSCf2mRv9c
+﻿Rok Strani]Alice Cooper}Cold Ethyl=http://www.youtube.com/watch?v=QrDfy5RsMNw
 ﻿Rok Strani]Alice Cooper}Dance Yourself To Death=http://www.youtube.com/watch?v=R4UguaVktSQ
 ﻿Rok Strani]Alice Cooper}Dangerous Tonight=http://www.youtube.com/watch?v=FU6Iz5hS5m4
 ﻿Rok Strani]Alice Cooper}Dead Babies=http://www.youtube.com/watch?v=e9j_iIXZsoU
@@ -11783,12 +11781,11 @@ Narodna]Dragan Jovanović}Ružo rumena=http://www.youtube.com/watch?v=iw3uIOdgQS
 ﻿Rok Strani]Alice Cooper}Guilty=http://www.youtube.com/watch?v=HfEIYvi5YCg
 ﻿Rok Strani]Alice Cooper}Gutter Cats Vs. The Jets=http://www.youtube.com/watch?v=yy9XcruKqEg
 ﻿Rok Strani]Alice Cooper}Hallowed Be My Name=http://www.youtube.com/watch?v=_ERMZC5JTeM
-﻿Rok Strani]Alice Cooper}He's Back (The Man Behind The Mask)=http://www.youtube.com/watch?v=VMhQZmzaXjg
+﻿Rok Strani]Alice Cooper}He's Back (The Man Behind The Mask)=--start-time=22 http://www.youtube.com/watch?v=wgSbZ8J8eAw
 ﻿Rok Strani]Alice Cooper}Hell Is Living Without You=http://www.youtube.com/watch?v=UTfFtjRHwpI
 ﻿Rok Strani]Alice Cooper}Hello Hooray=http://www.youtube.com/watch?v=80bqSzONHP4
 ﻿Rok Strani]Alice Cooper}Hey Stoopid=--start-time=30 http://www.youtube.com/watch?v=XcAl93uEYUA
 ﻿Rok Strani]Alice Cooper}House Of Fire=--start-time=12 http://www.youtube.com/watch?v=0Hu_mq0Uc0M
-﻿Rok Strani]Alice Cooper}How You Gonna See Me Now=http://www.youtube.com/watch?v=FTM8AYigL64
 ﻿Rok Strani]Alice Cooper}I Am Made Of You=http://www.youtube.com/watch?v=uV47roZm1-Q
 ﻿Rok Strani]Alice Cooper}I Am The Future=http://www.youtube.com/watch?v=YjKeN7OjQB4
 ﻿Rok Strani]Alice Cooper}I Got A Line On You=http://www.youtube.com/watch?v=ayK2ZY8sQRw
@@ -11890,7 +11887,7 @@ Narodna]Dragan Jovanović}Ružo rumena=http://www.youtube.com/watch?v=iw3uIOdgQS
 ﻿Rok Strani]Alice Cooper}Vengeance Is Mine=http://www.youtube.com/watch?v=npbLd__CzeY
 ﻿Rok Strani]Alice Cooper}Vicious Rumours=http://www.youtube.com/watch?v=O62larcuPeg
 ﻿Rok Strani]Alice Cooper}Wake Me Gently=http://www.youtube.com/watch?v=EHzq6ycv-W0
-﻿Rok Strani]Alice Cooper}Welcome To My Nightmare=http://www.youtube.com/watch?v=k2jDQIrI3sQ
+﻿Rok Strani]Alice Cooper}Welcome To My Nightmare=--start-time=13 http://www.youtube.com/watch?v=TQK5TbgopKw
 ﻿Rok Strani]Alice Cooper}What Baby Wants=http://www.youtube.com/watch?v=pGfCHTGePac
 ﻿Rok Strani]Alice Cooper}What Do You Want From Me=http://www.youtube.com/watch?v=f1nPeebSbFs
 ﻿Rok Strani]Alice Cooper}When Hell Comes Home=http://www.youtube.com/watch?v=Tm_7e83toV8
