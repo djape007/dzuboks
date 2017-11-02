@@ -535,7 +535,7 @@
 ﻿Zabavna]Magazin}Moji prsti, pete=http://www.youtube.com/watch?v=7K0SlC9g64Q
 ﻿Zabavna]Magazin}Ne tiče me se=https://www.youtube.com/watch?v=oRhRrQIy96c
 ﻿Zabavna]Magazin}Ne vjerujem tebi, ne vjerujem sebi=http://www.youtube.com/watch?v=cEKKd3IzEZ8
-Zabavna]Magazin}Ne vjerujem tebi, ne vjerujem sebi (Radio remix)=https://www.youtube.com/watch?v=h_wVPGIkFNM
+﻿Zabavna]Magazin}Ne vjerujem tebi, ne vjerujem sebi (Radio remix)=https://www.youtube.com/watch?v=h_wVPGIkFNM
 ﻿Zabavna]Magazin}No, no, no=http://www.youtube.com/watch?v=DrPemQC0_So
 ﻿Zabavna]Magazin}Oko moje sanjivo=http://www.youtube.com/watch?v=lLEyjjgkeLI
 ﻿Zabavna]Magazin}Opijum=http://www.youtube.com/watch?v=nkYnUTambls
@@ -630,17 +630,17 @@ Zabavna]Magazin}Ne vjerujem tebi, ne vjerujem sebi (Radio remix)=https://www.you
 ﻿Zabavna]Magazin}Svenut ću ti kao ruža=https://www.youtube.com/watch?v=j4i8PqTSZrE
 ﻿Zabavna]Magazin}Balkanska ulica=https://www.youtube.com/watch?v=SKANH45T6b4
 ﻿Zabavna]Magazin}Sijaj zvezdo Danice=https://www.youtube.com/watch?v=gQBUZpvf-Dw
-Zabavna]Magazin}Na selu...=https://www.youtube.com/watch?v=1PzPZVADw6Y
+﻿Zabavna]Magazin}Na selu...=https://www.youtube.com/watch?v=1PzPZVADw6Y
 ﻿Zabavna]Magazin}Ali baba=https://www.youtube.com/watch?v=CPREPqvVEDI
 ﻿Zabavna]Magazin}Što te nema, bar da svratiš=https://www.youtube.com/watch?v=8wYnwaiNxiI
 ﻿Zabavna]Magazin}Oči crne, oči lažne=https://www.youtube.com/watch?v=-8LPKlMwOrQ
 ﻿Zabavna]Magazin}Ema=https://www.youtube.com/watch?v=YrubHWiSNMo
-Zabavna]Magazin}Ej, ponoći=https://www.youtube.com/watch?v=oR5QGbgCB0Q
+﻿Zabavna]Magazin}Ej, ponoći=https://www.youtube.com/watch?v=oR5QGbgCB0Q
 ﻿Zabavna]Magazin}Poljupci=https://www.youtube.com/watch?v=Y-XZjYkePVQ
 ﻿Zabavna]Magazin}Moja je draga drugome žena=https://www.youtube.com/watch?v=uwx5b7_FEKk
 ﻿Zabavna]Magazin}Besane noći=https://www.youtube.com/watch?v=P6eSORIOUfw
 ﻿Zabavna]Magazin}Idu dani=https://www.youtube.com/watch?v=fq0rffhv17k
-Zabavna]Magazin}Stani, stani=https://www.youtube.com/watch?v=R-edacL-Qqc
+﻿Zabavna]Magazin}Stani, stani=https://www.youtube.com/watch?v=R-edacL-Qqc
 ﻿Zabavna]Magazin}Sve bi me curice ljubile=https://www.youtube.com/watch?v=V8vcyg5VIAY
 ﻿Zabavna]Magazin}Amadeus=https://www.youtube.com/watch?v=CPDklnTrl-4
 ﻿Narodna]Maja Marijana}Anđeli ljubavi=http://www.youtube.com/watch?v=kiUsSJh7z-A
@@ -1653,7 +1653,6 @@ Zabavna]Magazin}Stani, stani=https://www.youtube.com/watch?v=R-edacL-Qqc
 ﻿Zabavna]Milena Vučić}Indijana=http://www.youtube.com/watch?v=frK7mLDBcOk
 ﻿Zabavna]Milena Vučić}Lagala sam=http://www.youtube.com/watch?v=YcyzQQibmR4
 ﻿Zabavna]Milena Vučić}Luče=http://www.youtube.com/watch?v=J6AUtlG08BA
-﻿Zabavna]Milena Vučić}Na talasima=http://www.youtube.com/watch?v=pMeHH0RUm0A
 ﻿Zabavna]Milena Vučić}Noćas sam luda=http://www.youtube.com/watch?v=-Vocoyvqv9I
 ﻿Zabavna]Milena Vučić}Samo moj=http://www.youtube.com/watch?v=4N3hYmbNGWg
 ﻿Zabavna]Milena Vučić}Zovi svoje drugove=http://www.youtube.com/watch?v=JbVbVA9DfiQ
@@ -5021,7 +5020,7 @@ Zabavna]Magazin}Stani, stani=https://www.youtube.com/watch?v=R-edacL-Qqc
 ﻿Zabavna]Regina}Jedino moje=http://www.youtube.com/watch?v=DVQD_DRERKQ
 ﻿Zabavna]Regina}Kad poludimo=http://www.youtube.com/watch?v=AjEEqptZwyA
 ﻿Zabavna]Regina}Kad poželiš=http://www.youtube.com/watch?v=SLiB13U8yuc
-﻿Zabavna]Regina}Kad zatvorim oči=http://www.youtube.com/watch?v=xanJ6OHXy3Y
+﻿Zabavna]Regina}Kad zatvorim oči=http://www.youtube.com/watch?v=8m8BbsoaWCk
 ﻿Zabavna]Regina}Koji ti je sad=http://www.youtube.com/watch?v=vG71vLo5Aag
 ﻿Zabavna]Regina}Ljubav nije za nas=http://www.youtube.com/watch?v=hF97jp8mQ5U
 ﻿Zabavna]Regina}Marina=http://www.youtube.com/watch?v=qauKJE5eeCc
@@ -10195,7 +10194,6 @@ Zabavna]Magazin}Stani, stani=https://www.youtube.com/watch?v=R-edacL-Qqc
 ﻿Zabavna]Željko Samardžić}Ohladi=http://www.youtube.com/watch?v=EIuSF56dIi8
 ﻿Zabavna]Željko Samardžić}Oprosti, izvini=http://www.youtube.com/watch?v=LcNAxJAp-oE
 ﻿Zabavna]Željko Samardžić}Ove noći jedna žena=http://www.youtube.com/watch?v=3Al6YHXc1zg
-﻿Zabavna]Željko Samardžić}Pokaži mi šta znaš=http://www.youtube.com/watch?v=zlk2_DdMGLs
 ﻿Zabavna]Željko Samardžić}Posle duge veze=http://www.youtube.com/watch?v=q9DQif31k5o
 ﻿Zabavna]Željko Samardžić}Prava ljubav godine ne broji=http://www.youtube.com/watch?v=EDQqLp6aFAM
 ﻿Zabavna]Željko Samardžić}Slutim=http://www.youtube.com/watch?v=Nm_B6IiV77M

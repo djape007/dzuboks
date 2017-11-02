@@ -4682,7 +4682,7 @@
 ﻿Narodna]Donna Ares}Nemam razloga za strah=http://www.youtube.com/watch?v=pMETAtvKCPc
 ﻿Narodna]Donna Ares}Nemoj da pogađam=http://www.youtube.com/watch?v=lNIcB8bfFto
 ﻿Narodna]Donna Ares}Noći lude i kafane=http://www.youtube.com/watch?v=SuqlnwyGda4
-﻿Narodna]Donna Ares}Ostavljaš me noćas=http://www.youtube.com/watch?v=nQEJ_g3xq2o
+﻿Narodna]Donna Ares}Ostavljaš me noćas=http://www.youtube.com/watch?v=vmPsKhbpnXI
 ﻿Narodna]Donna Ares}Pare, pare=http://www.youtube.com/watch?v=wdVtftTge_M
 ﻿Narodna]Donna Ares}Povratka nema=http://www.youtube.com/watch?v=rUhIRaWL7i4
 ﻿Narodna]Donna Ares}Prokleta je Amerika=http://www.youtube.com/watch?v=ysM_bIlNRww
@@ -6318,7 +6318,6 @@
 ﻿Zabavna]Franka Batelić}Ruža u kamenu=http://www.youtube.com/watch?v=9hagM7g3ksc
 ﻿Zabavna]Funky G}Ako želiš me=http://www.youtube.com/watch?v=Imr9iMdvlJM
 ﻿Zabavna]Funky G}Arogantna kraljica=http://www.youtube.com/watch?v=IZh1QHnAUJM
-﻿Zabavna]Funky G}Biće mi teško=http://www.youtube.com/watch?v=2FzzIhNJchc
 ﻿Zabavna]Funky G}Budi tu=http://www.youtube.com/watch?v=jjZVM2KCVhU
 ﻿Zabavna]Funky G}Čini mi se=http://www.youtube.com/watch?v=vgcQPsYt_L4
 ﻿Zabavna]Funky G}Dala bih sve=http://www.youtube.com/watch?v=LlL6QGdJPqY
@@ -10361,70 +10360,70 @@
 ﻿Narodna]Lepa Lukić}Lep sanak=http://www.youtube.com/watch?v=MXMotSuOqrU
 ﻿Narodna]Lepa Lukić}Lepa moja=http://www.youtube.com/watch?v=1Hgsw7IfGg8
 ﻿Narodna]Lepa Lukić}Lepotan, vragolan=http://www.youtube.com/watch?v=s4-7ScTZrS8
-Rok]Napred u prošlost}Idemo u lov, kume=--start-time=3 https://www.youtube.com/watch?v=xpT4RpVISq8
-Rok]Napred u prošlost}Napred u prošlost=https://www.youtube.com/watch?v=yG4zn9fgbjM
-Rok]Napred u prošlost}Žena u defektu=https://www.youtube.com/watch?v=a2y9IL2zFVg
-Rok]Napred u prošlost}Vođa=https://www.youtube.com/watch?v=YlvsNsFgi0w
-Rok]Napred u prošlost}Veliki Šnule=https://www.youtube.com/watch?v=O2yRHCKFvEA
-Rok]Napred u prošlost}Vreme je da odrasteš=https://www.youtube.com/watch?v=j-n3YrPVE5I
-Rok]Napred u prošlost}Đe je medo?=https://www.youtube.com/watch?v=PeM6Btf9wQM
-Rok]Napred u prošlost}Moj svet=https://www.youtube.com/watch?v=JH09zJ2lSFk
-Rok]Napred u prošlost}Komunizam=https://www.youtube.com/watch?v=VJWKSBpVGoU
-Rok]Napred u prošlost}Osećam se usamljeno=https://www.youtube.com/watch?v=qsY13AepT78
-Rok]Napred u prošlost}Nebo=--start-time=5 https://www.youtube.com/watch?v=yNKPcP9hfEM
-Rok]Napred u prošlost}Sloveni i polja gliba=--start-time=4 https://www.youtube.com/watch?v=kBSfDjA1gCI
-Rok]Napred u prošlost}Srpski pasulj=https://www.youtube.com/watch?v=MgkhcHj8MJk
-Rok]Napred u prošlost}Ptice=--start-time=12 https://www.youtube.com/watch?v=DzJOu6V6fs0
-Rok]Napred u prošlost}Šuma=https://www.youtube.com/watch?v=lvXJAL9Enzg
-Rok]Napred u prošlost}Šta sam radio sve ove godine=https://www.youtube.com/watch?v=l-ZrpWeN0Us
-Rok]Napred u prošlost}Doctor=https://www.youtube.com/watch?v=n1Lgd8Tc0Mo
-Rok]Napred u prošlost}Bajonet=https://www.youtube.com/watch?v=Evkt1qo0w1w
-Rok]Napred u prošlost}U sebi=--start-time=3 https://www.youtube.com/watch?v=fktPnB7QAFI
-Rok]Napred u prošlost}Bežimo=https://www.youtube.com/watch?v=cKXWGsLftMQ
-Rok]Napred u prošlost}Telo od bronze=--start-time=10 https://www.youtube.com/watch?v=PrXNaV3fW44
-Rok]Napred u prošlost}Dve godine pre smaka sveta=https://www.youtube.com/watch?v=_yNGAroG-Pg
-Rok]Napred u prošlost}Moron=https://www.youtube.com/watch?v=WEOTl4llydI
-Rok]Napred u prošlost}Doktore=--start-time=5 https://www.youtube.com/watch?v=NF2GNPftcoc
-Rok]Napred u prošlost}Agresivna pesma=https://www.youtube.com/watch?v=C0SR59A78wY
-Rok]Napred u prošlost}Kupi dete=--start-time=6 https://www.youtube.com/watch?v=oLaBRMlDL1A
-Rok]Napred u prošlost}Ja sam pauk=https://www.youtube.com/watch?v=4vOq_c5cvyE
-Rok]Napred u prošlost}Mali čovek=https://www.youtube.com/watch?v=K0eMN2Z7fRA
-Rok]Napred u prošlost}Da je čovek=https://www.youtube.com/watch?v=vwTUswCYjSE
-Rok]Napred u prošlost}Nema dana=https://www.youtube.com/watch?v=SU5nbswosEc
-Rok]Napred u prošlost}Na dnu mora=--start-time=6 https://www.youtube.com/watch?v=Pu-03HNwyfo
-Rok]Napred u prošlost}Ljubav je neman koju treba hraniti=https://www.youtube.com/watch?v=ZXeE6W1ojkQ
-Rok]Napred u prošlost}Nemoj srećo, nemoj danas=--start-time=5 https://www.youtube.com/watch?v=62dMFOyS0N0 
-Rok]Napred u prošlost}Nema tu strasti=https://www.youtube.com/watch?v=rp9GjnaJk_o
-Rok]Napred u prošlost}Dal to novi opet jašu=https://www.youtube.com/watch?v=vKfeW6S90tI
-Rok]Napred u prošlost}Još jedna kontra ekipe revolucije=https://www.youtube.com/watch?v=YwZS5lY-Fag
-Rok]Napred u prošlost}Da leptir ima krila=https://www.youtube.com/watch?v=FfQnxvPUNYE
-Rok]Napred u prošlost}Reka=https://www.youtube.com/watch?v=uiHJQT3VX4Y 
-Rok]Napred u prošlost}Volim te kao SK=https://www.youtube.com/watch?v=R_YI4Z20HIQ 
-Rok]Napred u prošlost}Pokreti deteta=https://www.youtube.com/watch?v=JXBkpO4LH6w 
-Rok]Napred u prošlost}Dick Marella=https://www.youtube.com/watch?v=xp8im2qOi30 
-Rok]Napred u prošlost}Vođa (fuhrer) (live)=https://www.youtube.com/watch?v=CVdA6uM6w0U
-Rok]Napred u prošlost}Banatski rendžer=https://www.youtube.com/watch?v=Ccc0H7cfo5A
-Rok]Napred u prošlost}Boldertaun=--start-time=3 https://www.youtube.com/watch?v=MHJYkSBjT8s 
-Rok]Napred u prošlost}Po njenom je receptu=https://www.youtube.com/watch?v=klgtQpCZXFA 
-Rok]Napred u prošlost}Romansa=https://www.youtube.com/watch?v=biILgSbD5Mc
-Rok]Napred u prošlost}Problem mladih u Srbiji=https://www.youtube.com/watch?v=Iqmeocbmb3A
-Rok]Napred u prošlost}Čuvar mosta=https://www.youtube.com/watch?v=9ZPixIoCf6M
-Rok]Napred u prošlost}Slobodane=https://www.youtube.com/watch?v=YPsJvDGINlQ
-Rok]Napred u prošlost}Nije meni što sam jadan=https://www.youtube.com/watch?v=yaz5tnMFoEw
-Rok]Napred u prošlost}Donosim ti cveće u ludnicu i kažem crkni kučko=--start-time=9 https://www.youtube.com/watch?v=jRns1bTgpcE
-Rok]Napred u prošlost}Ona je tako sama=https://www.youtube.com/watch?v=Hpk-rNiTnBI
-Rok]Napred u prošlost}Zbogom pameti=https://www.youtube.com/watch?v=_NqY1Mj7n5M
-Rok]Napred u prošlost}Pravda je još jednom pobedila=https://www.youtube.com/watch?v=_-Ky6ZCvM5Q
-Rok]Napred u prošlost}Dom je beo=https://www.youtube.com/watch?v=uWcdr38n8qk 
-Rok]Napred u prošlost}Definicija NUP muzike=--start-time=6 https://www.youtube.com/watch?v=p1JOGeN03I4
-Rok]Napred u prošlost}Hijene u Africi=--start-time=4 https://www.youtube.com/watch?v=e85V_wo6t48
-Rok]Napred u prošlost}Vetar tera oblak=https://www.youtube.com/watch?v=NdpVnPeYNDU
-Rok]Napred u prošlost}Zašto si me ostavila=https://www.youtube.com/watch?v=kqF2iFRLf7A
-Rok]Napred u prošlost}Strip=--start-time=3 https://www.youtube.com/watch?v=i30FsksNl8Y
-Rok]Napred u prošlost}Žene u crnom i četnikov sinovac=--start-time=3 https://www.youtube.com/watch?v=uTV19iuEKi8
-Rok]Napred u prošlost}Venčanje=--start-time=4 https://www.youtube.com/watch?v=9n0GTcemYII
-Rok]Napred u prošlost}Baško polje=https://www.youtube.com/watch?v=yU16EaLVopk
-Rok]Napred u prošlost}Tata priček traži sina ptičeka=https://www.youtube.com/watch?v=sAJ0FgnMVeI
+﻿Rok]Napred u prošlost}Idemo u lov, kume=--start-time=3 https://www.youtube.com/watch?v=xpT4RpVISq8
+﻿Rok]Napred u prošlost}Napred u prošlost=https://www.youtube.com/watch?v=yG4zn9fgbjM
+﻿Rok]Napred u prošlost}Žena u defektu=https://www.youtube.com/watch?v=a2y9IL2zFVg
+﻿Rok]Napred u prošlost}Vođa=https://www.youtube.com/watch?v=YlvsNsFgi0w
+﻿Rok]Napred u prošlost}Veliki Šnule=https://www.youtube.com/watch?v=O2yRHCKFvEA
+﻿Rok]Napred u prošlost}Vreme je da odrasteš=https://www.youtube.com/watch?v=j-n3YrPVE5I
+﻿Rok]Napred u prošlost}Đe je medo?=https://www.youtube.com/watch?v=PeM6Btf9wQM
+﻿Rok]Napred u prošlost}Moj svet=https://www.youtube.com/watch?v=JH09zJ2lSFk
+﻿Rok]Napred u prošlost}Komunizam=https://www.youtube.com/watch?v=VJWKSBpVGoU
+﻿Rok]Napred u prošlost}Osećam se usamljeno=https://www.youtube.com/watch?v=qsY13AepT78
+﻿Rok]Napred u prošlost}Nebo=--start-time=5 https://www.youtube.com/watch?v=yNKPcP9hfEM
+﻿Rok]Napred u prošlost}Sloveni i polja gliba=--start-time=4 https://www.youtube.com/watch?v=kBSfDjA1gCI
+﻿Rok]Napred u prošlost}Srpski pasulj=https://www.youtube.com/watch?v=MgkhcHj8MJk
+﻿Rok]Napred u prošlost}Ptice=--start-time=12 https://www.youtube.com/watch?v=DzJOu6V6fs0
+﻿Rok]Napred u prošlost}Šuma=https://www.youtube.com/watch?v=lvXJAL9Enzg
+﻿Rok]Napred u prošlost}Šta sam radio sve ove godine=https://www.youtube.com/watch?v=l-ZrpWeN0Us
+﻿Rok]Napred u prošlost}Doctor=https://www.youtube.com/watch?v=n1Lgd8Tc0Mo
+﻿Rok]Napred u prošlost}Bajonet=https://www.youtube.com/watch?v=Evkt1qo0w1w
+﻿Rok]Napred u prošlost}U sebi=--start-time=3 https://www.youtube.com/watch?v=fktPnB7QAFI
+﻿Rok]Napred u prošlost}Bežimo=https://www.youtube.com/watch?v=cKXWGsLftMQ
+﻿Rok]Napred u prošlost}Telo od bronze=--start-time=10 https://www.youtube.com/watch?v=PrXNaV3fW44
+﻿Rok]Napred u prošlost}Dve godine pre smaka sveta=https://www.youtube.com/watch?v=_yNGAroG-Pg
+﻿Rok]Napred u prošlost}Moron=https://www.youtube.com/watch?v=WEOTl4llydI
+﻿Rok]Napred u prošlost}Doktore=--start-time=5 https://www.youtube.com/watch?v=NF2GNPftcoc
+﻿Rok]Napred u prošlost}Agresivna pesma=https://www.youtube.com/watch?v=C0SR59A78wY
+﻿Rok]Napred u prošlost}Kupi dete=--start-time=6 https://www.youtube.com/watch?v=oLaBRMlDL1A
+﻿Rok]Napred u prošlost}Ja sam pauk=https://www.youtube.com/watch?v=4vOq_c5cvyE
+﻿Rok]Napred u prošlost}Mali čovek=https://www.youtube.com/watch?v=K0eMN2Z7fRA
+﻿Rok]Napred u prošlost}Da je čovek=https://www.youtube.com/watch?v=vwTUswCYjSE
+﻿Rok]Napred u prošlost}Nema dana=https://www.youtube.com/watch?v=SU5nbswosEc
+﻿Rok]Napred u prošlost}Na dnu mora=--start-time=6 https://www.youtube.com/watch?v=Pu-03HNwyfo
+﻿Rok]Napred u prošlost}Ljubav je neman koju treba hraniti=https://www.youtube.com/watch?v=ZXeE6W1ojkQ
+﻿Rok]Napred u prošlost}Nemoj srećo, nemoj danas=--start-time=5 https://www.youtube.com/watch?v=62dMFOyS0N0
+﻿Rok]Napred u prošlost}Nema tu strasti=https://www.youtube.com/watch?v=rp9GjnaJk_o
+﻿Rok]Napred u prošlost}Dal to novi opet jašu=https://www.youtube.com/watch?v=vKfeW6S90tI
+﻿Rok]Napred u prošlost}Još jedna kontra ekipe revolucije=https://www.youtube.com/watch?v=YwZS5lY-Fag
+﻿Rok]Napred u prošlost}Da leptir ima krila=https://www.youtube.com/watch?v=FfQnxvPUNYE
+﻿Rok]Napred u prošlost}Reka=https://www.youtube.com/watch?v=uiHJQT3VX4Y
+﻿Rok]Napred u prošlost}Volim te kao SK=https://www.youtube.com/watch?v=R_YI4Z20HIQ
+﻿Rok]Napred u prošlost}Pokreti deteta=https://www.youtube.com/watch?v=JXBkpO4LH6w
+﻿Rok]Napred u prošlost}Dick Marella=https://www.youtube.com/watch?v=xp8im2qOi30
+﻿Rok]Napred u prošlost}Vođa (fuhrer) (live)=https://www.youtube.com/watch?v=CVdA6uM6w0U
+﻿Rok]Napred u prošlost}Banatski rendžer=https://www.youtube.com/watch?v=Ccc0H7cfo5A
+﻿Rok]Napred u prošlost}Boldertaun=--start-time=3 https://www.youtube.com/watch?v=MHJYkSBjT8s
+﻿Rok]Napred u prošlost}Po njenom je receptu=https://www.youtube.com/watch?v=klgtQpCZXFA
+﻿Rok]Napred u prošlost}Romansa=https://www.youtube.com/watch?v=biILgSbD5Mc
+﻿Rok]Napred u prošlost}Problem mladih u Srbiji=https://www.youtube.com/watch?v=Iqmeocbmb3A
+﻿Rok]Napred u prošlost}Čuvar mosta=https://www.youtube.com/watch?v=9ZPixIoCf6M
+﻿Rok]Napred u prošlost}Slobodane=https://www.youtube.com/watch?v=YPsJvDGINlQ
+﻿Rok]Napred u prošlost}Nije meni što sam jadan=https://www.youtube.com/watch?v=yaz5tnMFoEw
+﻿Rok]Napred u prošlost}Donosim ti cveće u ludnicu i kažem crkni kučko=--start-time=9 https://www.youtube.com/watch?v=jRns1bTgpcE
+﻿Rok]Napred u prošlost}Ona je tako sama=https://www.youtube.com/watch?v=Hpk-rNiTnBI
+﻿Rok]Napred u prošlost}Zbogom pameti=https://www.youtube.com/watch?v=_NqY1Mj7n5M
+﻿Rok]Napred u prošlost}Pravda je još jednom pobedila=https://www.youtube.com/watch?v=_-Ky6ZCvM5Q
+﻿Rok]Napred u prošlost}Dom je beo=https://www.youtube.com/watch?v=uWcdr38n8qk
+﻿Rok]Napred u prošlost}Definicija NUP muzike=--start-time=6 https://www.youtube.com/watch?v=p1JOGeN03I4
+﻿Rok]Napred u prošlost}Hijene u Africi=--start-time=4 https://www.youtube.com/watch?v=e85V_wo6t48
+﻿Rok]Napred u prošlost}Vetar tera oblak=https://www.youtube.com/watch?v=NdpVnPeYNDU
+﻿Rok]Napred u prošlost}Zašto si me ostavila=https://www.youtube.com/watch?v=kqF2iFRLf7A
+﻿Rok]Napred u prošlost}Strip=--start-time=3 https://www.youtube.com/watch?v=i30FsksNl8Y
+﻿Rok]Napred u prošlost}Žene u crnom i četnikov sinovac=--start-time=3 https://www.youtube.com/watch?v=uTV19iuEKi8
+﻿Rok]Napred u prošlost}Venčanje=--start-time=4 https://www.youtube.com/watch?v=9n0GTcemYII
+﻿Rok]Napred u prošlost}Baško polje=https://www.youtube.com/watch?v=yU16EaLVopk
+﻿Rok]Napred u prošlost}Tata priček traži sina ptičeka=https://www.youtube.com/watch?v=sAJ0FgnMVeI
 ﻿Rok Strani]Amy Winehouse}Back to black=https://www.youtube.com/watch?v=4IOXgamaOLI
 ﻿Rok Strani]Amy Winehouse}Tears dry on their own=https://www.youtube.com/watch?v=PTh5wVN8Z64
 ﻿Rok Strani]Amy Winehouse}Wake up alone=https://www.youtube.com/watch?v=o_ZSqS8NqaY
@@ -17043,7 +17042,7 @@ Rok]Napred u prošlost}Tata priček traži sina ptičeka=https://www.youtube.com
 ﻿Rok Strani]Mötley Crüe}Hotter Than Hell=http://www.youtube.com/watch?v=Ynv7KF4_0xQ
 ﻿Rok Strani]Mötley Crüe}I Will Survive=http://www.youtube.com/watch?v=xeBKOVK8eUg
 ﻿Rok Strani]Mötley Crüe}I'm A Liar (And That's The Truth)=http://www.youtube.com/watch?v=qg-gZtzRYm0
-Rok Strani]Twisted Sister}Bad Boys (Of Rock 'N' Roll)=http://www.youtube.com/watch?v=jIsr7mxo7Lo
+﻿Rok Strani]Twisted Sister}Bad Boys (Of Rock 'N' Roll)=http://www.youtube.com/watch?v=jIsr7mxo7Lo
 ﻿Rok Strani]Twisted Sister}Be Chrool To Your Scuel=http://www.youtube.com/watch?v=pWAJG71Urbw
 ﻿Rok Strani]Twisted Sister}Big Gun=http://www.youtube.com/watch?v=sY_UQsRaItA
 ﻿Rok Strani]Twisted Sister}Blastin' Fast And Loud=http://www.youtube.com/watch?v=u4D3kg2GC1E
