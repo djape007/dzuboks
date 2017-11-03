@@ -5181,7 +5181,7 @@
 ﻿Rok]Dubioza Kolektiv}Free.mp3 (The Pirate Bay song)=http://www.youtube.com/watch?v=GS8-nNhWlw4
 ﻿Rok]Dubioza Kolektiv}Walter=--start-time=3 http://www.youtube.com/watch?v=rSrDm7Z2JQg
 ﻿Rok]Dubioza Kolektiv}Domaćica=--start-time=20 http://www.youtube.com/watch?v=a2L5oQ82S2w
-﻿Rok]Dubioza Kolektiv}Dosta=http://www.youtube.com/watch?v=PxsBlkz-leo
+﻿Rok]Dubioza Kolektiv}Dosta=--start-time=8 http://www.youtube.com/watch?v=SWrc9kwp0wI
 ﻿Rok]Dubioza Kolektiv}Firma ilegal=http://www.youtube.com/watch?v=x_PV8XmvLMw
 ﻿Rok]Dubioza Kolektiv}K.P. dom=http://www.youtube.com/watch?v=0nEjRyDnRpI
 ﻿Rok]Dubioza Kolektiv}Kažu=--start-time=16 http://www.youtube.com/watch?v=FZZJeMKJV3M
@@ -8763,7 +8763,7 @@
 ﻿Narodna]Jana}Pesmu imam samo=http://www.youtube.com/watch?v=ngz43p40aEM
 ﻿Narodna]Jana}Piješ ne nudiš=http://www.youtube.com/watch?v=msDNWS2lJf4
 ﻿Narodna]Jana}Piši propalo=http://www.youtube.com/watch?v=_rFO4WdxOa0
-Narodna]Jana}Pravi=http://www.youtube.com/watch?v=auNga2gYrWI
+﻿Narodna]Jana}Pravi=http://www.youtube.com/watch?v=auNga2gYrWI
 ﻿Narodna]Jana}Pozajmljeno srce=http://www.youtube.com/watch?v=e7GfgqPaB8U
 ﻿Narodna]Jana}Prevara do prevare=http://www.youtube.com/watch?v=M227RY1zW50
 ﻿Narodna]Jana}Prevari me=http://www.youtube.com/watch?v=cuJTPwmmDHI

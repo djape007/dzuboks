@@ -519,7 +519,7 @@
 ﻿Zabavna]Magazin}Doktore=http://www.youtube.com/watch?v=7XcQm1xIGj8
 ﻿Zabavna]Magazin}Došlo vrijeme=http://www.youtube.com/watch?v=U1RqubISjeY&t=6s
 ﻿Zabavna]Magazin}Ginem=http://www.youtube.com/watch?v=xP7LmclNBVg
-﻿Zabavna]Magazin}Gutljaj vina=http://www.youtube.com/watch?v=EJ0U3xjYDZM
+﻿Zabavna]Magazin}Gutljaj vina=http://www.youtube.com/watch?v=-WYb18ssjQc
 ﻿Zabavna]Magazin}Jel zbog nje?=https://www.youtube.com/watch?v=FCx5U-RsogQ
 ﻿Zabavna]Magazin}Još se ne bi udala=http://www.youtube.com/watch?v=HxPl6bURZ9A
 ﻿Zabavna]Magazin}Kad bi bio blizu=https://www.youtube.com/watch?v=ZHSGlzSxJyE
@@ -7160,7 +7160,7 @@
 ﻿Narodna]Šerif Konjević}Da mi je=http://www.youtube.com/watch?v=pyJjjbJ9vv8
 ﻿Narodna]Šerif Konjević}Da sam paša=http://www.youtube.com/watch?v=iGxDKFugZWM
 ﻿Narodna]Šerif Konjević}Da se opet rodim=http://www.youtube.com/watch?v=rzcD0MFwtKk
-﻿Narodna]Šerif Konjević}Daj mi Bože snagu=http://www.youtube.com/watch?v=8BHZTVAbMMI
+﻿Narodna]Šerif Konjević}Daj mi Bože snagu=--start-time=10 http://www.youtube.com/watch?v=bQmeGoGhS7M
 ﻿Narodna]Šerif Konjević}Daj nazovi ga=http://www.youtube.com/watch?v=-6BPS5qXhk4
 ﻿Narodna]Šerif Konjević}Đevojačke suze=http://www.youtube.com/watch?v=kw-tMGRcabM
 ﻿Narodna]Šerif Konjević}Dobro mi došla=http://www.youtube.com/watch?v=2RD4WsS948g
@@ -9132,7 +9132,6 @@
 ﻿Rok]Tutti Frutti}A ti spavaš mirnim snom=http://www.youtube.com/watch?v=YeD4bgHVwVk
 ﻿Rok]Tutti Frutti}Ajda, ajda opajda=http://www.youtube.com/watch?v=isanbAJlgjA
 ﻿Rok]Tutti Frutti}Biti mlad=http://www.youtube.com/watch?v=ZME4KEA82Ks
-﻿Rok]Tutti Frutti}Bog mi dao sve, samo tebe ne=http://www.youtube.com/watch?v=qLSE2g8S14Y
 ﻿Rok]Tutti Frutti}Bože, daj mi krila ljubavi=http://www.youtube.com/watch?v=QhrgtyURksU
 ﻿Rok]Tutti Frutti}Da li i anđeli gore rade to=http://www.youtube.com/watch?v=usakwaNNhAE
 ﻿Rok]Tutti Frutti}Da li si me sanjala=http://www.youtube.com/watch?v=oSaCSekXFyI
@@ -9198,7 +9197,7 @@
 ﻿Zabavna]Twins}Magarac=http://www.youtube.com/watch?v=NUUmX2id-B8
 ﻿Zabavna]Twins}Malena=http://www.youtube.com/watch?v=AI4OhbUojyw
 ﻿Zabavna]Twins}Mali mrav=http://www.youtube.com/watch?v=Lh4rdNvRPsM
-﻿Zabavna]Twins}Marija=http://www.youtube.com/watch?v=2rORJuUsO-U
+﻿Zabavna]Twins}Marija=http://www.youtube.com/watch?v=oPLMB6-nMxc
 ﻿Zabavna]Twins}Milena, Milena=http://www.youtube.com/watch?v=oUGMKllMJ_A
 ﻿Zabavna]Twins}Motori=http://www.youtube.com/watch?v=0P_lbMH-f0E
 ﻿Zabavna]Twins}Ne dolazi kući=http://www.youtube.com/watch?v=d5E89VcyYmI
@@ -11946,7 +11945,7 @@
 ﻿Rok Strani]Motörhead}Born To Raise Hell=http://www.youtube.com/watch?v=NbOCF9zYgHc
 ﻿Rok Strani]Motörhead}Brave New World=http://www.youtube.com/watch?v=RzaSH0M2wHM
 ﻿Rok Strani]Motörhead}Broken=http://www.youtube.com/watch?v=mjFkrbBGX2s
-﻿Rok Strani]Motörhead}Brotherhood Of Man=http://www.youtube.com/watch?v=-r02de5e_Pg
+﻿Rok Strani]Motörhead}Brotherhood Of Man=http://www.youtube.com/watch?v=pQn-j1SpyKI
 ﻿Rok Strani]Motörhead}Built For Speed=http://www.youtube.com/watch?v=8a1m9jUNJsk
 ﻿Rok Strani]Motörhead}Buried Alive=http://www.youtube.com/watch?v=QPo3NpStve4
 ﻿Rok Strani]Motörhead}Burner=http://www.youtube.com/watch?v=iyPRjf9Drh4
@@ -12143,7 +12142,7 @@
 ﻿Rok Strani]Motörhead}Under The Gun=http://www.youtube.com/watch?v=64wES6zM0o8
 ﻿Rok Strani]Motörhead}Vibrator=http://www.youtube.com/watch?v=JRjtcO02hsw
 ﻿Rok Strani]Motörhead}Voices From The War=http://www.youtube.com/watch?v=KtVvOdKhdBs
-﻿Rok Strani]Motörhead}Waiting For The Snake=http://www.youtube.com/watch?v=vv_IDq4_f5g
+﻿Rok Strani]Motörhead}Waiting For The Snake=http://www.youtube.com/watch?v=DYXOw3yyWZs
 ﻿Rok Strani]Motörhead}Wake The Dead=http://www.youtube.com/watch?v=cd_ksaz98ps
 ﻿Rok Strani]Motörhead}Walk A Crooked Mile=http://www.youtube.com/watch?v=FRPQAfLOoGI
 ﻿Rok Strani]Motörhead}War For War=http://www.youtube.com/watch?v=kaLuB88VWog
