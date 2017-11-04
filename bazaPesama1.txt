@@ -2579,7 +2579,7 @@
 ﻿Zabavna]Boris Novković}Ne vjerujem tvojim usnama=http://www.youtube.com/watch?v=ETDlQ795xOg
 ﻿Zabavna]Boris Novković}Nebo boje vanilije=http://www.youtube.com/watch?v=hj_vsgtmlTo
 ﻿Zabavna]Boris Novković}Nek' se raduje=http://www.youtube.com/watch?v=5A2_M4Qma7Q
-﻿Zabavna]Boris Novković}Nena=http://www.youtube.com/watch?v=743IGnpZNoQ
+﻿Zabavna]Boris Novković}Nena=http://www.youtube.com/watch?v=KcGtzEPZq4I
 ﻿Zabavna]Boris Novković}Ni na nebu ni na zemlji=http://www.youtube.com/watch?v=BP7mlSKJ31k
 ﻿Zabavna]Boris Novković}Nije fer=http://www.youtube.com/watch?v=GvPenvnFWm0
 ﻿Zabavna]Boris Novković}Nikad ne reci nikad=http://www.youtube.com/watch?v=rjPjdAYU2Sc
@@ -6912,7 +6912,7 @@
 ﻿Zabavna]Goga Sekulić}Klošar=http://www.youtube.com/watch?v=0tJS1LnBzN0
 ﻿Zabavna]Goga Sekulić}Ko me je za jezik vukao=http://www.youtube.com/watch?v=M7_GGBf2aBY
 ﻿Zabavna]Goga Sekulić}Kriva sam=http://www.youtube.com/watch?v=xqtQ_LYTDrs
-Zabavna]Goga Sekulić}Krize (ft. Mile Kitić)=--start-time=6 https://www.youtube.com/watch?v=expwunlysXM
+﻿Zabavna]Goga Sekulić}Krize (ft. Mile Kitić)=--start-time=6 https://www.youtube.com/watch?v=expwunlysXM
 ﻿Zabavna]Goga Sekulić}Leptir=http://www.youtube.com/watch?v=_oLPVaNGZnc
 ﻿Zabavna]Goga Sekulić}Ljubav ništa ne vredi=http://www.youtube.com/watch?v=rkFTrwXlVfw
 ﻿Zabavna]Goga Sekulić}Ljubavnica=http://www.youtube.com/watch?v=6PRXwIraWg8
@@ -11815,7 +11815,6 @@ Zabavna]Goga Sekulić}Krize (ft. Mile Kitić)=--start-time=6 https://www.youtube
 ﻿Rok Strani]Alice Cooper}10 Minutes Before The Worm=http://www.youtube.com/watch?v=cq-YsnO_CDc
 ﻿Rok Strani]Alice Cooper}A Bad Situation=http://www.youtube.com/watch?v=7bTp0awpDz0
 ﻿Rok Strani]Alice Cooper}Ain't That Just Like A Woman=http://www.youtube.com/watch?v=i24aSax_uTw
-﻿Rok Strani]Alice Cooper}Aspirin Damage=http://www.youtube.com/watch?v=7FPHjjWkROg
 ﻿Rok Strani]Alice Cooper}Backyard Brawl=http://www.youtube.com/watch?v=SKe01CjlGlw
 ﻿Rok Strani]Alice Cooper}Bad Place Alone=http://www.youtube.com/watch?v=YyeFvx1y1hQ
 ﻿Rok Strani]Alice Cooper}Ballad Of Dwight Fry=http://www.youtube.com/watch?v=t-Di4sFY9Rg
@@ -11840,7 +11839,7 @@ Zabavna]Goga Sekulić}Krize (ft. Mile Kitić)=--start-time=6 https://www.youtube
 ﻿Rok Strani]Alice Cooper}Deeper=http://www.youtube.com/watch?v=w67l2PGFGRQ
 ﻿Rok Strani]Alice Cooper}Department Of Youth=http://www.youtube.com/watch?v=RetqavQzMTU
 ﻿Rok Strani]Alice Cooper}Desperado=http://www.youtube.com/watch?v=x0oiM-OfdV4
-﻿Rok Strani]Alice Cooper}Devil's Food=http://www.youtube.com/watch?v=wsHnrnYkfFE
+﻿Rok Strani]Alice Cooper}Devil's Food=http://www.youtube.com/watch?v=k7ZTVFtxIIw
 ﻿Rok Strani]Alice Cooper}Die for You=http://www.youtube.com/watch?v=2X9BSEKNdIk
 ﻿Rok Strani]Alice Cooper}Dirty Dreams=http://www.youtube.com/watch?v=4CxNiWGJqg4
 ﻿Rok Strani]Alice Cooper}Disco Bloodbath Boogie Fever=http://www.youtube.com/watch?v=fMBhbllsnYM
