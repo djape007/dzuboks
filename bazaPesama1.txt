@@ -315,7 +315,7 @@
 ﻿Narodna]Aco Pejović}Nisam pao=http://www.youtube.com/watch?v=spNxnPILJcc
 ﻿Narodna]Aco Pejović}Noć bez tebe=http://www.youtube.com/watch?v=F189FFy8RcE
 ﻿Narodna]Aco Pejović}Oko mene sve=http://www.youtube.com/watch?v=tmbSZ0ywhmo
-﻿Narodna]Aco Pejović}Opušteno=http://www.youtube.com/watch?v=YHTcqiph2Ik
+﻿Narodna]Aco Pejović}Opušteno=http://www.youtube.com/watch?v=DEnulhXxL1Y
 ﻿Narodna]Aco Pejović}Ovo vino=http://www.youtube.com/watch?v=e3Y7QpDIjqA
 ﻿Narodna]Aco Pejović}Pet kvadrata=http://www.youtube.com/watch?v=IUXo-GrSkEY
 ﻿Narodna]Aco Pejović}Pet minuta=http://www.youtube.com/watch?v=fioAgRTn8-s
@@ -4142,7 +4142,6 @@
 ﻿Zabavna]Dino Merlin}Kad si rekla da me voliš=http://www.youtube.com/watch?v=kU4Nk_GUujQ
 ﻿Zabavna]Dino Merlin}Kad zamirišu jorgovani=http://www.youtube.com/watch?v=KUro_iVh9TE
 ﻿Zabavna]Dino Merlin}Kokuzna vremena=http://www.youtube.com/watch?v=rL4a7aC-zwU
-﻿Zabavna]Dino Merlin}Kremen=http://www.youtube.com/watch?v=lJnfQW_X9vY
 ﻿Zabavna]Dino Merlin}Laku noć moja mala barbiko=http://www.youtube.com/watch?v=FT_c1KEWa-c
 ﻿Zabavna]Dino Merlin}Lažu lažu me=http://www.youtube.com/watch?v=nZe-msM0vEs
 ﻿Zabavna]Dino Merlin}Lelo=http://www.youtube.com/watch?v=A4gALRlLNto
@@ -7856,7 +7855,7 @@
 ﻿Narodna]Haris Džinović}Ne diraj ništa, dobro je=http://www.youtube.com/watch?v=yMHX-qOdvPo
 ﻿Narodna]Haris Džinović}Ne mogu ja protiv sudbine=http://www.youtube.com/watch?v=Rpyhe1IAGLA
 ﻿Narodna]Haris Džinović}Ne vuci me za jezik=http://www.youtube.com/watch?v=Z4MqVDGYl7A
-﻿Narodna]Haris Džinović}Nek mi bude zadnja čaša=http://www.youtube.com/watch?v=sEDCuTAHBbA
+﻿Narodna]Haris Džinović}Nek mi bude zadnja čaša=http://www.youtube.com/watch?v=dtk5cbrvt3I
 ﻿Narodna]Haris Džinović}Nevolja moja=http://www.youtube.com/watch?v=X9ux5XfvWh0
 ﻿Narodna]Haris Džinović}Nije strašno kad sam ostaneš=http://www.youtube.com/watch?v=FEwGRHmOUhU
 ﻿Narodna]Haris Džinović}Nikad te nisam lagao=http://www.youtube.com/watch?v=K_SoeCrqIoI
@@ -8740,7 +8739,7 @@
 ﻿Narodna]Jana}Lažu me, lažu=http://www.youtube.com/watch?v=qbfOUZmB1lI
 ﻿Narodna]Jana}Ljubav nije greh=http://www.youtube.com/watch?v=_J_uoDFvMz4
 ﻿Narodna]Jana}Lude Godine=http://www.youtube.com/watch?v=3HZ4NnNCPP0
-﻿Narodna]Jana}Lune, lune=http://www.youtube.com/watch?v=B8Ak1PyThog
+﻿Narodna]Jana}Lune, lune=http://www.youtube.com/watch?v=Imp_2JhgK2U
 ﻿Narodna]Jana}Malo magije=http://www.youtube.com/watch?v=AdRWr4oVy-k
 ﻿Narodna]Jana}Miraz=http://www.youtube.com/watch?v=3S4PcDyHScM
 ﻿Narodna]Jana}Moje drugo lice=http://www.youtube.com/watch?v=4HfakGsPWbs
