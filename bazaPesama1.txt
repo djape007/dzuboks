@@ -4983,7 +4983,7 @@
 ﻿Narodna]Dragana Mirković}Hoćeš, hoćeš pogledaćeš=http://www.youtube.com/watch?v=3xGoefFTXho
 ﻿Narodna]Dragana Mirković}Hoću sve=http://www.youtube.com/watch?v=pyzs7Qj3054
 ﻿Narodna]Dragana Mirković}I u dobru i u zlu=http://www.youtube.com/watch?v=DWZiIZvcK4c
-Narodna]Dragana Mirković}Idemo jako=http://www.youtube.com/watch?v=EaH79WPCGvc
+﻿Narodna]Dragana Mirković}Idemo jako=http://www.youtube.com/watch?v=EaH79WPCGvc
 ﻿Narodna]Dragana Mirković}Idi s njom=http://www.youtube.com/watch?v=qCsMkiJPC5s
 ﻿Narodna]Dragana Mirković}Ili ona, ili ja=http://www.youtube.com/watch?v=eN8mkRHomdM
 ﻿Narodna]Dragana Mirković}Ima li leta il' zime=http://www.youtube.com/watch?v=fFn9p22U1IU
@@ -5964,7 +5964,7 @@ Narodna]Dragana Mirković}Idemo jako=http://www.youtube.com/watch?v=EaH79WPCGvc
 ﻿Narodna]Era Ojdanić}Drži me pod ruku=http://www.youtube.com/watch?v=qyKWJ9d9fZg
 ﻿Narodna]Era Ojdanić}Dva drugara=http://www.youtube.com/watch?v=scSJh3BBNds
 ﻿Narodna]Era Ojdanić}Ej, curice=http://www.youtube.com/watch?v=XVI-IeZtbi4
-﻿Narodna]Era Ojdanić}Eto mene posle radne smene=http://www.youtube.com/watch?v=OaU4EJxjPro
+﻿Narodna]Era Ojdanić}Eto mene posle radne smene=http://www.youtube.com/watch?v=k9uG9BMQEAU
 ﻿Narodna]Era Ojdanić}Gajio sam ružu=http://www.youtube.com/watch?v=yrfmZ-x1gvA
 ﻿Narodna]Era Ojdanić}Gde sam bio, gde sam dangubio=http://www.youtube.com/watch?v=4ddTJ9h74w8
 ﻿Narodna]Era Ojdanić}Godinama živim sam=http://www.youtube.com/watch?v=QDd6TmvmyE8
@@ -11320,8 +11320,8 @@ Narodna]Dragana Mirković}Idemo jako=http://www.youtube.com/watch?v=EaH79WPCGvc
 ﻿Rok Strani]Rammstein}Buckstabu=https://www.youtube.com/watch?v=ri0kmuyec1Q
 ﻿Rok Strani]Rammstein}Rammlied=--start-time=10 https://www.youtube.com/watch?v=8C3YWv9PIvc
 ﻿Rok Strani]Rammstein}Amour=--start-time=9 https://www.youtube.com/watch?v=DXwha3NvM6w
-﻿Rok Strani]Rammstein}Ramm4=https://www.youtube.com/watch?v=ZX-MLkzF7dI
-﻿Rok Strani]Rammstein}Halleluja=--start-time=10 https://www.youtube.com/watch?v=qR3DFhQIuDc
+﻿Rok Strani]Rammstein}Ramm4=http://www.youtube.com/watch?v=TdWJ5z7EN-I
+﻿Rok Strani]Rammstein}Halleluja=http://www.youtube.com/watch?v=Vc6g4OUCOT4
 ﻿Rok Strani]Rammstein}Bück dich=https://www.youtube.com/watch?v=nujjksexa1k
 ﻿Rok Strani]Rammstein}Te quiero puta=https://www.youtube.com/watch?v=idtD--EF1Dg
 ﻿Rok Strani]Rammstein}Zwitter=https://www.youtube.com/watch?v=lrX9gW70NMY
@@ -12964,7 +12964,6 @@ Narodna]Dragana Mirković}Idemo jako=http://www.youtube.com/watch?v=EaH79WPCGvc
 ﻿Rok Strani]Boston}Feelin' Satisfied=http://www.youtube.com/watch?v=uHU7EdyAYrg
 ﻿Rok Strani]Boston}Heaven On Earth=http://www.youtube.com/watch?v=D1XrtoFBOx0
 ﻿Rok Strani]Boston}Higher Power=http://www.youtube.com/watch?v=F03vnSb7lu0
-﻿Rok Strani]Boston}Hitch A Ride=http://www.youtube.com/watch?v=Xp4Ugebi608
 ﻿Rok Strani]Boston}Hollyann=http://www.youtube.com/watch?v=SYj3RX525-U
 ﻿Rok Strani]Boston}I Had A Good Time=http://www.youtube.com/watch?v=L4hu9VlU2lA
 ﻿Rok Strani]Boston}I Need Your Love=http://www.youtube.com/watch?v=vtUwqfn08wI
@@ -12979,7 +12978,6 @@ Narodna]Dragana Mirković}Idemo jako=http://www.youtube.com/watch?v=EaH79WPCGvc
 ﻿Rok Strani]Boston}More Than A Feeling=http://www.youtube.com/watch?v=SSR6ZzjDZ94
 ﻿Rok Strani]Boston}My Destination=http://www.youtube.com/watch?v=yc4fnS8P-pw
 ﻿Rok Strani]Boston}Party=http://www.youtube.com/watch?v=9yHwzvC-yNM
-﻿Rok Strani]Boston}Peace Of Mind=http://www.youtube.com/watch?v=WGRrOEbY3pI
 ﻿Rok Strani]Boston}Rock And Roll Band=http://www.youtube.com/watch?v=ef65cLi1gpY
 ﻿Rok Strani]Boston}Sail Away=http://www.youtube.com/watch?v=2Lk482uszCc
 ﻿Rok Strani]Boston}Smokin'=http://www.youtube.com/watch?v=5GzMx9CnhVk
@@ -15402,7 +15400,6 @@ Narodna]Dragana Mirković}Idemo jako=http://www.youtube.com/watch?v=EaH79WPCGvc
 ﻿Rok Strani]Janis Joplin}Combination Of The Two=http://www.youtube.com/watch?v=SNDev9UxrWc
 ﻿Rok Strani]Janis Joplin}Coo Coo=http://www.youtube.com/watch?v=YMcyTD1FmnM
 ﻿Rok Strani]Janis Joplin}Crazy Once You Know How=http://www.youtube.com/watch?v=tev0t7XPkY0
-﻿Rok Strani]Janis Joplin}Cry Baby=http://www.youtube.com/watch?v=eDIaDS9HhMw
 ﻿Rok Strani]Janis Joplin}Dear Landlord=http://www.youtube.com/watch?v=Tq4dAyXftWk
 ﻿Rok Strani]Janis Joplin}Down On Me=http://www.youtube.com/watch?v=s40vz3xeanY
 ﻿Rok Strani]Janis Joplin}Easy Rider=http://www.youtube.com/watch?v=uqzAsawCDtE
