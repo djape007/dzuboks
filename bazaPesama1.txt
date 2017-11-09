@@ -321,7 +321,7 @@
 ﻿Narodna]Aco Pejović}Pet minuta=http://www.youtube.com/watch?v=fioAgRTn8-s
 ﻿Narodna]Aco Pejović}Poplava=--start-time=5 http://www.youtube.com/watch?v=p4gA8Ak8KHc
 ﻿Narodna]Aco Pejović}Poslednji fajront=http://www.youtube.com/watch?v=5WUBNHnAF1k
-﻿Narodna]Aco Pejović}Prevara=http://www.youtube.com/watch?v=8ROr4I2CNvM
+﻿Narodna]Aco Pejović}Prevara=http://www.youtube.com/watch?v=3Fqa1_X37yU
 ﻿Narodna]Aco Pejović}Prolaze dani, prolaze noći=http://www.youtube.com/watch?v=gfCjVuABymY
 ﻿Narodna]Aco Pejović}Provincijalac=http://www.youtube.com/watch?v=LbgHXQI14A0
 ﻿Narodna]Aco Pejović}Ruševine=http://www.youtube.com/watch?v=WXdjL3CncwM
@@ -2228,7 +2228,7 @@
 ﻿Narodna]Blizanci}Dva čoveka=http://www.youtube.com/watch?v=-AK0gDmeMWo
 ﻿Narodna]Blizanci}Idi nek' te čuva Bog=http://www.youtube.com/watch?v=cLxQh-kK2h0
 ﻿Narodna]Blizanci}Izvini=http://www.youtube.com/watch?v=jvN1ueNreOQ
-﻿Narodna]Blizanci}Jednom pokidano=http://www.youtube.com/watch?v=Xnm5VCEIAxk
+﻿Narodna]Blizanci}Jednom pokidano=http://www.youtube.com/watch?v=afVDk6h9fgQ
 ﻿Narodna]Blizanci}Kad moja nisi=http://www.youtube.com/watch?v=bXUVpb1Eae4
 ﻿Narodna]Blizanci}Kreten=http://www.youtube.com/watch?v=56PjqetMsPs
 ﻿Narodna]Blizanci}Lajavica=http://www.youtube.com/watch?v=NQoj6s-hJ9k
@@ -2244,7 +2244,7 @@
 ﻿Narodna]Blizanci}Pojavićeš se ti=http://www.youtube.com/watch?v=ZIBhj7W8pnA
 ﻿Narodna]Blizanci}Propadam ti lagano=http://www.youtube.com/watch?v=YjxMVrBViQY
 ﻿Narodna]Blizanci}Samo jednu želju=http://www.youtube.com/watch?v=vkOLeJDFESU
-﻿Narodna]Blizanci}Tuto kompleto=http://www.youtube.com/watch?v=LHu-8cYlzos
+﻿Narodna]Blizanci}Tuto kompleto=http://www.youtube.com/watch?v=JX05S5ylAeE
 ﻿Narodna]Blizanci}U zadnji čas=http://www.youtube.com/watch?v=Fcb8yOr3VxI
 ﻿Narodna]Blizanci}Žene=http://www.youtube.com/watch?v=V66gwFRttqE
 ﻿Zabavna]Boban Rajović}011=http://www.youtube.com/watch?v=H5vHHz2qZok
@@ -3877,7 +3877,6 @@
 ﻿Zabavna]Darko Radovanović}Dukat=http://www.youtube.com/watch?v=RaklsdG41vc
 ﻿Zabavna]Darko Radovanović}E, moja ti=http://www.youtube.com/watch?v=nkOEoqUbLIA
 ﻿Zabavna]Darko Radovanović}Hteo sam da bude sve po mome=http://www.youtube.com/watch?v=aTsmwkfp0LQ
-﻿Zabavna]Darko Radovanović}Jedina moja=http://www.youtube.com/watch?v=2CbbCR0HuQg
 ﻿Zabavna]Darko Radovanović}Loša procena=http://www.youtube.com/watch?v=aCrlCIy_CWs
 ﻿Zabavna]Darko Radovanović}Moja zvezdo=http://www.youtube.com/watch?v=ZhMwe5fqMkw
 ﻿Zabavna]Darko Radovanović}Neću=http://www.youtube.com/watch?v=VPxK1gZFS-k
@@ -3888,7 +3887,6 @@
 ﻿Zabavna]Darko Radovanović}Pobedila si ti=http://www.youtube.com/watch?v=oJg_AMa4-Rk
 ﻿Zabavna]Darko Radovanović}Prijatelji moji brinu=http://www.youtube.com/watch?v=CKM1RHEOj1g
 ﻿Zabavna]Darko Radovanović}S' jeseni=http://www.youtube.com/watch?v=rHr_Odkzt6Q
-﻿Zabavna]Darko Radovanović}Samo tako=http://www.youtube.com/watch?v=kKruyq1wLpM
 ﻿Zabavna]Darko Radovanović}Sanjam te=http://www.youtube.com/watch?v=UTgv9mEY89o
 ﻿Zabavna]Darko Radovanović}Spava mala u dve postelje=http://www.youtube.com/watch?v=kCim2D3pDvY
 ﻿Zabavna]Darko Radovanović}Stidim se=http://www.youtube.com/watch?v=BKgmG3xyK5o
@@ -6333,7 +6331,6 @@
 ﻿Zabavna]Funky G}Gde si ti=http://www.youtube.com/watch?v=0cM_DbW-GTw
 ﻿Zabavna]Funky G}Godina zmaja=http://www.youtube.com/watch?v=ioFbrQKzsWw
 ﻿Zabavna]Funky G}Gromovi=http://www.youtube.com/watch?v=pT0en4xkQzc
-﻿Zabavna]Funky G}Hamer=http://www.youtube.com/watch?v=z_LPXXMtpAQ
 ﻿Zabavna]Funky G}Hej ti=http://www.youtube.com/watch?v=Zu_aHuRawOQ
 ﻿Zabavna]Funky G}I to=http://www.youtube.com/watch?v=ErMTbqdw_go
 ﻿Zabavna]Funky G}Igraj=http://www.youtube.com/watch?v=0X4mIA9VNRI
@@ -9385,7 +9382,7 @@
 ﻿Zabavna]Kaliopi}Ljubičice=http://www.youtube.com/watch?v=Bi0doY78QJY
 ﻿Zabavna]Kaliopi}Ljubomora=http://www.youtube.com/watch?v=z8ZO6wKjsiY
 ﻿Zabavna]Kaliopi}Lokomotiva=--start-time=8 http://www.youtube.com/watch?v=puhnd_7UzAY
-﻿Zabavna]Kaliopi}Makedonsko devojče=http://www.youtube.com/watch?v=fLWZBU_jWGY
+﻿Zabavna]Kaliopi}Makedonsko devojče=http://www.youtube.com/watch?v=SAF55By1Gcw
 ﻿Zabavna]Kaliopi}Mama=http://www.youtube.com/watch?v=75DQrcKD76s
 ﻿Zabavna]Kaliopi}Melankolija=http://www.youtube.com/watch?v=8H36kyR5RxE
 ﻿Zabavna]Kaliopi}Melem=http://www.youtube.com/watch?v=XiWj0PSA8Nc
@@ -9413,7 +9410,7 @@
 ﻿Zabavna]Kaliopi}Vučica=http://www.youtube.com/watch?v=IYUUAnYUzXU
 ﻿Zabavna]Kaliopi}Za samo eden den=http://www.youtube.com/watch?v=9WC6F32vsCU
 ﻿Zabavna]Kaliopi}Za tebe čuvam sebe=http://www.youtube.com/watch?v=YC5kyo9SNu8
-﻿Zabavna]Kaliopi}Zauvijek=http://www.youtube.com/watch?v=eYyxws3bK_0
+﻿Zabavna]Kaliopi}Zauvijek=http://www.youtube.com/watch?v=m7Aq6L6iHCw
 ﻿Zabavna]Kaliopi}Želim ti reći=http://www.youtube.com/watch?v=4DdnFQl7mjI
 ﻿Zabavna]Kaliopi}Znam da te volim=http://www.youtube.com/watch?v=koO-s_wCwIk
 ﻿Zabavna]Kaliopi}Zovem se=http://www.youtube.com/watch?v=KtfB4hOm9Gw
@@ -11811,7 +11808,7 @@
 ﻿Rok Strani]Aerosmith}You See Me Crying=http://www.youtube.com/watch?v=szWVgukqi78
 ﻿Rok Strani]Aerosmith}Young Lust=http://www.youtube.com/watch?v=rkr040eHti4
 ﻿Rok Strani]Alice Cooper}(In Touch With) Your Feminine Side=http://www.youtube.com/watch?v=CbEB-qztbYk
-﻿Rok Strani]Alice Cooper}(No More) Love At Your Convenience=http://www.youtube.com/watch?v=WdDo2feSWsY
+﻿Rok Strani]Alice Cooper}(No More) Love At Your Convenience=http://www.youtube.com/watch?v=htopU3UnGi0
 ﻿Rok Strani]Alice Cooper}10 Minutes Before The Worm=http://www.youtube.com/watch?v=cq-YsnO_CDc
 ﻿Rok Strani]Alice Cooper}A Bad Situation=http://www.youtube.com/watch?v=7bTp0awpDz0
 ﻿Rok Strani]Alice Cooper}Ain't That Just Like A Woman=http://www.youtube.com/watch?v=i24aSax_uTw
