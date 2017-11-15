@@ -758,7 +758,7 @@
 ﻿Rep]Marchelo}Suze (feat. Edo Maajka)=http://www.youtube.com/watch?v=RjgLBDBNJkI
 ﻿Rep]Marchelo}Takav da mirno spava=http://www.youtube.com/watch?v=5arMpk3OM8M
 ﻿Rep]Marchelo}Tunel=http://www.youtube.com/watch?v=04ZbSYCIqGQ
-Zabavna]Marija Šerifović}11=http://www.youtube.com/watch?v=5e35I07VT3E
+﻿Zabavna]Marija Šerifović}11=http://www.youtube.com/watch?v=5e35I07VT3E
 ﻿Zabavna]Marija Šerifović}Bez tebe=http://www.youtube.com/watch?v=WfQgd2e-SR8
 ﻿Zabavna]Marija Šerifović}Deo prošlosti=--start-time=7 http://www.youtube.com/watch?v=gl-tAJleiE4
 ﻿Zabavna]Marija Šerifović}Istinu prećuti=http://www.youtube.com/watch?v=cMxAwMmzGKg
@@ -1659,8 +1659,8 @@ Zabavna]Marija Šerifović}11=http://www.youtube.com/watch?v=5e35I07VT3E
 ﻿Zabavna]Milena Vučić}Samo moj=http://www.youtube.com/watch?v=4N3hYmbNGWg
 ﻿Zabavna]Milena Vučić}Zovi svoje drugove=http://www.youtube.com/watch?v=JbVbVA9DfiQ
 ﻿Zabavna]Milica Majstorović}Savršeni par=http://www.youtube.com/watch?v=HSStBxOCasE
-﻿Zabavna]Milica Majstorović}Sebična lična=http://www.youtube.com/watch?v=FIQb5DTm2pc
-﻿Zabavna]Milica Majstorović}Svaka tvoja laž=http://www.youtube.com/watch?v=cXxXNS7gobo
+﻿Zabavna]Milica Majstorović}Sebična lična=http://www.youtube.com/watch?v=5eRGpkTjgVo
+﻿Zabavna]Milica Majstorović}Svaka tvoja laž=http://www.youtube.com/watch?v=fZ47W_5hwyo
 ﻿Zabavna]Milica Pavlović}Alibi=http://www.youtube.com/watch?v=R1Wc4w1XbE0
 ﻿Zabavna]Milica Pavlović}Alter ego=http://www.youtube.com/watch?v=NQfvfMnoY5E
 ﻿Zabavna]Milica Pavlović}Boginja=http://www.youtube.com/watch?v=0jYDPWUNd_U
@@ -2567,27 +2567,9 @@ Zabavna]Marija Šerifović}11=http://www.youtube.com/watch?v=5e35I07VT3E
 ﻿Narodna]Nedeljko Bajić Baja}Noćni taxi=http://www.youtube.com/watch?v=tYwCF6oe2JU
 ﻿Narodna]Nedeljko Bajić Baja}Od ljubavi jače=http://www.youtube.com/watch?v=drwbuf90zww
 ﻿Narodna]Nedeljko Bajić Baja}Oficir s ružom=http://www.youtube.com/watch?v=oIgi8cd2mrQ
-﻿Narodna]Nedeljko Bajić Baja}Rame za plakanje=https://www.youtube.com/watch?v=DKTAGNyuNnA
-﻿Narodna]Nedeljko Bajić Baja}Naslednik=https://www.youtube.com/watch?v=CzAoG-Rqdy4
-﻿Narodna]Nedeljko Bajić Baja}Zavičaj=http://www.youtube.com/watch?v=xsda_V48LvM
-﻿Narodna]Nedeljko Bajić Baja}Tamo gde si ti=http://www.youtube.com/watch?v=UgUQnxsXzFc
-﻿Narodna]Nedeljko Bajić Baja}Hej, krčmaru=http://www.youtube.com/watch?v=PgY-kKf_z7s
-﻿Narodna]Nedeljko Bajić Baja}Kaži, kaži=http://www.youtube.com/watch?v=eRuIlQ6M1Cc
 ﻿Narodna]Nedeljko Bajić Baja}Ključ=http://www.youtube.com/watch?v=VkYXor2ncW0
-﻿Narodna]Nedeljko Bajić Baja}Lažem ljude, lažem sebe=http://www.youtube.com/watch?v=46kh98srcP4
-﻿Narodna]Nedeljko Bajić Baja}Beži dalje=https://www.youtube.com/watch?v=uO9mZFFeJ7E
-﻿Narodna]Nedeljko Bajić Baja}Ne daj se, ljubavi=https://www.youtube.com/watch?v=piz3n9tnJpY
-﻿Narodna]Nedeljko Bajić Baja}Malo kockam, malo pijem=https://www.youtube.com/watch?v=qTXsAedTd9s
-﻿Narodna]Nedeljko Bajić Baja}Misleći na tebe=https://www.youtube.com/watch?v=7j1-x1vYEWU
-﻿Narodna]Nedeljko Bajić Baja}Trebaš mi ko lek=https://www.youtube.com/watch?v=YfwTriavhz0
-﻿Narodna]Nedeljko Bajić Baja}Boja očiju=https://www.youtube.com/watch?v=CCGcOxSZTpA
-﻿Narodna]Nedeljko Bajić Baja}Rođendan je tvoj=https://www.youtube.com/watch?v=exdKXycSr0o
-﻿Narodna]Nedeljko Bajić Baja}Seti me se, seti=https://www.youtube.com/watch?v=_OrPPhixj8k
-﻿Narodna]Nedeljko Bajić Baja}Najdraža moja=https://www.youtube.com/watch?v=g-JToBFXW4Q
-﻿Narodna]Nedeljko Bajić Baja}Vreme briše sve=https://www.youtube.com/watch?v=Ceel05kHIHo
-﻿Narodna]Nedeljko Bajić Baja}Prevari njega=https://www.youtube.com/watch?v=MbAOMOwgmTI
-﻿Narodna]Nedeljko Bajić Baja}Ljubo moja=https://www.youtube.com/watch?v=xoOoDFMPl_8
-﻿Narodna]Nedeljko Bajić Baja}I pijan je opet volim=https://www.youtube.com/watch?v=fcpftW2Qa0Q
+﻿Narodna]Nedeljko Bajić Baja}Boja očiju=http://www.youtube.com/watch?v=eQqYabqHUC4
+﻿Narodna]Nedeljko Bajić Baja}Prevari njega=http://www.youtube.com/watch?v=yZFI5MN-Rok
 ﻿Narodna]Nedeljko Bajić Baja}Rođen spreman=http://www.youtube.com/watch?v=XfSjsBKNVWM
 ﻿Narodna]Nedeljko Bajić Baja}Romansa=http://www.youtube.com/watch?v=Hf9f_SbkpKg
 ﻿Narodna]Nedeljko Bajić Baja}Sam u noći=--start-time=18 http://www.youtube.com/watch?v=7_k05PkQACU
@@ -3005,7 +2987,7 @@ Zabavna]Marija Šerifović}11=http://www.youtube.com/watch?v=5e35I07VT3E
 ﻿Zabavna]Nina Badrić}Mama=http://www.youtube.com/watch?v=eZTH9VNYRyU
 ﻿Zabavna]Nina Badrić}Moja ljubav=http://www.youtube.com/watch?v=VFMq9HNG0-U
 ﻿Zabavna]Nina Badrić}Moje ludilo=http://www.youtube.com/watch?v=YkoUNgol7xM
-Zabavna]Nina Badrić}Mijenja se vrijeme=http://www.youtube.com/watch?v=XmOYIzqMbXo
+﻿Zabavna]Nina Badrić}Mijenja se vrijeme=http://www.youtube.com/watch?v=XmOYIzqMbXo
 ﻿Zabavna]Nina Badrić}Moje oči pune ljubavi=http://www.youtube.com/watch?v=6hnkTPqnnUE
 ﻿Zabavna]Nina Badrić}Na kraj svijeta=http://www.youtube.com/watch?v=dBxL9Dx3KSY
 ﻿Zabavna]Nina Badrić}Na zidu plača=http://www.youtube.com/watch?v=G95GlZcW9yI
@@ -4919,7 +4901,7 @@ Zabavna]Nina Badrić}Mijenja se vrijeme=http://www.youtube.com/watch?v=XmOYIzqMb
 ﻿Narodna]Rade Šerbedžija}Aida=http://www.youtube.com/watch?v=EqXDumaSnao
 ﻿Narodna]Rade Šerbedžija}Barbara=http://www.youtube.com/watch?v=eTbS6bODYdY
 ﻿Narodna]Rade Šerbedžija}Filipa Kljajića 32=http://www.youtube.com/watch?v=VFM4NxXAwj4
-﻿Narodna]Rade Šerbedžija}Kneginjica=http://www.youtube.com/watch?v=LOyXQAYnC1Q
+﻿Narodna]Rade Šerbedžija}Kneginjica=http://www.youtube.com/watch?v=cF2POE9wqy8
 ﻿Narodna]Rade Šerbedžija}Kose boje maka=http://www.youtube.com/watch?v=nGuEBA6vSjM
 ﻿Narodna]Rade Šerbedžija}La canzone di Barbara=http://www.youtube.com/watch?v=HXNnu2bKp8k
 ﻿Narodna]Rade Šerbedžija}Milica=http://www.youtube.com/watch?v=nt3Gy264TvU
@@ -4937,7 +4919,7 @@ Zabavna]Nina Badrić}Mijenja se vrijeme=http://www.youtube.com/watch?v=XmOYIzqMb
 ﻿Narodna]Rade Šerbedžija}Uvijek negdje drugdje=http://www.youtube.com/watch?v=MbW00KjEDGA
 ﻿Narodna]Rade Šerbedžija}Uzalud je budim=http://www.youtube.com/watch?v=K0N-iJgsPCM
 ﻿Narodna]Rade Šerbedžija}Već sam ti pričao to=http://www.youtube.com/watch?v=aeqLj3ZKCI4
-﻿Narodna]Rade Šerbedžija}Zaboravi=http://www.youtube.com/watch?v=f4shzz6w7bI
+﻿Narodna]Rade Šerbedžija}Zaboravi=http://www.youtube.com/watch?v=bO4pVN8ekOw
 ﻿Narodna]Radiša Marković}Čija li si=http://www.youtube.com/watch?v=RKRK8SozOjw
 ﻿Narodna]Radiša Marković}Jedna žena, a dva druga=http://www.youtube.com/watch?v=SW1ejY_G29Y
 ﻿Narodna]Radiša Marković}Neznanka=http://www.youtube.com/watch?v=fwcZlMqtbtQ
@@ -7378,7 +7360,7 @@ Zabavna]Nina Badrić}Mijenja se vrijeme=http://www.youtube.com/watch?v=XmOYIzqMb
 ﻿Narodna]Silvana Armenulić}Ja nemam prava nikoga da volim=http://www.youtube.com/watch?v=JIfZmF--cQU
 ﻿Narodna]Silvana Armenulić}Jugo moja jugo=http://www.youtube.com/watch?v=FcLIcG7m7PM
 ﻿Narodna]Silvana Armenulić}Kad ja pođem niz sokak=http://www.youtube.com/watch?v=ycI8vxSclJ8
-﻿Narodna]Silvana Armenulić}Kišo, kišo tiho padaj=http://www.youtube.com/watch?v=F0c_8aSA0PQ
+﻿Narodna]Silvana Armenulić}Kišo, kišo tiho padaj=http://www.youtube.com/watch?v=sdw3iegjgiE
 ﻿Narodna]Silvana Armenulić}Lažni snovi, večna tuga=http://www.youtube.com/watch?v=dVLi6DCmmFQ
 ﻿Narodna]Silvana Armenulić}Ljubavi, vrati se=http://www.youtube.com/watch?v=ij8D5Jlh3Os
 ﻿Narodna]Silvana Armenulić}Ludujem za tobom=http://www.youtube.com/watch?v=o1GBH34W4TY
@@ -8566,7 +8548,7 @@ Zabavna]Nina Badrić}Mijenja se vrijeme=http://www.youtube.com/watch?v=XmOYIzqMb
 ﻿Zabavna]Tajči}Generacijo moja=http://www.youtube.com/watch?v=64FJuEBZcEE
 ﻿Zabavna]Tajči}Glavu podigni=http://www.youtube.com/watch?v=lwy2XwOQmOA
 ﻿Zabavna]Tajči}Gori mi pod nogama=http://www.youtube.com/watch?v=0Pmqo0yDVBQ
-﻿Zabavna]Tajči}Hajde da ludujemo=http://www.youtube.com/watch?v=u80mcfoW5Zw
+﻿Zabavna]Tajči}Hajde da ludujemo=http://www.youtube.com/watch?v=38kzKU95_dQ
 ﻿Zabavna]Tajči}Kad se mrzi i voli=http://www.youtube.com/watch?v=gbCHzaev5to
 ﻿Zabavna]Tajči}Kraj je, baby=http://www.youtube.com/watch?v=HCcWl9UrvIU
 ﻿Zabavna]Tajči}Milion godina=http://www.youtube.com/watch?v=diFYf0E8YSI
@@ -8647,6 +8629,7 @@ Zabavna]Nina Badrić}Mijenja se vrijeme=http://www.youtube.com/watch?v=XmOYIzqMb
 ﻿Narodna]Tanja Savić}Minut ljubavi=http://www.youtube.com/watch?v=ACQmSMefGyI
 ﻿Narodna]Tanja Savić}Mrak=http://www.youtube.com/watch?v=H6pvLG22MB8
 ﻿Narodna]Tanja Savić}Nova godina=http://www.youtube.com/watch?v=7GB9z38HWBQ
+Narodna]Tanja Savić}Oči boje viskija (ft. Corona, Rimski)=--start-time=7 http://www.youtube.com/watch?v=SAtcuA4r334
 ﻿Narodna]Tanja Savić}Poludela=http://www.youtube.com/watch?v=MEiZQE8iflU
 ﻿Narodna]Tanja Savić}Porok=http://www.youtube.com/watch?v=gh4iwSHR3PI
 ﻿Narodna]Tanja Savić}Potpis moj=http://www.youtube.com/watch?v=-5BCr0kQ8uQ
@@ -8962,7 +8945,7 @@ Zabavna]Nina Badrić}Mijenja se vrijeme=http://www.youtube.com/watch?v=XmOYIzqMb
 ﻿Zabavna]Toni Cetinski}Opet ljubim prvi put=http://www.youtube.com/watch?v=6XZrrdxsYcI
 ﻿Zabavna]Toni Cetinski}Opet si pobijedila=http://www.youtube.com/watch?v=dZvwBUtd7O4
 ﻿Zabavna]Toni Cetinski}Oprostija bi sve=http://www.youtube.com/watch?v=G2lPGXEeteA
-﻿Zabavna]Toni Cetinski}Ostani zauvijek=http://www.youtube.com/watch?v=1GE-IbvAVUc
+﻿Zabavna]Toni Cetinski}Ostani zauvijek=http://www.youtube.com/watch?v=N0DIlsytO_8
 ﻿Zabavna]Toni Cetinski}Plamen ljubavi=http://www.youtube.com/watch?v=LOEgMq7Vih8
 ﻿Zabavna]Toni Cetinski}Prava ljubav=http://www.youtube.com/watch?v=YmwSkDj7F_U
 ﻿Zabavna]Toni Cetinski}Reći da li znaš=http://www.youtube.com/watch?v=f-avaNmH3Xw
@@ -15054,7 +15037,7 @@ Zabavna]Nina Badrić}Mijenja se vrijeme=http://www.youtube.com/watch?v=XmOYIzqMb
 ﻿Rok Strani]Ted Nugent}Primitive Man=http://www.youtube.com/watch?v=YPkkDACvkBw
 ﻿Rok Strani]Ted Nugent}Queen Of The Forest=http://www.youtube.com/watch?v=pHQwDzvCQN4
 ﻿Rok Strani]Ted Nugent}Sasha=http://www.youtube.com/watch?v=DwE9pCewfEg
-﻿Rok Strani]Ted Nugent}Scream Dream=http://www.youtube.com/watch?v=K2Q8D7AzNgs
+﻿Rok Strani]Ted Nugent}Scream Dream=http://www.youtube.com/watch?v=XV9A6qnC3jo
 ﻿Rok Strani]Ted Nugent}Sexpot=http://www.youtube.com/watch?v=hl9kH5I3ArU
 ﻿Rok Strani]Ted Nugent}She's Gone=http://www.youtube.com/watch?v=g560pdAolFc
 ﻿Rok Strani]Ted Nugent}ShutUp&Jam!=http://www.youtube.com/watch?v=EOpVSbsPIcY
