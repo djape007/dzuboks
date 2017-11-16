@@ -1884,7 +1884,7 @@
 ﻿Narodna]Miroslav Ilić}Essenna balada (balada o nama)=http://www.youtube.com/watch?v=k5ZMn1DJvdY
 ﻿Narodna]Miroslav Ilić}Gina=http://www.youtube.com/watch?v=DcTzH7sjj0M
 ﻿Narodna]Miroslav Ilić}Gori vatra=http://www.youtube.com/watch?v=k41iwiOiK9M
-﻿Narodna]Miroslav Ilić}Grešnica=http://www.youtube.com/watch?v=Kbwf4cQeWLg
+﻿Narodna]Miroslav Ilić}Grešnica=http://www.youtube.com/watch?v=Qkc9_uZ-LJo
 ﻿Narodna]Miroslav Ilić}Hej mladosti=http://www.youtube.com/watch?v=mZ6xXP2TQvA
 ﻿Narodna]Miroslav Ilić}Hiljadu suza majko=http://www.youtube.com/watch?v=jt77N_RRppU
 ﻿Narodna]Miroslav Ilić}Hoću sa njom sve do stote=http://www.youtube.com/watch?v=aQO629HtR6A
@@ -8483,16 +8483,16 @@
 ﻿Narodna]Suzana Mančić}Ne kuni me mati=http://www.youtube.com/watch?v=I4moVA00NKs
 ﻿Narodna]Suzana Mančić}Ne mogu više ovako=http://www.youtube.com/watch?v=eq_amQLJglk
 ﻿Narodna]Suzana Mančić}Ne vraćaj se u moj život=http://www.youtube.com/watch?v=uUqCIvNqerA
-﻿Narodna]Suzana Mančić}Nema tebe, nema mene=http://www.youtube.com/watch?v=AUit5CIwoHs
+﻿Narodna]Suzana Mančić}Nema tebe, nema mene=http://www.youtube.com/watch?v=8iAB6Y45wPc
 ﻿Narodna]Suzana Mančić}Nisam mogla da zaplačem=http://www.youtube.com/watch?v=IbdbH5KZDu0
 ﻿Narodna]Suzana Mančić}Oluja=http://www.youtube.com/watch?v=HQXMNjzOLow
 ﻿Narodna]Suzana Mančić}Opila sam tvoju dušu=http://www.youtube.com/watch?v=Veayf1hqM2A
 ﻿Narodna]Suzana Mančić}Pukla tikva=http://www.youtube.com/watch?v=8lz53TgeRxA
 ﻿Narodna]Suzana Mančić}Spavaćica=http://www.youtube.com/watch?v=eEM9_lMFw_c
-﻿Narodna]Suzana Mančić}Srce drugom ne dam=http://www.youtube.com/watch?v=sYza_c0fI9k
+﻿Narodna]Suzana Mančić}Srce drugom ne dam=http://www.youtube.com/watch?v=asfSWAjcQmk
 ﻿Narodna]Suzana Mančić}Suze kamene=http://www.youtube.com/watch?v=W1uWCb9MqXA
 ﻿Narodna]Suzana Mančić}Usne ti mirišu na greh=http://www.youtube.com/watch?v=ViEy9RG_1Fg
-﻿Narodna]Suzana Mančić}Vino sa suzama=http://www.youtube.com/watch?v=7yDpqHrx7jo
+﻿Narodna]Suzana Mančić}Vino sa suzama=http://www.youtube.com/watch?v=xEOLtHuGdXc
 ﻿Narodna]Suzana Mančić}Zažmuriću=http://www.youtube.com/watch?v=UYj6W3OmEFg
 ﻿Narodna]Suzana Mančić}Žuta minuta=http://www.youtube.com/watch?v=JsN6JR9OV-Q
 ﻿Rep]THCF}Borac=http://www.youtube.com/watch?v=VhpWfo3iPZY
@@ -8501,7 +8501,7 @@
 ﻿Rep]THCF}Buđenje=http://www.youtube.com/watch?v=zbjgCefTY5s
 ﻿Rep]THCF}Bulevar nasilja (feat. Marlon Brutal)=http://www.youtube.com/watch?v=JCfE0JWx1CU
 ﻿Rep]THCF}Čast iznad svega=--start-time=14 http://www.youtube.com/watch?v=NhxM8seVcxE
-Rep]THCF}Ekipa najjača (ft. Coby)=--start-time=11 http://www.youtube.com/watch?v=z5rIXdFwFPc
+﻿Rep]THCF}Ekipa najjača (ft. Coby)=--start-time=11 http://www.youtube.com/watch?v=z5rIXdFwFPc
 ﻿Rep]THCF}Gde si sad=--start-time=10 https://www.youtube.com/watch?v=8foEDQ7_eS0
 ﻿Rep]THCF}Halkidiki je kurac=--start-time=10 https://www.youtube.com/watch?v=I_2LziOu5Ek
 ﻿Rep]THCF}Ideš za Kanadu (feat. Coby)=--start-time=15 http://www.youtube.com/watch?v=a1U7qDICGKw
@@ -8630,7 +8630,7 @@ Rep]THCF}Ekipa najjača (ft. Coby)=--start-time=11 http://www.youtube.com/watch?
 ﻿Narodna]Tanja Savić}Minut ljubavi=http://www.youtube.com/watch?v=ACQmSMefGyI
 ﻿Narodna]Tanja Savić}Mrak=http://www.youtube.com/watch?v=H6pvLG22MB8
 ﻿Narodna]Tanja Savić}Nova godina=http://www.youtube.com/watch?v=7GB9z38HWBQ
-Narodna]Tanja Savić}Oči boje viskija (ft. Corona, Rimski)=--start-time=7 http://www.youtube.com/watch?v=SAtcuA4r334
+﻿Narodna]Tanja Savić}Oči boje viskija (ft. Corona, Rimski)=--start-time=7 http://www.youtube.com/watch?v=SAtcuA4r334
 ﻿Narodna]Tanja Savić}Poludela=http://www.youtube.com/watch?v=MEiZQE8iflU
 ﻿Narodna]Tanja Savić}Porok=http://www.youtube.com/watch?v=gh4iwSHR3PI
 ﻿Narodna]Tanja Savić}Potpis moj=http://www.youtube.com/watch?v=-5BCr0kQ8uQ

@@ -1081,7 +1081,6 @@
 ﻿Narodna]Ana Bekuta}Tugo moja crnooka=http://www.youtube.com/watch?v=FYXAzD0cDck
 ﻿Narodna]Ana Bekuta}Tvoje pravo ime=http://www.youtube.com/watch?v=TTvrFjxymDo
 ﻿Narodna]Ana Bekuta}Umori me usnama=http://www.youtube.com/watch?v=eibFwiuroyg
-﻿Narodna]Ana Bekuta}Umreću na tuđi dan=http://www.youtube.com/watch?v=gyKT9473au8
 ﻿Narodna]Ana Bekuta}Umri muški=http://www.youtube.com/watch?v=2GCQFsBmHXY
 ﻿Narodna]Ana Bekuta}Uspomene=http://www.youtube.com/watch?v=AXaI0Wq78j4
 ﻿Narodna]Ana Bekuta}Uvek postoji nada=http://www.youtube.com/watch?v=ym75sVr9aVE
@@ -2701,7 +2700,6 @@
 ﻿Rok]Brkovi}Zemljo moja=http://www.youtube.com/watch?v=cm_Z_0mVRyE
 ﻿Rok]Brkovi}Život brzo prolazi=http://www.youtube.com/watch?v=k95noI-nWMQ
 ﻿Rok]Brkovi}Znanac=http://www.youtube.com/watch?v=EC5jKKcjiLc
-﻿Narodna]Cakana}Beli labude=http://www.youtube.com/watch?v=uyFE7P_4I18
 ﻿Narodna]Cakana}Crni biser=http://www.youtube.com/watch?v=W3ov0IYLsVA
 ﻿Narodna]Cakana}Da nemaš mene=http://www.youtube.com/watch?v=3DVIqBWwuI4
 ﻿Narodna]Cakana}Doleti=http://www.youtube.com/watch?v=-lrVeq_tQ4E
@@ -6855,7 +6853,7 @@
 ﻿Narodna]Goga Filipović}I malo po malo=http://www.youtube.com/watch?v=ml7gfYSZW8o
 ﻿Narodna]Goga Filipović}I od sebe više=http://www.youtube.com/watch?v=-__ftAEf930
 ﻿Narodna]Goga Filipović}Idi, idi drugoj=http://www.youtube.com/watch?v=MZCxyN1cFLg
-﻿Narodna]Goga Filipović}Ima, ima dana=http://www.youtube.com/watch?v=pwWCoWSZqGw
+﻿Narodna]Goga Filipović}Ima, ima dana=http://www.youtube.com/watch?v=Ha16bYTUsxQ
 ﻿Narodna]Goga Filipović}Ja umirem a ti odlaziš=http://www.youtube.com/watch?v=_6YkXsKBFAE
 ﻿Narodna]Goga Filipović}Jesi, jesi=http://www.youtube.com/watch?v=qY3aT6m14F0
 ﻿Narodna]Goga Filipović}Kad prestanem da volim=http://www.youtube.com/watch?v=U8R6IWOxWxY
@@ -10588,17 +10586,16 @@
 ﻿Rok Strani]Joe Cocker}Now that youre gone=https://www.youtube.com/watch?v=CNM2MDUy7ko
 ﻿Rok Strani]Joe Cocker}Have a little faith in me=https://www.youtube.com/watch?v=pwOg88GMmbA
 ﻿Rok Strani]Joe Cocker}Noubliez Jamais=--start-time=2 https://www.youtube.com/watch?v=_Xa_1KxR-8M
+Rok Strani]Led Zeppelin}Stairway to heaven (live)=--start-time=10 http://www.youtube.com/watch?v=6Fqozggi-44
 ﻿Rok Strani]Led Zeppelin}Over the hills and far away=https://www.youtube.com/watch?v=QKdkFKResr4
 ﻿Rok Strani]Led Zeppelin}Rock and roll=https://www.youtube.com/watch?v=mwFqRB2FQu4
 ﻿Rok Strani]Led Zeppelin}Tangerine=https://www.youtube.com/watch?v=LyM4vxxu2jA
-﻿Rok Strani]Led Zeppelin}When the levee breaks=https://www.youtube.com/watch?v=ddpl1zl5sYg
+﻿Rok Strani]Led Zeppelin}When the levee breaks=http://www.youtube.com/watch?v=KqeKikpLQ5o
 ﻿Rok Strani]Led Zeppelin}Ten years gone=https://www.youtube.com/watch?v=4lLUCPBs5zc
-﻿Rok Strani]Led Zeppelin}Stairway to heaven=https://www.youtube.com/watch?v=IS6n2Hx9Ykk
 ﻿Rok Strani]Led Zeppelin}You shook me=https://www.youtube.com/watch?v=2sMBiRzML-g
 ﻿Rok Strani]Led Zeppelin}Your time is gonna come=https://www.youtube.com/watch?v=LeweFJpz2ac
 ﻿Rok Strani]Led Zeppelin}Communication breakdown=https://www.youtube.com/watch?v=fGUsGlpDJkE
 ﻿Rok Strani]Led Zeppelin}Good times bad times=https://www.youtube.com/watch?v=1ppjI6KZHlE
-﻿Rok Strani]Led Zeppelin}Since i've been loving you=https://www.youtube.com/watch?v=w4THXeOD-Dw
 ﻿Rok Strani]Led Zeppelin}No quarter=--start-time=3 https://www.youtube.com/watch?v=Pu94mWlgzMY
 ﻿Rok Strani]Led Zeppelin}Going to california=https://www.youtube.com/watch?v=7IZ-jATBq9A
 ﻿Rok Strani]Led Zeppelin}Dazed and confused=https://www.youtube.com/watch?v=W2hoe0hzw6Q
@@ -10609,7 +10606,7 @@
 ﻿Rok Strani]Led Zeppelin}Rain song=https://www.youtube.com/watch?v=HZ4uzD_hLds
 ﻿Rok Strani]Led Zeppelin}Friends=--start-time=7 https://www.youtube.com/watch?v=-kheJwV9eMk
 ﻿Rok Strani]Led Zeppelin}Thank you=https://www.youtube.com/watch?v=u1z4vkPWkLQ
-﻿Rok Strani]Led Zeppelin}All my love=https://www.youtube.com/watch?v=zeVz5R2lDQk
+﻿Rok Strani]Led Zeppelin}All my love=http://www.youtube.com/watch?v=VKkb_SFkE9w
 ﻿Rok Strani]Led Zeppelin}Celebration day=https://www.youtube.com/watch?v=KMQdiHIZgSo
 ﻿Rok Strani]Led Zeppelin}Achilles last stand=--start-time=2 https://www.youtube.com/watch?v=P-Rf1I9htJk
 ﻿Rok Strani]Led Zeppelin}In the evening=--start-time=3 https://www.youtube.com/watch?v=b-2M88i_yDg
@@ -10881,7 +10878,7 @@
 ﻿Rok Strani]Nightwish}Sleeping sun=--start-time=3 https://www.youtube.com/watch?v=UGfKMV5AbMI
 ﻿Rok Strani]Nightwish}Ever dream=https://www.youtube.com/watch?v=Uiiw0-ZW1DU
 ﻿Rok Strani]Nightwish}Storytime=https://www.youtube.com/watch?v=WAagiSp_5Mc
-﻿Rok Strani]Nightwish}Elan=https://www.youtube.com/watch?v=ByyTrKG3M_4
+﻿Rok Strani]Nightwish}Elan=http://www.youtube.com/watch?v=KcoTqWOZkvU
 ﻿Rok Strani]Nightwish}Over the hills and far away=https://www.youtube.com/watch?v=H4lxlLbEZrs
 ﻿Rok Strani]Nightwish}Wishmaster=https://www.youtube.com/watch?v=kgM6xX55r2U
 ﻿Rok Strani]Nightwish}The poet and the pendulum=--start-time=4 https://www.youtube.com/watch?v=UI8jC6FoV8k
