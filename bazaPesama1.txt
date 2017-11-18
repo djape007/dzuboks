@@ -361,6 +361,7 @@
 ﻿Zabavna]Adil Maksutović}Moje si nebo=http://www.youtube.com/watch?v=ugNidguqoG8
 ﻿Zabavna]Adil Maksutović}Molim te, pusti me=http://www.youtube.com/watch?v=camywluxd_0
 ﻿Zabavna]Adil Maksutović}Najbolji grad na svetu=http://www.youtube.com/watch?v=oExyzVP02W0
+﻿Zabavna]Adil Maksutović}Ne kidaj mene od sebe=--start-time=4 https://www.youtube.com/watch?v=kikFz1EOOww
 ﻿Zabavna]Adil Maksutović}Ne diži ruku na nas=http://www.youtube.com/watch?v=1F3lOLXuKKk
 ﻿Zabavna]Adil Maksutović}Ne mogu bez tebe ja=http://www.youtube.com/watch?v=4475SwVsBaQ
 ﻿Zabavna]Adil Maksutović}Ne spominji ljubav=http://www.youtube.com/watch?v=1ytAD-wdMh4
@@ -2203,8 +2204,10 @@
 ﻿Narodna]Biljana Jevtić}Zaštiti me=http://www.youtube.com/watch?v=YrMNpnISGlE
 ﻿Narodna]Biljana Jevtić}Zašto da živim kad nemam sreće=http://www.youtube.com/watch?v=D7-kVxo2bU4
 ﻿Narodna]Biljana Jevtić}Zovem te zlato moje=http://www.youtube.com/watch?v=ZrgiA2RRfAM
+Narodna]Biljana Marković}Sunce moje=https://www.youtube.com/watch?v=tqnp9xFX-Ac
 ﻿Narodna]Biljana Marković}Lažni prijatelji=--start-time=17 http://www.youtube.com/watch?v=XfiFlMKIMDk
 ﻿Narodna]Biljana Marković}Moj svet=http://www.youtube.com/watch?v=2yeJnZkDj7E
+﻿Narodna]Biljana Marković}Sve je to moglo (ft. Deluks Band)=--start-time=27 https://www.youtube.com/watch?v=YUxgw43FD38
 ﻿Narodna]Biljana Sečivanović}Bolje sama nego s bilo kim=http://www.youtube.com/watch?v=xZRGs_eHUMs
 ﻿Narodna]Biljana Sečivanović}Danas ćemo reći da=http://www.youtube.com/watch?v=d3O0_3heFkM
 ﻿Narodna]Biljana Sečivanović}Idi putuj=http://www.youtube.com/watch?v=PdkLjShRTJg
@@ -5893,6 +5896,7 @@
 ﻿Zabavna]Emina Jahović}Gospodine=http://www.youtube.com/watch?v=ujql9BxPoQI
 ﻿Zabavna]Emina Jahović}Još ti se nadam=http://www.youtube.com/watch?v=dCD7CCOoFO4
 ﻿Zabavna]Emina Jahović}Kad si sa njom=http://www.youtube.com/watch?v=BNGfddFYfbk
+﻿Zabavna]Emina Jahović}Karma=--start-time=6 https://www.youtube.com/watch?v=WcRua0mrY5I
 ﻿Zabavna]Emina Jahović}Limunada (ft. Milica Todorović)=--start-time=6 http://www.youtube.com/watch?v=tY2tmeUrbmE
 ﻿Zabavna]Emina Jahović}Mama=http://www.youtube.com/watch?v=gLPOmcUEj28
 ﻿Zabavna]Emina Jahović}Med=http://www.youtube.com/watch?v=zrpkrITwSCU
@@ -9457,6 +9461,7 @@
 ﻿Zabavna]Katarina Živković}Hej, lepi đavole=http://www.youtube.com/watch?v=8rKD-krOwVs
 ﻿Zabavna]Katarina Živković}Istina=http://www.youtube.com/watch?v=xp36HPXBYZc
 ﻿Zabavna]Katarina Živković}Kad te ne volim=http://www.youtube.com/watch?v=LHFIxrGJL_0
+﻿Zabavna]Katarina Živković}Gori sve=--start-time=7 https://www.youtube.com/watch?v=4RrL2QtgT-Y
 ﻿Zabavna]Katarina Živković}Ko me zna=http://www.youtube.com/watch?v=HQlBEeZ94Ts
 ﻿Zabavna]Katarina Živković}Ljubav=http://www.youtube.com/watch?v=jtYdqbdsBsY
 ﻿Zabavna]Katarina Živković}Ljubi me=http://www.youtube.com/watch?v=ZBZ5pFoDSug
@@ -9465,6 +9470,7 @@
 ﻿Zabavna]Katarina Živković}Može crni, može plavi=http://www.youtube.com/watch?v=w9n3KtX5EEk
 ﻿Zabavna]Katarina Živković}Nedostupan korisnik=http://www.youtube.com/watch?v=wJsZJuvKoU8
 ﻿Zabavna]Katarina Živković}Nikad drugog, nikad drugom=http://www.youtube.com/watch?v=RLz_5tizhLY
+﻿Zabavna]Katarina Živković}Može ti se može=--start-time=5 https://www.youtube.com/watch?v=yaZFFOxLByA
 ﻿Zabavna]Katarina Živković}Noćno ludilo=http://www.youtube.com/watch?v=95nF9Xt_lxk
 ﻿Zabavna]Katarina Živković}Ovo je zemlja Srbija=http://www.youtube.com/watch?v=tUzF_mT_VkI
 ﻿Zabavna]Katarina Živković}Ruku na srce=http://www.youtube.com/watch?v=wFBcqtmV3qE

@@ -418,6 +418,7 @@
 ﻿Narodna]Ljubomir Đurović}Svat do svata, kum do kuma=http://www.youtube.com/watch?v=2EjUti2Av9w
 ﻿Narodna]Ljubomir Đurović}Ti si moja sreća=http://www.youtube.com/watch?v=b8j5MIId2t8
 ﻿Narodna]Ljubomir Đurović}Zaljubi se Đetic u Bosanku=http://www.youtube.com/watch?v=cOb7DDRCLeo
+﻿Narodna]Ljupka Stević}Ćao, ćao (ft. Rasta)=--start-time=6 https://www.youtube.com/watch?v=UWOSr8ExfQA
 ﻿Narodna]Ljupka Stević}Dupli bol=http://www.youtube.com/watch?v=pQwEwI7WJS4
 ﻿Narodna]Ljupka Stević}Etiketa=http://www.youtube.com/watch?v=qP1HLCWVrBQ
 ﻿Narodna]Ljupka Stević}Ljubi, ljubi dok si mlad=http://www.youtube.com/watch?v=o_DP1tdh660
@@ -1197,6 +1198,7 @@
 ﻿Zabavna]Mia Borisavljević}Ja bih se s' tobom topila=http://www.youtube.com/watch?v=O3bQ2sh39FQ
 ﻿Zabavna]Mia Borisavljević}Kako da ne=http://www.youtube.com/watch?v=UnTktXX6M1M
 ﻿Zabavna]Mia Borisavljević}Ko je gore prosao=http://www.youtube.com/watch?v=EIUKMgMgmCU
+﻿Zabavna]Mia Borisavljević}Kralju moj=--start-time=4 https://www.youtube.com/watch?v=qf7huPlgaFM
 ﻿Zabavna]Mia Borisavljević}Laki=http://www.youtube.com/watch?v=VKDe97qlczI
 ﻿Zabavna]Mia Borisavljević}Lepota Balkanska=http://www.youtube.com/watch?v=LeBiJKfQ_TU
 ﻿Zabavna]Mia Borisavljević}Luda glava=http://www.youtube.com/watch?v=kewYu5zLLvk
@@ -5000,6 +5002,7 @@
 ﻿Rep~Zabavna]Rasta}Armani (ft. Zli Toni i Mali Mire)=http://www.youtube.com/watch?v=Tznf05hPSfI
 ﻿Rep~Zabavna]Rasta}Balkan=--start-time=50 http://www.youtube.com/watch?v=fs9XYB8LKlI
 ﻿Rep~Zabavna]Rasta}Euforija=--start-time=6 http://www.youtube.com/watch?v=QHpfrfhuiq8
+﻿Rep~Zabavna]Rasta}Ćao, ćao (ft. Ljupka Stević)=--start-time=6 https://www.youtube.com/watch?v=UWOSr8ExfQA
 ﻿Rep~Zabavna]Rasta}Habibi=--start-time=2 http://www.youtube.com/watch?v=ysfCNuDZTSk
 ﻿Rep~Zabavna]Rasta}Hotel=http://www.youtube.com/watch?v=Ek5yiu7rmO8
 ﻿Rep~Zabavna]Rasta}Indigo=--start-time=3 http://www.youtube.com/watch?v=PGOihM5NQbY
