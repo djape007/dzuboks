@@ -1286,7 +1286,7 @@
 ﻿Kantautori]Miladin Šobić}Stare novine=http://www.youtube.com/watch?v=4EYYLb04V4U
 ﻿Kantautori]Miladin Šobić}Sunce tebi, sunce meni=http://www.youtube.com/watch?v=_DG5WGypTe4
 ﻿Kantautori]Miladin Šobić}Svetozara Markovića 39=http://www.youtube.com/watch?v=jBBRRCC8Gn8
-﻿Kantautori]Miladin Šobić}To sam ja=http://www.youtube.com/watch?v=qfYFM6LtyBU
+﻿Kantautori]Miladin Šobić}To sam ja=http://www.youtube.com/watch?v=ar92TROm8TU
 ﻿Kantautori]Miladin Šobić}Umjesto gluposti=http://www.youtube.com/watch?v=arw9RjuV4ao
 ﻿Kantautori]Miladin Šobić}Veljko=http://www.youtube.com/watch?v=JNlxXDEtWy8
 ﻿Kantautori]Miladin Šobić}Zazvoni zvono=http://www.youtube.com/watch?v=syiivIvjBGA
@@ -4060,7 +4060,6 @@
 ﻿Rok]Plavi Orkestar}Od rođendana do rođendana=http://www.youtube.com/watch?v=vr4npNKDIis
 ﻿Rok]Plavi Orkestar}Odlazi nam raja=http://www.youtube.com/watch?v=dqLtwRWMPYI
 ﻿Rok]Plavi Orkestar}Odlazim=http://www.youtube.com/watch?v=QcXDKsrwGgk
-﻿Rok]Plavi Orkestar}Otrovni cvijet=http://www.youtube.com/watch?v=JOg9aLIpo08
 ﻿Rok]Plavi Orkestar}Parajlija=http://www.youtube.com/watch?v=RFxOyZmOv9g
 ﻿Rok]Plavi Orkestar}Pijane budale=http://www.youtube.com/watch?v=R4XfXaM3WUk
 ﻿Rok]Plavi Orkestar}Pijem da je zaboravim=http://www.youtube.com/watch?v=M4qIgs8oeZY
@@ -6317,7 +6316,7 @@
 ﻿Narodna]Saša Matić}Ispočetka=http://www.youtube.com/watch?v=Kx6GU-pqd3c
 ﻿Narodna]Saša Matić}Ja samo slušam gospodara svog=http://www.youtube.com/watch?v=RFP88pVwlIk
 ﻿Narodna]Saša Matić}Ja se ne predajem=http://www.youtube.com/watch?v=QLzZPmktyuo
-﻿Narodna]Saša Matić}Jednom kraj, zauvek kraj=http://www.youtube.com/watch?v=OvMIlNSuBgM
+﻿Narodna]Saša Matić}Jednom kraj, zauvek kraj=http://www.youtube.com/watch?v=f9CY4fCm4xs
 ﻿Narodna]Saša Matić}Jednom sam te voleo=http://www.youtube.com/watch?v=R2gHM9XKVP0
 ﻿Narodna]Saša Matić}Još bez tebe teško zaspim=http://www.youtube.com/watch?v=_JhgAwVtO8c
 ﻿Narodna]Saša Matić}Još po jednu=http://www.youtube.com/watch?v=r_kpyj1j_bE
@@ -14662,7 +14661,7 @@
 ﻿Rok Strani]Sonic Youth}Purr=http://www.youtube.com/watch?v=sUXoomaEP7k
 ﻿Rok Strani]Sonic Youth}Quest For The Cup=http://www.youtube.com/watch?v=goPz6coNkAE
 ﻿Rok Strani]Sonic Youth}Radical Adults Lick Godhead Style=http://www.youtube.com/watch?v=Fi9ocKz1T38
-﻿Rok Strani]Sonic Youth}Rain King=http://www.youtube.com/watch?v=xbdyRyP5OgI
+﻿Rok Strani]Sonic Youth}Rain King=http://www.youtube.com/watch?v=4moyVQFOvaQ
 ﻿Rok Strani]Sonic Youth}Rats=http://www.youtube.com/watch?v=u7qs54jchFg
 ﻿Rok Strani]Sonic Youth}Reena=--start-time=8 http://www.youtube.com/watch?v=HrKttSi7EmM
 ﻿Rok Strani]Sonic Youth}Renegade Princess=http://www.youtube.com/watch?v=oJ7qdjAH9-A
@@ -15311,7 +15310,7 @@
 ﻿Rok Strani]The Beatles}You Know What To Do=http://www.youtube.com/watch?v=4CdWJpu0t3Q
 ﻿Rok Strani]The Beatles}You Like Me Too Much=http://www.youtube.com/watch?v=paZilSbbFJc
 ﻿Rok Strani]The Beatles}You Never Give Me Your Money=http://www.youtube.com/watch?v=niLJ_kzDrGQ
-﻿Rok Strani]The Beatles}You Really Got A Hold On Me=http://www.youtube.com/watch?v=VZ-0bvpOnD4
+﻿Rok Strani]The Beatles}You Really Got A Hold On Me=http://www.youtube.com/watch?v=DOK-ZeySA1U
 ﻿Rok Strani]The Beatles}You Won't See Me=http://www.youtube.com/watch?v=BsrQgIQSQSw
 ﻿Rok Strani]The Beatles}You'll Be Mine=http://www.youtube.com/watch?v=wcCzclyUSG4
 ﻿Rok Strani]The Beatles}You've Got To Hide Your Love Away=http://www.youtube.com/watch?v=IArfrd14scw
