@@ -1185,6 +1185,7 @@
 ﻿Zabavna]Ana Stanić}20, 30 godina=http://www.youtube.com/watch?v=OW6CaPqiTO8
 ﻿Zabavna]Ana Stanić}Ako živiš za mene=--start-time=5 http://www.youtube.com/watch?v=PMtkRJDYRTQ
 ﻿Zabavna]Ana Stanić}Autoput=--start-time=5 http://www.youtube.com/watch?v=STUq8NIdHN4
+﻿Zabavna]Ana Stanić}Bioskop=--start-time=5 https://www.youtube.com/watch?v=Ijv9KgBFmr8
 ﻿Zabavna]Ana Stanić}Duh=--start-time=5 http://www.youtube.com/watch?v=8kyuhgIJ3Q0
 ﻿Zabavna]Ana Stanić}Fališ mi sve vreme=http://www.youtube.com/watch?v=BUJyOS-Fo0M
 ﻿Zabavna]Ana Stanić}Grad=--start-time=5 http://www.youtube.com/watch?v=set4DSP-9fU
@@ -1196,6 +1197,7 @@
 ﻿Zabavna]Ana Stanić}Nepokret=--start-time=5 http://www.youtube.com/watch?v=fWhlBNKBou8
 ﻿Zabavna]Ana Stanić}Ni veru ni ljubav=--start-time=5 http://www.youtube.com/watch?v=II54cHPuEVs
 ﻿Zabavna]Ana Stanić}Od tebe mogu više=--start-time=5 http://www.youtube.com/watch?v=uv19CsNgjpc
+﻿Zabavna]Ana Stanić}Opasan=--start-time=5 https://www.youtube.com/watch?v=rrKJZ_MrN_s
 ﻿Zabavna]Ana Stanić}Ovaj dan=--start-time=5 http://www.youtube.com/watch?v=F1S6Vn1FLOU
 ﻿Zabavna]Ana Stanić}Panika=--start-time=5 http://www.youtube.com/watch?v=UUgN6SKWs_0
 ﻿Zabavna]Ana Stanić}Pazi šta sanjaš=http://www.youtube.com/watch?v=81WxQz8R3Oo
@@ -2719,64 +2721,73 @@ Narodna]Biljana Marković}Sunce moje=https://www.youtube.com/watch?v=tqnp9xFX-Ac
 ﻿Narodna]Cakana}Umreću ti dragi=http://www.youtube.com/watch?v=w89KyHgvDT4
 ﻿Narodna]Cakana}Vanila=http://www.youtube.com/watch?v=6JZ9TY_vLl4
 ﻿Narodna]Cakana}Znam=http://www.youtube.com/watch?v=PLlrhozDrUM
-﻿Narodna]Cana}Ah ah=http://www.youtube.com/watch?v=DUYS_kFRxO0
-﻿Narodna]Cana}Anonimna poruka=http://www.youtube.com/watch?v=nYdlX-vOt9c
-﻿Narodna]Cana}Autogram=http://www.youtube.com/watch?v=CAOo8bc9TTI
-﻿Narodna]Cana}Blam, blam=http://www.youtube.com/watch?v=1qA6FwZbQ9g
-﻿Narodna]Cana}Bog ljubavi=http://www.youtube.com/watch?v=rQDt8oMGorE
-﻿Narodna]Cana}Božić=http://www.youtube.com/watch?v=QfhL7ZnKWC8
-﻿Narodna]Cana}Cica bogatašica=http://www.youtube.com/watch?v=P4Va5hUypf4
-﻿Narodna]Cana}Čudni ljudi, čudno vreme=http://www.youtube.com/watch?v=K_4KlS6des4
-﻿Narodna]Cana}Devet i po nedelja=http://www.youtube.com/watch?v=gSQePT07ZkY
-﻿Narodna]Cana}Dođi sine=http://www.youtube.com/watch?v=hPgY7GbnL0Q
-﻿Narodna]Cana}Došao je čovek pravi=http://www.youtube.com/watch?v=UNKqbK3ZiYg
-﻿Narodna]Cana}Evo moga roda=http://www.youtube.com/watch?v=oasUhfJXD3g
-﻿Narodna]Cana}Gledaj me=http://www.youtube.com/watch?v=FtzMCkOQ_xM
-﻿Narodna]Cana}Hteo ne hteo, rodiću ti sina=http://www.youtube.com/watch?v=PpPpH78J-HM
-﻿Narodna]Cana}Ima, ima stila=http://www.youtube.com/watch?v=2hlRl3c17DE
-﻿Narodna]Cana}Imam dokaz=http://www.youtube.com/watch?v=X_Kb5pd5e7I
-﻿Narodna]Cana}Imenik=http://www.youtube.com/watch?v=p7p27EHUFwY
-﻿Narodna]Cana}Jugonostalgija=http://www.youtube.com/watch?v=tZxBtiMSo_Y
-﻿Narodna]Cana}Kojoj plaćaš piće=http://www.youtube.com/watch?v=g-94dShWxus
-﻿Narodna]Cana}Kućo moja stara=http://www.youtube.com/watch?v=SiskLRsCRtw
-﻿Narodna]Cana}Kukavica i vila=http://www.youtube.com/watch?v=jV_Muz4gsfc
-﻿Narodna]Cana}Lažljivče, nezahvalniče=http://www.youtube.com/watch?v=JBLNE_ly6xQ
-﻿Narodna]Cana}Moj grad=http://www.youtube.com/watch?v=NirRUkD0wcc
-﻿Narodna]Cana}Moj rođeni=http://www.youtube.com/watch?v=x4pJzZz1A3A
-﻿Narodna]Cana}Moja sudbina=http://www.youtube.com/watch?v=d27BOW_cY9M
-﻿Narodna]Cana}Mostovi=http://www.youtube.com/watch?v=s4Oizp9bVl0
-﻿Narodna]Cana}Na današnji dan=http://www.youtube.com/watch?v=bdLVyOjxXAM
-﻿Narodna]Cana}Nadam ti se=http://www.youtube.com/watch?v=g_D7szEuczo
-﻿Narodna]Cana}Ne daj me na silu=http://www.youtube.com/watch?v=o0Bjb40jxuE
-﻿Narodna]Cana}Nedostižna meta=http://www.youtube.com/watch?v=b5tRrRn1R2c
-﻿Narodna]Cana}Nemoj da mi umreš mlad=http://www.youtube.com/watch?v=RjR-0Zfz_-A
-﻿Narodna]Cana}Ni minut za tebe=http://www.youtube.com/watch?v=0w6gvaB3ygg
-﻿Narodna]Cana}Nisi više ni za kletvu=http://www.youtube.com/watch?v=vHS3KDLjVao
-﻿Narodna]Cana}Pokajanje=http://www.youtube.com/watch?v=uMQpg6UKtYo
-﻿Narodna]Cana}Pomozi mi=http://www.youtube.com/watch?v=dN1zXZF16as
-﻿Narodna]Cana}Prava familija=http://www.youtube.com/watch?v=2Tz0SX7opT4
-﻿Narodna]Cana}Predskazanje=http://www.youtube.com/watch?v=zoTNWbxVjQo
-﻿Narodna]Cana}Prijatelji, ljubavnici=http://www.youtube.com/watch?v=f5cMiVXo300
-﻿Narodna]Cana}Probisvet=http://www.youtube.com/watch?v=O_PevXs_2Ro
-﻿Narodna]Cana}Pukla veza=http://www.youtube.com/watch?v=y8gqOxj7Tdg
-﻿Narodna]Cana}Razbila sam ogledalo=http://www.youtube.com/watch?v=0HXutH84cUM
-﻿Narodna]Cana}Robija=http://www.youtube.com/watch?v=fpiDC7-S7dI
-﻿Narodna]Cana}Skinuću štikle=http://www.youtube.com/watch?v=mGKNrx4RR10
-﻿Narodna]Cana}Stidi se, stidi=http://www.youtube.com/watch?v=EuMZHVM_zTU
-﻿Narodna]Cana}Što mi se ne javljaš=http://www.youtube.com/watch?v=0xUJwrajeCc
-﻿Narodna]Cana}Suparnica=http://www.youtube.com/watch?v=Z2fOC4iU1ko
-﻿Narodna]Cana}Sve je moje tamo=http://www.youtube.com/watch?v=G0IVpkNkEGo
-﻿Narodna]Cana}Sve smo mogli mi=http://www.youtube.com/watch?v=a2SYpcMAhfg
-﻿Narodna]Cana}Sveznalica=http://www.youtube.com/watch?v=j9bReTx3Q-g
-﻿Narodna]Cana}Taoci inata=http://www.youtube.com/watch?v=GSvcpWO5KPY
-﻿Narodna]Cana}Teci, teci prema meni=http://www.youtube.com/watch?v=8dnaij9XisQ
-﻿Narodna]Cana}Tek sad živim=http://www.youtube.com/watch?v=podaeVXn8Nk
-﻿Narodna]Cana}Teške godine=http://www.youtube.com/watch?v=5uItWf7QLeQ
-﻿Narodna]Cana}Tvrdoglav=http://www.youtube.com/watch?v=I19xEfyEZxA
-﻿Narodna]Cana}Žalim što mi nisi bio prvi=http://www.youtube.com/watch?v=FxdxzUlEQ4Q
-﻿Narodna]Cana}Zdravo svima=http://www.youtube.com/watch?v=Q6TJJ5qgDRY
-﻿Narodna]Cana}Zločin bez kazne=http://www.youtube.com/watch?v=NT31INYvoO4
-﻿Narodna]Cana}Žrtva=http://www.youtube.com/watch?v=ERxUGD89rig
+﻿Narodna]Ćana}Ah ah=http://www.youtube.com/watch?v=DUYS_kFRxO0
+﻿Narodna]Ćana}Anonimna poruka=http://www.youtube.com/watch?v=nYdlX-vOt9c
+﻿Narodna]Ćana}Autogram=http://www.youtube.com/watch?v=CAOo8bc9TTI
+﻿Narodna]Ćana}Blam, blam=http://www.youtube.com/watch?v=1qA6FwZbQ9g
+﻿Narodna]Ćana}Bog ljubavi=http://www.youtube.com/watch?v=rQDt8oMGorE
+﻿Narodna]Ćana}Biće svega samo neće nas=https://www.youtube.com/watch?v=wT9ysrXFfZA
+﻿Narodna]Ćana}Božić=http://www.youtube.com/watch?v=QfhL7ZnKWC8
+﻿Narodna]Ćana}Cica bogatašica=http://www.youtube.com/watch?v=P4Va5hUypf4
+﻿Narodna]Ćana}Crvena linija=--start-time=9 https://www.youtube.com/watch?v=pPeeoNiIW4A
+﻿Narodna]Ćana}Čudni ljudi, čudno vreme=http://www.youtube.com/watch?v=K_4KlS6des4
+﻿Narodna]Ćana}Devet i po nedelja=http://www.youtube.com/watch?v=gSQePT07ZkY
+﻿Narodna]Ćana}Dođi sine=http://www.youtube.com/watch?v=hPgY7GbnL0Q
+﻿Narodna]Ćana}Došao je čovek pravi=http://www.youtube.com/watch?v=UNKqbK3ZiYg
+﻿Narodna]Ćana}Evo moga roda=http://www.youtube.com/watch?v=oasUhfJXD3g
+﻿Narodna]Ćana}Gledaj me=http://www.youtube.com/watch?v=FtzMCkOQ_xM
+﻿Narodna]Ćana}Hteo ne hteo, rodiću ti sina=http://www.youtube.com/watch?v=PpPpH78J-HM
+﻿Narodna]Ćana}Hajde hajde mangupe=https://www.youtube.com/watch?v=amGp8hCraU0
+﻿Narodna]Ćana}Ima, ima stila=http://www.youtube.com/watch?v=2hlRl3c17DE
+﻿Narodna]Ćana}Imam dokaz=http://www.youtube.com/watch?v=X_Kb5pd5e7I
+﻿Narodna]Ćana}Imenik=http://www.youtube.com/watch?v=p7p27EHUFwY
+﻿Narodna]Ćana}Jugonostalgija=http://www.youtube.com/watch?v=tZxBtiMSo_Y
+﻿Narodna]Ćana}Kako to=https://www.youtube.com/watch?v=aGTpjlYoEFs
+﻿Narodna]Ćana}Kojoj plaćaš piće=http://www.youtube.com/watch?v=g-94dShWxus
+﻿Narodna]Ćana}Kućo moja stara=http://www.youtube.com/watch?v=SiskLRsCRtw
+Narodna]Ćana}Kumo sestro=https://www.youtube.com/watch?v=30BnK1dwgQ4
+﻿Narodna]Ćana}Kukavica i vila=http://www.youtube.com/watch?v=jV_Muz4gsfc
+﻿Narodna]Ćana}Lažljivče, nezahvalniče=http://www.youtube.com/watch?v=JBLNE_ly6xQ
+﻿Narodna]Ćana}Moj grad=http://www.youtube.com/watch?v=JaQQwimD34U
+﻿Narodna]Ćana}Moj rođeni=http://www.youtube.com/watch?v=B5wY1uz6HYI
+﻿Narodna]Ćana}Moja sudbina=http://www.youtube.com/watch?v=d27BOW_cY9M
+﻿Narodna]Ćana}Moja ljubav zabranjena=https://www.youtube.com/watch?v=7wS1b8J1Wjg
+﻿Narodna]Ćana}Mostovi=http://www.youtube.com/watch?v=s4Oizp9bVl0
+﻿Narodna]Ćana}Na današnji dan=http://www.youtube.com/watch?v=bdLVyOjxXAM
+﻿Narodna]Ćana}Nadam ti se=http://www.youtube.com/watch?v=g_D7szEuczo
+﻿Narodna]Ćana}Ne daj me na silu=http://www.youtube.com/watch?v=o0Bjb40jxuE
+﻿Narodna]Ćana}Nedostižna meta=http://www.youtube.com/watch?v=b5tRrRn1R2c
+﻿Narodna]Ćana}Nemoj da mi umreš mlad=http://www.youtube.com/watch?v=RjR-0Zfz_-A
+﻿Narodna]Ćana}Ni minut za tebe=http://www.youtube.com/watch?v=0w6gvaB3ygg
+﻿Narodna]Ćana}Nije lako biti žena=https://www.youtube.com/watch?v=vvMahv_RHkc
+﻿Narodna]Ćana}Nisi više ni za kletvu=http://www.youtube.com/watch?v=vHS3KDLjVao
+﻿Narodna]Ćana}Pismo=https://www.youtube.com/watch?v=Wpybz97GO34
+﻿Narodna]Ćana}Pokajanje=http://www.youtube.com/watch?v=uMQpg6UKtYo
+﻿Narodna]Ćana}Pomozi mi=http://www.youtube.com/watch?v=dN1zXZF16as
+﻿Narodna]Ćana}Prava familija=http://www.youtube.com/watch?v=2Tz0SX7opT4
+﻿Narodna]Ćana}Predskazanje=http://www.youtube.com/watch?v=zoTNWbxVjQo
+﻿Narodna]Ćana}Prijatelji, ljubavnici=http://www.youtube.com/watch?v=f5cMiVXo300
+﻿Narodna]Ćana}Probisvet=http://www.youtube.com/watch?v=O_PevXs_2Ro
+﻿Narodna]Ćana}Pukla veza=http://www.youtube.com/watch?v=y8gqOxj7Tdg
+﻿Narodna]Ćana}Razbila sam ogledalo=http://www.youtube.com/watch?v=0HXutH84cUM
+﻿Narodna]Ćana}Robija=http://www.youtube.com/watch?v=q1fs3_-aIus
+﻿Narodna]Ćana}Skinuću štikle=http://www.youtube.com/watch?v=mGKNrx4RR10
+﻿Narodna]Ćana}Stidi se, stidi=http://www.youtube.com/watch?v=EuMZHVM_zTU
+﻿Narodna]Ćana}Što mi se ne javljaš=http://www.youtube.com/watch?v=0xUJwrajeCc
+﻿Narodna]Ćana}Što me ne gledaš=http://www.youtube.com/watch?v=9o31sQLFYlI
+﻿Narodna]Ćana}Suparnica=http://www.youtube.com/watch?v=Z2fOC4iU1ko
+﻿Narodna]Ćana}Sve je moje tamo=http://www.youtube.com/watch?v=G0IVpkNkEGo
+﻿Narodna]Ćana}Sve smo mogli mi=http://www.youtube.com/watch?v=a2SYpcMAhfg
+﻿Narodna]Ćana}Sveznalica=http://www.youtube.com/watch?v=j9bReTx3Q-g
+﻿Narodna]Ćana}Taoci inata=http://www.youtube.com/watch?v=GSvcpWO5KPY
+﻿Narodna]Ćana}Teci, teci prema meni=http://www.youtube.com/watch?v=8dnaij9XisQ
+﻿Narodna]Ćana}Tek sad živim=http://www.youtube.com/watch?v=podaeVXn8Nk
+﻿Narodna]Ćana}Teške godine=http://www.youtube.com/watch?v=-pfVCQhpj8M
+﻿Narodna]Ćana}Tvrdoglav=http://www.youtube.com/watch?v=I19xEfyEZxA
+﻿Narodna]Ćana}Žalim što mi nisi bio prvi=http://www.youtube.com/watch?v=FxdxzUlEQ4Q
+﻿Narodna]Ćana}Zdravo svima=http://www.youtube.com/watch?v=Q6TJJ5qgDRY
+﻿Narodna]Ćana}Zločin bez kazne=http://www.youtube.com/watch?v=NT31INYvoO4
+﻿Narodna]Ćana}Žrtva=http://www.youtube.com/watch?v=ERxUGD89rig
 ﻿Narodna]Ceca}39,2=http://www.youtube.com/watch?v=gggBDv_mpJ8
 ﻿Narodna]Ceca}5 minuta=http://www.youtube.com/watch?v=gcdn-Yalixc
 ﻿Narodna]Ceca}Ako te ona odbije=http://www.youtube.com/watch?v=gO9f8K85gdc
