@@ -2987,6 +2987,7 @@
 ﻿Narodna]Ćira}Zaboravi=http://www.youtube.com/watch?v=MZYUaBma0ew
 ﻿Narodna]Ćira}Znam=http://www.youtube.com/watch?v=rO0WxLcOPoM
 ﻿Narodna]Ćira}Zumba=http://www.youtube.com/watch?v=xOBEfENbTsk
+﻿Zabavna]Colonia}Maskenbal=--start-time=3 https://www.youtube.com/watch?v=cDcTD7L-sGs
 ﻿Zabavna]Colonia}1001 noć=http://www.youtube.com/watch?v=NlhrCtWekHA
 ﻿Zabavna]Colonia}Ale ale=http://www.youtube.com/watch?v=A6yYzl2i7Ng
 ﻿Zabavna]Colonia}Anđele=http://www.youtube.com/watch?v=ibPhqRPqzqs
