@@ -380,7 +380,7 @@
 ﻿Narodna]Ljuba Lukić}Padaš mi na pamet=http://www.youtube.com/watch?v=1HDIOv4RvI8
 ﻿Narodna]Ljuba Lukić}Pamti me po bilo čemu=http://www.youtube.com/watch?v=aTK8gc7Xad0
 ﻿Narodna]Ljuba Lukić}Prežaliće bolna duša=http://www.youtube.com/watch?v=oWMzpA4P7gI
-﻿Narodna]Ljuba Lukić}Rastanak=http://www.youtube.com/watch?v=w6LrVWpmtZc
+﻿Narodna]Ljuba Lukić}Rastanak=http://www.youtube.com/watch?v=tuloJWR7-yU
 ﻿Narodna]Ljuba Lukić}Sedam čaša, sedam violina=http://www.youtube.com/watch?v=JajZpdcMX1U
 ﻿Narodna]Ljuba Lukić}Sejo moja, sestrice=http://www.youtube.com/watch?v=htYAfcOgdCg
 ﻿Narodna]Ljuba Lukić}Sneg je pao staze zavejao=http://www.youtube.com/watch?v=0SYAUwJQ3zc
@@ -3681,7 +3681,7 @@
 ﻿Rok]Osvajači}Ljubomora=http://www.youtube.com/watch?v=8wMl6Qw5AO4
 ﻿Rok]Osvajači}Lutati je najbolje što znam=http://www.youtube.com/watch?v=M9eWBgYJwmA
 ﻿Rok]Osvajači}Marija=http://www.youtube.com/watch?v=2UHlg3nwFB0
-﻿Rok]Osvajači}Maska=http://www.youtube.com/watch?v=bQZYS6deVgM
+﻿Rok]Osvajači}Maska=http://www.youtube.com/watch?v=z1Vehw6_RbA
 ﻿Rok]Osvajači}Minut ćutanja=http://www.youtube.com/watch?v=RYybO_pQxsc
 ﻿Rok]Osvajači}Možda nebo zna=http://www.youtube.com/watch?v=0Gs_MTKfssA
 ﻿Rok]Osvajači}Neka nebo zaplače od tuge=http://www.youtube.com/watch?v=xRewUuPO5Dg
@@ -3691,7 +3691,7 @@
 ﻿Rok]Osvajači}Ona ima san=http://www.youtube.com/watch?v=ovu0ht6Bzm8
 ﻿Rok]Osvajači}Ostani=http://www.youtube.com/watch?v=6hj4RVnwXhU
 ﻿Rok]Osvajači}Pakleni put=http://www.youtube.com/watch?v=C6uCddk4xl4
-﻿Rok]Osvajači}Pesma za kraj=http://www.youtube.com/watch?v=6O3u4fhxdQY
+﻿Rok]Osvajači}Pesma za kraj=http://www.youtube.com/watch?v=NsrZYhHn_mk
 ﻿Rok]Osvajači}Ponekad=http://www.youtube.com/watch?v=ESgXwb4T9fI
 ﻿Rok]Osvajači}Pronađi me=http://www.youtube.com/watch?v=c484OhnvI8Q
 ﻿Rok]Osvajači}Prvi put=http://www.youtube.com/watch?v=b3DqgwtyVVU
@@ -3701,7 +3701,7 @@
 ﻿Rok]Osvajači}Sad mi treba=http://www.youtube.com/watch?v=PdzLI7HV034
 ﻿Rok]Osvajači}Samo ti=http://www.youtube.com/watch?v=OtQ_oG4TrAU
 ﻿Rok]Osvajači}Sto godina=http://www.youtube.com/watch?v=3_DelT2vtdY
-﻿Rok]Osvajači}Tiha predaja=http://www.youtube.com/watch?v=ksZwnsb5M8Y
+﻿Rok]Osvajači}Tiha predaja=http://www.youtube.com/watch?v=2kR34vpdFW0
 ﻿Rok]Osvajači}Tragovi II=http://www.youtube.com/watch?v=LMX0L2GSDKQ
 ﻿Rok]Osvajači}Tragovi=http://www.youtube.com/watch?v=DLLvUzH3r3w
 ﻿Rok]Osvajači}Tri druga=http://www.youtube.com/watch?v=mNhj4L8QxKU
@@ -4401,9 +4401,9 @@
 ﻿Rok]Feud}Televizija=https://www.youtube.com/watch?v=in3uGpD57EU
 ﻿Rok]Feud}Milion milja=--start-time=5 https://www.youtube.com/watch?v=1oBbLHz5fm0
 ﻿Rok]Feud}Tajkun=--start-time=5 https://www.youtube.com/watch?v=XO5J6PdF-3w
-﻿Rok]Feud}Rikošet=https://www.youtube.com/watch?v=quvLuIUdw9E
-﻿Rok]Feud}Dosta je=https://www.youtube.com/watch?v=icgC6O_GyiE
-﻿Rok]Feud}Kako dalje=https://www.youtube.com/watch?v=z1p-q1zgGIY
+﻿Rok]Feud}Rikošet=--start-time=5 http://www.youtube.com/watch?v=TQ39Q4KJALU
+﻿Rok]Feud}Dosta je=--start-time=5 http://www.youtube.com/watch?v=oWO1NL9XmXY
+﻿Rok]Feud}Kako dalje=--start-time=5 http://www.youtube.com/watch?v=Z_luWMWzUnE
 ﻿Rok]Feud}Neron=--start-time=5 https://www.youtube.com/watch?v=un9DaNDco0Q
 ﻿Rok]Feud}Jack=--start-time=5 https://www.youtube.com/watch?v=DNQN8_lHREs
 ﻿Rok]Feud}Stoka=--start-time=5 https://www.youtube.com/watch?v=XcTLGkpg5vw
@@ -10477,7 +10477,7 @@
 ﻿Narodna]Zorica Brunclik}Eh da je sreće=http://www.youtube.com/watch?v=Obe8SUqJeLQ
 ﻿Narodna]Zorica Brunclik}Eh, da nisam žena=http://www.youtube.com/watch?v=dRcc1SOq6LY
 ﻿Narodna]Zorica Brunclik}Ej, čašo razbijena=http://www.youtube.com/watch?v=w_Sz-Pv8fj0
-﻿Narodna]Zorica Brunclik}Ej, čija frula=http://www.youtube.com/watch?v=OdmT7_mGNTs
+﻿Narodna]Zorica Brunclik}Ej, čija frula=http://www.youtube.com/watch?v=09XHe191U8s
 ﻿Narodna]Zorica Brunclik}Ej, sokole=http://www.youtube.com/watch?v=sn1SOvZ6pww
 ﻿Narodna]Zorica Brunclik}Ej, sudbino=http://www.youtube.com/watch?v=znGJwuxqV5E
 ﻿Narodna]Zorica Brunclik}Evo zora je=http://www.youtube.com/watch?v=te5_NEpSkfg
@@ -12118,7 +12118,6 @@
 ﻿Rok Strani]Motörhead}The Watcher=http://www.youtube.com/watch?v=Iwt7kvDqZ6o
 ﻿Rok Strani]Motörhead}The Wolf=http://www.youtube.com/watch?v=NtnlAx7RkxI
 ﻿Rok Strani]Motörhead}Them Not Me=http://www.youtube.com/watch?v=DJG0YJlcr5w
-﻿Rok Strani]Motörhead}Thunder And Lightning=http://www.youtube.com/watch?v=6RhDHTtSIfA
 ﻿Rok Strani]Motörhead}Till The End=http://www.youtube.com/watch?v=WT3voxqKNYQ
 ﻿Rok Strani]Motörhead}Time Is Right=http://www.youtube.com/watch?v=2XeGTvSOSmM
 ﻿Rok Strani]Motörhead}Too Good To Be True=http://www.youtube.com/watch?v=Nk6mDjP-NIY
