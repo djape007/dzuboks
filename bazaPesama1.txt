@@ -332,6 +332,7 @@
 ﻿Narodna]Aco Pejović}Sreća u nesreći=http://www.youtube.com/watch?v=oONl-EDDgD4
 ﻿Narodna]Aco Pejović}Srećo moja gde si sad=http://www.youtube.com/watch?v=knx_cCGiTuE
 ﻿Narodna]Aco Pejović}Šta da kažem=http://www.youtube.com/watch?v=22yAuAkfD1A
+Narodna]Aco Pejović}Šteta za nas=--start-time=3 https://www.youtube.com/watch?v=eXnhwXTRbQA
 ﻿Narodna]Aco Pejović}Sto je puteva i dana=http://www.youtube.com/watch?v=Yn-ViBUMDS8
 ﻿Narodna]Aco Pejović}Sve ti dugujem=http://www.youtube.com/watch?v=khrkhzmOPPk
 ﻿Narodna]Aco Pejović}Ti si našla boljeg sebi=http://www.youtube.com/watch?v=qbsfUS6q770
@@ -2853,6 +2854,7 @@
 ﻿Narodna]Ceca}Kuda žuriš=http://www.youtube.com/watch?v=f8qIxXyvhJE
 ﻿Narodna]Ceca}Kukavica=http://www.youtube.com/watch?v=xuD0TvDdF7o
 ﻿Narodna]Ceca}Lako je tebi=http://www.youtube.com/watch?v=Y8y6dTTVajE
+﻿Narodna]Ceca}Lažov notorni (duet Saša Matić)=http://www.youtube.com/watch?v=RuhRT7OJ8LA
 ﻿Narodna]Ceca}Lepi grome moj=http://www.youtube.com/watch?v=EYqd5S1FUuw
 ﻿Narodna]Ceca}Lepotan=http://www.youtube.com/watch?v=F4RAl8_X-Jg
 ﻿Narodna]Ceca}Ličis na moga oca=http://www.youtube.com/watch?v=YrEvuf42UVA
@@ -9475,6 +9477,7 @@
 ﻿Zabavna]Katarina Živković}Istina=http://www.youtube.com/watch?v=xp36HPXBYZc
 ﻿Zabavna]Katarina Živković}Kad te ne volim=http://www.youtube.com/watch?v=LHFIxrGJL_0
 ﻿Zabavna]Katarina Živković}Gori sve=--start-time=7 https://www.youtube.com/watch?v=4RrL2QtgT-Y
+﻿Zabavna]Katarina Živković}Kajem se=http://www.youtube.com/watch?v=Bf5QQR6ER6w
 ﻿Zabavna]Katarina Živković}Ko me zna=http://www.youtube.com/watch?v=HQlBEeZ94Ts
 ﻿Zabavna]Katarina Živković}Ljubav=http://www.youtube.com/watch?v=jtYdqbdsBsY
 ﻿Zabavna]Katarina Živković}Ljubi me=http://www.youtube.com/watch?v=ZBZ5pFoDSug
@@ -10285,6 +10288,7 @@
 ﻿Narodna]Lepa Brena}Zaboravljena žena=http://www.youtube.com/watch?v=-NY5o-s5JoI
 ﻿Narodna]Lepa Brena}Žali Bože=http://www.youtube.com/watch?v=Zz4sguOiOxQ
 ﻿Narodna]Lepa Brena}Zaljubiška=http://www.youtube.com/watch?v=fU0kAH8jh9M
+﻿Narodna]Lepa Brena}Zar je važno da l' se peva ili pjeva=http://www.youtube.com/watch?v=xy2idL0aqFU
 ﻿Narodna]Lepa Brena}Zaljubljeni veruju u sve=http://www.youtube.com/watch?v=5xNkT1jg89I
 ﻿Narodna]Lepa Brena}Zašto=http://www.youtube.com/watch?v=25LqJB_aRBo
 ﻿Narodna]Lepa Brena}Zatvori oči=http://www.youtube.com/watch?v=FQj7BxrLqLU
