@@ -7095,7 +7095,7 @@
 ﻿Zabavna]Grupa Luna}Chichitito=http://www.youtube.com/watch?v=bDf7KlsuLbk
 ﻿Zabavna]Grupa Luna}Da me ljubiš noćima=http://www.youtube.com/watch?v=ekya-Tbge6k
 ﻿Zabavna]Grupa Luna}Drugarice=http://www.youtube.com/watch?v=CX8NBf2V9YU
-﻿Zabavna]Grupa Luna}Dupla škorpija=--start-time=18 http://www.youtube.com/watch?v=pbiqrdRWJZ0
+﻿Zabavna]Grupa Luna}Dupla škorpija=http://www.youtube.com/watch?v=6-hOyu83ymM
 ﻿Zabavna]Grupa Luna}Haljina crvena=http://www.youtube.com/watch?v=YqalUMDLsMs
 ﻿Zabavna]Grupa Luna}Jako jako=http://www.youtube.com/watch?v=N5hs41Q1gRQ
 ﻿Zabavna]Grupa Luna}Konobaru=--start-time=7 https://www.youtube.com/watch?v=Bh8jDsmu5wU
@@ -10620,10 +10620,10 @@
 ﻿Rok Strani]Led Zeppelin}Heartbreaker=https://www.youtube.com/watch?v=EUFGJvYlPFk
 ﻿Rok Strani]Led Zeppelin}Nobody's fault but mine=https://www.youtube.com/watch?v=f0HOf3uR5-4
 ﻿Rok Strani]Led Zeppelin}Immigrant song=https://www.youtube.com/watch?v=Y2znL-noohI
-﻿Rok Strani]Led Zeppelin}The ocean=--start-time=2 https://www.youtube.com/watch?v=GsKJlZi04I0
+﻿Rok Strani]Led Zeppelin}The ocean=http://www.youtube.com/watch?v=OdrbO7bnuIE
 ﻿Rok Strani]Led Zeppelin}Rain song=https://www.youtube.com/watch?v=HZ4uzD_hLds
 ﻿Rok Strani]Led Zeppelin}Friends=--start-time=7 https://www.youtube.com/watch?v=-kheJwV9eMk
-﻿Rok Strani]Led Zeppelin}Thank you=https://www.youtube.com/watch?v=u1z4vkPWkLQ
+﻿Rok Strani]Led Zeppelin}Thank you=http://www.youtube.com/watch?v=88dQn_-5hIM
 ﻿Rok Strani]Led Zeppelin}All my love=http://www.youtube.com/watch?v=VKkb_SFkE9w
 ﻿Rok Strani]Led Zeppelin}Celebration day=https://www.youtube.com/watch?v=KMQdiHIZgSo
 ﻿Rok Strani]Led Zeppelin}Achilles last stand=--start-time=2 https://www.youtube.com/watch?v=P-Rf1I9htJk
@@ -11902,7 +11902,7 @@
 ﻿Rok Strani]Alice Cooper}Jackknife Johnny=http://www.youtube.com/watch?v=jCaiF6kI3mc
 ﻿Rok Strani]Alice Cooper}Keepin' Halloween Alive=http://www.youtube.com/watch?v=gFwUGHpvRr0
 ﻿Rok Strani]Alice Cooper}Killed By Love=http://www.youtube.com/watch?v=9KtKoFyFyVM
-﻿Rok Strani]Alice Cooper}Killer=http://www.youtube.com/watch?v=V30N1uBf280
+﻿Rok Strani]Alice Cooper}Killer=--start-time=4 http://www.youtube.com/watch?v=f7vfehwBevo
 ﻿Rok Strani]Alice Cooper}Lace And Whiskey=http://www.youtube.com/watch?v=c6RavIU8-ZM
 ﻿Rok Strani]Alice Cooper}Last Man On Earth=http://www.youtube.com/watch?v=_i32zPVhbK4
 ﻿Rok Strani]Alice Cooper}Leather Boots=http://www.youtube.com/watch?v=O3RE3vddzOk
@@ -11989,12 +11989,11 @@
 ﻿Rok Strani]Alice Cooper}What Do You Want From Me=http://www.youtube.com/watch?v=f1nPeebSbFs
 ﻿Rok Strani]Alice Cooper}When Hell Comes Home=http://www.youtube.com/watch?v=Tm_7e83toV8
 ﻿Rok Strani]Alice Cooper}Who Do You Think We Are=http://www.youtube.com/watch?v=i8HuPznooJQ
-﻿Rok Strani]Alice Cooper}Wicked Young Man=http://www.youtube.com/watch?v=bzvCux-LPMI
+﻿Rok Strani]Alice Cooper}Wicked Young Man=http://www.youtube.com/watch?v=7i2ZNi27NWU
 ﻿Rok Strani]Alice Cooper}Wind-Up Toy=http://www.youtube.com/watch?v=k3llFz_Jp_E
 ﻿Rok Strani]Alice Cooper}Wish I Were Born In Beverly Hills=http://www.youtube.com/watch?v=KNuj8h-1XtE
 ﻿Rok Strani]Alice Cooper}Wish You Were Here=http://www.youtube.com/watch?v=RciPGnWWzig
 ﻿Rok Strani]Alice Cooper}Woman Of Mass Distraction=http://www.youtube.com/watch?v=b9xRwYrk7To
-﻿Rok Strani]Alice Cooper}Yeah, Yeah, Yeah=http://www.youtube.com/watch?v=0VE-WQSoLEo
 ﻿Rok Strani]Alice Cooper}Years Ago=http://www.youtube.com/watch?v=yTFFuS1UudQ
 ﻿Rok Strani]Alice Cooper}You And Me=http://www.youtube.com/watch?v=OO91OS4SeEc
 ﻿Rok Strani]Alice Cooper}You Gotta Dance=http://www.youtube.com/watch?v=92LV010Ik1A

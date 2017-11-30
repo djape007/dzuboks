@@ -3674,7 +3674,7 @@
 ﻿Rok]Osvajači}Jako srce udara=http://www.youtube.com/watch?v=Adx5xIxD6RQ
 ﻿Rok]Osvajači}Jedna me devojka neće=http://www.youtube.com/watch?v=xS79WizW0QE
 ﻿Rok]Osvajači}Još mnogo dana=http://www.youtube.com/watch?v=tOZx7Pp-Zq0
-﻿Rok]Osvajači}Kad me ostave svi=http://www.youtube.com/watch?v=17OrdNLVmEY
+﻿Rok]Osvajači}Kad me ostave svi=http://www.youtube.com/watch?v=7UiFHJjTDG4
 ﻿Rok]Osvajači}Kad te srce za mnom zaboli=http://www.youtube.com/watch?v=t3vZbqviKS0
 ﻿Rok]Osvajači}Krv i led=http://www.youtube.com/watch?v=bqCme1n7dD0
 ﻿Rok]Osvajači}Ljubomora=http://www.youtube.com/watch?v=8wMl6Qw5AO4
@@ -4682,7 +4682,7 @@
 ﻿Rok]Prljavo Kazalište}Zaustavite zemlju=http://www.youtube.com/watch?v=3TPEevIL9r8
 ﻿Rok]Prljavo Kazalište}Zbogom dame, zbogom prijatelji=http://www.youtube.com/watch?v=dqq5-Iyiyf0
 ﻿Rok]Prljavo Kazalište}Zlatne godine=http://www.youtube.com/watch?v=kpgF52j0cIY
-﻿Zabavna]Projekat Band}Da li te voli=http://www.youtube.com/watch?v=RCby9V6raO8
+﻿Zabavna]Projekat Band}Da li te voli=http://www.youtube.com/watch?v=qGmsbEC1Nbo
 ﻿Zabavna]Projekat Band}Jutro posle=http://www.youtube.com/watch?v=GUtKJQHRkGM
 ﻿Zabavna]Projekat Band}Laž srca mog=http://www.youtube.com/watch?v=bggEoLHvKQM
 ﻿Zabavna]Projekat Band}Moje milo=http://www.youtube.com/watch?v=HE8-lGHVzbw
@@ -6396,6 +6396,7 @@
 ﻿Zabavna]Saša Miranović}Obećanje=http://www.youtube.com/watch?v=iTk_Ix9dcBA
 ﻿Zabavna]Saša Miranović}Ponoć i podne=http://www.youtube.com/watch?v=RJVbu8q_c24
 ﻿Zabavna]Saša Miranović}Sanjar=http://www.youtube.com/watch?v=t6hr-fx03oU
+﻿Zabavna]Saša Miranović}Svadba=https://www.youtube.com/watch?v=QZEtBrGpoYU
 ﻿Zabavna]Saša Miranović}Zaraza=http://www.youtube.com/watch?v=SgLPCYe13s4
 ﻿Narodna]Saška Karan}Čiko=http://www.youtube.com/watch?v=hWMfQhUnazo
 ﻿Narodna]Saška Karan}Daću, daću=http://www.youtube.com/watch?v=D7EBDqj0BUI
@@ -9793,7 +9794,7 @@
 ﻿Narodna]Xenia Pajčin}Sestro=http://www.youtube.com/watch?v=4oiRkwlosVY
 ﻿Narodna]Xenia Pajčin}Sex bombastic=http://www.youtube.com/watch?v=2ANJw6A99Tc
 ﻿Narodna]Xenia Pajčin}Sigurna=http://www.youtube.com/watch?v=XwnrgFu7OIw
-﻿Narodna]Xenia Pajčin}Škorpija=http://www.youtube.com/watch?v=pbBQAnKu2D4
+﻿Narodna]Xenia Pajčin}Škorpija=http://www.youtube.com/watch?v=RdkLGeyFPEA
 ﻿Narodna]Xenia Pajčin}Slatko i gorko=http://www.youtube.com/watch?v=greVskkHCAo
 ﻿Narodna]Xenia Pajčin}Super nova=http://www.youtube.com/watch?v=wynC-1gTJ9U
 ﻿Narodna]Xenia Pajčin}Supica=http://www.youtube.com/watch?v=IkxnmEh9NMg
@@ -11668,7 +11669,6 @@
 ﻿DJ Strani]David Guetta}Metropolis (ft. Nicky Romero)=--start-time=18 https://www.youtube.com/watch?v=YeLc_odK58s
 ﻿DJ Strani]David Guetta}Commander (ft. Kelly Rowland)=https://www.youtube.com/watch?v=dwfKZ-1jyiw
 ﻿DJ Strani]David Guetta}Another life (ft. Afrojack, Ester Dean)=https://www.youtube.com/watch?v=ivxPepDyqmI
-﻿DJ Strani]David Guetta}So far away (ft. Martin Garix, Niklas Budinsky)=https://www.youtube.com/watch?v=b0fQIwydy2U
 ﻿DJ Strani]David Guetta}Versace on the floor (ft. Bruno Mars)=https://www.youtube.com/watch?v=8VXW_gW8UpM
 ﻿DJ Strani]David Guetta}Money=https://www.youtube.com/watch?v=60ahvLeZh58
 ﻿DJ Strani]David Guetta}If we ever (ft. Makeba)=http://www.youtube.com/watch?v=SGjQ-xZYDGY
@@ -15193,7 +15193,7 @@
 ﻿Rok Strani]The Beatles}Lady Madonna=http://www.youtube.com/watch?v=g6-pqbAOzg8
 ﻿Rok Strani]The Beatles}Leave My Kitten Alone=http://www.youtube.com/watch?v=H1WytU0yZwI
 ﻿Rok Strani]The Beatles}Lend Me Your Comb=http://www.youtube.com/watch?v=VMXythDOxTI
-﻿Rok Strani]The Beatles}Let It Be=http://www.youtube.com/watch?v=wGCMznqgqhE
+﻿Rok Strani]The Beatles}Let It Be=http://www.youtube.com/watch?v=ZtNU616XqQk
 ﻿Rok Strani]The Beatles}Like Dreamers Do=http://www.youtube.com/watch?v=Lekq_1B2SMk
 ﻿Rok Strani]The Beatles}Little Child=http://www.youtube.com/watch?v=VI5PoUtWuWk
 ﻿Rok Strani]The Beatles}Lonesome Tears In My Eyes=http://www.youtube.com/watch?v=bOYMy7QlxS4
@@ -15283,7 +15283,7 @@
 ﻿Rok Strani]The Beatles}Think For Yourself=http://www.youtube.com/watch?v=-9H8zp72dxg
 ﻿Rok Strani]The Beatles}This Boy=http://www.youtube.com/watch?v=20jzMqD-N2c
 ﻿Rok Strani]The Beatles}Three Cool Cats=http://www.youtube.com/watch?v=b-R0FiSWLEQ
-﻿Rok Strani]The Beatles}Ticket To Ride=http://www.youtube.com/watch?v=Twj0i8yXRrI
+﻿Rok Strani]The Beatles}Ticket To Ride=http://www.youtube.com/watch?v=0IaqRVrOXiY
 ﻿Rok Strani]The Beatles}Till There Was You=http://www.youtube.com/watch?v=Mr5gCdUXJQY
 ﻿Rok Strani]The Beatles}To Know Her Is To Love Her=http://www.youtube.com/watch?v=KaDCw-vBzgA
 ﻿Rok Strani]The Beatles}Tomorrow Never Knows=http://www.youtube.com/watch?v=Ah2ckzXgrx4
@@ -16008,7 +16008,7 @@
 ﻿Rok Strani]The Offspring}A Lot Like Me=http://www.youtube.com/watch?v=bDY3jz99qms
 ﻿Rok Strani]The Offspring}A Thousand Days=http://www.youtube.com/watch?v=OH_wepU6W1E
 ﻿Rok Strani]The Offspring}All Along=http://www.youtube.com/watch?v=t1L8rU4YoFU
-﻿Rok Strani]The Offspring}All I Have Left Is You=http://www.youtube.com/watch?v=VM47hZFZzGM
+﻿Rok Strani]The Offspring}All I Have Left Is You=http://www.youtube.com/watch?v=QV1biEtGt-Y
 ﻿Rok Strani]The Offspring}All I Want=http://www.youtube.com/watch?v=us8OhI-OTHg
 ﻿Rok Strani]The Offspring}Amazed=http://www.youtube.com/watch?v=-0RhquzlWto
 ﻿Rok Strani]The Offspring}Americana=http://www.youtube.com/watch?v=Nv68eEuUsP8
@@ -16036,7 +16036,7 @@
 ﻿Rok Strani]The Offspring}Demons=http://www.youtube.com/watch?v=nFEqbEzaXk8
 ﻿Rok Strani]The Offspring}Denial, Revisited=http://www.youtube.com/watch?v=TRoJLuNAKd4
 ﻿Rok Strani]The Offspring}Dirty Magic=http://www.youtube.com/watch?v=9ZX7cWu8Npo
-﻿Rok Strani]The Offspring}Dividing By Zero=http://www.youtube.com/watch?v=S8vvhIY0ZGc
+﻿Rok Strani]The Offspring}Dividing By Zero=http://www.youtube.com/watch?v=TqJ3Gph5wuY
 ﻿Rok Strani]The Offspring}Don't Pick It Up=http://www.youtube.com/watch?v=AzDMwFUe02w
 ﻿Rok Strani]The Offspring}Elders=http://www.youtube.com/watch?v=-oXkbP4KD8E
 ﻿Rok Strani]The Offspring}Feelings=http://www.youtube.com/watch?v=XnhoIf8dDVE
@@ -16052,12 +16052,12 @@
 ﻿Rok Strani]The Offspring}Hey Joe=http://www.youtube.com/watch?v=RWfEJzEXi1E
 ﻿Rok Strani]The Offspring}Hit That=--start-time=4 http://www.youtube.com/watch?v=HwRL1LNVTLI
 ﻿Rok Strani]The Offspring}Huck It=http://www.youtube.com/watch?v=zKFV74O_cu4
-﻿Rok Strani]The Offspring}Hurting As One=http://www.youtube.com/watch?v=v2OU50Gza5Q
+﻿Rok Strani]The Offspring}Hurting As One=http://www.youtube.com/watch?v=BA87vPcJ5DE
 ﻿Rok Strani]The Offspring}Hypodermic=http://www.youtube.com/watch?v=R3HL29jkIyg
 ﻿Rok Strani]The Offspring}I Choose=--start-time=5 http://www.youtube.com/watch?v=7yxbXsQ5yCc
 ﻿Rok Strani]The Offspring}I Got A Right=http://www.youtube.com/watch?v=c2gpYrNVGC0
 ﻿Rok Strani]The Offspring}I Wanna Be Sedated=http://www.youtube.com/watch?v=_A7I7cq72qg
-﻿Rok Strani]The Offspring}I Wanna Secret Family (With You)=http://www.youtube.com/watch?v=uraXxHirfwc
+﻿Rok Strani]The Offspring}I Wanna Secret Family (With You)=http://www.youtube.com/watch?v=detQUxiXKUQ
 ﻿Rok Strani]The Offspring}I'll Be Waiting=http://www.youtube.com/watch?v=RcExJ39RFeQ
 ﻿Rok Strani]The Offspring}It'll Be A Long Time=http://www.youtube.com/watch?v=Z11PvigNtwY
 ﻿Rok Strani]The Offspring}Jennifer Lost The War=http://www.youtube.com/watch?v=UVqNe_ZlEuk
@@ -16076,7 +16076,7 @@
 ﻿Rok Strani]The Offspring}Mission From God=http://www.youtube.com/watch?v=xfxKs6z6i6I
 ﻿Rok Strani]The Offspring}Mota=http://www.youtube.com/watch?v=s_CCGXJ1LPs
 ﻿Rok Strani]The Offspring}Never Gonna Find Me=http://www.youtube.com/watch?v=MY8dxWEP7bI
-﻿Rok Strani]The Offspring}Next To You=http://www.youtube.com/watch?v=9AvKfhbz8Hg
+﻿Rok Strani]The Offspring}Next To You=http://www.youtube.com/watch?v=TMPy4MMAXcE
 ﻿Rok Strani]The Offspring}Nitro (Youth Energy)=http://www.youtube.com/watch?v=F3tMLFR8bes
 ﻿Rok Strani]The Offspring}No Brakes=http://www.youtube.com/watch?v=UKDDu_0NsEk
 ﻿Rok Strani]The Offspring}No Hero=http://www.youtube.com/watch?v=H65o2ErWUzc
@@ -16091,7 +16091,7 @@
 ﻿Rok Strani]The Offspring}Pretty Fly (For A White Guy)=--start-time=6 http://www.youtube.com/watch?v=QtTR-_Klcq8
 ﻿Rok Strani]The Offspring}Race Against Myself=http://www.youtube.com/watch?v=X5-zw_dTEJQ
 ﻿Rok Strani]The Offspring}Rise And Fall=http://www.youtube.com/watch?v=hp_9FImPtvA
-﻿Rok Strani]The Offspring}Secrets From The Underground=http://www.youtube.com/watch?v=OAQqoqXZAQg
+﻿Rok Strani]The Offspring}Secrets From The Underground=http://www.youtube.com/watch?v=MdZRX0AvkmE
 ﻿Rok Strani]The Offspring}Self Esteem=http://www.youtube.com/watch?v=Bz7IGr3hWog
 ﻿Rok Strani]The Offspring}Session=http://www.youtube.com/watch?v=GiprAOKkYW0
 ﻿Rok Strani]The Offspring}Sharknado=http://www.youtube.com/watch?v=oMJdDbzcMV4
@@ -16109,13 +16109,12 @@
 ﻿Rok Strani]The Offspring}Takes Me Nowhere=http://www.youtube.com/watch?v=-uIu7S7LlN4
 ﻿Rok Strani]The Offspring}Tehran=http://www.youtube.com/watch?v=TPDVA9O5gQc
 ﻿Rok Strani]The Offspring}The End Of The Line=http://www.youtube.com/watch?v=JEuzVfvaB5M
-﻿Rok Strani]The Offspring}The Future Is Now=http://www.youtube.com/watch?v=gkHqqQdIoy4
+﻿Rok Strani]The Offspring}The Future Is Now=http://www.youtube.com/watch?v=Q54Oeun4o3I
 ﻿Rok Strani]The Offspring}The Kids Aren't Alright=http://www.youtube.com/watch?v=7iNbnineUCI
 ﻿Rok Strani]The Offspring}The Meaning Of Life=http://www.youtube.com/watch?v=avCteSZK-Ec
 ﻿Rok Strani]The Offspring}The Noose=http://www.youtube.com/watch?v=MQhcU_LudZ4
 ﻿Rok Strani]The Offspring}Totalimmortal=http://www.youtube.com/watch?v=ApMel9DdnLo
 ﻿Rok Strani]The Offspring}Trust In You=http://www.youtube.com/watch?v=Zls4KtUaiq8
-﻿Rok Strani]The Offspring}Turning Into You=http://www.youtube.com/watch?v=XQ0-zb94glk
 ﻿Rok Strani]The Offspring}Vultures=http://www.youtube.com/watch?v=gsF5auuEi84
 ﻿Rok Strani]The Offspring}Walla Walla=http://www.youtube.com/watch?v=dQ_kwxmaJ3U
 ﻿Rok Strani]The Offspring}Want You Bad=http://www.youtube.com/watch?v=_g19fCJotPc
