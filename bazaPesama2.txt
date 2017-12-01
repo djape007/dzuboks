@@ -1185,7 +1185,7 @@
 ﻿Narodna]Merima Njegomir}A gde si ti=http://www.youtube.com/watch?v=e8xoRmlchDw
 ﻿Narodna]Merima Njegomir}Da nije ljubavi=http://www.youtube.com/watch?v=M88oj4C0aRE
 ﻿Narodna]Merima Njegomir}Ivanova korita=http://www.youtube.com/watch?v=jFV3n0T9DTU
-﻿Narodna]Merima Njegomir}Jutros mi je ruža procvjetala=http://www.youtube.com/watch?v=ccJCgynbGCw
+﻿Narodna]Merima Njegomir}Jutros mi je ruža procvjetala=http://www.youtube.com/watch?v=M1ITmE8uV9c
 ﻿Narodna]Merima Njegomir}Kad zaškripi kapija=http://www.youtube.com/watch?v=42R_CPR0AYA
 ﻿Narodna]Merima Njegomir}Opilo nas vino=http://www.youtube.com/watch?v=VZjsY4901L8
 ﻿Narodna]Merima Njegomir}Pamtim još=http://www.youtube.com/watch?v=t4496GpAtJ4
@@ -6332,7 +6332,7 @@
 ﻿Narodna]Saša Matić}Kriva=http://www.youtube.com/watch?v=yQ3pagamIqc
 ﻿Narodna]Saša Matić}Lagala je, grade=http://www.youtube.com/watch?v=q7fAWzI7EbI
 ﻿Narodna]Saša Matić}Lanac sreće=http://www.youtube.com/watch?v=lCqTWhSYdRI
-Narodna]Saša Matić}Lažov notorni (duet Ceca)=http://www.youtube.com/watch?v=RuhRT7OJ8LA
+﻿Narodna]Saša Matić}Lažov notorni (duet Ceca)=http://www.youtube.com/watch?v=RuhRT7OJ8LA
 ﻿Narodna]Saša Matić}Loša stara vremena=http://www.youtube.com/watch?v=ZuTWJgPxf-w
 ﻿Narodna]Saša Matić}Maskara=http://www.youtube.com/watch?v=OPgMAK68PlQ
 ﻿Narodna]Saša Matić}Meni treba=http://www.youtube.com/watch?v=n9vNSbk0qoM
@@ -9429,7 +9429,7 @@ Narodna]Saša Matić}Lažov notorni (duet Ceca)=http://www.youtube.com/watch?v=R
 ﻿Narodna]Vasilija Radojčić}Ej, ludi Stojane=http://www.youtube.com/watch?v=Nr2IzEPrdSQ
 ﻿Narodna]Vasilija Radojčić}Je l' ti žao što se rastajemo=http://www.youtube.com/watch?v=SBkI4y43WvU
 ﻿Narodna]Vasilija Radojčić}Jedno pismo dugo putuje=http://www.youtube.com/watch?v=DzK6G23K4QA
-﻿Narodna]Vasilija Radojčić}Mito bekrijo=http://www.youtube.com/watch?v=ZQD7E6bOovo
+﻿Narodna]Vasilija Radojčić}Mito bekrijo=http://www.youtube.com/watch?v=b94EVG9qJHU
 ﻿Narodna]Vasilija Radojčić}Na Uskrs sam se rodila=http://www.youtube.com/watch?v=yNhprwZ-WZA
 ﻿Narodna]Vasilija Radojčić}Nikog danas nema bez problema=http://www.youtube.com/watch?v=OH4d1F3sWYs
 ﻿Narodna]Vasilija Radojčić}Pamtiš li još ljubav moju=http://www.youtube.com/watch?v=IdrhoSqqM5E
@@ -10709,7 +10709,7 @@ Narodna]Saša Matić}Lažov notorni (duet Ceca)=http://www.youtube.com/watch?v=R
 ﻿Tamburaši]Zvonko Bogdan}Kad bi ove ruže male=http://www.youtube.com/watch?v=A_pdwtjk-p0
 ﻿Tamburaši]Zvonko Bogdan}Kad sam bio mlađan lovac ja=http://www.youtube.com/watch?v=OY2e1Fp32kU
 ﻿Tamburaši]Zvonko Bogdan}Kad se mesec sprema na spavanje=http://www.youtube.com/watch?v=6_iUSjC5NuY
-﻿Tamburaši]Zvonko Bogdan}Kada padne prvi sneg=http://www.youtube.com/watch?v=bYyZfjVRZu0
+﻿Tamburaši]Zvonko Bogdan}Kada padne prvi sneg=--start-time=5 http://www.youtube.com/watch?v=xEB8DiLIlWg
 ﻿Tamburaši]Zvonko Bogdan}Kradem ti se=http://www.youtube.com/watch?v=RcZo3r7cYgY
 ﻿Tamburaši]Zvonko Bogdan}Kraj jezera jedna kuća mala=http://www.youtube.com/watch?v=9SYOH4C4ECM
 ﻿Tamburaši]Zvonko Bogdan}Kupiću ti cipelice=http://www.youtube.com/watch?v=XFVDFPe2tRM
@@ -10727,7 +10727,7 @@ Narodna]Saša Matić}Lažov notorni (duet Ceca)=http://www.youtube.com/watch?v=R
 ﻿Tamburaši]Zvonko Bogdan}Romansa ta=http://www.youtube.com/watch?v=aygyyU8k6x4
 ﻿Tamburaši]Zvonko Bogdan}Šta će selo kad ne bude mene=http://www.youtube.com/watch?v=08DoxCNZuoo
 ﻿Tamburaši]Zvonko Bogdan}Šta li radi moja ljubav=http://www.youtube.com/watch?v=1JJqDHE_uLY
-﻿Tamburaši]Zvonko Bogdan}Svaku ženu volim ja=http://www.youtube.com/watch?v=3cH9lh_QlcM
+﻿Tamburaši]Zvonko Bogdan}Svaku ženu volim ja=--start-time=5 http://www.youtube.com/watch?v=xEB8DiLIlWg
 ﻿Tamburaši]Zvonko Bogdan}Svirci moji=http://www.youtube.com/watch?v=rlIPlxgli4g
 ﻿Tamburaši]Zvonko Bogdan}Ta tvoja suknja plava=http://www.youtube.com/watch?v=gB-jrwZsTH8
 ﻿Tamburaši]Zvonko Bogdan}Tera Lenka=http://www.youtube.com/watch?v=gq0t60OdCIk
