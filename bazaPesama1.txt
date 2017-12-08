@@ -3038,7 +3038,6 @@
 ﻿Zabavna]Colonia}Luda za tobom=http://www.youtube.com/watch?v=a_wlBRxUBFc
 ﻿Zabavna]Colonia}Mala kišna kap=http://www.youtube.com/watch?v=uHdUyquEGt4
 ﻿Zabavna]Colonia}Marioneta=http://www.youtube.com/watch?v=FgUwULhxZ6I
-﻿Zabavna]Colonia}Medene usne=http://www.youtube.com/watch?v=bVrZNvTALKs
 ﻿Zabavna]Colonia}Milijun milja od nigdje=http://www.youtube.com/watch?v=VDa2GnQmT-4
 ﻿Zabavna]Colonia}Mirno more=http://www.youtube.com/watch?v=PCOJRclUI84
 ﻿Zabavna]Colonia}Mjesečari=http://www.youtube.com/watch?v=48PTuhQwns0
@@ -4139,7 +4138,7 @@
 ﻿Zabavna]Dino Merlin}Da je tuga sneg=http://www.youtube.com/watch?v=nO4gCGm5bhg
 ﻿Zabavna]Dino Merlin}Da šutiš=http://www.youtube.com/watch?v=5m5XcwaG1ic
 ﻿Zabavna]Dino Merlin}Danas sam OK=http://www.youtube.com/watch?v=1yh-oidUIPM
-﻿Zabavna]Dino Merlin}Deset mlađa=--start-time=10 http://www.youtube.com/watch?v=7MHPwS1cDGw
+﻿Zabavna]Dino Merlin}Deset mlađa=http://www.youtube.com/watch?v=26LN92sp0ak
 ﻿Zabavna]Dino Merlin}E, otkad mi se nisi javila=http://www.youtube.com/watch?v=qGcu5LLwTpE
 ﻿Zabavna]Dino Merlin}Fotografija=http://www.youtube.com/watch?v=bPVpJkN6pu4
 ﻿Zabavna]Dino Merlin}Hajde noćas mi dođi=http://www.youtube.com/watch?v=8xt47-aRFrE
@@ -15400,7 +15399,7 @@
 ﻿Rok Strani]Janis Joplin}As Good As You've Been To This World=http://www.youtube.com/watch?v=09ryQCxiO74
 ﻿Rok Strani]Janis Joplin}Black Mountain Blues=http://www.youtube.com/watch?v=CAlh3CBK7iE
 ﻿Rok Strani]Janis Joplin}Blow My Mind=http://www.youtube.com/watch?v=-5ax0jR4TWc
-﻿Rok Strani]Janis Joplin}Bo Diddley=http://www.youtube.com/watch?v=dOlIIbczzfk
+﻿Rok Strani]Janis Joplin}Bo Diddley=http://www.youtube.com/watch?v=cpOxik-rtvI
 ﻿Rok Strani]Janis Joplin}Bye, Bye Baby=http://www.youtube.com/watch?v=KH5YjqNs-78
 ﻿Rok Strani]Janis Joplin}Call On Me=http://www.youtube.com/watch?v=4nQjqoRiKK0
 ﻿Rok Strani]Janis Joplin}Catch Me Daddy=http://www.youtube.com/watch?v=XDtnjO-fLOw
@@ -15416,7 +15415,6 @@
 ﻿Rok Strani]Janis Joplin}Get It While You Can=http://www.youtube.com/watch?v=0Jq5AGd5geA
 ﻿Rok Strani]Janis Joplin}Half Moon=http://www.youtube.com/watch?v=38R4-I0_dU8
 ﻿Rok Strani]Janis Joplin}Hey Baby=http://www.youtube.com/watch?v=ssF65nQAyw4
-﻿Rok Strani]Janis Joplin}I Can't Turn You Loose=http://www.youtube.com/watch?v=lAluU82Ldw4
 ﻿Rok Strani]Janis Joplin}I Know You Rider=http://www.youtube.com/watch?v=9py46oX8HGg
 ﻿Rok Strani]Janis Joplin}I Need A Man To Love=http://www.youtube.com/watch?v=9NRzxu_Hak8
 ﻿Rok Strani]Janis Joplin}Intruder=http://www.youtube.com/watch?v=eHHCZa2V8Bo
@@ -15674,7 +15672,6 @@
 ﻿Rok Strani]Jethro Tull}Wond'ring Again=http://www.youtube.com/watch?v=-0mxuJiOEaQ
 ﻿Rok Strani]Jethro Tull}Wond'ring Aloud=http://www.youtube.com/watch?v=zEYJrBoxvOE
 ﻿Rok Strani]Jimi Hendrix}1983 (A Merman I Should Turn To Be)=http://www.youtube.com/watch?v=YIii4sunnCo
-﻿Rok Strani]Jimi Hendrix}51st Anniversary=http://www.youtube.com/watch?v=IISHQ7rv1Hc
 ﻿Rok Strani]Jimi Hendrix}Ain't No Telling=http://www.youtube.com/watch?v=R9Mmhu0-ff0
 ﻿Rok Strani]Jimi Hendrix}All Along The Watchtower=http://www.youtube.com/watch?v=TLV4_xaYynY
 ﻿Rok Strani]Jimi Hendrix}Angel=http://www.youtube.com/watch?v=EaRFxrDAR-A
@@ -15685,7 +15682,6 @@
 ﻿Rok Strani]Jimi Hendrix}Bold As Love=http://www.youtube.com/watch?v=sXjJhm7KBII
 ﻿Rok Strani]Jimi Hendrix}Born Under A Bad Sign=http://www.youtube.com/watch?v=NZm4baDM-8w
 ﻿Rok Strani]Jimi Hendrix}Burning Of The Midnight Lamp=http://www.youtube.com/watch?v=kbRlgEK27Jg
-﻿Rok Strani]Jimi Hendrix}Can You Please Crawl Out Your Window?=http://www.youtube.com/watch?v=2zjQRz6wS0k
 ﻿Rok Strani]Jimi Hendrix}Can You See Me?=http://www.youtube.com/watch?v=Zc5NncvSQNk
 ﻿Rok Strani]Jimi Hendrix}Castles Made Of Sand=http://www.youtube.com/watch?v=HUd8xxWcy4k
 ﻿Rok Strani]Jimi Hendrix}Come On (Part One)=http://www.youtube.com/watch?v=1_p5guB7dis
@@ -15696,7 +15692,6 @@
 ﻿Rok Strani]Jimi Hendrix}Drifter's Escape=http://www.youtube.com/watch?v=yevwCY9MQL8
 ﻿Rok Strani]Jimi Hendrix}Drifting=http://www.youtube.com/watch?v=gpw4T4ZnTlg
 ﻿Rok Strani]Jimi Hendrix}EXP=http://www.youtube.com/watch?v=jo4gwKtAaDU
-﻿Rok Strani]Jimi Hendrix}Earth Blues=http://www.youtube.com/watch?v=_3avtYvZr7E
 ﻿Rok Strani]Jimi Hendrix}Ezy Ryder=http://www.youtube.com/watch?v=n9g6ngaWNAE
 ﻿Rok Strani]Jimi Hendrix}Fire=--start-time=50 http://www.youtube.com/watch?v=IWAUeF00Vf0
 ﻿Rok Strani]Jimi Hendrix}Foxey Lady=http://www.youtube.com/watch?v=1Z3g8DJK-qU
@@ -15721,7 +15716,7 @@
 ﻿Rok Strani]Jimi Hendrix}Mannish Boy=http://www.youtube.com/watch?v=Hcnro9bUS3E
 ﻿Rok Strani]Jimi Hendrix}Message To Love=--start-time=44 http://www.youtube.com/watch?v=4Vsl6w9Nw6w
 ﻿Rok Strani]Jimi Hendrix}Midnight Lightning=http://www.youtube.com/watch?v=Nbmu3V2W2T8
-﻿Rok Strani]Jimi Hendrix}My Friend=http://www.youtube.com/watch?v=l_3oiF8mCsI
+﻿Rok Strani]Jimi Hendrix}My Friend=http://www.youtube.com/watch?v=-gPZQ1Ri_QA
 ﻿Rok Strani]Jimi Hendrix}Purple Haze=http://www.youtube.com/watch?v=ZGc4TLyr9yc
 ﻿Rok Strani]Jimi Hendrix}Rainy Day, Dream Away=http://www.youtube.com/watch?v=VAAMwTVUY44
 ﻿Rok Strani]Jimi Hendrix}Red House=http://www.youtube.com/watch?v=G2SlSokLN4c
@@ -15731,7 +15726,7 @@
 ﻿Rok Strani]Jimi Hendrix}Spanish Castle Magic=http://www.youtube.com/watch?v=HjL6AN3Yn1c
 ﻿Rok Strani]Jimi Hendrix}Still Raining, Still Dreaming=http://www.youtube.com/watch?v=b0E6fLJixUs
 ﻿Rok Strani]Jimi Hendrix}Stone Free=http://www.youtube.com/watch?v=-dnxpbxxI-Y
-﻿Rok Strani]Jimi Hendrix}Straight Ahead=http://www.youtube.com/watch?v=k7iGaomnFVE
+﻿Rok Strani]Jimi Hendrix}Straight Ahead=http://www.youtube.com/watch?v=wF-l5h3V74g
 ﻿Rok Strani]Jimi Hendrix}The Wind Cries Mary=http://www.youtube.com/watch?v=ATDEtzAcTg0
 ﻿Rok Strani]Jimi Hendrix}Third Stone From The Sun=http://www.youtube.com/watch?v=uLQVDeA_Onk
 ﻿Rok Strani]Jimi Hendrix}Up From The Skies=http://www.youtube.com/watch?v=lozODy6y0rM

@@ -12381,7 +12381,6 @@
 ﻿Rok Strani]Nirvana}Swap Meet=http://www.youtube.com/watch?v=nWECldIdv3o
 ﻿Rok Strani]Nirvana}Talk To Me=http://www.youtube.com/watch?v=uukOdFdyqVQ
 ﻿Rok Strani]Nirvana}Territorial Pissings=http://www.youtube.com/watch?v=JCGvONbVCa0
-﻿Rok Strani]Nirvana}The 'Priest' They Called Him=http://www.youtube.com/watch?v=4s5rjjh0sRo
 ﻿Rok Strani]Nirvana}The Man Who Sold The World=http://www.youtube.com/watch?v=tP_LaYDmFC8
 ﻿Rok Strani]Nirvana}Token Eastern Song=http://www.youtube.com/watch?v=mGG_RIvQLcM
 ﻿Rok Strani]Nirvana}Tourette's=http://www.youtube.com/watch?v=L117jPuQ0qg
@@ -12390,9 +12389,7 @@
 ﻿Rok Strani]Nirvana}Very Ape=http://www.youtube.com/watch?v=d_t-vU9goTI
 ﻿Rok Strani]Nirvana}Where Did You Sleep Last Night?=http://www.youtube.com/watch?v=iaCzydWesVA
 ﻿Rok Strani]Nirvana}You Know You're Right=--start-time=15 http://www.youtube.com/watch?v=qv96yJYhk3M
-﻿Rok Strani]Ozzy Osbourne}Aimee=http://www.youtube.com/watch?v=i4FwudI4rVY
 ﻿Rok Strani]Ozzy Osbourne}Alive=http://www.youtube.com/watch?v=TzKlrgT_CBI
-﻿Rok Strani]Ozzy Osbourne}All The Young Dudes=http://www.youtube.com/watch?v=VcFxgIu_1qI
 ﻿Rok Strani]Ozzy Osbourne}Back On Earth=http://www.youtube.com/watch?v=HZz7F0dnxCE
 ﻿Rok Strani]Ozzy Osbourne}Bark At The Moon=http://www.youtube.com/watch?v=bnNWUUZ7cEA
 ﻿Rok Strani]Ozzy Osbourne}Believer=http://www.youtube.com/watch?v=I8acJFqIWTs
@@ -12405,15 +12402,14 @@
 ﻿Rok Strani]Ozzy Osbourne}Desire=http://www.youtube.com/watch?v=KUUs-QXh9Kk
 ﻿Rok Strani]Ozzy Osbourne}Diggin' Me Down=http://www.youtube.com/watch?v=tdVXMgaSHeM
 ﻿Rok Strani]Ozzy Osbourne}Dreamer=http://www.youtube.com/watch?v=LCCiwPEdEpg
-﻿Rok Strani]Ozzy Osbourne}Facing Hell=http://www.youtube.com/watch?v=WnK1LIiizGs
-﻿Rok Strani]Ozzy Osbourne}Fire In The Sky=http://www.youtube.com/watch?v=B8EF-H23KfI
+﻿Rok Strani]Ozzy Osbourne}Facing Hell=http://www.youtube.com/watch?v=2CUAhsdqj7w
+﻿Rok Strani]Ozzy Osbourne}Fire In The Sky=http://www.youtube.com/watch?v=SUIQPd3gpmY
 ﻿Rok Strani]Ozzy Osbourne}Fire=http://www.youtube.com/watch?v=SUIQPd3gpmY
 ﻿Rok Strani]Ozzy Osbourne}Flying High Again=http://www.youtube.com/watch?v=fpGD0H-_JSA
 ﻿Rok Strani]Ozzy Osbourne}Fool Like You=http://www.youtube.com/watch?v=CY3H1QtdN2E
 ﻿Rok Strani]Ozzy Osbourne}Gets Me Through=http://www.youtube.com/watch?v=vNcAnWMPkIg
 ﻿Rok Strani]Ozzy Osbourne}Goodbye To Romance=http://www.youtube.com/watch?v=_nm2zxIy9oM
 ﻿Rok Strani]Ozzy Osbourne}Hellraiser=http://www.youtube.com/watch?v=cKKo7CAOt2M
-﻿Rok Strani]Ozzy Osbourne}I Can't Save You=http://www.youtube.com/watch?v=oRp_dhdkUI4
 ﻿Rok Strani]Ozzy Osbourne}I Don't Wanna Stop=http://www.youtube.com/watch?v=QjD8PDh-3c4
 ﻿Rok Strani]Ozzy Osbourne}I Don't Want To Change The World=http://www.youtube.com/watch?v=inpgVM-19qc
 ﻿Rok Strani]Ozzy Osbourne}I Just Want You=http://www.youtube.com/watch?v=P1-DX-gRQmI
@@ -12423,30 +12419,27 @@
 ﻿Rok Strani]Ozzy Osbourne}Jump The Moon=http://www.youtube.com/watch?v=6NFlLBHR0uI
 ﻿Rok Strani]Ozzy Osbourne}Killer Of Giants=http://www.youtube.com/watch?v=7_uYciIlgQ0
 ﻿Rok Strani]Ozzy Osbourne}Lay Your World On Me=http://www.youtube.com/watch?v=jcT-xiD98vM
-﻿Rok Strani]Ozzy Osbourne}Let It Die=http://www.youtube.com/watch?v=bk5L5dnhKtA
 ﻿Rok Strani]Ozzy Osbourne}Let Me Hear You Scream=--start-time=3 http://www.youtube.com/watch?v=Rsa4HktvsU4
 ﻿Rok Strani]Ozzy Osbourne}Life Won't Wait=http://www.youtube.com/watch?v=jAh_SCjCh8A
 ﻿Rok Strani]Ozzy Osbourne}Lightning Strikes=http://www.youtube.com/watch?v=PYDpM7ljMHk
-﻿Rok Strani]Ozzy Osbourne}Little Dolls=http://www.youtube.com/watch?v=QBNX4JAMsWw
+﻿Rok Strani]Ozzy Osbourne}Little Dolls=http://www.youtube.com/watch?v=t5nsEBV-Kb0
 ﻿Rok Strani]Ozzy Osbourne}Mama, I'm Coming Home=http://www.youtube.com/watch?v=K0siYUjV9UM
 ﻿Rok Strani]Ozzy Osbourne}Miracle Man=http://www.youtube.com/watch?v=j34juXrJWqw
 ﻿Rok Strani]Ozzy Osbourne}Mr. Crowley=http://www.youtube.com/watch?v=cKUZPdFf-zg
 ﻿Rok Strani]Ozzy Osbourne}Mr. Tinkertrain=http://www.youtube.com/watch?v=fy5L97Obq1k
-﻿Rok Strani]Ozzy Osbourne}My Little Man=http://www.youtube.com/watch?v=4rwq3XXCqM4
+﻿Rok Strani]Ozzy Osbourne}My Little Man=http://www.youtube.com/watch?v=wMu_ZuVqTyE
 ﻿Rok Strani]Ozzy Osbourne}Never Say Die=http://www.youtube.com/watch?v=3vPXOqTcQHg
-﻿Rok Strani]Ozzy Osbourne}Never=http://www.youtube.com/watch?v=t6JJI4rgsQU
 ﻿Rok Strani]Ozzy Osbourne}Nightmare=http://www.youtube.com/watch?v=rygBIOnMjts
 ﻿Rok Strani]Ozzy Osbourne}No More Tears (Edit)=http://www.youtube.com/watch?v=CprfjfN5PRs
 ﻿Rok Strani]Ozzy Osbourne}No More Tears=http://www.youtube.com/watch?v=CprfjfN5PRs
 ﻿Rok Strani]Ozzy Osbourne}Not Going Away=http://www.youtube.com/watch?v=jKIuWWtRPUY
-﻿Rok Strani]Ozzy Osbourne}One More Time=http://www.youtube.com/watch?v=XKvEcSbtjQI
 ﻿Rok Strani]Ozzy Osbourne}Paranoid=http://www.youtube.com/watch?v=i84UI4ZV8WA
 ﻿Rok Strani]Ozzy Osbourne}Perry Mason=http://www.youtube.com/watch?v=opFFNSOPhuU
 ﻿Rok Strani]Ozzy Osbourne}Revelation (Mother Earth)=http://www.youtube.com/watch?v=3OPYtfH7jUw
 ﻿Rok Strani]Ozzy Osbourne}Road To Nowhere=http://www.youtube.com/watch?v=VhrvutBJ7_Q
 ﻿Rok Strani]Ozzy Osbourne}Rock 'N' Roll Rebel=http://www.youtube.com/watch?v=hPDMszDm9dQ
 ﻿Rok Strani]Ozzy Osbourne}Running Out Of Time=http://www.youtube.com/watch?v=ESGtgIgWSmY
-﻿Rok Strani]Ozzy Osbourne}S.I.N.=http://www.youtube.com/watch?v=G7esdJSezeU
+﻿Rok Strani]Ozzy Osbourne}S.I.N.=http://www.youtube.com/watch?v=snxtM208cbQ
 ﻿Rok Strani]Ozzy Osbourne}Sabbath Bloody Sabbath=http://www.youtube.com/watch?v=5fDvvUm-R3g
 ﻿Rok Strani]Ozzy Osbourne}Secret Loser=http://www.youtube.com/watch?v=q4mW-6QTzqY
 ﻿Rok Strani]Ozzy Osbourne}See You On The Other Side=http://www.youtube.com/watch?v=0_Qt-bFx2ws
@@ -12459,11 +12452,7 @@
 ﻿Rok Strani]Ozzy Osbourne}The Almighty Dollar=http://www.youtube.com/watch?v=FuGPMM8CcMQ
 ﻿Rok Strani]Ozzy Osbourne}The Ultimate Sin=http://www.youtube.com/watch?v=O_ypaOIVmaA
 ﻿Rok Strani]Ozzy Osbourne}Time After Time=http://www.youtube.com/watch?v=yfUJTdI2d0s
-﻿Rok Strani]Ozzy Osbourne}Tomorrow=http://www.youtube.com/watch?v=GFClw1ni4kM
-﻿Rok Strani]Ozzy Osbourne}Trap Door=http://www.youtube.com/watch?v=JVEfoYElJcw
-﻿Rok Strani]Ozzy Osbourne}Walk On Water=http://www.youtube.com/watch?v=TqZ2mtFrqYQ
 ﻿Rok Strani]Ozzy Osbourne}Whole World's Fallin' Down=http://www.youtube.com/watch?v=4osksEudqlU
-﻿Rok Strani]Ozzy Osbourne}Working Class Hero=http://www.youtube.com/watch?v=T7fb_Y58Iho
 ﻿Rok Strani]Pantera}10's=http://www.youtube.com/watch?v=XV_D1Y_YHlA
 ﻿Rok Strani]Pantera}13 Steps To Nowhere=http://www.youtube.com/watch?v=g9jQmvynpTQ
 ﻿Rok Strani]Pantera}25 Years=http://www.youtube.com/watch?v=RmB6OFplI2k
