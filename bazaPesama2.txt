@@ -4022,6 +4022,7 @@
 ﻿Rok]Piloti}Tajna je u tebi skrivena=http://www.youtube.com/watch?v=XVkEF-UYxvI
 ﻿Rok]Piloti}Tiho, tiho=http://www.youtube.com/watch?v=sT3VzvQPkhg
 ﻿Rok]Piloti}To je sudbina=http://www.youtube.com/watch?v=e_Rt3AdlEX0
+﻿Rok]Piloti}To je tako čudan put=--start-time=7 http://www.youtube.com/watch?v=DsHLWtr3hWw
 ﻿Rok]Piloti}Uzalud rođeni=http://www.youtube.com/watch?v=-ZXVd8-ovfw
 ﻿Rok]Piloti}Više ništa nemam osim ovog srca=http://www.youtube.com/watch?v=xKMHR6cDZSQ
 ﻿Rok]Piloti}Zaboravljeni=http://www.youtube.com/watch?v=VJyN3ZFv1FU
@@ -10386,6 +10387,7 @@
 ﻿Rok]Zoran Kiki Lesendrić}Noć kao iz sna=--start-time=9 http://www.youtube.com/watch?v=JGrzP2fx6vk
 ﻿Rok]Zoran Kiki Lesendrić}Oltar=http://www.youtube.com/watch?v=gjhZj3T4Ywk
 ﻿Rok]Zoran Kiki Lesendrić}Slučajno=http://www.youtube.com/watch?v=fNumMYpnPrM
+﻿Rok]Zoran Kiki Lesendrić}To je tako čudan put=--start-time=7 http://www.youtube.com/watch?v=DsHLWtr3hWw
 ﻿Rok]Zoran Kiki Lesendrić}Uvek te đavo nađe lakše nego ja=http://www.youtube.com/watch?v=HBabG9voUZw
 ﻿Narodna]Zoran Vanev}Amerika, Australija=http://www.youtube.com/watch?v=5W7ZWvGmuGc
 ﻿Narodna]Zoran Vanev}Bagremovi=http://www.youtube.com/watch?v=TPee2E99duc
