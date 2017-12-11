@@ -3423,6 +3423,7 @@
 ﻿Zabavna]Dado Polumenta}Hipnotisan=http://www.youtube.com/watch?v=wnBdhNDDhrg
 ﻿Zabavna]Dado Polumenta}Istina=http://www.youtube.com/watch?v=4ZpKUj0xBV4
 ﻿Zabavna]Dado Polumenta}Ja noćas dolazim=http://www.youtube.com/watch?v=Lm88z1ET3Lo
+﻿Zabavna]Dado Polumenta}Ja te volim=--start-time=5 http://www.youtube.com/watch?v=ILiOtHrajrc
 ﻿Zabavna]Dado Polumenta}Ja volim Balkan=http://www.youtube.com/watch?v=S-sZCQkJFKA
 ﻿Zabavna]Dado Polumenta}Jasmina=http://www.youtube.com/watch?v=RnjkegLm4nU
 ﻿Zabavna]Dado Polumenta}Kad pijem=http://www.youtube.com/watch?v=K7V5mzX5HYg
@@ -4570,6 +4571,7 @@
 ﻿Kantautori]Đorđe Balašević}Lunjo=http://www.youtube.com/watch?v=MFsouIelYL8
 ﻿Kantautori]Đorđe Balašević}Maliganska=http://www.youtube.com/watch?v=-hssLEFO5A4
 ﻿Kantautori]Đorđe Balašević}Mani me se, lepa Nasto=http://www.youtube.com/watch?v=f-qJMsaEYjU
+﻿Kantautori]Đorđe Balašević}Mati=https://www.youtube.com/watch?v=1GdB7RvJOZ8
 ﻿Kantautori]Đorđe Balašević}Medena vremena=http://www.youtube.com/watch?v=n-vs5NCW7_o
 ﻿Kantautori]Đorđe Balašević}Miholjsko leto=http://www.youtube.com/watch?v=MnxRuYvvi0E
 ﻿Kantautori]Đorđe Balašević}Mirka=http://www.youtube.com/watch?v=Ap5GTb7YQXE
