@@ -1644,6 +1644,7 @@
 ﻿Narodna]Mile Kitić}Zlato, srebro, dukati=http://www.youtube.com/watch?v=e0pOzVZb4Ss
 ﻿Narodna]Mile Kitić}Znaš li šta o njoj=http://www.youtube.com/watch?v=CWReE5a-k_0
 ﻿Narodna]Mile Kitić}Zoro=http://www.youtube.com/watch?v=10zre2W22QU
+Zabavna]Milena Ćeranić}Barikada=--start-time=5 https://www.youtube.com/watch?v=Nh2-8KOdJo0
 ﻿Zabavna]Milena Ćeranić}Dvadesete gazim=http://www.youtube.com/watch?v=ftkCTxL9_Mk
 ﻿Zabavna]Milena Ćeranić}Kabriolet=http://www.youtube.com/watch?v=IlPNIGFAULc
 ﻿Zabavna]Milena Ćeranić}Luda balkanska=http://www.youtube.com/watch?v=OtrwgwSgNoM
@@ -2870,6 +2871,7 @@
 ﻿Zabavna]Nevena Božović}Čujem da dolaziš u grad=--start-time=2 http://www.youtube.com/watch?v=nOcbwVnKmnU
 ﻿Zabavna]Nevena Božović}Dangerous drug=http://www.youtube.com/watch?v=byh2On_E1lk
 ﻿Zabavna]Nevena Božović}Jasno mi je=http://www.youtube.com/watch?v=iWp8o9GKQVg
+﻿Zabavna]Nevena Božović}Moja molitva=https://www.youtube.com/watch?v=KUz8uxZpZi0
 ﻿Zabavna]Nevena Božović}Pogledaj me=http://www.youtube.com/watch?v=9c_nIdSA4uo
 ﻿Zabavna]Nevena Božović}Siesta=http://www.youtube.com/watch?v=RQLt4Xz90I4
 ﻿Zabavna]Nevena Božović}Trebam tebe=--start-time=4 http://www.youtube.com/watch?v=cJdgngVSUss
