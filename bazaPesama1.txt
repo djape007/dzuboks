@@ -3904,7 +3904,7 @@
 ﻿Zabavna]Darko Radovanović}Vreme da se rastaje=http://www.youtube.com/watch?v=MHtArxY3BeY
 ﻿Zabavna]Darko Radovanović}Zar si morala da znaš=http://www.youtube.com/watch?v=Nz5zBD2H8mY
 ﻿Zabavna]Darko Radovanović}Zastave=http://www.youtube.com/watch?v=XSkYn0h7KMU
-Rok]Darko Rundek}12 ptica=http://www.youtube.com/watch?v=lNYOT-sAJCo
+﻿Rok]Darko Rundek}12 ptica=http://www.youtube.com/watch?v=lNYOT-sAJCo
 ﻿Rok]Darko Rundek}Afrika=http://www.youtube.com/watch?v=SrN6Z-8rUUQ
 ﻿Rok]Darko Rundek}Apokalipso=http://www.youtube.com/watch?v=NZRrLUrU9Qw
 ﻿Rok]Darko Rundek}Ay Carmela=http://www.youtube.com/watch?v=akUVSQQZmBY
@@ -11158,7 +11158,7 @@ Rok]Darko Rundek}12 ptica=http://www.youtube.com/watch?v=lNYOT-sAJCo
 ﻿Rok Strani]Sting}Ballad of the great eastern=https://www.youtube.com/watch?v=dH44goCQqCU
 ﻿Rok Strani]Sting}So to speak=https://www.youtube.com/watch?v=b9g-2k8CK9s
 ﻿Rok Strani]Sting}I love her but she loves someone else=https://www.youtube.com/watch?v=7aLtvzZOr1o
-﻿Rok Strani]Sting}I'm lost without you=https://www.youtube.com/watch?v=fnaVdV-WlAk
+﻿Rok Strani]Sting}I'm lost without you=http://www.youtube.com/watch?v=GSH4Zgw66Zw
 ﻿Rok Strani]Sting}Sacred love=--start-time=15 https://www.youtube.com/watch?v=03cW4O6UbXo
 ﻿Rok Strani]Sting}Never coming home=--start-time=8 https://www.youtube.com/watch?v=SsI8TSekYbM
 ﻿Rok Strani]Sting}Forget about the futuer=--start-time=7 https://www.youtube.com/watch?v=aC6dczZy-98
@@ -11930,7 +11930,7 @@ Rok]Darko Rundek}12 ptica=http://www.youtube.com/watch?v=lNYOT-sAJCo
 ﻿Rok Strani]Alice Cooper}For Veronica's Sake=http://www.youtube.com/watch?v=vconlmoD9kw
 ﻿Rok Strani]Alice Cooper}Freak Out Song=http://www.youtube.com/watch?v=KYJ0qHZStVA
 ﻿Rok Strani]Alice Cooper}Freedom=http://www.youtube.com/watch?v=mL1kQQbhmY8
-﻿Rok Strani]Alice Cooper}From The Inside=http://www.youtube.com/watch?v=duF7jKT1f7s
+﻿Rok Strani]Alice Cooper}From The Inside=http://www.youtube.com/watch?v=xxHh0Xcf7cw
 ﻿Rok Strani]Alice Cooper}Generation Landslide=http://www.youtube.com/watch?v=5zu1e8XMNRU
 ﻿Rok Strani]Alice Cooper}Ghouls Gone Wild=http://www.youtube.com/watch?v=fGtLkN6bMZA
 ﻿Rok Strani]Alice Cooper}Gimme=http://www.youtube.com/watch?v=sAOV7uz66XU
@@ -11983,7 +11983,7 @@ Rok]Darko Rundek}12 ptica=http://www.youtube.com/watch?v=lNYOT-sAJCo
 ﻿Rok Strani]Alice Cooper}Model Citizen=http://www.youtube.com/watch?v=APZHxElTksQ
 ﻿Rok Strani]Alice Cooper}Muscle Of Love=http://www.youtube.com/watch?v=OWIzyr1zP6Y
 ﻿Rok Strani]Alice Cooper}My Stars=http://www.youtube.com/watch?v=xxMNWO8nbVI
-﻿Rok Strani]Alice Cooper}Nothing's Free=http://www.youtube.com/watch?v=eowVDDOMKlU
+﻿Rok Strani]Alice Cooper}Nothing's Free=http://www.youtube.com/watch?v=AO3ms4w_mqY
 ﻿Rok Strani]Alice Cooper}Novocaine=http://www.youtube.com/watch?v=amQ9mpig3PE
 ﻿Rok Strani]Alice Cooper}Nurse Rozetta=http://www.youtube.com/watch?v=R-h13lDzGNo
 ﻿Rok Strani]Alice Cooper}Only My Heart Talkin'=http://www.youtube.com/watch?v=JZvijOU941o

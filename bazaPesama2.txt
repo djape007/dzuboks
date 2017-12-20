@@ -1644,7 +1644,7 @@
 ﻿Narodna]Mile Kitić}Zlato, srebro, dukati=http://www.youtube.com/watch?v=e0pOzVZb4Ss
 ﻿Narodna]Mile Kitić}Znaš li šta o njoj=http://www.youtube.com/watch?v=CWReE5a-k_0
 ﻿Narodna]Mile Kitić}Zoro=http://www.youtube.com/watch?v=10zre2W22QU
-Zabavna]Milena Ćeranić}Barikada=--start-time=5 https://www.youtube.com/watch?v=Nh2-8KOdJo0
+﻿Zabavna]Milena Ćeranić}Barikada=--start-time=5 https://www.youtube.com/watch?v=Nh2-8KOdJo0
 ﻿Zabavna]Milena Ćeranić}Dvadesete gazim=http://www.youtube.com/watch?v=ftkCTxL9_Mk
 ﻿Zabavna]Milena Ćeranić}Kabriolet=http://www.youtube.com/watch?v=IlPNIGFAULc
 ﻿Zabavna]Milena Ćeranić}Luda balkanska=http://www.youtube.com/watch?v=OtrwgwSgNoM
@@ -2365,7 +2365,6 @@ Zabavna]Milena Ćeranić}Barikada=--start-time=5 https://www.youtube.com/watch?v
 ﻿Narodna]Muharem Serbezovski}Ramajana=http://www.youtube.com/watch?v=9naycuhzfDg
 ﻿Narodna]Muharem Serbezovski}Rastajemo se mi=http://www.youtube.com/watch?v=nJ_3k35pI8I
 ﻿Narodna]Muharem Serbezovski}Sine moj=http://www.youtube.com/watch?v=sob0BzE5syU
-﻿Narodna]Muharem Serbezovski}Siroče sam=http://www.youtube.com/watch?v=CX5cTQrNrCE
 ﻿Narodna]Muharem Serbezovski}Spavaj čedo=http://www.youtube.com/watch?v=9nvCXbkyVYg
 ﻿Narodna]Muharem Serbezovski}Šta će mi bogatstvo=http://www.youtube.com/watch?v=So_WA2dWHA0
 ﻿Narodna]Muharem Serbezovski}Šta je dušo=http://www.youtube.com/watch?v=pzrwPtfBx94
@@ -4408,11 +4407,11 @@ Zabavna]Milena Ćeranić}Barikada=--start-time=5 https://www.youtube.com/watch?v
 ﻿Rok]Night Shift}Snovi=http://www.youtube.com/watch?v=Ujgl8YhzOi4
 ﻿Rok]Night Shift}Missing=http://www.youtube.com/watch?v=tVRfnx2OKRo
 ﻿Rok]Night Shift}Livin' la vida loca=http://www.youtube.com/watch?v=pq4j-63RlKc
-﻿Rok]Night Shift}Ranjena=http://www.youtube.com/watch?v=0dtKMJUVZFk
+﻿Rok]Night Shift}Ranjena=http://www.youtube.com/watch?v=7SrwuDnRcz8
 ﻿Rok]Night Shift}Znam=http://www.youtube.com/watch?v=TXTTzfPKaVk
 ﻿Rok]Night Shift}Ti si sav moj bol=http://www.youtube.com/watch?v=DfXhL4ZjF28
 ﻿Rok]Night Shift}Svejedno=http://www.youtube.com/watch?v=SjN6AvfzCbg
-﻿Rok]Night Shift}Ogledalo=http://www.youtube.com/watch?v=SLAhKT-ioig
+﻿Rok]Night Shift}Ogledalo=http://www.youtube.com/watch?v=2sUb-QuonvQ
 ﻿Rok]Night Shift}Kad nisi tu=http://www.youtube.com/watch?v=i97chCXT7l8
 ﻿Rok]Night Shift}Ja ću se boriti=http://www.youtube.com/watch?v=plVPhvARloU
 ﻿Rok]Night Shift}No ordinary love=--start-time=5 http://www.youtube.com/watch?v=i6zQkRyzN88
@@ -5195,7 +5194,7 @@ Zabavna]Milena Ćeranić}Barikada=--start-time=5 https://www.youtube.com/watch?v
 ﻿Rok]Riblja Čorba}Ja ratujem sam=http://www.youtube.com/watch?v=rHPUvk_3rgI
 ﻿Rok]Riblja Čorba}Ja sam još ona ista budala=http://www.youtube.com/watch?v=bHl4fnp7wqU
 ﻿Rok]Riblja Čorba}Ja sam rođen namrgođen=http://www.youtube.com/watch?v=Cr1QnabEQ2E
-﻿Rok]Riblja Čorba}Ja sam se ložio na tebe=http://www.youtube.com/watch?v=qJIhPmXwq14
+﻿Rok]Riblja Čorba}Ja sam se ložio na tebe=http://www.youtube.com/watch?v=d5LAMFexY-k
 ﻿Rok]Riblja Čorba}Ja se zaista ne sećam=http://www.youtube.com/watch?v=IPS8W-QTwM0
 ﻿Rok]Riblja Čorba}Jak, mlad i glup=http://www.youtube.com/watch?v=V7ZyXILtjDc
 ﻿Rok]Riblja Čorba}Jebi ga=http://www.youtube.com/watch?v=xXssxsSDsXM
@@ -10853,7 +10852,7 @@ Zabavna]Milena Ćeranić}Barikada=--start-time=5 https://www.youtube.com/watch?v
 ﻿Rok Strani]Metallica}The four horsemen=https://www.youtube.com/watch?v=C4nCy5CITc8
 ﻿Rok Strani]Metallica}Am i evil?=https://www.youtube.com/watch?v=-u-HCHCuHMg
 ﻿Rok Strani]Metallica}Creeping death=https://www.youtube.com/watch?v=UO_84C3fpuI
-﻿Rok Strani]Metallica}For whom the bell tolls=--start-time=3 https://www.youtube.com/watch?v=bg92QpjRcJk
+﻿Rok Strani]Metallica}For whom the bell tolls=http://www.youtube.com/watch?v=lIVgxFabzdE
 ﻿Rok Strani]Metallica}Fade to black=https://www.youtube.com/watch?v=WEQnzs8wl6E
 ﻿Rok Strani]Metallica}The day that never comes=--start-time=36 https://www.youtube.com/watch?v=dkNfNR1WYMY
 ﻿Rok Strani]Metallica}Welcome home=https://www.youtube.com/watch?v=WElvEZj0Ltw
@@ -12267,7 +12266,7 @@ Zabavna]Milena Ćeranić}Barikada=--start-time=5 https://www.youtube.com/watch?v
 ﻿Rok Strani]Nine Inch Nails}Closer=http://www.youtube.com/watch?v=HaA4zHMnwDs
 ﻿Rok Strani]Nine Inch Nails}Copy Of A=http://www.youtube.com/watch?v=qSomIodjPKg
 ﻿Rok Strani]Nine Inch Nails}Dead Souls=http://www.youtube.com/watch?v=iVNgOOE7Wpg
-﻿Rok Strani]Nine Inch Nails}Dear World=http://www.youtube.com/watch?v=2TNCGGrVGuA
+﻿Rok Strani]Nine Inch Nails}Dear World=http://www.youtube.com/watch?v=F2_3RvZ2vtU
 ﻿Rok Strani]Nine Inch Nails}Deep=--start-time=8 http://www.youtube.com/watch?v=GBFwXoyjU2E
 ﻿Rok Strani]Nine Inch Nails}Demon Seed=http://www.youtube.com/watch?v=Z7EsX-oJe6s
 ﻿Rok Strani]Nine Inch Nails}Disappointed=http://www.youtube.com/watch?v=tWy0k4vTDqg
@@ -12469,7 +12468,7 @@ Zabavna]Milena Ćeranić}Barikada=--start-time=5 https://www.youtube.com/watch?v
 ﻿Rok Strani]Ozzy Osbourne}Crucify=http://www.youtube.com/watch?v=zObzdkmHlno
 ﻿Rok Strani]Ozzy Osbourne}Demon Alcohol=http://www.youtube.com/watch?v=YiKLnc3Dn08
 ﻿Rok Strani]Ozzy Osbourne}Desire=http://www.youtube.com/watch?v=KUUs-QXh9Kk
-﻿Rok Strani]Ozzy Osbourne}Diggin' Me Down=http://www.youtube.com/watch?v=tdVXMgaSHeM
+﻿Rok Strani]Ozzy Osbourne}Diggin' Me Down=http://www.youtube.com/watch?v=SfwcQ5AwwYY
 ﻿Rok Strani]Ozzy Osbourne}Dreamer=http://www.youtube.com/watch?v=LCCiwPEdEpg
 ﻿Rok Strani]Ozzy Osbourne}Facing Hell=http://www.youtube.com/watch?v=2CUAhsdqj7w
 ﻿Rok Strani]Ozzy Osbourne}Fire In The Sky=http://www.youtube.com/watch?v=SUIQPd3gpmY
@@ -12667,7 +12666,7 @@ Zabavna]Milena Ćeranić}Barikada=--start-time=5 https://www.youtube.com/watch?v
 ﻿Rok Strani]Pat Benatar}Prisoner Of Love=http://www.youtube.com/watch?v=9YNtkMvmqAk
 ﻿Rok Strani]Pat Benatar}Promises In The Dark=http://www.youtube.com/watch?v=KuPFhDQRKzw
 ﻿Rok Strani]Pat Benatar}Rated X=http://www.youtube.com/watch?v=TEdDXPqU83Q
-﻿Rok Strani]Pat Benatar}Red Vision=http://www.youtube.com/watch?v=CupS08361VU
+﻿Rok Strani]Pat Benatar}Red Vision=http://www.youtube.com/watch?v=HNcJTitwZWk
 ﻿Rok Strani]Pat Benatar}Run Between The Raindrops=http://www.youtube.com/watch?v=H8ZSRGJENBk
 ﻿Rok Strani]Pat Benatar}Sanctuary=http://www.youtube.com/watch?v=slUqClwNwb4
 ﻿Rok Strani]Pat Benatar}Sex As A Weapon=http://www.youtube.com/watch?v=RMyQQ9cvN2k
@@ -13482,7 +13481,7 @@ Zabavna]Milena Ćeranić}Barikada=--start-time=5 https://www.youtube.com/watch?v
 ﻿Rok Strani]Ramones}Pet Sematary=http://www.youtube.com/watch?v=F3J0iwwsq-w
 ﻿Rok Strani]Ramones}Pinhead=http://www.youtube.com/watch?v=GT_2K4ddG7g
 ﻿Rok Strani]Ramones}Planet Earth 1988=http://www.youtube.com/watch?v=AnGTYfdgCgI
-﻿Rok Strani]Ramones}Please Don't Leave=http://www.youtube.com/watch?v=7AG9YoE_lWE
+﻿Rok Strani]Ramones}Please Don't Leave=http://www.youtube.com/watch?v=p5-MSjSGkck
 ﻿Rok Strani]Ramones}Poison Heart=http://www.youtube.com/watch?v=OfIfzVf8t6E
 ﻿Rok Strani]Ramones}Psycho Therapy=http://www.youtube.com/watch?v=34wASuHRuRo
 ﻿Rok Strani]Ramones}Punishment Fits The Crime=http://www.youtube.com/watch?v=c9bA12nrAHU
@@ -16503,7 +16502,7 @@ Zabavna]Milena Ćeranić}Barikada=--start-time=5 https://www.youtube.com/watch?v
 ﻿Rok Strani]Twisted Sister}Bad Boys (Of Rock 'N' Roll)=http://www.youtube.com/watch?v=jIsr7mxo7Lo
 ﻿Rok Strani]Twisted Sister}Be Chrool To Your Scuel=http://www.youtube.com/watch?v=pWAJG71Urbw
 ﻿Rok Strani]Twisted Sister}Big Gun=http://www.youtube.com/watch?v=sY_UQsRaItA
-﻿Rok Strani]Twisted Sister}Blastin' Fast And Loud=http://www.youtube.com/watch?v=9HrHB14FrjE
+﻿Rok Strani]Twisted Sister}Blastin' Fast And Loud=http://www.youtube.com/watch?v=u4D3kg2GC1E
 ﻿Rok Strani]Twisted Sister}Burn In Hell=http://www.youtube.com/watch?v=kdsJUxVIANk
 ﻿Rok Strani]Twisted Sister}Can't Stand Still=http://www.youtube.com/watch?v=BVfdwp39pGE
 ﻿Rok Strani]Twisted Sister}Come Back=http://www.youtube.com/watch?v=f2u214I43jQ
@@ -16519,12 +16518,12 @@ Zabavna]Milena Ćeranić}Barikada=--start-time=5 https://www.youtube.com/watch?v
 ﻿Rok Strani]Twisted Sister}Have Yourself A Merry Little Christmas=http://www.youtube.com/watch?v=yzxLBdkN7OI
 ﻿Rok Strani]Twisted Sister}Heavy Metal Christmas=http://www.youtube.com/watch?v=grwP8QvI1jY
 ﻿Rok Strani]Twisted Sister}Heroes Are Hard To Find=http://www.youtube.com/watch?v=FMdWKK3D6xE
-﻿Rok Strani]Twisted Sister}High Steppin'=http://www.youtube.com/watch?v=33Oz9V6tSfA
+﻿Rok Strani]Twisted Sister}High Steppin'=http://www.youtube.com/watch?v=fq35VgXqnio
 ﻿Rok Strani]Twisted Sister}Hot Love=http://www.youtube.com/watch?v=RjpfelYf_ig
 ﻿Rok Strani]Twisted Sister}I Am (I'm Me)=http://www.youtube.com/watch?v=E_0aQOxkLZI
 ﻿Rok Strani]Twisted Sister}I Believe In Rock 'N' Roll=http://www.youtube.com/watch?v=RUnGQpXtUs4
 ﻿Rok Strani]Twisted Sister}I Believe In You=http://www.youtube.com/watch?v=EsmJfsYG1tU
-﻿Rok Strani]Twisted Sister}I Saw Mommy Kissing Santa Claus=http://www.youtube.com/watch?v=2YoFw4RhZT8
+﻿Rok Strani]Twisted Sister}I Saw Mommy Kissing Santa Claus=http://www.youtube.com/watch?v=8UVVk3bbiVo
 ﻿Rok Strani]Twisted Sister}I Wanna Rock=http://www.youtube.com/watch?v=neuq3p3IyP4
 ﻿Rok Strani]Twisted Sister}I Want This Night (To Last Forever)=http://www.youtube.com/watch?v=nW3Z6j1c9Jc
 ﻿Rok Strani]Twisted Sister}I Will Win=http://www.youtube.com/watch?v=uEeigZgznyY
@@ -16535,27 +16534,27 @@ Zabavna]Milena Ćeranić}Barikada=--start-time=5 https://www.youtube.com/watch?v
 ﻿Rok Strani]Twisted Sister}I've Had Enough=http://www.youtube.com/watch?v=AQ3p53EXOPw
 ﻿Rok Strani]Twisted Sister}If That's What You Want=http://www.youtube.com/watch?v=18HvWWb7pUA
 ﻿Rok Strani]Twisted Sister}Jailhouse Rock=http://www.youtube.com/watch?v=whzfo6XuFCs
-﻿Rok Strani]Twisted Sister}Kill Or Be Killed=http://www.youtube.com/watch?v=VQtp7hB9cpU
+﻿Rok Strani]Twisted Sister}Kill Or Be Killed=http://www.youtube.com/watch?v=CPCJQvES1cs
 ﻿Rok Strani]Twisted Sister}King Of The Fools=http://www.youtube.com/watch?v=pZjzuXKwZ3U
-﻿Rok Strani]Twisted Sister}Knife In The Back=http://www.youtube.com/watch?v=aYoN0_snN2c
-﻿Rok Strani]Twisted Sister}Lady's Boy=http://www.youtube.com/watch?v=icqDx_y14uA
+﻿Rok Strani]Twisted Sister}Knife In The Back=http://www.youtube.com/watch?v=ceEsixjVzUU
+﻿Rok Strani]Twisted Sister}Lady's Boy=http://www.youtube.com/watch?v=inYybGV0dSM
 ﻿Rok Strani]Twisted Sister}Leader Of The Pack=http://www.youtube.com/watch?v=cO_brEreGLw
 ﻿Rok Strani]Twisted Sister}Let It Snow=http://www.youtube.com/watch?v=SzruX276yF8
 ﻿Rok Strani]Twisted Sister}Like A Knife In The Back=http://www.youtube.com/watch?v=ceEsixjVzUU
-﻿Rok Strani]Twisted Sister}Lookin' Out For #1=http://www.youtube.com/watch?v=aDXtWQ6NQpk
+﻿Rok Strani]Twisted Sister}Lookin' Out For #1=http://www.youtube.com/watch?v=_xmxmjvMuG4
 ﻿Rok Strani]Twisted Sister}Love Is For Suckers=http://www.youtube.com/watch?v=dQ9mPiqCOUU
 ﻿Rok Strani]Twisted Sister}Me And The Boys=http://www.youtube.com/watch?v=N2pL7BTmTk4
 ﻿Rok Strani]Twisted Sister}Never Say Never=http://www.youtube.com/watch?v=AfogloG0PHM
-﻿Rok Strani]Twisted Sister}O Come All Ye Faithful=--start-time=8 http://www.youtube.com/watch?v=vmEfFlbqbbY
+﻿Rok Strani]Twisted Sister}O Come All Ye Faithful=http://www.youtube.com/watch?v=-GNtipSggWY
 ﻿Rok Strani]Twisted Sister}One Bad Habit=http://www.youtube.com/watch?v=MHinLeWLKuk
 ﻿Rok Strani]Twisted Sister}One Man Woman=http://www.youtube.com/watch?v=QK-a8-peP7E
 ﻿Rok Strani]Twisted Sister}Out On The Streets=http://www.youtube.com/watch?v=IVLJRTMLrEc
 ﻿Rok Strani]Twisted Sister}Pay The Price=http://www.youtube.com/watch?v=PnNY5l5u-i4
 ﻿Rok Strani]Twisted Sister}Plastic Money=http://www.youtube.com/watch?v=JwDmmaT5vJA
-﻿Rok Strani]Twisted Sister}Rock 'N' Roll Saviors=http://www.youtube.com/watch?v=d3xaG5by2cg
+﻿Rok Strani]Twisted Sister}Rock 'N' Roll Saviors=http://www.youtube.com/watch?v=xYa0BqcLvwA
 ﻿Rok Strani]Twisted Sister}Run For Your Life=http://www.youtube.com/watch?v=3Qj464otZP8
 ﻿Rok Strani]Twisted Sister}S.M.F.=http://www.youtube.com/watch?v=wBYjmFezzT8
-﻿Rok Strani]Twisted Sister}Shoot 'Em Down=http://www.youtube.com/watch?v=X8S0oaiRY8E
+﻿Rok Strani]Twisted Sister}Shoot 'Em Down=http://www.youtube.com/watch?v=n-sa21TMMac
 ﻿Rok Strani]Twisted Sister}Silver Bells=--start-time=40 http://www.youtube.com/watch?v=scqPtonqnH8
 ﻿Rok Strani]Twisted Sister}Sin After Sin=http://www.youtube.com/watch?v=PDXjOzrG1S8
 ﻿Rok Strani]Twisted Sister}Statutory Date=http://www.youtube.com/watch?v=sClJSXqJG8E
@@ -16572,9 +16571,9 @@ Zabavna]Milena Ćeranić}Barikada=--start-time=5 https://www.youtube.com/watch?v
 ﻿Rok Strani]Twisted Sister}Under The Blade=http://www.youtube.com/watch?v=0pPjmOjcDeE
 ﻿Rok Strani]Twisted Sister}Wake Up (The Sleeping Giant)=http://www.youtube.com/watch?v=K8inFj_XXjk
 ﻿Rok Strani]Twisted Sister}We're Gonna Make It=http://www.youtube.com/watch?v=_c41zojXVQI
-﻿Rok Strani]Twisted Sister}We're Not Gonna Take It=http://www.youtube.com/watch?v=4xmckWVPRaI
+﻿Rok Strani]Twisted Sister}We're Not Gonna Take It=http://www.youtube.com/watch?v=5WdQXpxzKeg
 ﻿Rok Strani]Twisted Sister}What You Don't Know (Sure Can Hurt You)=http://www.youtube.com/watch?v=P8KRfZhYlJY
-﻿Rok Strani]Twisted Sister}White Christmas=http://www.youtube.com/watch?v=6_1X-VEhHFc
+﻿Rok Strani]Twisted Sister}White Christmas=http://www.youtube.com/watch?v=o5AlV3BZ2h4
 ﻿Rok Strani]Twisted Sister}Yeah Right!=http://www.youtube.com/watch?v=EEUkpBJ0UaU
 ﻿Rok Strani]Twisted Sister}You Are All That I Need=http://www.youtube.com/watch?v=XDtaFkVUE6w
 ﻿Rok Strani]Twisted Sister}You Can't Stop Rock 'N' Roll=http://www.youtube.com/watch?v=GaehBH7DtR4
@@ -16785,7 +16784,7 @@ Zabavna]Milena Ćeranić}Barikada=--start-time=5 https://www.youtube.com/watch?v
 ﻿Rok Strani]Van Halen}A Apolitical Blues=http://www.youtube.com/watch?v=nuYGojwNfTQ
 ﻿Rok Strani]Van Halen}A.F.U. (Naturally Wired)=http://www.youtube.com/watch?v=DlCRgROe2uc
 ﻿Rok Strani]Van Halen}Aftershock=http://www.youtube.com/watch?v=NyO-Z7Mp8Ac
-﻿Rok Strani]Van Halen}Ain't Talkin' 'Bout Love=http://www.youtube.com/watch?v=eA8UUxTRx2Q
+﻿Rok Strani]Van Halen}Ain't Talkin' 'Bout Love=http://www.youtube.com/watch?v=Y-IUB62zDlA
 ﻿Rok Strani]Van Halen}Amsterdam=http://www.youtube.com/watch?v=xQr8__SPhbs
 ﻿Rok Strani]Van Halen}And The Cradle Will Rock=http://www.youtube.com/watch?v=FFez84xaR6Q
 ﻿Rok Strani]Van Halen}As Is=http://www.youtube.com/watch?v=PPbZEEZme6Y
@@ -17297,91 +17296,12 @@ Zabavna]Milena Ćeranić}Barikada=--start-time=5 https://www.youtube.com/watch?v
 ﻿Rok Strani]ZZ Top}Woke Up With Wood=http://www.youtube.com/watch?v=FqZ0LTzUACg
 ﻿Rok Strani]ZZ Top}World Of Swirl=http://www.youtube.com/watch?v=9S2gJ8iHcmM
 ﻿Rok Strani]ZZ Top}Zipper Job=http://www.youtube.com/watch?v=lGeZA7vGkAM
-Rok Strani]Twisted Sister}Bad Boys (Of Rock 'N' Roll)=http://www.youtube.com/watch?v=jIsr7mxo7Lo
-﻿Rok Strani]Twisted Sister}Be Chrool To Your Scuel=http://www.youtube.com/watch?v=pWAJG71Urbw
-﻿Rok Strani]Twisted Sister}Big Gun=http://www.youtube.com/watch?v=sY_UQsRaItA
-﻿Rok Strani]Twisted Sister}Blastin' Fast And Loud=http://www.youtube.com/watch?v=u4D3kg2GC1E
-﻿Rok Strani]Twisted Sister}Burn In Hell=http://www.youtube.com/watch?v=kdsJUxVIANk
-﻿Rok Strani]Twisted Sister}Can't Stand Still=http://www.youtube.com/watch?v=BVfdwp39pGE
 ﻿Rok Strani]Twisted Sister}Can't Stand Still (Live)=http://www.youtube.com/watch?v=BVfdwp39pGE
-﻿Rok Strani]Twisted Sister}Come Back=http://www.youtube.com/watch?v=f2u214I43jQ
-﻿Rok Strani]Twisted Sister}Come Out And Play=http://www.youtube.com/watch?v=ZSG47_-Ne9o
-﻿Rok Strani]Twisted Sister}Day Of The Rocker=http://www.youtube.com/watch?v=URib_JON3PM
-﻿Rok Strani]Twisted Sister}Deck The Halls=http://www.youtube.com/watch?v=Vlf9Vc50Puc
-﻿Rok Strani]Twisted Sister}Destroyer=http://www.youtube.com/watch?v=cFRTh_XrUNU
-﻿Rok Strani]Twisted Sister}Don't Let Me Down=http://www.youtube.com/watch?v=fEffE4VTeMI
-﻿Rok Strani]Twisted Sister}Feel Appeal=http://www.youtube.com/watch?v=kF0zHxT-lkU
-﻿Rok Strani]Twisted Sister}Feel The Power=http://www.youtube.com/watch?v=E0WF0c9smcM
-﻿Rok Strani]Twisted Sister}Follow Me=http://www.youtube.com/watch?v=yNrSq9GR5J4
 ﻿Rok Strani]Twisted Sister}Follow Me (Live)=http://www.youtube.com/watch?v=yNrSq9GR5J4
-﻿Rok Strani]Twisted Sister}Four Barrel Heart Of Love=http://www.youtube.com/watch?v=D81R21inKq0
-﻿Rok Strani]Twisted Sister}Have Yourself A Merry Little Christmas=http://www.youtube.com/watch?v=yzxLBdkN7OI
-﻿Rok Strani]Twisted Sister}Heavy Metal Christmas=http://www.youtube.com/watch?v=grwP8QvI1jY
-﻿Rok Strani]Twisted Sister}Heroes Are Hard To Find=http://www.youtube.com/watch?v=FMdWKK3D6xE
-﻿Rok Strani]Twisted Sister}High Steppin'=http://www.youtube.com/watch?v=fq35VgXqnio
-﻿Rok Strani]Twisted Sister}Hot Love=http://www.youtube.com/watch?v=RjpfelYf_ig
-﻿Rok Strani]Twisted Sister}I Am (I'm Me)=http://www.youtube.com/watch?v=E_0aQOxkLZI
-﻿Rok Strani]Twisted Sister}I Believe In Rock 'N' Roll=http://www.youtube.com/watch?v=RUnGQpXtUs4
-﻿Rok Strani]Twisted Sister}I Believe In You=http://www.youtube.com/watch?v=EsmJfsYG1tU
-﻿Rok Strani]Twisted Sister}I Saw Mommy Kissing Santa Claus=http://www.youtube.com/watch?v=8UVVk3bbiVo
-﻿Rok Strani]Twisted Sister}I Wanna Rock=http://www.youtube.com/watch?v=neuq3p3IyP4
-﻿Rok Strani]Twisted Sister}I Want This Night (To Last Forever)=http://www.youtube.com/watch?v=nW3Z6j1c9Jc
-﻿Rok Strani]Twisted Sister}I Will Win=http://www.youtube.com/watch?v=uEeigZgznyY
-﻿Rok Strani]Twisted Sister}I'll Be Home For Christmas=http://www.youtube.com/watch?v=ZcoWs6e_rhA
-﻿Rok Strani]Twisted Sister}I'll Never Grow Up Now!=http://www.youtube.com/watch?v=whJRCGSDjEs
-﻿Rok Strani]Twisted Sister}I'll Take You Alive=http://www.youtube.com/watch?v=yiP_QNjrOSA
-﻿Rok Strani]Twisted Sister}I'm So Hot For You=http://www.youtube.com/watch?v=xIiN8kvTh98
-﻿Rok Strani]Twisted Sister}I've Had Enough=http://www.youtube.com/watch?v=AQ3p53EXOPw
-﻿Rok Strani]Twisted Sister}If That's What You Want=http://www.youtube.com/watch?v=18HvWWb7pUA
-﻿Rok Strani]Twisted Sister}Jailhouse Rock=http://www.youtube.com/watch?v=whzfo6XuFCs
-﻿Rok Strani]Twisted Sister}Kill Or Be Killed=http://www.youtube.com/watch?v=CPCJQvES1cs
-﻿Rok Strani]Twisted Sister}King Of The Fools=http://www.youtube.com/watch?v=pZjzuXKwZ3U
-﻿Rok Strani]Twisted Sister}Knife In The Back=http://www.youtube.com/watch?v=ceEsixjVzUU
-﻿Rok Strani]Twisted Sister}Lady's Boy=http://www.youtube.com/watch?v=inYybGV0dSM
-﻿Rok Strani]Twisted Sister}Leader Of The Pack=http://www.youtube.com/watch?v=cO_brEreGLw
-﻿Rok Strani]Twisted Sister}Let It Snow=http://www.youtube.com/watch?v=SzruX276yF8
-﻿Rok Strani]Twisted Sister}Like A Knife In The Back=http://www.youtube.com/watch?v=ceEsixjVzUU
-﻿Rok Strani]Twisted Sister}Lookin' Out For #1=http://www.youtube.com/watch?v=_xmxmjvMuG4
-﻿Rok Strani]Twisted Sister}Love Is For Suckers=http://www.youtube.com/watch?v=dQ9mPiqCOUU
-﻿Rok Strani]Twisted Sister}Me And The Boys=http://www.youtube.com/watch?v=N2pL7BTmTk4
-﻿Rok Strani]Twisted Sister}Never Say Never=http://www.youtube.com/watch?v=AfogloG0PHM
-﻿Rok Strani]Twisted Sister}O Come All Ye Faithful=http://www.youtube.com/watch?v=-GNtipSggWY
-﻿Rok Strani]Twisted Sister}One Bad Habit=http://www.youtube.com/watch?v=MHinLeWLKuk
-﻿Rok Strani]Twisted Sister}One Man Woman=http://www.youtube.com/watch?v=QK-a8-peP7E
-﻿Rok Strani]Twisted Sister}Out On The Streets=http://www.youtube.com/watch?v=IVLJRTMLrEc
-﻿Rok Strani]Twisted Sister}Pay The Price=http://www.youtube.com/watch?v=PnNY5l5u-i4
-﻿Rok Strani]Twisted Sister}Plastic Money=http://www.youtube.com/watch?v=JwDmmaT5vJA
 ﻿Rok Strani]Twisted Sister}Plastic Money (Live)=http://www.youtube.com/watch?v=JwDmmaT5vJA
-﻿Rok Strani]Twisted Sister}Rock 'N' Roll Saviors=http://www.youtube.com/watch?v=xYa0BqcLvwA
-﻿Rok Strani]Twisted Sister}Run For Your Life=http://www.youtube.com/watch?v=3Qj464otZP8
-﻿Rok Strani]Twisted Sister}S.M.F.=http://www.youtube.com/watch?v=wBYjmFezzT8
-﻿Rok Strani]Twisted Sister}Shoot 'Em Down=http://www.youtube.com/watch?v=n-sa21TMMac
-﻿Rok Strani]Twisted Sister}Sin After Sin=http://www.youtube.com/watch?v=PDXjOzrG1S8
-﻿Rok Strani]Twisted Sister}Statutory Date=http://www.youtube.com/watch?v=sClJSXqJG8E
-﻿Rok Strani]Twisted Sister}Stay Hungry=http://www.youtube.com/watch?v=H1RLJTxF9hs
-﻿Rok Strani]Twisted Sister}Tear It Lose=http://www.youtube.com/watch?v=B4rP5iV2MmM
-﻿Rok Strani]Twisted Sister}The Beast=http://www.youtube.com/watch?v=kdLpM1Ph7c0
-﻿Rok Strani]Twisted Sister}The Christmas Song (Chestnuts Roasting On An Open Fire)=http://www.youtube.com/watch?v=KQQLo1Fb7To
-﻿Rok Strani]Twisted Sister}The Fire Still Burns=http://www.youtube.com/watch?v=dJd39u-5ygg
-﻿Rok Strani]Twisted Sister}The Kids Are Back=http://www.youtube.com/watch?v=pa2xduJMvzw
-﻿Rok Strani]Twisted Sister}The Power And The Glory=http://www.youtube.com/watch?v=hAkuFdg9m0Y
-﻿Rok Strani]Twisted Sister}The Price=http://www.youtube.com/watch?v=j11aHNnidOQ
-﻿Rok Strani]Twisted Sister}Tonight=http://www.youtube.com/watch?v=RwRiZHR1DwM
-﻿Rok Strani]Twisted Sister}Under The Blade=http://www.youtube.com/watch?v=0pPjmOjcDeE
 ﻿Rok Strani]Twisted Sister}Under The Blade (Live)=http://www.youtube.com/watch?v=ccqqRNLw-AI
-﻿Rok Strani]Twisted Sister}Wake Up (The Sleeping Giant)=http://www.youtube.com/watch?v=K8inFj_XXjk
-﻿Rok Strani]Twisted Sister}We're Gonna Make It=http://www.youtube.com/watch?v=_c41zojXVQI
-﻿Rok Strani]Twisted Sister}We're Not Gonna Take It=http://www.youtube.com/watch?v=5WdQXpxzKeg
-﻿Rok Strani]Twisted Sister}What You Don't Know (Sure Can Hurt You)=http://www.youtube.com/watch?v=P8KRfZhYlJY
-﻿Rok Strani]Twisted Sister}White Christmas=http://www.youtube.com/watch?v=o5AlV3BZ2h4
-﻿Rok Strani]Twisted Sister}Yeah Right!=http://www.youtube.com/watch?v=EEUkpBJ0UaU
-﻿Rok Strani]Twisted Sister}You Are All That I Need=http://www.youtube.com/watch?v=XDtaFkVUE6w
-﻿Rok Strani]Twisted Sister}You Can't Stop Rock 'N' Roll=http://www.youtube.com/watch?v=GaehBH7DtR4
-﻿Rok Strani]Twisted Sister}You Know I Cry=http://www.youtube.com/watch?v=BlVsZKOIfuU
 ﻿Rok Strani]Twisted Sister}You Know I Cry (Live)=http://www.youtube.com/watch?v=BlVsZKOIfuU
-﻿Rok Strani]Twisted Sister}You Want What We Got=http://www.youtube.com/watch?v=iH7ksaBL_h8
-﻿Rok Strani]Twisted Sister}You're Not Alone (Suzette's Song)=http://www.youtube.com/watch?v=CCu-kbxC-i4
-Rok Strani]King Crimson}21st Century Schizoid Man=http://www.youtube.com/watch?v=GkNumV2ZyQ4
+﻿Rok Strani]King Crimson}21st Century Schizoid Man=http://www.youtube.com/watch?v=GkNumV2ZyQ4
 ﻿Rok Strani]King Crimson}Book Of Saturday=http://www.youtube.com/watch?v=LP1nsVL10Qk
 ﻿Rok Strani]King Crimson}Cadance And Cascade=http://www.youtube.com/watch?v=tQ5OBo2QyhA
 ﻿Rok Strani]King Crimson}Cat Food=http://www.youtube.com/watch?v=kA1cZPoEk8E
