@@ -8808,12 +8808,12 @@
 ﻿Narodna]Tea Tairović}Meni odgovara=--start-time=12 http://www.youtube.com/watch?v=UUbUvxMON-A
 ﻿Narodna]Tea Tairović}Nevolja=--start-time=16 http://www.youtube.com/watch?v=FR1_fLdB_RE
 ﻿Narodna]Tea Tairović}Otkad tebe znam (ft. Šaban Šaulić)=--start-time=6 http://www.youtube.com/watch?v=XUqT9lL5vac
-Zabavna]Teodora Džehverović}Kristijan Grej=--start-time=5 http://www.youtube.com/watch?v=XQ3SYgdGmP8
-Zabavna]Teodora Džehverović}U 4 oka=--start-time=30 http://www.youtube.com/watch?v=3ZHjDfG55Mg
-Zabavna]Teodora Džehverović}Kulira (ft. In Vivo)=--start-time=5 http://www.youtube.com/watch?v=AmlcuqYvs0A
-Zabavna]Teodora Džehverović}Pirana (ft. Djans, Young Palk)=--start-time=6 http://www.youtube.com/watch?v=eF7cvyYTOKU
-Zabavna]Teodora Džehverović}Hijena (ft. Vuk Mob)=--start-time=5 http://www.youtube.com/watch?v=eDp3l0p2E-c
-Zabavna]Teodora Džehverović}Gledaj mene (ft. In Vivo)=--start-time=11 https://www.youtube.com/watch?v=7NsVy0neAoI
+﻿Zabavna]Teodora Džehverović}Kristijan Grej=--start-time=5 http://www.youtube.com/watch?v=XQ3SYgdGmP8
+﻿Zabavna]Teodora Džehverović}U 4 oka=--start-time=30 http://www.youtube.com/watch?v=3ZHjDfG55Mg
+﻿Zabavna]Teodora Džehverović}Kulira (ft. In Vivo)=--start-time=5 http://www.youtube.com/watch?v=AmlcuqYvs0A
+﻿Zabavna]Teodora Džehverović}Pirana (ft. Djans, Young Palk)=--start-time=6 http://www.youtube.com/watch?v=eF7cvyYTOKU
+﻿Zabavna]Teodora Džehverović}Hijena (ft. Vuk Mob)=--start-time=5 http://www.youtube.com/watch?v=eDp3l0p2E-c
+﻿Zabavna]Teodora Džehverović}Gledaj mene (ft. In Vivo)=--start-time=11 https://www.youtube.com/watch?v=7NsVy0neAoI
 ﻿Rok]Tifa}21 vek (duet Miligram)=http://www.youtube.com/watch?v=TDtRcKBdQVc
 ﻿Rok]Tifa}Baraba (duet Elvira)=http://www.youtube.com/watch?v=iLhjjyfJ5yo
 ﻿Rok]Tifa}Evo ima godina=http://www.youtube.com/watch?v=7W_TbJYnkbA
