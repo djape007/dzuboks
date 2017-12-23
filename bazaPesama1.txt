@@ -7150,14 +7150,14 @@
 ﻿Zabavna]Grupa Luna}After party=http://www.youtube.com/watch?v=84y9s3fHq48
 ﻿Zabavna]Grupa Luna}Alo alo=http://www.youtube.com/watch?v=iPDrgb6ZSJc
 ﻿Zabavna]Grupa Luna}Bubice=http://www.youtube.com/watch?v=QuVStxodgn4
-﻿Zabavna]Grupa Luna}Beograde=--start-time=4 https://www.youtube.com/watch?v=iRJTGGnTOUk
+﻿Zabavna]Grupa Luna}Beograde=https://www.youtube.com/watch?v=vNQ-YUg24vk&t=20s
 ﻿Zabavna]Grupa Luna}Chichitito=http://www.youtube.com/watch?v=bDf7KlsuLbk
 ﻿Zabavna]Grupa Luna}Da me ljubiš noćima=http://www.youtube.com/watch?v=ekya-Tbge6k
 ﻿Zabavna]Grupa Luna}Drugarice=http://www.youtube.com/watch?v=CX8NBf2V9YU
 ﻿Zabavna]Grupa Luna}Dupla škorpija=http://www.youtube.com/watch?v=6-hOyu83ymM
 ﻿Zabavna]Grupa Luna}Haljina crvena=http://www.youtube.com/watch?v=YqalUMDLsMs
 ﻿Zabavna]Grupa Luna}Jako jako=http://www.youtube.com/watch?v=N5hs41Q1gRQ
-﻿Zabavna]Grupa Luna}Konobaru=--start-time=7 https://www.youtube.com/watch?v=Bh8jDsmu5wU
+﻿Zabavna]Grupa Luna}Konobaru=http://www.youtube.com/watch?v=MYb-ez3ZSnE
 ﻿Zabavna]Grupa Luna}Mazo=http://www.youtube.com/watch?v=6L_Jits4nNs
 ﻿Zabavna]Grupa Luna}Naša pesma=http://www.youtube.com/watch?v=qVubEGk8I4Y
 ﻿Zabavna]Grupa Luna}Neka je=http://www.youtube.com/watch?v=iqrC210Z91c
@@ -7904,10 +7904,13 @@
 ﻿Narodna]Haris Berković}Pusti noći neka bole (duet Rada Manojlović)=https://www.youtube.com/watch?v=jayLqg8LMSQ
 ﻿Narodna]Haris Berković}Biseri i svila (duet Rada Manojlović)=--start-time=7 https://www.youtube.com/watch?v=ezHjupjSaoo
 ﻿Narodna]Haris Džinović}Ako možeš ti suzu pustiti=http://www.youtube.com/watch?v=s9WnYcU0mAk
+﻿Narodna]Haris Džinović}Čekaj me=https://www.youtube.com/watch?v=rjAA20Pyv_Q
 ﻿Narodna]Haris Džinović}Dajte vina, hoću lom=http://www.youtube.com/watch?v=fZhJ-uVK1CI
 ﻿Narodna]Haris Džinović}Daleko si brate moj=http://www.youtube.com/watch?v=yGlB-8g9x5I
+﻿Narodna]Haris Džinović}Da si me bogdo voljela=https://www.youtube.com/watch?v=4fHDghRqCtk
 ﻿Narodna]Haris Džinović}Dođi noćas=http://www.youtube.com/watch?v=_aoRTvHDdz0
 ﻿Narodna]Haris Džinović}Gdje su naši dani=http://www.youtube.com/watch?v=hY0OpTK9PNg
+﻿Narodna]Haris Džinović}Godine ti dobro stoje=https://www.youtube.com/watch?v=QfUkmfshJ8c
 ﻿Narodna]Haris Džinović}Hladno je, ugrij me=http://www.youtube.com/watch?v=0zSSlSI4VZw
 ﻿Narodna]Haris Džinović}I tebe sam sit kafano=http://www.youtube.com/watch?v=uM-SBiqAYGA
 ﻿Narodna]Haris Džinović}Ja ne pijem=http://www.youtube.com/watch?v=xISgInlYmVA
@@ -7915,11 +7918,13 @@
 ﻿Narodna]Haris Džinović}Ja ništa više nemam=http://www.youtube.com/watch?v=eRvbJJYMf3M
 ﻿Narodna]Haris Džinović}Javi se=http://www.youtube.com/watch?v=8mlwniiVACA
 ﻿Narodna]Haris Džinović}Jesu l' dunje procvale=http://www.youtube.com/watch?v=8CUmcEHO4R8
+﻿Narodna]Haris Džinović}Još sam neko tvoj=https://www.youtube.com/watch?v=EyOwgcLczi4
 ﻿Narodna]Haris Džinović}Kako boli me=http://www.youtube.com/watch?v=FmLVYQiL4X8
 ﻿Narodna]Haris Džinović}Kako mi nedostaješ=http://www.youtube.com/watch?v=97ttX4jaEBg
 ﻿Narodna]Haris Džinović}Kalup tvoga vrata=http://www.youtube.com/watch?v=k9lzKCA_cHk
 ﻿Narodna]Haris Džinović}Kapija=http://www.youtube.com/watch?v=iJoUs_3iwB4
 ﻿Narodna]Haris Džinović}Kaži kako si preboljela=http://www.youtube.com/watch?v=-TDVYSE4UUw
+﻿Narodna]Haris Džinović}Kora hljeba=https://www.youtube.com/watch?v=-sRflTooFxU
 ﻿Narodna]Haris Džinović}Krčmaru vina za svirače=http://www.youtube.com/watch?v=V_YCSyG5_iM
 ﻿Narodna]Haris Džinović}Laže me noćas ona=http://www.youtube.com/watch?v=wHLnQ7iMS-E
 ﻿Narodna]Haris Džinović}Laže mjesec=http://www.youtube.com/watch?v=o-OUVexBxCA
@@ -7944,6 +7949,7 @@
 ﻿Narodna]Haris Džinović}Pusti ljubav neka krene=http://www.youtube.com/watch?v=dsMgOPhbiTM
 ﻿Narodna]Haris Džinović}Pusti me=http://www.youtube.com/watch?v=qeXdctezZFU
 ﻿Narodna]Haris Džinović}Rano je za tugu=http://www.youtube.com/watch?v=eurnz1az4k8
+﻿Narodna]Haris Džinović}Rahatluk=https://www.youtube.com/watch?v=NOhFQ2wnYcg
 ﻿Narodna]Haris Džinović}Rekla si mi=http://www.youtube.com/watch?v=P3exp3RkAOQ
 ﻿Narodna]Haris Džinović}S tobom bih se napio=http://www.youtube.com/watch?v=oHkmVZCx1UA
 ﻿Narodna]Haris Džinović}Samo zbog tebe sam tu=http://www.youtube.com/watch?v=b-Zpt96QAYM
@@ -7951,10 +7957,13 @@
 ﻿Narodna]Haris Džinović}Slobodanka=http://www.youtube.com/watch?v=7aOCdAdFb-Q
 ﻿Narodna]Haris Džinović}Srce umorno=http://www.youtube.com/watch?v=Czoh2fCZkBA
 ﻿Narodna]Haris Džinović}Traži, traži=http://www.youtube.com/watch?v=mmX3SIa4FKo
+﻿Narodna]Haris Džinović}To više nije ono mjesto=https://www.youtube.com/watch?v=Y4SVOi4TWmY
 ﻿Narodna]Haris Džinović}Tuga mi je sve što imam=http://www.youtube.com/watch?v=ixzeuXRxi5c
 ﻿Narodna]Haris Džinović}Volim te=http://www.youtube.com/watch?v=0kBGgne9XiY
 ﻿Narodna]Haris Džinović}Zbog tebe postojim=http://www.youtube.com/watch?v=HFBYc-W9-1g
+﻿Narodna]Haris Džinović}Žalim=https://www.youtube.com/watch?v=0P5qXyCW2SQ
 ﻿Narodna]Haris Džinović}Željan tebe=http://www.youtube.com/watch?v=77LBBUpz78E
+﻿Narodna]Haris Džinović}Živio bez tebe kako moram=https://www.youtube.com/watch?v=_iQHBtRtFHk
 ﻿Narodna]Haris Džinović}Zorice, Zoro moja=http://www.youtube.com/watch?v=Jfbg8a7LEQ8
 ﻿Narodna]Hasan Dudić}Ako nekad navraćala budeš=http://www.youtube.com/watch?v=rGXEijObkqg
 ﻿Narodna]Hasan Dudić}Čaše lomim=http://www.youtube.com/watch?v=yY21WXSD1VY
