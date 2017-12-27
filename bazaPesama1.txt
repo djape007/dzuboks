@@ -2311,6 +2311,7 @@
 ﻿Zabavna]Boban Rajović}Ruže daješ u pelinu=http://www.youtube.com/watch?v=vvO2gvWL7Ow
 ﻿Zabavna]Boban Rajović}Ružno pače=http://www.youtube.com/watch?v=jhphZmaxU6o
 ﻿Zabavna]Boban Rajović}Sad si s njim=http://www.youtube.com/watch?v=vliCuNZuGFQ
+﻿Zabavna]Boban Rajović}Spartanac=https://www.youtube.com/watch?v=dFxf9qpAhdo
 ﻿Zabavna]Boban Rajović}Svako traži svoj put=http://www.youtube.com/watch?v=Mdt0uQ3Asl4
 ﻿Zabavna]Boban Rajović}Teci mi kroz vene=http://www.youtube.com/watch?v=uAlt5vZtkI4
 ﻿Zabavna]Boban Rajović}Tetovaža=http://www.youtube.com/watch?v=hudGuDTqla0
@@ -6967,6 +6968,7 @@
 ﻿Zabavna]Goga Sekulić}Bez pardona=http://www.youtube.com/watch?v=f9r9uPZK6Z8
 ﻿Zabavna]Goga Sekulić}Bole ljubavi=http://www.youtube.com/watch?v=oqYRagd5mnQ
 ﻿Zabavna]Goga Sekulić}Bomba=http://www.youtube.com/watch?v=BapqoLam6Sk
+﻿Zabavna]Goga Sekulić}Božić=--start-time=4 https://www.youtube.com/watch?v=CxhRGICVsak
 ﻿Zabavna]Goga Sekulić}Broj=http://www.youtube.com/watch?v=kV9B9LTw5ZU
 ﻿Zabavna]Goga Sekulić}Cimerka=http://www.youtube.com/watch?v=8rp_wMww7w4
 ﻿Zabavna]Goga Sekulić}Devojke, devojke=http://www.youtube.com/watch?v=YV67OuX2THw
@@ -8485,6 +8487,7 @@
 ﻿Narodna]Indira Radić}Zavodnica=http://www.youtube.com/watch?v=wobO2hO9wvw
 ﻿Narodna]Indira Radić}Zbog tebe=http://www.youtube.com/watch?v=DN3LFP6h6GE
 ﻿Narodna]Indira Radić}Živim da živim=http://www.youtube.com/watch?v=o7sa-XL0E7I
+Narodna]Indira Radić}Živim sad=https://www.youtube.com/watch?v=zzCqnwc1r2o
 ﻿Narodna]Indira Radić}Život ide dalje=http://www.youtube.com/watch?v=NrubxYrkFZY
 ﻿Narodna]Indira Radić}Zmaj=http://www.youtube.com/watch?v=a2W86W6vCGI
 ﻿Narodna]Indira Radić}Zodiac=http://www.youtube.com/watch?v=ptXfPid4aAY
