@@ -2036,7 +2036,7 @@
 ﻿Rok]Bijelo Dugme}Bitanga i princeza=http://www.youtube.com/watch?v=KCxjDPrUs04
 ﻿Rok]Bijelo Dugme}Blues za moju bivšu dragu=http://www.youtube.com/watch?v=nKVqpNNTRt4
 ﻿Rok]Bijelo Dugme}Ciribiribela=http://www.youtube.com/watch?v=5hshL9S93SM
-﻿Rok]Bijelo Dugme}Čudesno jutro u krevetu gospođe Petrović=http://www.youtube.com/watch?v=GCYNs3KFIwg
+﻿Rok]Bijelo Dugme}Čudesno jutro u krevetu gospođe Petrović=http://www.youtube.com/watch?v=-vZnFJJbAY4
 ﻿Rok]Bijelo Dugme}Da mi je znati koji joj je vrag=http://www.youtube.com/watch?v=C46oc0OcY00
 ﻿Rok]Bijelo Dugme}Da sam pekar=http://www.youtube.com/watch?v=B-2Batz3TqU
 ﻿Rok]Bijelo Dugme}Da te bogdo ne volim=http://www.youtube.com/watch?v=9d72MmBVZ_Q
@@ -3476,7 +3476,7 @@
 ﻿Rok]Dado Topić}Alfa Romeo GTA=http://www.youtube.com/watch?v=454RWs8NQjU
 ﻿Rok]Dado Topić}Andrija=http://www.youtube.com/watch?v=S1WuqGJ-tFk
 ﻿Rok]Dado Topić}Apsolutno sve=http://www.youtube.com/watch?v=Pj3Bzy2YOY4
-﻿Rok]Dado Topić}Bajka o ljubavi=http://www.youtube.com/watch?v=AChHAEtYGVY
+﻿Rok]Dado Topić}Bajka o ljubavi=http://www.youtube.com/watch?v=HQdy0gQejhQ
 ﻿Rok]Dado Topić}Bit ćemo zajedno=http://www.youtube.com/watch?v=8Zymd4OoRAk
 ﻿Rok]Dado Topić}Bolji život=http://www.youtube.com/watch?v=5rTq_UFwJig
 ﻿Rok]Dado Topić}Da li znaš da te volim=http://www.youtube.com/watch?v=wUKm3Ua8f3I
@@ -8487,7 +8487,7 @@
 ﻿Narodna]Indira Radić}Zavodnica=http://www.youtube.com/watch?v=wobO2hO9wvw
 ﻿Narodna]Indira Radić}Zbog tebe=http://www.youtube.com/watch?v=DN3LFP6h6GE
 ﻿Narodna]Indira Radić}Živim da živim=http://www.youtube.com/watch?v=o7sa-XL0E7I
-Narodna]Indira Radić}Živim sad=https://www.youtube.com/watch?v=zzCqnwc1r2o
+﻿Narodna]Indira Radić}Živim sad=https://www.youtube.com/watch?v=zzCqnwc1r2o
 ﻿Narodna]Indira Radić}Život ide dalje=http://www.youtube.com/watch?v=NrubxYrkFZY
 ﻿Narodna]Indira Radić}Zmaj=http://www.youtube.com/watch?v=a2W86W6vCGI
 ﻿Narodna]Indira Radić}Zodiac=http://www.youtube.com/watch?v=ptXfPid4aAY
@@ -9949,7 +9949,7 @@ Narodna]Indira Radić}Živim sad=https://www.youtube.com/watch?v=zzCqnwc1r2o
 ﻿Rok]Kerber}Osvani=http://www.youtube.com/watch?v=YkKaIppdoYQ
 ﻿Rok]Kerber}Poslednja=http://www.youtube.com/watch?v=3ZahZQhTZEE
 ﻿Rok]Kerber}Pronađi mesto=http://www.youtube.com/watch?v=_-2XC8H0PTA
-﻿Rok]Kerber}Ratne igre=http://www.youtube.com/watch?v=fksAHsB5okg
+﻿Rok]Kerber}Ratne igre=http://www.youtube.com/watch?v=wgbQPxmJ-cY
 ﻿Rok]Kerber}Sa tobom ne mogu dalje=http://www.youtube.com/watch?v=yezFvuTzM3M
 ﻿Rok]Kerber}Sam=http://www.youtube.com/watch?v=MweNIw1MuZU
 ﻿Rok]Kerber}Samo ti=http://www.youtube.com/watch?v=OFh1BOeuDD8

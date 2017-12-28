@@ -1841,7 +1841,7 @@
 ﻿Rep]Mimi Mercedez}Učiteljica ljubavi=http://www.youtube.com/watch?v=_L-h2yZov1o
 ﻿Rep]Mimi Mercedez}Vozi (ft. Sanek)=http://www.youtube.com/watch?v=l6Mt852xH0k
 ﻿Rep]Mimi Mercedez}Zmaj=http://www.youtube.com/watch?v=howd08fycT8
-Rep]Mimi Mercedez}Želim sve (ft. Maus Maki)=--start-time=5 https://www.youtube.com/watch?v=4uvcET2Xpis
+﻿Rep]Mimi Mercedez}Želim sve (ft. Maus Maki)=--start-time=5 https://www.youtube.com/watch?v=4uvcET2Xpis
 ﻿Narodna]Mina Kostić}Da li me vara sa tobom=http://www.youtube.com/watch?v=F-PEDTPwJDI
 ﻿Narodna]Mina Kostić}Dovoljno smo stari za novo=http://www.youtube.com/watch?v=9dnPjTIqrEQ
 ﻿Narodna]Mina Kostić}Gde ćeš, gde=http://www.youtube.com/watch?v=k5kh_V8XNdQ
@@ -4798,8 +4798,11 @@ Rep]Mimi Mercedez}Želim sve (ft. Maus Maki)=--start-time=5 https://www.youtube.
 ﻿Zabavna]Projekat Band}Jutro posle=http://www.youtube.com/watch?v=GUtKJQHRkGM
 ﻿Zabavna]Projekat Band}Laž srca mog=http://www.youtube.com/watch?v=bggEoLHvKQM
 ﻿Zabavna]Projekat Band}Moje milo=http://www.youtube.com/watch?v=HE8-lGHVzbw
-﻿Zabavna]Projekat Band}Neveran=http://www.youtube.com/watch?v=1FCYo6yIaTc
+﻿Zabavna]Projekat Band}Neveran=http://www.youtube.com/watch?v=t5Caj8FbzFQ
+﻿Zabavna]Projekat Band}Pametna=--start-time=5 https://www.youtube.com/watch?v=z4oRCNNEQ6A
 ﻿Zabavna]Projekat Band}Reka vina=http://www.youtube.com/watch?v=Nbr0XDF3jnM
+﻿Zabavna]Projekat Band}Vatromet=http://www.youtube.com/watch?v=cTWcTn2UQ1A
+﻿Zabavna]Projekat Band}Noć po noć (ft. Daria Stanojević)=http://www.youtube.com/watch?v=KmaZGkHM9Vg
 ﻿Rep]Prti Bee Gee}Air Force=http://www.youtube.com/watch?v=f8VKPqnV74M
 ﻿Rep]Prti Bee Gee}Air Max=http://www.youtube.com/watch?v=L0HHRV_e7ig
 ﻿Rep]Prti Bee Gee}Boom biddy bye bye=http://www.youtube.com/watch?v=HN3tprHXvfg
@@ -5395,91 +5398,90 @@ Rep]Mimi Mercedez}Želim sve (ft. Maus Maki)=--start-time=5 https://www.youtube.
 ﻿Rok]Riblja Čorba}Žikica Jovanović Španac=http://www.youtube.com/watch?v=4Znc2W3Deac
 ﻿Rok]Riblja Čorba}Znam te=http://www.youtube.com/watch?v=BTTtCP0iFCk
 ﻿Rok]Riblja Čorba}Zvezda potkrovlja i suterena=http://www.youtube.com/watch?v=AV4j9Sm7luM
-Rok]Ritam Nereda}Boje se=https://www.youtube.com/watch?v=Z1DweztVI8I
-Rok]Ritam Nereda}Hiljade=https://www.youtube.com/watch?v=36CtBGxKYak
-Rok]Ritam Nereda}10 godina=https://www.youtube.com/watch?v=w6DQGNeSPYE
-Rok]Ritam Nereda}Divan dan=--start-time=11 https://www.youtube.com/watch?v=7f02QQxhjdQ
-Rok]Ritam Nereda}Nikad=https://www.youtube.com/watch?v=kTIq2mZy56M
-Rok]Ritam Nereda}Elita=https://www.youtube.com/watch?v=SY3KMhkX9Bc
-Rok]Ritam Nereda}Zauvek=--start-time=4 https://www.youtube.com/watch?v=lDiYIj9JFuk
-Rok]Ritam Nereda}Buldožer=--start-time=7 https://www.youtube.com/watch?v=b8ME_Tm41ac
-Rok]Ritam Nereda}Heroj=https://www.youtube.com/watch?v=2re5raaBnuI
-Rok]Ritam Nereda}Boli me sve=https://www.youtube.com/watch?v=iGqg441vUUs
-Rok]Ritam Nereda}Put beznađa=https://www.youtube.com/watch?v=gsOlV6n0ofI
-Rok]Ritam Nereda}Crni krovovi=--start-time=5 https://www.youtube.com/watch?v=N6c1ZtXl6sU
-Rok]Ritam Nereda}Ne=https://www.youtube.com/watch?v=842TN_zg2v4
-Rok]Ritam Nereda}Nikog nema=https://www.youtube.com/watch?v=EX_hL3f4UXA
-Rok]Ritam Nereda}To nisi ti=https://www.youtube.com/watch?v=11wd1y8YZPo
-Rok]Ritam Nereda}Seti se=https://www.youtube.com/watch?v=GSgEPHk6oXQ
-Rok]Ritam Nereda}Drugačije=https://www.youtube.com/watch?v=LiGKRsQTyIw
-Rok]Ritam Nereda}Odlaze=https://www.youtube.com/watch?v=RSjeLtjkUH8
-Rok]Ritam Nereda}Noć=https://www.youtube.com/watch?v=8Qr3_8pCre8
-Rok]Ritam Nereda}Vaš svet=https://www.youtube.com/watch?v=kSVVkJRzybY
-Rok]Ritam Nereda}Crno je sve=https://www.youtube.com/watch?v=xEdh-BHoS4M
-Rok]Ritam Nereda}Depresija=https://www.youtube.com/watch?v=aM1gJobyiDs
-Rok]Ritam Nereda}Nema dileme=https://www.youtube.com/watch?v=I2BnwEuuUfc
-Rok]Ritam Nereda}WAB (Breaking)=https://www.youtube.com/watch?v=2oV59hOWkWY
-Rok]Ritam Nereda}Sećanja=https://www.youtube.com/watch?v=9hvYS8YRsa8
-Rok]Ritam Nereda}Zvuci bola=https://www.youtube.com/watch?v=EH7G1jjgjos
-Rok]Ritam Nereda}Tuđi glasovi=https://www.youtube.com/watch?v=dWLjOtanJv0
-Rok]Ritam Nereda}Nebo=https://www.youtube.com/watch?v=xcP3g3JbUpg
-Rok]Ritam Nereda}Suton=https://www.youtube.com/watch?v=d9rzMS94o4s
-Rok]Ritam Nereda}Svaki udarac=https://www.youtube.com/watch?v=o72nB1MxpAc
-Rok]Ritam Nereda}Protiv svih=https://www.youtube.com/watch?v=GCjZxGevq1U
-Rok]Ritam Nereda}Ponovo rođen=--start-time=17 https://www.youtube.com/watch?v=F20L7JiklWA
-Rok]Ritam Nereda}WAB (30 godina)=https://www.youtube.com/watch?v=RuOU0sLrAb0
-Rok]Ritam Nereda}Nikad više=https://www.youtube.com/watch?v=HjyCaLBqzwg
-Rok]Ritam Nereda}Masa kritična=https://www.youtube.com/watch?v=An061VlvJVk
-Rok]Ritam Nereda}Asfaltirana džungla=https://www.youtube.com/watch?v=keDeuMEOuCg
-Rok]Ritam Nereda}Ajde=https://www.youtube.com/watch?v=W6vmDwBxCd8
-Rok]Ritam Nereda}San=https://www.youtube.com/watch?v=iG8Gh5hNVUw
-Rok]Ritam Nereda}Riot=https://www.youtube.com/watch?v=DSNn4S7uUcY
-Rok]Ritam Nereda}Gradska deca=https://www.youtube.com/watch?v=WbSPf8C0iSw
-Rok]Ritam Nereda}Bes=https://www.youtube.com/watch?v=zJ-MLoV1bjQ
-Rok]Ritam Nereda}Poslednji dan=https://www.youtube.com/watch?v=F6bgzAGbsR0
-Rok]Ritam Nereda}Samo svoj=https://www.youtube.com/watch?v=Yb0QSJ2xP_I
-Rok]Ritam Nereda}Devojka u crnom=https://www.youtube.com/watch?v=XcPHI6YA3Ck
-Rok]Ritam Nereda}Go away=https://www.youtube.com/watch?v=7YNdcEXIcMw
-Rok]Ritam Nereda}Čaša=https://www.youtube.com/watch?v=ImhkDonp2_c
-Rok]Ritam Nereda}Da idemo=https://www.youtube.com/watch?v=B1w6xIvhBAo
-Rok]Ritam Nereda}Hey!=https://www.youtube.com/watch?v=qWigGle5X3I
-Rok]Ritam Nereda}Raskršće=https://www.youtube.com/watch?v=u8ZWkAMGwAU
-Rok]Ritam Nereda}Onkelz=https://www.youtube.com/watch?v=F5q9U8Tn2bc
-Rok]Ritam Nereda}Gloria=https://www.youtube.com/watch?v=DRTtj9ovwiQ
-Rok]Ritam Nereda}Znak=https://www.youtube.com/watch?v=E51JGh53CcU
-Rok]Ritam Nereda}Svačija=https://www.youtube.com/watch?v=9y-UNDW5Ujk
-Rok]Ritam Nereda}Idem sam=https://www.youtube.com/watch?v=Gt0QuaQAXaE
-Rok]Ritam Nereda}Ima nas=https://www.youtube.com/watch?v=Nezj-COtm5A
-Rok]Ritam Nereda}Zemlja=https://www.youtube.com/watch?v=AK-ntatIEpE
-Rok]Ritam Nereda}Milion zvezda=https://www.youtube.com/watch?v=txyNzjcEe9w
-Rok]Ritam Nereda}Paklena mašina=https://www.youtube.com/watch?v=J8U5x2cvl48
-Rok]Ritam Nereda}S' druge strane zakona=https://www.youtube.com/watch?v=-j-aeJuSNrc
-Rok]Ritam Nereda}Maske=https://www.youtube.com/watch?v=owDLGAUp8Qk
-Rok]Ritam Nereda}Football=https://www.youtube.com/watch?v=SQxH6Yzy7Kc
-Rok]Ritam Nereda}Princ tame=--start-time=5 https://www.youtube.com/watch?v=XCeu5FgPKcs
-Rok]Ritam Nereda}Put beznađa=--start-time=10 https://www.youtube.com/watch?v=PmHPDGSYVfs
-Rok]Ritam Nereda}Nedostaješ mi=https://www.youtube.com/watch?v=u00UoKS6WUQ
-Rok]Ritam Nereda}Nestaje=https://www.youtube.com/watch?v=9GwUKvuIjGQ
-Rok]Ritam Nereda}Ponos=https://www.youtube.com/watch?v=zLQAVDmehXY
-Rok]Ritam Nereda}Lažeš=https://www.youtube.com/watch?v=LaPe79vejLY
-Rok]Ritam Nereda}Novac=https://www.youtube.com/watch?v=bws9vbvRorU
-Rok]Ritam Nereda}Protest=https://www.youtube.com/watch?v=IXbTIKtd4RY
-Rok]Ritam Nereda}Istina=https://www.youtube.com/watch?v=OqDaLQT0AlQ
-Rok]Ritam Nereda}Ne zovi=https://www.youtube.com/watch?v=vrfvg1v6v0s
-Rok]Ritam Nereda}Tužne oči=https://www.youtube.com/watch?v=JzKbANfkpwE
-Rok]Ritam Nereda}Razlog=https://www.youtube.com/watch?v=gIn6-BBzkok
-Rok]Ritam Nereda}Spavaj=https://www.youtube.com/watch?v=NcOQFC6nytM
-Rok]Ritam Nereda}Sudbina=https://www.youtube.com/watch?v=-MiZSzPearY
-Rok]Ritam Nereda}Vodi me=https://www.youtube.com/watch?v=QVAPZ_1PfpE
-Rok]Ritam Nereda}Spas=https://www.youtube.com/watch?v=iPSEVKtP-eU
-Rok]Ritam Nereda}Mrtav grad=https://www.youtube.com/watch?v=mot5bwsZ9IE
-Rok]Ritam Nereda}Rad, red=https://www.youtube.com/watch?v=Y4umWiWa58M
-Rok]Ritam Nereda}Your trap=https://www.youtube.com/watch?v=H2oi8OUPT7Y
-Rok]Ritam Nereda}Kraj=https://www.youtube.com/watch?v=4OIXxiCPC6M
-Rok]Ritam Nereda}Sjaj=https://www.youtube.com/watch?v=rQ1Jma1bjPY
-Rok]Ritam Nereda}Can't stay=https://www.youtube.com/watch?v=Ix3rCelxV74
-Rok]Ritam Nereda}Betrayed=https://www.youtube.com/watch?v=02eLJKrOqfk
-Rok]Ritam Nereda}Deep sleep=https://www.youtube.com/watch?v=r8AETPu0_HM
+﻿Rok]Ritam Nereda}Boje se=https://www.youtube.com/watch?v=Z1DweztVI8I
+﻿Rok]Ritam Nereda}Hiljade=https://www.youtube.com/watch?v=36CtBGxKYak
+﻿Rok]Ritam Nereda}10 godina=https://www.youtube.com/watch?v=w6DQGNeSPYE
+﻿Rok]Ritam Nereda}Divan dan=--start-time=11 https://www.youtube.com/watch?v=7f02QQxhjdQ
+﻿Rok]Ritam Nereda}Nikad=https://www.youtube.com/watch?v=kTIq2mZy56M
+﻿Rok]Ritam Nereda}Elita=https://www.youtube.com/watch?v=SY3KMhkX9Bc
+﻿Rok]Ritam Nereda}Zauvek=--start-time=4 https://www.youtube.com/watch?v=lDiYIj9JFuk
+﻿Rok]Ritam Nereda}Buldožer=--start-time=7 https://www.youtube.com/watch?v=b8ME_Tm41ac
+﻿Rok]Ritam Nereda}Heroj=https://www.youtube.com/watch?v=2re5raaBnuI
+﻿Rok]Ritam Nereda}Boli me sve=https://www.youtube.com/watch?v=iGqg441vUUs
+﻿Rok]Ritam Nereda}Put beznađa=--start-time=10 https://www.youtube.com/watch?v=PmHPDGSYVfs
+﻿Rok]Ritam Nereda}Crni krovovi=--start-time=5 https://www.youtube.com/watch?v=N6c1ZtXl6sU
+﻿Rok]Ritam Nereda}Ne=https://www.youtube.com/watch?v=842TN_zg2v4
+﻿Rok]Ritam Nereda}Nikog nema=https://www.youtube.com/watch?v=EX_hL3f4UXA
+﻿Rok]Ritam Nereda}To nisi ti=https://www.youtube.com/watch?v=11wd1y8YZPo
+﻿Rok]Ritam Nereda}Seti se=https://www.youtube.com/watch?v=GSgEPHk6oXQ
+﻿Rok]Ritam Nereda}Drugačije=https://www.youtube.com/watch?v=LiGKRsQTyIw
+﻿Rok]Ritam Nereda}Odlaze=https://www.youtube.com/watch?v=RSjeLtjkUH8
+﻿Rok]Ritam Nereda}Noć=https://www.youtube.com/watch?v=8Qr3_8pCre8
+﻿Rok]Ritam Nereda}Vaš svet=https://www.youtube.com/watch?v=kSVVkJRzybY
+﻿Rok]Ritam Nereda}Crno je sve=https://www.youtube.com/watch?v=xEdh-BHoS4M
+﻿Rok]Ritam Nereda}Depresija=https://www.youtube.com/watch?v=aM1gJobyiDs
+﻿Rok]Ritam Nereda}Nema dileme=https://www.youtube.com/watch?v=I2BnwEuuUfc
+﻿Rok]Ritam Nereda}WAB (Breaking)=https://www.youtube.com/watch?v=2oV59hOWkWY
+﻿Rok]Ritam Nereda}Sećanja=https://www.youtube.com/watch?v=9hvYS8YRsa8
+﻿Rok]Ritam Nereda}Zvuci bola=https://www.youtube.com/watch?v=EH7G1jjgjos
+﻿Rok]Ritam Nereda}Tuđi glasovi=https://www.youtube.com/watch?v=dWLjOtanJv0
+﻿Rok]Ritam Nereda}Nebo=https://www.youtube.com/watch?v=xcP3g3JbUpg
+﻿Rok]Ritam Nereda}Suton=https://www.youtube.com/watch?v=d9rzMS94o4s
+﻿Rok]Ritam Nereda}Svaki udarac=https://www.youtube.com/watch?v=o72nB1MxpAc
+﻿Rok]Ritam Nereda}Protiv svih=https://www.youtube.com/watch?v=GCjZxGevq1U
+﻿Rok]Ritam Nereda}Ponovo rođen=--start-time=17 https://www.youtube.com/watch?v=F20L7JiklWA
+﻿Rok]Ritam Nereda}WAB (30 godina)=https://www.youtube.com/watch?v=RuOU0sLrAb0
+﻿Rok]Ritam Nereda}Nikad više=https://www.youtube.com/watch?v=HjyCaLBqzwg
+﻿Rok]Ritam Nereda}Masa kritična=https://www.youtube.com/watch?v=An061VlvJVk
+﻿Rok]Ritam Nereda}Asfaltirana džungla=https://www.youtube.com/watch?v=keDeuMEOuCg
+﻿Rok]Ritam Nereda}Ajde=https://www.youtube.com/watch?v=W6vmDwBxCd8
+﻿Rok]Ritam Nereda}San=https://www.youtube.com/watch?v=iG8Gh5hNVUw
+﻿Rok]Ritam Nereda}Riot=https://www.youtube.com/watch?v=DSNn4S7uUcY
+﻿Rok]Ritam Nereda}Gradska deca=https://www.youtube.com/watch?v=WbSPf8C0iSw
+﻿Rok]Ritam Nereda}Bes=https://www.youtube.com/watch?v=zJ-MLoV1bjQ
+﻿Rok]Ritam Nereda}Poslednji dan=https://www.youtube.com/watch?v=F6bgzAGbsR0
+﻿Rok]Ritam Nereda}Samo svoj=https://www.youtube.com/watch?v=Yb0QSJ2xP_I
+﻿Rok]Ritam Nereda}Devojka u crnom=https://www.youtube.com/watch?v=XcPHI6YA3Ck
+﻿Rok]Ritam Nereda}Go away=https://www.youtube.com/watch?v=7YNdcEXIcMw
+﻿Rok]Ritam Nereda}Čaša=https://www.youtube.com/watch?v=ImhkDonp2_c
+﻿Rok]Ritam Nereda}Da idemo=https://www.youtube.com/watch?v=B1w6xIvhBAo
+﻿Rok]Ritam Nereda}Hey!=https://www.youtube.com/watch?v=qWigGle5X3I
+﻿Rok]Ritam Nereda}Raskršće=https://www.youtube.com/watch?v=u8ZWkAMGwAU
+﻿Rok]Ritam Nereda}Onkelz=https://www.youtube.com/watch?v=F5q9U8Tn2bc
+﻿Rok]Ritam Nereda}Gloria=https://www.youtube.com/watch?v=DRTtj9ovwiQ
+﻿Rok]Ritam Nereda}Znak=https://www.youtube.com/watch?v=E51JGh53CcU
+﻿Rok]Ritam Nereda}Svačija=https://www.youtube.com/watch?v=9y-UNDW5Ujk
+﻿Rok]Ritam Nereda}Idem sam=https://www.youtube.com/watch?v=Gt0QuaQAXaE
+﻿Rok]Ritam Nereda}Ima nas=https://www.youtube.com/watch?v=Nezj-COtm5A
+﻿Rok]Ritam Nereda}Zemlja=https://www.youtube.com/watch?v=AK-ntatIEpE
+﻿Rok]Ritam Nereda}Milion zvezda=https://www.youtube.com/watch?v=txyNzjcEe9w
+﻿Rok]Ritam Nereda}Paklena mašina=https://www.youtube.com/watch?v=J8U5x2cvl48
+﻿Rok]Ritam Nereda}S' druge strane zakona=https://www.youtube.com/watch?v=-j-aeJuSNrc
+﻿Rok]Ritam Nereda}Maske=https://www.youtube.com/watch?v=owDLGAUp8Qk
+﻿Rok]Ritam Nereda}Football=https://www.youtube.com/watch?v=SQxH6Yzy7Kc
+﻿Rok]Ritam Nereda}Princ tame=--start-time=5 https://www.youtube.com/watch?v=XCeu5FgPKcs
+﻿Rok]Ritam Nereda}Nedostaješ mi=https://www.youtube.com/watch?v=u00UoKS6WUQ
+﻿Rok]Ritam Nereda}Nestaje=https://www.youtube.com/watch?v=9GwUKvuIjGQ
+﻿Rok]Ritam Nereda}Ponos=https://www.youtube.com/watch?v=zLQAVDmehXY
+﻿Rok]Ritam Nereda}Lažeš=https://www.youtube.com/watch?v=LaPe79vejLY
+﻿Rok]Ritam Nereda}Novac=https://www.youtube.com/watch?v=bws9vbvRorU
+﻿Rok]Ritam Nereda}Protest=https://www.youtube.com/watch?v=IXbTIKtd4RY
+﻿Rok]Ritam Nereda}Istina=https://www.youtube.com/watch?v=OqDaLQT0AlQ
+﻿Rok]Ritam Nereda}Ne zovi=https://www.youtube.com/watch?v=vrfvg1v6v0s
+﻿Rok]Ritam Nereda}Tužne oči=https://www.youtube.com/watch?v=JzKbANfkpwE
+﻿Rok]Ritam Nereda}Razlog=https://www.youtube.com/watch?v=gIn6-BBzkok
+﻿Rok]Ritam Nereda}Spavaj=https://www.youtube.com/watch?v=NcOQFC6nytM
+﻿Rok]Ritam Nereda}Sudbina=https://www.youtube.com/watch?v=-MiZSzPearY
+﻿Rok]Ritam Nereda}Vodi me=https://www.youtube.com/watch?v=QVAPZ_1PfpE
+﻿Rok]Ritam Nereda}Spas=https://www.youtube.com/watch?v=iPSEVKtP-eU
+﻿Rok]Ritam Nereda}Mrtav grad=https://www.youtube.com/watch?v=mot5bwsZ9IE
+﻿Rok]Ritam Nereda}Rad, red=https://www.youtube.com/watch?v=Y4umWiWa58M
+﻿Rok]Ritam Nereda}Your trap=https://www.youtube.com/watch?v=H2oi8OUPT7Y
+﻿Rok]Ritam Nereda}Kraj=https://www.youtube.com/watch?v=4OIXxiCPC6M
+﻿Rok]Ritam Nereda}Sjaj=https://www.youtube.com/watch?v=rQ1Jma1bjPY
+﻿Rok]Ritam Nereda}Can't stay=https://www.youtube.com/watch?v=Ix3rCelxV74
+﻿Rok]Ritam Nereda}Betrayed=https://www.youtube.com/watch?v=02eLJKrOqfk
+﻿Rok]Ritam Nereda}Deep sleep=https://www.youtube.com/watch?v=r8AETPu0_HM
 ﻿Narodna]Ritam Srca}Beogradska=http://www.youtube.com/watch?v=fg__XOLkjQY
 ﻿Narodna]Ritam Srca}Čobanice, ljepotice=http://www.youtube.com/watch?v=tvMcjbco4to
 ﻿Narodna]Ritam Srca}Hej, nemacki policajci=http://www.youtube.com/watch?v=UTNZahSsV40
@@ -10258,6 +10260,14 @@ Rok]Ritam Nereda}Deep sleep=https://www.youtube.com/watch?v=r8AETPu0_HM
 ﻿Krajiska]Žare i Goci}Zadnja piva=http://www.youtube.com/watch?v=pdJTYUBai5Y
 ﻿Zabavna]Zdravko Čolić}April u Beogradu=http://www.youtube.com/watch?v=9BiZQnvcNsM
 ﻿Zabavna]Zdravko Čolić}Čija je ono zvezda=http://www.youtube.com/watch?v=15_AyZYDCIg
+﻿Zabavna]Zdravko Čolić}Prije nego te izgubim=https://www.youtube.com/watch?v=jMPvhzEmFdg
+﻿Zabavna]Zdravko Čolić}Tebe čuvam za kraj=https://www.youtube.com/watch?v=mRxU3JjmcaI
+﻿Zabavna]Zdravko Čolić}Ne štucaj=https://www.youtube.com/watch?v=WlDwbSoinE0
+﻿Zabavna]Zdravko Čolić}Igraj srce=https://www.youtube.com/watch?v=NHEukXaUAqc
+﻿Zabavna]Zdravko Čolić}Lijepa moja=https://www.youtube.com/watch?v=Hu2uNK42TT4
+﻿Zabavna]Zdravko Čolić}Ono malo sreće=https://www.youtube.com/watch?v=DaaJ4Eoub2E
+﻿Zabavna]Zdravko Čolić}Ničeg nije bilo između nas=https://www.youtube.com/watch?v=IqA0Mr1mGTA
+﻿Zabavna]Zdravko Čolić}Naše ljeto=https://www.youtube.com/watch?v=AFdm1gNu47Y
 ﻿Zabavna]Zdravko Čolić}Da ti kažem šta mi je=http://www.youtube.com/watch?v=o6xtVEwqVSg
 ﻿Zabavna]Zdravko Čolić}Esma=http://www.youtube.com/watch?v=9Byo4FJloEw
 ﻿Zabavna]Zdravko Čolić}Glavo luda=http://www.youtube.com/watch?v=6txay37mXqU
@@ -10272,7 +10282,7 @@ Rok]Ritam Nereda}Deep sleep=https://www.youtube.com/watch?v=r8AETPu0_HM
 ﻿Zabavna]Zdravko Čolić}Ljubav je samo riječ=http://www.youtube.com/watch?v=6dhz8ROkPaw
 ﻿Zabavna]Zdravko Čolić}Loše vino=http://www.youtube.com/watch?v=Uuw6KixXKz8
 ﻿Zabavna]Zdravko Čolić}Mađarica=http://www.youtube.com/watch?v=pgiN60dekIs
-﻿Zabavna]Zdravko Čolić}Mala=http://www.youtube.com/watch?v=GdvHbLrd30M
+﻿Zabavna]Zdravko Čolić}Mala=https://www.youtube.com/watch?v=3B36eW2UO84
 ﻿Zabavna]Zdravko Čolić}Malo pojačaj radio=http://www.youtube.com/watch?v=GutzFHfrWrg
 ﻿Zabavna]Zdravko Čolić}Mangupska=http://www.youtube.com/watch?v=9k8EO0qi5aE
 ﻿Zabavna]Zdravko Čolić}Merak mi je=http://www.youtube.com/watch?v=oWjhEfwS-Zs
@@ -10292,7 +10302,7 @@ Rok]Ritam Nereda}Deep sleep=https://www.youtube.com/watch?v=r8AETPu0_HM
 ﻿Zabavna]Zdravko Čolić}Pusti, pusti modu=http://www.youtube.com/watch?v=PinmWhuDQJk
 ﻿Zabavna]Zdravko Čolić}Sinoć nisi bila tu=http://www.youtube.com/watch?v=a6Y3iR22LU8
 ﻿Zabavna]Zdravko Čolić}Šta mi radiš=http://www.youtube.com/watch?v=VZ7s0dQOKoM
-﻿Zabavna]Zdravko Čolić}Šljive su rodile=https://www.youtube.com/watch?v=6rtNX9TxosE
+﻿Zabavna]Zdravko Čolić}Šljive su rodile=https://www.youtube.com/watch?v=tSNfM3EtyIQ
 ﻿Zabavna]Zdravko Čolić}Stanica podlugovi=http://www.youtube.com/watch?v=orGaEqTh3yI
 ﻿Zabavna]Zdravko Čolić}Što ti dadoh=http://www.youtube.com/watch?v=1KWiXI8HcNo
 ﻿Zabavna]Zdravko Čolić}Svadbarskim sokakom=http://www.youtube.com/watch?v=2l4rKPk4lqU
@@ -10649,7 +10659,7 @@ Rok]Ritam Nereda}Deep sleep=https://www.youtube.com/watch?v=r8AETPu0_HM
 ﻿Narodna]Zorica Brunclik}Amajlija=http://www.youtube.com/watch?v=RhmBUYjyPxo
 ﻿Narodna]Zorica Brunclik}Avlije, avlije=http://www.youtube.com/watch?v=8hfNNifkj-s
 ﻿Narodna]Zorica Brunclik}Bela bluza=http://www.youtube.com/watch?v=J2PezqfWCAw
-Narodna]Zorica Brunclik}Beleg=https://www.youtube.com/watch?v=sUPcpOFwJj8
+﻿Narodna]Zorica Brunclik}Beleg=https://www.youtube.com/watch?v=sUPcpOFwJj8
 ﻿Narodna]Zorica Brunclik}Berem grožđe=http://www.youtube.com/watch?v=9ThmP6WubG8
 ﻿Narodna]Zorica Brunclik}Bibije=http://www.youtube.com/watch?v=ejcpDyd1gZA
 ﻿Narodna]Zorica Brunclik}Biće bolje=http://www.youtube.com/watch?v=cWkAfxYuBaQ
