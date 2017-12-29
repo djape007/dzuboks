@@ -10233,6 +10233,7 @@
 ﻿Narodna]Lepa Brena}Boc, boc=http://www.youtube.com/watch?v=Pkp9gpx9gMk
 ﻿Narodna]Lepa Brena}Bol za bol=http://www.youtube.com/watch?v=0EIYVynKH4w
 ﻿Narodna]Lepa Brena}Boli me uvo za sve=http://www.youtube.com/watch?v=LNNCagaZmuc
+﻿Narodna]Lepa Brena}Boliš i ne prolaziš=--start-time=24 https://www.youtube.com/watch?v=FPKP6NJ_Ck4
 ﻿Narodna]Lepa Brena}Bosanac=http://www.youtube.com/watch?v=oXoPz7L2Du8
 ﻿Narodna]Lepa Brena}Brani me, brani=http://www.youtube.com/watch?v=1BmatZeiE10
 ﻿Narodna]Lepa Brena}Briši me=http://www.youtube.com/watch?v=_-Oqlyn8vuM
