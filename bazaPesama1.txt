@@ -4216,7 +4216,7 @@
 ﻿Zabavna]Dino Merlin}Nemam ja 18 godina=http://www.youtube.com/watch?v=-6Cqr7aBKzw
 ﻿Zabavna]Dino Merlin}Ostaće istine dvije=http://www.youtube.com/watch?v=KaoXGbQ2-_w
 ﻿Zabavna]Dino Merlin}Otkrit ću ti tajnu=http://www.youtube.com/watch?v=TI7v3oaSEiA
-﻿Zabavna]Dino Merlin}Prokletog me Bog stvorio=http://www.youtube.com/watch?v=wGCKAt7L4rU
+﻿Zabavna]Dino Merlin}Prokletog me Bog stvorio=http://www.youtube.com/watch?v=HJNAbemA3J8
 ﻿Zabavna]Dino Merlin}Rane=http://www.youtube.com/watch?v=vvn4K16BkyM
 ﻿Zabavna]Dino Merlin}Ruža=http://www.youtube.com/watch?v=nU0V1lU3obE
 ﻿Zabavna]Dino Merlin}Sredinom=http://www.youtube.com/watch?v=hwMZ0gseWXA
@@ -4251,7 +4251,7 @@
 ﻿Rok]Divlje Jagode}Čekam da sunce zađe=http://www.youtube.com/watch?v=dx5u3Um79uA
 ﻿Rok]Divlje Jagode}Ciganka=http://www.youtube.com/watch?v=WahTuNEP_IY
 ﻿Rok]Divlje Jagode}Cmokni me srce=http://www.youtube.com/watch?v=ySXcUgojLSY
-﻿Rok]Divlje Jagode}Da li si ikada mene voljela=http://www.youtube.com/watch?v=_1CUlYm-3JY
+﻿Rok]Divlje Jagode}Da li si ikada mene voljela=http://www.youtube.com/watch?v=FrxLOI3B3wk
 ﻿Rok]Divlje Jagode}Dinamit=http://www.youtube.com/watch?v=_MUP6uGGB4g
 ﻿Rok]Divlje Jagode}Divljakušo=http://www.youtube.com/watch?v=09mYa-EfHKo
 ﻿Rok]Divlje Jagode}Divlje jagode=http://www.youtube.com/watch?v=ttUbeeJn68Q
@@ -7159,6 +7159,7 @@
 ﻿Zabavna]Grupa Luna}Beograde=https://www.youtube.com/watch?v=vNQ-YUg24vk&t=20s
 ﻿Zabavna]Grupa Luna}Chichitito=http://www.youtube.com/watch?v=bDf7KlsuLbk
 ﻿Zabavna]Grupa Luna}Da me ljubiš noćima=http://www.youtube.com/watch?v=ekya-Tbge6k
+﻿Zabavna]Grupa Luna}Diši polako=https://www.youtube.com/watch?v=y4DmtTJlcb8
 ﻿Zabavna]Grupa Luna}Drugarice=http://www.youtube.com/watch?v=CX8NBf2V9YU
 ﻿Zabavna]Grupa Luna}Dupla škorpija=http://www.youtube.com/watch?v=2omyZsmLrNs
 ﻿Zabavna]Grupa Luna}Haljina crvena=http://www.youtube.com/watch?v=YqalUMDLsMs
@@ -7169,7 +7170,7 @@
 ﻿Zabavna]Grupa Luna}Neka je=http://www.youtube.com/watch?v=iqrC210Z91c
 ﻿Zabavna]Grupa Luna}Noć me doziva=http://www.youtube.com/watch?v=5rp3g84tifg
 ﻿Zabavna]Grupa Luna}Panika=http://www.youtube.com/watch?v=kmlnSdKCe5k
-﻿Zabavna]Grupa Luna}Red Bull=http://www.youtube.com/watch?v=4N3PCMnVUpc
+﻿Zabavna]Grupa Luna}Plamen osvete=https://www.youtube.com/watch?v=jVCF0G6VLLo
 ﻿Zabavna]Grupa Luna}Samo jednu noć=http://www.youtube.com/watch?v=goZ0F4Dulvg
 ﻿Zabavna]Grupa Luna}Šećeru=http://www.youtube.com/watch?v=nOl8UqZHlVg
 ﻿Zabavna]Grupa Luna}Tekila limun i so=http://www.youtube.com/watch?v=xMDwHmgIU-E
@@ -12056,7 +12057,6 @@
 ﻿Rok Strani]Alice Cooper}Triggerman=http://www.youtube.com/watch?v=V_M_HpTay9s
 ﻿Rok Strani]Alice Cooper}Under My Wheels=http://www.youtube.com/watch?v=qbWKehm-htc
 ﻿Rok Strani]Alice Cooper}Unfinished Sweet=http://www.youtube.com/watch?v=b9Mt1bJRKbk
-﻿Rok Strani]Alice Cooper}Unholy War=http://www.youtube.com/watch?v=i4_Bpct6krM
 ﻿Rok Strani]Alice Cooper}Vengeance Is Mine=http://www.youtube.com/watch?v=npbLd__CzeY
 ﻿Rok Strani]Alice Cooper}Vicious Rumours=http://www.youtube.com/watch?v=O62larcuPeg
 ﻿Rok Strani]Alice Cooper}Wake Me Gently=http://www.youtube.com/watch?v=EHzq6ycv-W0
