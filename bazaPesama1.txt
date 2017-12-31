@@ -3080,7 +3080,6 @@
 ﻿Zabavna]Colonia}Sjeti se ljeta=http://www.youtube.com/watch?v=G3cCIFGRajk
 ﻿Zabavna]Colonia}Srce nikad ne laže=http://www.youtube.com/watch?v=8vURmcoikY4
 ﻿Zabavna]Colonia}Sretna i nasmijana=http://www.youtube.com/watch?v=p0Fqqlcr20U
-﻿Zabavna]Colonia}Sretni ljudi=http://www.youtube.com/watch?v=qCLZNgnKUp4
 ﻿Zabavna]Colonia}Što mi je ovo trebalo=http://www.youtube.com/watch?v=QKPv20duUz4
 ﻿Zabavna]Colonia}Stotine razloga=http://www.youtube.com/watch?v=_dEGg_yzyvQ
 ﻿Zabavna]Colonia}Stranac=http://www.youtube.com/watch?v=VxwJsrxWQwk
@@ -3541,7 +3540,7 @@
 ﻿Rok]Daleka Obala}Mrlje=http://www.youtube.com/watch?v=VUOxURHKZpM
 ﻿Rok]Daleka Obala}Na rubu sna=http://www.youtube.com/watch?v=MKGFOq2NQo4
 ﻿Rok]Daleka Obala}Nema te=http://www.youtube.com/watch?v=tR6Igbz5kLU
-﻿Rok]Daleka Obala}Noć je prekrasna=http://www.youtube.com/watch?v=bU7HwFzhzRc
+﻿Rok]Daleka Obala}Noć je prekrasna=http://www.youtube.com/watch?v=jwmbkhWqmTQ
 ﻿Rok]Daleka Obala}Od mora do mora=http://www.youtube.com/watch?v=AIK-n-f4jSM
 ﻿Rok]Daleka Obala}Odlazi žena koju volim=http://www.youtube.com/watch?v=qw1c4XgzeBg
 ﻿Rok]Daleka Obala}On je volio brodove=http://www.youtube.com/watch?v=BZINh7Dpz5s
@@ -7162,7 +7161,7 @@
 ﻿Zabavna]Grupa Luna}Diši polako=https://www.youtube.com/watch?v=y4DmtTJlcb8
 ﻿Zabavna]Grupa Luna}Drugarice=http://www.youtube.com/watch?v=CX8NBf2V9YU
 ﻿Zabavna]Grupa Luna}Dupla škorpija=http://www.youtube.com/watch?v=2omyZsmLrNs
-Zabavna]Grupa Luna}Dupla terapija=http://www.youtube.com/watch?v=Ob1XHdMS9BY
+﻿Zabavna]Grupa Luna}Dupla terapija=http://www.youtube.com/watch?v=Ob1XHdMS9BY
 ﻿Zabavna]Grupa Luna}Haljina crvena=http://www.youtube.com/watch?v=YqalUMDLsMs
 ﻿Zabavna]Grupa Luna}Ili ništa, ili sve=https://www.youtube.com/watch?v=XF0xjFM93IY
 ﻿Zabavna]Grupa Luna}Jako jako=http://www.youtube.com/watch?v=N5hs41Q1gRQ
@@ -10464,7 +10463,7 @@ Zabavna]Grupa Luna}Dupla terapija=http://www.youtube.com/watch?v=Ob1XHdMS9BY
 ﻿Narodna]Lepa Lukić}Kriješ, kriješ=http://www.youtube.com/watch?v=CQD1-pQhe7k
 ﻿Narodna]Lepa Lukić}Lep sanak=http://www.youtube.com/watch?v=MXMotSuOqrU
 ﻿Narodna]Lepa Lukić}Lepa moja=http://www.youtube.com/watch?v=1Hgsw7IfGg8
-﻿Narodna]Lepa Lukić}Lepotan, vragolan=http://www.youtube.com/watch?v=s4-7ScTZrS8
+﻿Narodna]Lepa Lukić}Lepotan, vragolan=http://www.youtube.com/watch?v=M8btkcx-mgc
 ﻿Rok]Napred u prošlost}Idemo u lov, kume=--start-time=3 https://www.youtube.com/watch?v=xpT4RpVISq8
 ﻿Rok]Napred u prošlost}Napred u prošlost=https://www.youtube.com/watch?v=yG4zn9fgbjM
 ﻿Rok]Napred u prošlost}Žena u defektu=https://www.youtube.com/watch?v=a2y9IL2zFVg
