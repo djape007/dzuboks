@@ -3375,30 +3375,32 @@
 ﻿Zabavna]Dado Glišić}Ako je sve laž=http://www.youtube.com/watch?v=RfRKvl-PJwI
 ﻿Zabavna]Dado Glišić}Australija i Amerika=http://www.youtube.com/watch?v=bDfPQIfE5FM
 ﻿Zabavna]Dado Glišić}Brojiš do 100=http://www.youtube.com/watch?v=kT-VBZfM6gk
+﻿Zabavna]Dado Glišić}Priznaj mi=https://www.youtube.com/watch?v=askimRexmGY
+﻿Zabavna]Dado Glišić}Suzu pustio sam=https://www.youtube.com/watch?v=uie-IKTDwu8
+﻿Zabavna]Dado Glišić}Više od laži=https://www.youtube.com/watch?v=bm8mJcKfMOc
 ﻿Zabavna]Dado Glišić}Budi svačija=http://www.youtube.com/watch?v=h3jWDruVXw0
 ﻿Zabavna]Dado Glišić}Čija li si=http://www.youtube.com/watch?v=-it27QyB3M0
 ﻿Zabavna]Dado Glišić}Dišem, al' nisam živ=http://www.youtube.com/watch?v=7Q71Xm_XM0w
-﻿Zabavna]Dado Glišić}Dobar i lud=http://www.youtube.com/watch?v=-IbDICisPMo
+﻿Zabavna]Dado Glišić}Dobar i lud=http://www.youtube.com/watch?v=bnE3mwMxzpo
 ﻿Zabavna]Dado Glišić}Dođi=http://www.youtube.com/watch?v=OBqDZUi6rWQ
 ﻿Zabavna]Dado Glišić}Duh u gomili=http://www.youtube.com/watch?v=aLpgmu0Nw90
 ﻿Zabavna]Dado Glišić}Dvoje u postelji=http://www.youtube.com/watch?v=RAi9njaThL4
 ﻿Zabavna]Dado Glišić}Esmeralda=http://www.youtube.com/watch?v=5Z0g2ZxIHnQ
 ﻿Zabavna]Dado Glišić}Ja sam uvijek tu=http://www.youtube.com/watch?v=__QjQ30yvGQ
 ﻿Zabavna]Dado Glišić}Jedini si razlog=http://www.youtube.com/watch?v=i0II5jIq51Y
-﻿Zabavna]Dado Glišić}Još nije gotovo=http://www.youtube.com/watch?v=myBt8hh1ZKY
 ﻿Zabavna]Dado Glišić}Još tražim=http://www.youtube.com/watch?v=_Dq0NFuSoHY
 ﻿Zabavna]Dado Glišić}Kad bih ja=http://www.youtube.com/watch?v=cG-rzznKIj8
 ﻿Zabavna]Dado Glišić}Kaži vilo bijela=http://www.youtube.com/watch?v=LOtzjzp9138
-﻿Zabavna]Dado Glišić}Kopija=http://www.youtube.com/watch?v=i2khwEw2Guk
+﻿Zabavna]Dado Glišić}Kopija=http://www.youtube.com/watch?v=Sv_OAeqNq7A
 ﻿Zabavna]Dado Glišić}Nemoj se vraćati=http://www.youtube.com/watch?v=5EZMRdARk54
 ﻿Zabavna]Dado Glišić}Neponovljiva=http://www.youtube.com/watch?v=8WJDRWcEn5E
 ﻿Zabavna]Dado Glišić}Nisam tvoj=http://www.youtube.com/watch?v=LNYl-Tew2vI
 ﻿Zabavna]Dado Glišić}Opet ti=http://www.youtube.com/watch?v=65To-PABWzc
-﻿Zabavna]Dado Glišić}Ostaviću ruže=http://www.youtube.com/watch?v=f56HGAQ0DUY
+﻿Zabavna]Dado Glišić}Ostaviću ruže=http://www.youtube.com/watch?v=xY6LpJosaM0
 ﻿Zabavna]Dado Glišić}Prerano za tugu=http://www.youtube.com/watch?v=5KlEVXQynOo
 ﻿Zabavna]Dado Glišić}Sto bespuća=http://www.youtube.com/watch?v=bJH-ur8Iswc
 ﻿Zabavna]Dado Glišić}Voli il' zaboravi=http://www.youtube.com/watch?v=-uAjFdiSrHI
-﻿Zabavna]Dado Glišić}Zbog tebe=http://www.youtube.com/watch?v=EPJ75AK6yqw
+﻿Zabavna]Dado Glišić}Zbog tebe=--start-time=12 http://www.youtube.com/watch?v=EPJ75AK6yqw
 ﻿Zabavna]Dado Polumenta}100 stepeni=http://www.youtube.com/watch?v=1Pm4KK8taW8
 ﻿Zabavna]Dado Polumenta}14 godina=http://www.youtube.com/watch?v=tGZTN2pmBdk
 ﻿Zabavna]Dado Polumenta}Aj živa bila=http://www.youtube.com/watch?v=-_QnwD8TmJE
@@ -9554,7 +9556,6 @@
 ﻿Zabavna]Katarina Živković}Istina=http://www.youtube.com/watch?v=xp36HPXBYZc
 ﻿Zabavna]Katarina Živković}Jače od života=https://www.youtube.com/watch?v=NX1cz4l3FTw
 ﻿Zabavna]Katarina Živković}Kad te ne volim=http://www.youtube.com/watch?v=LHFIxrGJL_0
-﻿Zabavna]Katarina Živković}Gori sve=--start-time=7 https://www.youtube.com/watch?v=4RrL2QtgT-Y
 ﻿Zabavna]Katarina Živković}Kajem se=http://www.youtube.com/watch?v=Bf5QQR6ER6w
 ﻿Zabavna]Katarina Živković}Ko me zna=http://www.youtube.com/watch?v=HQlBEeZ94Ts
 ﻿Zabavna]Katarina Živković}Ljubav=http://www.youtube.com/watch?v=jtYdqbdsBsY
@@ -10380,28 +10381,26 @@
 ﻿Narodna]Lepa Đordjević}Amajlija=http://www.youtube.com/watch?v=iuDwKDayXt4
 ﻿Narodna]Lepa Đordjević}Ćutim te=http://www.youtube.com/watch?v=z9ZXrcGQgc0
 ﻿Narodna]Lepa Đordjević}Da ti budem devojka=http://www.youtube.com/watch?v=lv-Nu4wEuD8
-﻿Narodna]Lepa Đordjević}Dok bila sam tvoja=http://www.youtube.com/watch?v=py7vhbEUsDo
+﻿Narodna]Lepa Đordjević}Dok bila sam tvoja=http://www.youtube.com/watch?v=j6yB0kAENmo
 ﻿Narodna]Lepa Đordjević}Drugarica=http://www.youtube.com/watch?v=gy2TBul_ZC0
 ﻿Narodna]Lepa Đordjević}Evo, ide zlato moje=http://www.youtube.com/watch?v=9Hk-7Ywg3s8
 ﻿Narodna]Lepa Đordjević}Idi, idi=http://www.youtube.com/watch?v=2GGOC9l5EOA
-﻿Narodna]Lepa Đordjević}Kočije zlatne=http://www.youtube.com/watch?v=lPFTT1bgcVU
 ﻿Narodna]Lepa Đordjević}Koje su boje njene oči=http://www.youtube.com/watch?v=TQV5dA_PZtk
 ﻿Narodna]Lepa Đordjević}Kraj mene devojke se ljube=http://www.youtube.com/watch?v=zHkNtQ5KosU
-﻿Narodna]Lepa Đordjević}Laži=http://www.youtube.com/watch?v=9ZCucib4laI
+﻿Narodna]Lepa Đordjević}Laži=http://www.youtube.com/watch?v=bQxAej2YdsM
 ﻿Narodna]Lepa Đordjević}Luče=http://www.youtube.com/watch?v=jzlRhm-_XbM
 ﻿Narodna]Lepa Đordjević}Ma, pusti njega=http://www.youtube.com/watch?v=jAccOmTKcqs
-﻿Narodna]Lepa Đordjević}Nauči je da plače=http://www.youtube.com/watch?v=RzhdiYJ7ikg
+﻿Narodna]Lepa Đordjević}Nauči je da plače=http://www.youtube.com/watch?v=gNqv28438kY
 ﻿Narodna]Lepa Đordjević}Ne=http://www.youtube.com/watch?v=Fn5Qbkt2rnY
 ﻿Narodna]Lepa Đordjević}Nisam ja prva ni poslednja=http://www.youtube.com/watch?v=W8fsaA1-KS0
 ﻿Narodna]Lepa Đordjević}Non stop=http://www.youtube.com/watch?v=0uZyu0Nz9rc
 ﻿Narodna]Lepa Đordjević}Oko moje=http://www.youtube.com/watch?v=KqlwTKrosvA
 ﻿Narodna]Lepa Đordjević}Parfem=http://www.youtube.com/watch?v=en82PNu0gYs
 ﻿Narodna]Lepa Đordjević}Prokleta nedelja=http://www.youtube.com/watch?v=EV2gsVrMlkA
-﻿Narodna]Lepa Đordjević}S' tobom=http://www.youtube.com/watch?v=WgbFytARrwQ
 ﻿Narodna]Lepa Đordjević}Samo me zanemari=http://www.youtube.com/watch?v=WUGiynt3UEs
 ﻿Narodna]Lepa Đordjević}Sipajte mi duplo=http://www.youtube.com/watch?v=e1fGMnD-rlQ
-﻿Narodna]Lepa Đordjević}Skot=http://www.youtube.com/watch?v=lrtOFJT6Rog
-﻿Narodna]Lepa Đordjević}Stani malo=http://www.youtube.com/watch?v=Qv5BcAUAyDQ
+﻿Narodna]Lepa Đordjević}Skot=http://www.youtube.com/watch?v=hUYyjgJHHF4
+﻿Narodna]Lepa Đordjević}Stani malo=http://www.youtube.com/watch?v=4z6Eou5cvF0
 ﻿Narodna]Lepa Đordjević}Ti me više ne voliš=http://www.youtube.com/watch?v=dBoRVO9cEoM
 ﻿Narodna]Lepa Đordjević}To tvoje oko=http://www.youtube.com/watch?v=f9LoowV-oZQ
 ﻿Narodna]Lepa Đordjević}Tvoja veštica=http://www.youtube.com/watch?v=2Vqy07PNrO4
@@ -11967,7 +11966,7 @@
 ﻿Rok Strani]Alice Cooper}Hey Stoopid=--start-time=30 http://www.youtube.com/watch?v=XcAl93uEYUA
 ﻿Rok Strani]Alice Cooper}House Of Fire=--start-time=12 http://www.youtube.com/watch?v=0Hu_mq0Uc0M
 ﻿Rok Strani]Alice Cooper}I Am Made Of You=http://www.youtube.com/watch?v=uV47roZm1-Q
-﻿Rok Strani]Alice Cooper}I Am The Future=http://www.youtube.com/watch?v=YjKeN7OjQB4
+﻿Rok Strani]Alice Cooper}I Am The Future=http://www.youtube.com/watch?v=pYRMnYB-MNk
 ﻿Rok Strani]Alice Cooper}I Got A Line On You=http://www.youtube.com/watch?v=ayK2ZY8sQRw
 ﻿Rok Strani]Alice Cooper}I Like Girls=http://www.youtube.com/watch?v=GEpClFWXAUQ
 ﻿Rok Strani]Alice Cooper}I Love The Dead=http://www.youtube.com/watch?v=pKZnt3NQMnk
@@ -14000,7 +13999,6 @@
 ﻿Rok Strani]Eric Clapton}Watch Out For Lucy=http://www.youtube.com/watch?v=LXpZqjhflnU
 ﻿Rok Strani]Eric Clapton}We're All The Way=http://www.youtube.com/watch?v=vdewvSnoWD8
 ﻿Rok Strani]Eric Clapton}We've Been Told (Jesus Coming Soon)=http://www.youtube.com/watch?v=DOR2SAdcJcY
-﻿Rok Strani]Eric Clapton}Whatcha Gonna Do=http://www.youtube.com/watch?v=eC-x2U5B7KY
 ﻿Rok Strani]Eric Clapton}When My Heart Beats Like A Hammer=http://www.youtube.com/watch?v=8d5gPmOeq-8
 ﻿Rok Strani]Eric Clapton}When Somebody Thinks You're Wonderful=http://www.youtube.com/watch?v=WAGRihUbpUY
 ﻿Rok Strani]Eric Clapton}When This War Is Over=http://www.youtube.com/watch?v=69gEPn1YI8s
