@@ -2202,7 +2202,7 @@
 ﻿Narodna]Biljana Jevtić}Vetar duva, šljive opadaju=http://www.youtube.com/watch?v=tzBVlhBulp8
 ﻿Narodna]Biljana Jevtić}Voljeni=http://www.youtube.com/watch?v=T8ZMwxdOXnc
 ﻿Narodna]Biljana Jevtić}Za tebe sam rođena=http://www.youtube.com/watch?v=I5rM7atW490
-﻿Narodna]Biljana Jevtić}Zagrli me dečko=http://www.youtube.com/watch?v=UjI9xqUCO6I
+﻿Narodna]Biljana Jevtić}Zagrli me dečko=http://www.youtube.com/watch?v=Ca8VsSqWdx0
 ﻿Narodna]Biljana Jevtić}Zaštiti me=http://www.youtube.com/watch?v=YrMNpnISGlE
 ﻿Narodna]Biljana Jevtić}Zašto da živim kad nemam sreće=http://www.youtube.com/watch?v=D7-kVxo2bU4
 ﻿Narodna]Biljana Jevtić}Zovem te zlato moje=http://www.youtube.com/watch?v=ZrgiA2RRfAM
@@ -2706,11 +2706,10 @@
 ﻿Rok]Brkovi}Život brzo prolazi=http://www.youtube.com/watch?v=k95noI-nWMQ
 ﻿Rok]Brkovi}Znanac=http://www.youtube.com/watch?v=EC5jKKcjiLc
 ﻿Narodna]Cakana}Crni biser=http://www.youtube.com/watch?v=W3ov0IYLsVA
-﻿Narodna]Cakana}Da nemaš mene=http://www.youtube.com/watch?v=3DVIqBWwuI4
+﻿Narodna]Cakana}Da nemaš mene=http://www.youtube.com/watch?v=5bT_tP1BR5g
 ﻿Narodna]Cakana}Doleti=http://www.youtube.com/watch?v=-lrVeq_tQ4E
 ﻿Narodna]Cakana}Ej dragi, dragi=http://www.youtube.com/watch?v=ReXGLCLyYrs
 ﻿Narodna]Cakana}Evo me opet, evo=http://www.youtube.com/watch?v=KaIuy4OXAUE
-﻿Narodna]Cakana}Ja hoću sa njim=http://www.youtube.com/watch?v=FkXHhHBxH4M
 ﻿Narodna]Cakana}Kraljevstvo ljubavi=http://www.youtube.com/watch?v=iG9iuBhAltE
 ﻿Narodna]Cakana}Lep kao Bog=http://www.youtube.com/watch?v=BWJWNPr_gow
 ﻿Narodna]Cakana}Lepo provešću se noćas=http://www.youtube.com/watch?v=BWN3eYXXTg4
@@ -6039,7 +6038,7 @@
 ﻿Narodna]Era Ojdanić}Dođi do pećine male=http://www.youtube.com/watch?v=aAxKFrAbDfo
 ﻿Narodna]Era Ojdanić}Domaćine živeli=http://www.youtube.com/watch?v=t2QTiXL0g_E
 ﻿Narodna]Era Ojdanić}Drži me pod ruku=http://www.youtube.com/watch?v=qyKWJ9d9fZg
-﻿Narodna]Era Ojdanić}Dva drugara=http://www.youtube.com/watch?v=scSJh3BBNds
+﻿Narodna]Era Ojdanić}Dva drugara=http://www.youtube.com/watch?v=sGRFwOpmt3c
 ﻿Narodna]Era Ojdanić}Ej, curice=http://www.youtube.com/watch?v=XVI-IeZtbi4
 ﻿Narodna]Era Ojdanić}Eto mene posle radne smene=http://www.youtube.com/watch?v=k9uG9BMQEAU
 ﻿Narodna]Era Ojdanić}Gajio sam ružu=http://www.youtube.com/watch?v=yrfmZ-x1gvA
@@ -7540,7 +7539,7 @@
 ﻿Narodna]Halid Muslimović}Izdala me snaga=http://www.youtube.com/watch?v=_-XxT_u5f3Q
 ﻿Narodna]Halid Muslimović}Jarani=http://www.youtube.com/watch?v=AjsOkLM9oa8
 ﻿Narodna]Halid Muslimović}Jaro, jarane=http://www.youtube.com/watch?v=uKd8ywxBd9Y
-﻿Narodna]Halid Muslimović}Jasmina=http://www.youtube.com/watch?v=5hh0kJYAUIE
+﻿Narodna]Halid Muslimović}Jasmina=http://www.youtube.com/watch?v=CBIzDQGG1Dc
 ﻿Narodna]Halid Muslimović}Jesenje lišće=http://www.youtube.com/watch?v=af7QbimJ1aw
 ﻿Narodna]Halid Muslimović}Još ovu noć=http://www.youtube.com/watch?v=Osafz3-LNOQ
 ﻿Narodna]Halid Muslimović}Kako živiš, sestro=http://www.youtube.com/watch?v=_1kSRBXlqXc
@@ -13352,7 +13351,6 @@
 ﻿Rok Strani]Danzig}Pain In The World=http://www.youtube.com/watch?v=PexPktEWrGE
 ﻿Rok Strani]Danzig}Possession=http://www.youtube.com/watch?v=pY4VDhCZp9E
 ﻿Rok Strani]Danzig}Power Of Darkness=http://www.youtube.com/watch?v=-yGbH2H8dFg
-﻿Rok Strani]Danzig}Pyre Of Souls: Seasons Of Pain=http://www.youtube.com/watch?v=gx3DkfJr10Y
 ﻿Rok Strani]Danzig}Rebel Spirits=http://www.youtube.com/watch?v=PVGv8fj5kR4
 ﻿Rok Strani]Danzig}Sacrifice=http://www.youtube.com/watch?v=Hjj5Z1ntDpg
 ﻿Rok Strani]Danzig}Satans Child=http://www.youtube.com/watch?v=IV9V2U3CC5I
@@ -13619,7 +13617,6 @@
 ﻿Rok Strani]Def Leppard}Let's Get Rocked=http://www.youtube.com/watch?v=z9dpzzLE_m8
 ﻿Rok Strani]Def Leppard}Let's Go=http://www.youtube.com/watch?v=EB7BeKwoYAs
 ﻿Rok Strani]Def Leppard}Little Bit Of Love=http://www.youtube.com/watch?v=o8x6sGqytyk
-﻿Rok Strani]Def Leppard}Little Wing=http://www.youtube.com/watch?v=BFIGgqEzQqc
 ﻿Rok Strani]Def Leppard}Long, Long Way To Go=http://www.youtube.com/watch?v=fxlm8y2olRg
 ﻿Rok Strani]Def Leppard}Love Bites=http://www.youtube.com/watch?v=9mYzaEm5u-0
 ﻿Rok Strani]Def Leppard}Love Don't Lie=http://www.youtube.com/watch?v=rWnhpJ6VZtE
@@ -16220,7 +16217,6 @@
 ﻿Rok Strani]Lenny Kravitz}Destiny=http://www.youtube.com/watch?v=VtDcjObvao8
 ﻿Rok Strani]Lenny Kravitz}Dig In=http://www.youtube.com/watch?v=cyi9MVG9ZL0
 ﻿Rok Strani]Lenny Kravitz}Dirty White Boots=http://www.youtube.com/watch?v=yvyIptz5G5Y
-﻿Rok Strani]Lenny Kravitz}Don't Go And Put A Bullet In Your Head=http://www.youtube.com/watch?v=Ge56WSZJJWc
 ﻿Rok Strani]Lenny Kravitz}Dream=http://www.youtube.com/watch?v=SnfMucOefeY
 ﻿Rok Strani]Lenny Kravitz}Eleutheria=http://www.youtube.com/watch?v=nWvxuaNE-Tg
 ﻿Rok Strani]Lenny Kravitz}Everything=http://www.youtube.com/watch?v=7I0LKF6zPAY
