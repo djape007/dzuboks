@@ -1125,6 +1125,7 @@ Zabavna]Aleksandra Radović}Ljubavi moja=--start-time=6 https://www.youtube.com/
 ﻿Zabavna]Ana Kokić}Nije pametno=http://www.youtube.com/watch?v=Vk4izFByEUc
 ﻿Zabavna]Ana Kokić}Nisi ti ni upola lud=http://www.youtube.com/watch?v=VFdNNlrOJPE
 ﻿Zabavna]Ana Kokić}Novi dan=--start-time=5 http://www.youtube.com/watch?v=qT9JvGJaMDs
+﻿Zabavna]Ana Kokić}Ima li on=--start-time=5 http://www.youtube.com/watch?v=WVdnBVhc52k
 ﻿Zabavna]Ana Kokić}Odjednom=http://www.youtube.com/watch?v=R_KZTXJdsh8
 ﻿Zabavna]Ana Kokić}Paučina=http://www.youtube.com/watch?v=sBJfOYQ_jOg
 ﻿Zabavna]Ana Kokić}Pogrešna ljubav=http://www.youtube.com/watch?v=GOAfE_d0SFE
@@ -9700,7 +9701,7 @@ Zabavna]Aleksandra Radović}Ljubavi moja=--start-time=6 https://www.youtube.com/
 ﻿Narodna]Kemal Malovčić}Ključ od tvoga srca=http://www.youtube.com/watch?v=xPbVnWMLcfA
 ﻿Narodna]Kemal Malovčić}Ko gubi u ljubavi=http://www.youtube.com/watch?v=ko1bhMZDNgY
 ﻿Narodna]Kemal Malovčić}Kog' se plašiš stidljiva đevojko=http://www.youtube.com/watch?v=PzO_Nn0dM5Y
-﻿Narodna]Kemal Malovčić}Kolo sreće se okreće=http://www.youtube.com/watch?v=Q2q58g7UvMI
+﻿Narodna]Kemal Malovčić}Kolo sreće se okreće=http://www.youtube.com/watch?v=o-lLNthuuVk
 ﻿Narodna]Kemal Malovčić}Komšinica=http://www.youtube.com/watch?v=dvPZ4x7gmF8
 ﻿Narodna]Kemal Malovčić}Kralj pjesme=http://www.youtube.com/watch?v=nFnMtg-8buQ
 ﻿Narodna]Kemal Malovčić}Kraljica=http://www.youtube.com/watch?v=wu_SG9h59fY
@@ -9745,7 +9746,7 @@ Zabavna]Aleksandra Radović}Ljubavi moja=--start-time=6 https://www.youtube.com/
 ﻿Narodna]Kemal Malovčić}Oči moje dvije česme=http://www.youtube.com/watch?v=P8_g2235j-Y
 ﻿Narodna]Kemal Malovčić}Od tog dana=http://www.youtube.com/watch?v=UPgKdfVzxt8
 ﻿Narodna]Kemal Malovčić}Oko Sane=http://www.youtube.com/watch?v=TGa-Gnb6wfw
-﻿Narodna]Kemal Malovčić}Okreće se kolo sreće=http://www.youtube.com/watch?v=paSsfFEiSBU
+﻿Narodna]Kemal Malovčić}Okreće se kolo sreće=http://www.youtube.com/watch?v=XMsoSJL_Jdo
 ﻿Narodna]Kemal Malovčić}Okrećem se kibletu=http://www.youtube.com/watch?v=wpqHo86fFks
 ﻿Narodna]Kemal Malovčić}Onaj što za tebe živi=http://www.youtube.com/watch?v=Kb78AfP8T1w
 ﻿Narodna]Kemal Malovčić}Ostala si samo ti=http://www.youtube.com/watch?v=ZuoFeoe6d9g
