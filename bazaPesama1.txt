@@ -562,7 +562,7 @@
 ﻿Zabavna]Aleksandra Radović}Kažeš svejedno=http://www.youtube.com/watch?v=jOJeunPEAJY
 ﻿Zabavna]Aleksandra Radović}Kocka leda=http://www.youtube.com/watch?v=1rAOeChwEDQ
 ﻿Zabavna]Aleksandra Radović}Laž=http://www.youtube.com/watch?v=_kKfHuL9X54
-Zabavna]Aleksandra Radović}Ljubavi moja=--start-time=6 https://www.youtube.com/watch?v=7GSDD_rcePc
+﻿Zabavna]Aleksandra Radović}Ljubavi moja=--start-time=6 https://www.youtube.com/watch?v=7GSDD_rcePc
 ﻿Zabavna]Aleksandra Radović}Mali peh=http://www.youtube.com/watch?v=20jO58iKm4c
 ﻿Zabavna]Aleksandra Radović}Mirno more=http://www.youtube.com/watch?v=A1aPeHJz3UM
 ﻿Zabavna]Aleksandra Radović}Moskva=http://www.youtube.com/watch?v=9kIgDHobxNE
@@ -4284,7 +4284,7 @@ Zabavna]Aleksandra Radović}Ljubavi moja=--start-time=6 https://www.youtube.com/
 ﻿Rok]Divlje Jagode}Nasmiješi se=http://www.youtube.com/watch?v=MzqNXalxUqQ
 ﻿Rok]Divlje Jagode}Nazovi me=http://www.youtube.com/watch?v=WIbHgwY6AIE
 ﻿Rok]Divlje Jagode}Ne krivi me=http://www.youtube.com/watch?v=J2Cznvv4QjQ
-﻿Rok]Divlje Jagode}Ne želiš kraj=http://www.youtube.com/watch?v=I-sjxxrZl9k
+﻿Rok]Divlje Jagode}Ne želiš kraj=http://www.youtube.com/watch?v=am3AjKyuT30
 ﻿Rok]Divlje Jagode}Ne, nisam ja=http://www.youtube.com/watch?v=8973QX7nW4c
 ﻿Rok]Divlje Jagode}Nemam ništa protiv=http://www.youtube.com/watch?v=sIMB0Z9pkeM
 ﻿Rok]Divlje Jagode}Od neba do neba=http://www.youtube.com/watch?v=lpVsEmwro38
@@ -5147,7 +5147,7 @@ Zabavna]Aleksandra Radović}Ljubavi moja=--start-time=6 https://www.youtube.com/
 ﻿Narodna]Dragana Mirković}Plače mi se=http://www.youtube.com/watch?v=h_bc_swlpDU
 ﻿Narodna]Dragana Mirković}Plači zemljo=http://www.youtube.com/watch?v=1OJHVHjxtNU
 ﻿Narodna]Dragana Mirković}Poklanjam ti svoju ljubav=http://www.youtube.com/watch?v=sNRZWCS8WGg
-﻿Narodna]Dragana Mirković}Pokorno=http://www.youtube.com/watch?v=kIdLJO1dm_A
+﻿Narodna]Dragana Mirković}Pokorno=http://www.youtube.com/watch?v=NrLRm1xfuKs
 ﻿Narodna]Dragana Mirković}Poljubi me=http://www.youtube.com/watch?v=iKunNGMwD7I
 ﻿Narodna]Dragana Mirković}Pomisli želju=http://www.youtube.com/watch?v=32mBnC6mQmg
 ﻿Narodna]Dragana Mirković}Pored mene dočekaćeš stotu=http://www.youtube.com/watch?v=Zg4SGlobquo
@@ -6415,7 +6415,7 @@ Zabavna]Aleksandra Radović}Ljubavi moja=--start-time=6 https://www.youtube.com/
 ﻿Zabavna]Funky G}I to=http://www.youtube.com/watch?v=ErMTbqdw_go
 ﻿Zabavna]Funky G}Igraj=http://www.youtube.com/watch?v=0X4mIA9VNRI
 ﻿Zabavna]Funky G}Istok, zapad=http://www.youtube.com/watch?v=5ji7vAmIIFI
-﻿Zabavna]Funky G}Jača nego pre=http://www.youtube.com/watch?v=QqihHSzcnSo
+﻿Zabavna]Funky G}Jača nego pre=http://www.youtube.com/watch?v=eMCAACgv6jg
 ﻿Zabavna]Funky G}Je l' ti žao=http://www.youtube.com/watch?v=BE3yLU6DotQ
 ﻿Zabavna]Funky G}Još ću te voleti=http://www.youtube.com/watch?v=MeO429ed1E8
 ﻿Zabavna]Funky G}Kad ne mogu da napustim grad=http://www.youtube.com/watch?v=KHTuY-SijNM
@@ -6459,7 +6459,7 @@ Zabavna]Aleksandra Radović}Ljubavi moja=--start-time=6 https://www.youtube.com/
 ﻿Zabavna]Funky G}Rođen loš=http://www.youtube.com/watch?v=XS2ji6lLM1Y
 ﻿Zabavna]Funky G}Sad kad trebaš mi ti=http://www.youtube.com/watch?v=OaMMab6ccuA
 ﻿Zabavna]Funky G}Šakom o sto=http://www.youtube.com/watch?v=ndw0f7enzps
-﻿Zabavna]Funky G}Samo u snu=http://www.youtube.com/watch?v=EFd_USZv9Wk
+﻿Zabavna]Funky G}Samo u snu=http://www.youtube.com/watch?v=NS2_nJawdkE
 ﻿Zabavna]Funky G}Samo želim=http://www.youtube.com/watch?v=eE4opAqhDuU
 ﻿Zabavna]Funky G}Seti se=http://www.youtube.com/watch?v=z9eUm4rWZ5w
 ﻿Zabavna]Funky G}Srce kameno=http://www.youtube.com/watch?v=7efA3fZoVuY
@@ -6478,7 +6478,7 @@ Zabavna]Aleksandra Radović}Ljubavi moja=--start-time=6 https://www.youtube.com/
 ﻿Zabavna]Funky G}Ti si nešto najbolje=http://www.youtube.com/watch?v=SQdbn4eJM_Y
 ﻿Zabavna]Funky G}To je ljubav=http://www.youtube.com/watch?v=0uTeQBHdcNI
 ﻿Zabavna]Funky G}Tvoja ljubav=http://www.youtube.com/watch?v=93KDbYo53AU
-﻿Zabavna]Funky G}U tvojim kolima=http://www.youtube.com/watch?v=V-zm2bPImKQ
+﻿Zabavna]Funky G}U tvojim kolima=http://www.youtube.com/watch?v=xkWJjF4xcNQ
 ﻿Zabavna]Funky G}Upravo ostavljen=http://www.youtube.com/watch?v=gxpvG4p5Tac
 ﻿Zabavna]Funky G}Uteha=http://www.youtube.com/watch?v=FD2t5GCTyS8
 ﻿Zabavna]Funky G}Veštica iz Srbije=http://www.youtube.com/watch?v=G8ij9S_oPck
@@ -7223,6 +7223,7 @@ Zabavna]Aleksandra Radović}Ljubavi moja=--start-time=6 https://www.youtube.com/
 ﻿Zabavna]Grupa Luna}Vino karmin adrenalin=--start-time=11 http://www.youtube.com/watch?v=eKu2UCtvu6w
 ﻿Zabavna]Grupa Luna}Voliš me više od bivše=http://www.youtube.com/watch?v=ghmWQ9rB-d8
 ﻿Zabavna]Grupa Luna}Za tvoje oči=http://www.youtube.com/watch?v=pOJXmDtJZyg
+﻿Zabavna]Grupa Luna}Zodijak=https://www.youtube.com/watch?v=9YA3-JUck4Q
 ﻿Zabavna]Grupa Vigor}Da sam ja on=http://www.youtube.com/watch?v=p3WCgGy5dUs
 ﻿Zabavna]Grupa Vigor}Da zora nije svanula=http://www.youtube.com/watch?v=Q_OsvbYArVw
 ﻿Zabavna]Grupa Vigor}Divna=http://www.youtube.com/watch?v=fOHexXm4Lww
@@ -8261,7 +8262,7 @@ Zabavna]Aleksandra Radović}Ljubavi moja=--start-time=6 https://www.youtube.com/
 ﻿Rok]Idoli}Kenozoik=http://www.youtube.com/watch?v=c1_RRQrG4sQ
 ﻿Rok]Idoli}Ljubavi=http://www.youtube.com/watch?v=PeLlAEkW9hg
 ﻿Rok]Idoli}Malena=http://www.youtube.com/watch?v=wYdREEth0XU
-﻿Rok]Idoli}Maljciki=http://www.youtube.com/watch?v=HbqlZmi3kbE
+﻿Rok]Idoli}Maljciki=--start-time=3 http://www.youtube.com/watch?v=CfI3eGXkZH8
 ﻿Rok]Idoli}Moja si=http://www.youtube.com/watch?v=X8mzBykVz8I
 ﻿Rok]Idoli}Nebeska tema=http://www.youtube.com/watch?v=ESSt0bi6Jqk
 ﻿Rok]Idoli}Nemo=http://www.youtube.com/watch?v=M6LSEcaLj2Y
@@ -13692,7 +13693,6 @@ Zabavna]Aleksandra Radović}Ljubavi moja=--start-time=6 https://www.youtube.com/
 ﻿Rok Strani]Def Leppard}Rock! Rock! Till You Drop=http://www.youtube.com/watch?v=avgcg3YwyLc
 ﻿Rok Strani]Def Leppard}Rocket=http://www.youtube.com/watch?v=xLUnBzSBMjg
 ﻿Rok Strani]Def Leppard}Rocks Off=http://www.youtube.com/watch?v=oeSuIBCrWY4
-﻿Rok Strani]Def Leppard}Run Riot=http://www.youtube.com/watch?v=hFMTL6HPNG4
 ﻿Rok Strani]Def Leppard}Satellite=http://www.youtube.com/watch?v=kr85io4Ol2g
 ﻿Rok Strani]Def Leppard}Scar=http://www.youtube.com/watch?v=jasE6KX-3SM
 ﻿Rok Strani]Def Leppard}Sea Of Love=http://www.youtube.com/watch?v=dnC-IqqRsBU
@@ -16673,7 +16673,6 @@ Zabavna]Aleksandra Radović}Ljubavi moja=--start-time=6 https://www.youtube.com/
 ﻿Rok Strani]Meat Loaf}Do It!=http://www.youtube.com/watch?v=VLiyPpXMuIw
 ﻿Rok Strani]Meat Loaf}Don't You Look At Me Like That=http://www.youtube.com/watch?v=_cAuHWV-ZVM
 ﻿Rok Strani]Meat Loaf}Elvis In Vegas=http://www.youtube.com/watch?v=RwYOIPQJm9I
-﻿Rok Strani]Meat Loaf}Everything Is Permitted=http://www.youtube.com/watch?v=Jv7A6VJ30-0
 ﻿Rok Strani]Meat Loaf}Everything Under The Sun=http://www.youtube.com/watch?v=vqgVn7B5JjE
 ﻿Rok Strani]Meat Loaf}Execution Day=http://www.youtube.com/watch?v=iK4CFHoggmE
 ﻿Rok Strani]Meat Loaf}Fall From Grace=http://www.youtube.com/watch?v=aHgvYZudXLk
