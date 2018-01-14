@@ -824,7 +824,7 @@
 ﻿Zabavna]Marija Šerifović}Pametna i luda=http://www.youtube.com/watch?v=0zP1OHM0iuo
 ﻿Zabavna]Marija Šerifović}Pamti me po suzama=http://www.youtube.com/watch?v=GT546FJgP1Q
 ﻿Zabavna]Marija Šerifović}Podseti me=http://www.youtube.com/watch?v=8m2LnVlsHTE
-﻿Zabavna]Marija Šerifović}Sad idi nek te đavo nosi=http://www.youtube.com/watch?v=w3xHcIDmc9E
+﻿Zabavna]Marija Šerifović}Sad idi nek te đavo nosi=http://www.youtube.com/watch?v=jN9QjvRFlr0
 ﻿Zabavna]Marija Šerifović}Sama i nervozna=http://www.youtube.com/watch?v=ZAsdfVu65XA
 ﻿Zabavna]Marija Šerifović}Samo tvoja=http://www.youtube.com/watch?v=bfuehHnkSEI
 ﻿Zabavna]Marija Šerifović}Šta da zaboravim=http://www.youtube.com/watch?v=3jNsE9sQ9s8
@@ -832,7 +832,7 @@
 ﻿Zabavna]Marija Šerifović}U nedelju=http://www.youtube.com/watch?v=AWX0UYdbKuM
 ﻿Zabavna]Marija Šerifović}Vidim te svuda=http://www.youtube.com/watch?v=wvZhYOHM9zs
 ﻿Zabavna]Marija Šerifović}Vreme je da krenem=http://www.youtube.com/watch?v=DTQyAQZHv1U
-﻿Zabavna]Marija Šerifović}Za sreću nam malo treba=http://www.youtube.com/watch?v=_pao7Yv8e_4
+﻿Zabavna]Marija Šerifović}Za sreću nam malo treba=https://www.youtube.com/watch?v=pGV0kBGi1cM
 ﻿Zabavna]Marija Šerifović}Zabranjena priča=http://www.youtube.com/watch?v=sPrIHWEvgMs
 ﻿Zabavna]Marija Šerifović}Znaj da znam=http://www.youtube.com/watch?v=AkcQNvZkkDc
 ﻿Zabavna]Marina Perazić}Čaša u tvojim rukama=http://www.youtube.com/watch?v=oURhjfpOhZQ
@@ -7514,7 +7514,6 @@
 ﻿Narodna]Šerif Konjević}Uz buzuki i gitare=http://www.youtube.com/watch?v=LHCPWXX4-m4
 ﻿Narodna]Šerif Konjević}Vrati se i vrati mir srcu mom=http://www.youtube.com/watch?v=H2APzoO9_PU
 ﻿Narodna]Šerif Konjević}Vrati se pod stari krov=http://www.youtube.com/watch?v=dee0XvQCp_c
-﻿Narodna]Šerif Konjević}Vrijeme čini svoje=http://www.youtube.com/watch?v=-FM6MgUj_iU
 ﻿Narodna]Šerif Konjević}Zagrli me, zagrli me=http://www.youtube.com/watch?v=TyNxtIxjud4
 ﻿Narodna]Šerif Konjević}Žalio bih žalio=http://www.youtube.com/watch?v=McsmVnWFUOI
 ﻿Narodna]Šerif Konjević}Zaljubljen=http://www.youtube.com/watch?v=fp4C2AuH4q0
@@ -10389,6 +10388,16 @@
 ﻿Zabavna]Željko Joksimović}Zaboravljaš=http://www.youtube.com/watch?v=5yhI2p6naMU
 ﻿Zabavna]Željko Joksimović}Žena za sva vremena=http://www.youtube.com/watch?v=nVEt_Fr-eEA
 ﻿Zabavna]Željko Joksimović}Znam=http://www.youtube.com/watch?v=WLNTs7y6XeI
+﻿Zabavna]Željko Samardžić}Uzmi prvi let=--start-time=9 https://www.youtube.com/watch?v=x_bEQ-AVYAY
+﻿Zabavna]Željko Samardžić}Promaja=https://www.youtube.com/watch?v=jHj70yh_ooA
+﻿Zabavna]Željko Samardžić}Što si tako luda za mnom=https://www.youtube.com/watch?v=0VOlxoxBRu0
+﻿Zabavna]Željko Samardžić}Stara igračka=https://www.youtube.com/watch?v=MSgIs9SZxDs
+﻿Zabavna]Željko Samardžić}Dajem ti sve=https://www.youtube.com/watch?v=G8LeMCsUp1s
+﻿Zabavna]Željko Samardžić}Oči tvoje=https://www.youtube.com/watch?v=EDEa7Rvlr84
+﻿Zabavna]Željko Samardžić}Zrno ljubavi=https://www.youtube.com/watch?v=EZG4cQ6ePHA
+﻿Zabavna]Željko Samardžić}Baš šteta=https://www.youtube.com/watch?v=Gqy8MCEZMm0
+﻿Zabavna]Željko Samardžić}Ja idem dalje=https://www.youtube.com/watch?v=yr_SRvj7MRg
+﻿Zabavna]Željko Samardžić}Ljubavna priča=--start-time=9 https://www.youtube.com/watch?v=qrB4rCpIKBo
 ﻿Zabavna]Željko Samardžić}Ako odeš=http://www.youtube.com/watch?v=ASoXCuAAxR8
 ﻿Zabavna]Željko Samardžić}Anđele moj=http://www.youtube.com/watch?v=Ku-oitnY_PQ
 ﻿Zabavna]Željko Samardžić}Bezobrazno zelene=http://www.youtube.com/watch?v=E6VassbkL2A
