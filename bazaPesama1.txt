@@ -7296,7 +7296,7 @@
 ﻿Narodna]Hakala}Dozvoli mi da te volim=http://www.youtube.com/watch?v=mFkyuJKOGTM
 ﻿Narodna]Hakala}Dvadeset i dvije zore=http://www.youtube.com/watch?v=lawvGJ99XhI
 ﻿Narodna]Hakala}Farsa=http://www.youtube.com/watch?v=Kn2dQZ1Qpzs
-﻿Narodna]Hakala}Galeb=http://www.youtube.com/watch?v=DABQGOVwl3c
+﻿Narodna]Hakala}Galeb=http://www.youtube.com/watch?v=RsEzCe70_NQ
 ﻿Narodna]Hakala}Glavo blesava=http://www.youtube.com/watch?v=ke9K-8SVRG4
 ﻿Narodna]Hakala}Godina koja=http://www.youtube.com/watch?v=Vvyk-KjP0xg
 ﻿Narodna]Hakala}Grešnica bez duše=http://www.youtube.com/watch?v=ua8NpoP-IgY
@@ -10724,7 +10724,6 @@
 ﻿Rok Strani]Joe Cocker}Now that youre gone=https://www.youtube.com/watch?v=CNM2MDUy7ko
 ﻿Rok Strani]Joe Cocker}Have a little faith in me=https://www.youtube.com/watch?v=pwOg88GMmbA
 ﻿Rok Strani]Joe Cocker}Noubliez Jamais=--start-time=2 https://www.youtube.com/watch?v=_Xa_1KxR-8M
-﻿Rok Strani]Led Zeppelin}Stairway to heaven (live)=--start-time=10 http://www.youtube.com/watch?v=6Fqozggi-44
 ﻿Rok Strani]Led Zeppelin}Over the hills and far away=https://www.youtube.com/watch?v=QKdkFKResr4
 ﻿Rok Strani]Led Zeppelin}Rock and roll=https://www.youtube.com/watch?v=mwFqRB2FQu4
 ﻿Rok Strani]Led Zeppelin}Tangerine=https://www.youtube.com/watch?v=LyM4vxxu2jA
@@ -12012,7 +12011,7 @@
 ﻿Rok Strani]Alice Cooper}I'm Your Gun=http://www.youtube.com/watch?v=SoXVaFSqcHA
 ﻿Rok Strani]Alice Cooper}Identity Crisis=http://www.youtube.com/watch?v=bN2ofoP-qEE
 ﻿Rok Strani]Alice Cooper}Inmates (We're All Crazy)=http://www.youtube.com/watch?v=Pik20oCus_c
-﻿Rok Strani]Alice Cooper}Is Anyone Home=http://www.youtube.com/watch?v=83wAVzeDw6k
+﻿Rok Strani]Alice Cooper}Is Anyone Home=http://www.youtube.com/watch?v=q5F2jKRk-JA
 ﻿Rok Strani]Alice Cooper}Is It My Body=http://www.youtube.com/watch?v=p4O2CPe_AAE
 ﻿Rok Strani]Alice Cooper}It's Hot Tonight=http://www.youtube.com/watch?v=EmhTc8AjQdk
 ﻿Rok Strani]Alice Cooper}It's Me=http://www.youtube.com/watch?v=cVvwO7pvX5E
@@ -12103,7 +12102,6 @@
 ﻿Rok Strani]Alice Cooper}When Hell Comes Home=http://www.youtube.com/watch?v=Tm_7e83toV8
 ﻿Rok Strani]Alice Cooper}Who Do You Think We Are=http://www.youtube.com/watch?v=i8HuPznooJQ
 ﻿Rok Strani]Alice Cooper}Wicked Young Man=http://www.youtube.com/watch?v=7i2ZNi27NWU
-﻿Rok Strani]Alice Cooper}Wind-Up Toy=http://www.youtube.com/watch?v=k3llFz_Jp_E
 ﻿Rok Strani]Alice Cooper}Wish I Were Born In Beverly Hills=http://www.youtube.com/watch?v=KNuj8h-1XtE
 ﻿Rok Strani]Alice Cooper}Wish You Were Here=http://www.youtube.com/watch?v=RciPGnWWzig
 ﻿Rok Strani]Alice Cooper}Woman Of Mass Distraction=http://www.youtube.com/watch?v=b9xRwYrk7To
@@ -17443,7 +17441,7 @@
 ﻿Rok Strani]Bruce Springsteen}You've Got It=http://www.youtube.com/watch?v=0RtJHZwDpXc
 ﻿Rok Strani]Bruce Springsteen}Youngstown=http://www.youtube.com/watch?v=4GaFUOQWi9A
 ﻿Rok Strani]Bruce Springsteen}Your Own Worst Enemy=http://www.youtube.com/watch?v=3VBPKsXp-ao
-Rok Strani]Allaman Brothers Band}Ain't Wastin' Time No More=http://www.youtube.com/watch?v=RYevVzLGqbY
+﻿Rok Strani]Allaman Brothers Band}Ain't Wastin' Time No More=http://www.youtube.com/watch?v=RYevVzLGqbY
 ﻿Rok Strani]Allaman Brothers Band}All Night Train=http://www.youtube.com/watch?v=L_1hbSWTqlw
 ﻿Rok Strani]Allaman Brothers Band}Angeline=http://www.youtube.com/watch?v=721e5iSLxqY
 ﻿Rok Strani]Allaman Brothers Band}Bad Rain=http://www.youtube.com/watch?v=Fl806QtcQ1A
