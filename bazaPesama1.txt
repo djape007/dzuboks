@@ -1541,7 +1541,6 @@
 ﻿Rok]Azra}Teško vrijeme=http://www.youtube.com/watch?v=WLOPAyKIE6E
 ﻿Rok]Azra}Ti si sjela za moj stol=http://www.youtube.com/watch?v=eLK0uTAX7Ko
 ﻿Rok]Azra}Tko to tamo pjeva=http://www.youtube.com/watch?v=dCxt7S4XyUA
-﻿Rok]Azra}Tople usne žene=http://www.youtube.com/watch?v=as8rxL4rf3k
 ﻿Rok]Azra}Tup kao ud=http://www.youtube.com/watch?v=QK9ifWwz8WQ
 ﻿Rok]Azra}Usne vrele višnje=http://www.youtube.com/watch?v=Qudotq4Zi1I
 ﻿Rok]Azra}Uvijek ista priča=http://www.youtube.com/watch?v=7B0J0nQj7F8
@@ -2278,7 +2277,7 @@
 ﻿Zabavna]Boban Rajović}Kafanski fakultet=http://www.youtube.com/watch?v=yf4Zr20jzpY
 ﻿Zabavna]Boban Rajović}Kiša lije=http://www.youtube.com/watch?v=ag07O1dDim4
 ﻿Zabavna]Boban Rajović}Koga foliraš=http://www.youtube.com/watch?v=Sy2MSyPeZ7Q
-﻿Zabavna]Boban Rajović}Kosači=http://www.youtube.com/watch?v=jLb0CdmHhUY
+﻿Zabavna]Boban Rajović}Kosači=--start-time=34 http://www.youtube.com/watch?v=572I2hRq1g8
 ﻿Zabavna]Boban Rajović}Kraljica i kralj=http://www.youtube.com/watch?v=zRr8ur64Af8
 ﻿Zabavna]Boban Rajović}Kumovi=http://www.youtube.com/watch?v=ZzfcP9QyiNQ
 ﻿Zabavna]Boban Rajović}Latice od ruža=http://www.youtube.com/watch?v=7q47fNOpMQs
@@ -4249,15 +4248,15 @@
 ﻿Rok]Divlje Jagode}Čarobnjaci=--start-time=16 http://www.youtube.com/watch?v=N9REqi1anRQ
 ﻿Rok]Divlje Jagode}Čekam da sunce zađe=http://www.youtube.com/watch?v=dx5u3Um79uA
 ﻿Rok]Divlje Jagode}Ciganka=http://www.youtube.com/watch?v=FUK6CxRgqVs
-﻿Rok]Divlje Jagode}Cmokni me srce=http://www.youtube.com/watch?v=ySXcUgojLSY
+﻿Rok]Divlje Jagode}Cmokni me srce=http://www.youtube.com/watch?v=EQ1Q_mYBBBQ
 ﻿Rok]Divlje Jagode}Da li si ikada mene voljela=http://www.youtube.com/watch?v=FrxLOI3B3wk
-﻿Rok]Divlje Jagode}Dinamit=http://www.youtube.com/watch?v=_MUP6uGGB4g
+﻿Rok]Divlje Jagode}Dinamit=http://www.youtube.com/watch?v=KMWCLyEz3_A
 ﻿Rok]Divlje Jagode}Divljakušo=http://www.youtube.com/watch?v=09mYa-EfHKo
 ﻿Rok]Divlje Jagode}Divlje jagode=http://www.youtube.com/watch?v=ttUbeeJn68Q
-﻿Rok]Divlje Jagode}Divlji zapad=http://www.youtube.com/watch?v=LteFpGuDXfw
+﻿Rok]Divlje Jagode}Divlji zapad=http://www.youtube.com/watch?v=8wSc_89P6dM
 ﻿Rok]Divlje Jagode}Đavolji grad=http://www.youtube.com/watch?v=aROk4Rzlj1U
 ﻿Rok]Divlje Jagode}Dobro došla ljubavi=http://www.youtube.com/watch?v=OtSqnE152eM
-﻿Rok]Divlje Jagode}Dodirni me=http://www.youtube.com/watch?v=1DbTXX4QfsI
+﻿Rok]Divlje Jagode}Dodirni me=http://www.youtube.com/watch?v=BeJ4gGQRMic
 ﻿Rok]Divlje Jagode}Hopa-Cupa=http://www.youtube.com/watch?v=-3UuGWyIQW4
 ﻿Rok]Divlje Jagode}Jedina moja=http://www.youtube.com/watch?v=ttUbeeJn68Q
 ﻿Rok]Divlje Jagode}Kada te netko spomene=http://www.youtube.com/watch?v=2Bp85ceox6w
@@ -4282,7 +4281,7 @@
 ﻿Rok]Divlje Jagode}Motori=http://www.youtube.com/watch?v=q0g9BkSNyYE
 ﻿Rok]Divlje Jagode}Mrak za dvoje=http://www.youtube.com/watch?v=3Vuk4rV8dQ8
 ﻿Rok]Divlje Jagode}Nasmiješi se=http://www.youtube.com/watch?v=MzqNXalxUqQ
-﻿Rok]Divlje Jagode}Nazovi me=http://www.youtube.com/watch?v=WIbHgwY6AIE
+﻿Rok]Divlje Jagode}Nazovi me=http://www.youtube.com/watch?v=ntPuvXLLRgY
 ﻿Rok]Divlje Jagode}Ne krivi me=http://www.youtube.com/watch?v=J2Cznvv4QjQ
 ﻿Rok]Divlje Jagode}Ne želiš kraj=http://www.youtube.com/watch?v=am3AjKyuT30
 ﻿Rok]Divlje Jagode}Ne, nisam ja=http://www.youtube.com/watch?v=8973QX7nW4c
@@ -4312,10 +4311,9 @@
 ﻿Rok]Divlje Jagode}Tv kralj=http://www.youtube.com/watch?v=OScaNJ72j1c
 ﻿Rok]Divlje Jagode}Ulica na lošem glasu=http://www.youtube.com/watch?v=-Lmmv-X1PxM
 ﻿Rok]Divlje Jagode}Usne usnule=http://www.youtube.com/watch?v=EEDVbXTL5nI
-﻿Rok]Divlje Jagode}Vatra=http://www.youtube.com/watch?v=3j0S4-c-Q_0
+﻿Rok]Divlje Jagode}Vatra=http://www.youtube.com/watch?v=Q5Ii_3tb6zk
 ﻿Rok]Divlje Jagode}Vodarica=http://www.youtube.com/watch?v=EIVeab3LHsY
 ﻿Rok]Divlje Jagode}Za one do tebe nemam više ni banke=http://www.youtube.com/watch?v=o4qQ8oDm-x0
-﻿Rok]Divlje Jagode}Zagrizi rock'n'roll=http://www.youtube.com/watch?v=NBC6HV8Djt8
 ﻿Rok]Divlje Jagode}Zauvijek tvoj=http://www.youtube.com/watch?v=6DQRcMAXjdc
 ﻿Rok]Divlje Jagode}Zbog tebe draga=http://www.youtube.com/watch?v=riDBa0VisMU
 ﻿Rok]Divlje Jagode}Želim da te imam=http://www.youtube.com/watch?v=841hhwCbh8w
@@ -12534,7 +12532,6 @@
 ﻿Rok Strani]Black Crowes}Then She Said My Name=http://www.youtube.com/watch?v=1efxpQtEBLs
 ﻿Rok Strani]Black Crowes}There's Gold In Them Hills=http://www.youtube.com/watch?v=F2-rR2c2PUo
 ﻿Rok Strani]Black Crowes}Thick N' Thin=http://www.youtube.com/watch?v=QoeBHS81pa8
-﻿Rok Strani]Black Crowes}Thorn In My Pride=http://www.youtube.com/watch?v=t2zqYC8xKwM
 ﻿Rok Strani]Black Crowes}Tied Up And Swallowed=http://www.youtube.com/watch?v=Dt1tSFQsD6w
 ﻿Rok Strani]Black Crowes}Time Will Tell=http://www.youtube.com/watch?v=W3yS1p6Z8kc
 ﻿Rok Strani]Black Crowes}Twice As Hard=http://www.youtube.com/watch?v=x8Oob6vffhw
@@ -14539,7 +14536,7 @@
 ﻿Rok Strani]Frank Zappa}Sofa No. 2=http://www.youtube.com/watch?v=xt85We4XJeM
 ﻿Rok Strani]Frank Zappa}Soft-Sell Conclusion=http://www.youtube.com/watch?v=DXSeiU13il0
 ﻿Rok Strani]Frank Zappa}Son Of Orange County=http://www.youtube.com/watch?v=UAf71o8f27E
-﻿Rok Strani]Frank Zappa}Son Of Suzy Creamcheese=http://www.youtube.com/watch?v=PqIQ1pYT8SU
+﻿Rok Strani]Frank Zappa}Son Of Suzy Creamcheese=http://www.youtube.com/watch?v=-q2WP4Ml5eE
 ﻿Rok Strani]Frank Zappa}Spider Of Destiny=http://www.youtube.com/watch?v=5bPpGXGW5Ds
 ﻿Rok Strani]Frank Zappa}St. Alfonzo's Pancake Breakfast=http://www.youtube.com/watch?v=2S480jx8LP0
 ﻿Rok Strani]Frank Zappa}Status Back Baby=http://www.youtube.com/watch?v=oiciz7Y3tcs
