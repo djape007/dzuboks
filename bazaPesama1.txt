@@ -1540,7 +1540,6 @@
 ﻿Rok]Azra}Teško ovo život=http://www.youtube.com/watch?v=2poSSecRRbI
 ﻿Rok]Azra}Teško vrijeme=http://www.youtube.com/watch?v=WLOPAyKIE6E
 ﻿Rok]Azra}Ti si sjela za moj stol=http://www.youtube.com/watch?v=eLK0uTAX7Ko
-﻿Rok]Azra}Tko to tamo pjeva=http://www.youtube.com/watch?v=dCxt7S4XyUA
 ﻿Rok]Azra}Tup kao ud=http://www.youtube.com/watch?v=QK9ifWwz8WQ
 ﻿Rok]Azra}Usne vrele višnje=http://www.youtube.com/watch?v=Qudotq4Zi1I
 ﻿Rok]Azra}Uvijek ista priča=http://www.youtube.com/watch?v=7B0J0nQj7F8
@@ -4214,7 +4213,6 @@
 ﻿Zabavna]Dino Merlin}Nemam ja 18 godina=http://www.youtube.com/watch?v=-6Cqr7aBKzw
 ﻿Zabavna]Dino Merlin}Ostaće istine dvije=http://www.youtube.com/watch?v=KaoXGbQ2-_w
 ﻿Zabavna]Dino Merlin}Otkrit ću ti tajnu=http://www.youtube.com/watch?v=TI7v3oaSEiA
-﻿Zabavna]Dino Merlin}Prokletog me Bog stvorio=http://www.youtube.com/watch?v=HJNAbemA3J8
 ﻿Zabavna]Dino Merlin}Rane=http://www.youtube.com/watch?v=vvn4K16BkyM
 ﻿Zabavna]Dino Merlin}Ruža=http://www.youtube.com/watch?v=nU0V1lU3obE
 ﻿Zabavna]Dino Merlin}Sredinom=http://www.youtube.com/watch?v=hwMZ0gseWXA
@@ -6341,7 +6339,7 @@
 ﻿Rok]Film}Trgovci srećom=http://www.youtube.com/watch?v=AyRIMsQN81Q
 ﻿Rok]Film}Valovi=http://www.youtube.com/watch?v=W1gb17hd634
 ﻿Rok]Film}Zagreb je hladan grad=http://www.youtube.com/watch?v=e4D0ccLvi40
-﻿Rok]Film}Zamisli život u ritmu muzike za ples=http://www.youtube.com/watch?v=tZxO1P2t3aU
+﻿Rok]Film}Zamisli život u ritmu muzike za ples=--start-time=4 http://www.youtube.com/watch?v=VAtJmzfaXoA
 ﻿Rok]Film}Zona sumraka=http://www.youtube.com/watch?v=wGPjJwxKVZw
 ﻿Zabavna]Flamingosi}Big=http://www.youtube.com/watch?v=wxLrLC8lM4U
 ﻿Zabavna]Flamingosi}Cubana=http://www.youtube.com/watch?v=VvZbkEs2uy0
@@ -12636,7 +12634,7 @@
 ﻿Rok Strani]Black Sabbath}Odin's Court=http://www.youtube.com/watch?v=KeJBdTdjdgE
 ﻿Rok Strani]Black Sabbath}Over And Over=http://www.youtube.com/watch?v=ek2alPDHkSM
 ﻿Rok Strani]Black Sabbath}Over To You=http://www.youtube.com/watch?v=-UQ-RSKdBWs
-﻿Rok Strani]Black Sabbath}Paranoid=http://www.youtube.com/watch?v=sq9Am-lcG0U
+﻿Rok Strani]Black Sabbath}Paranoid=http://www.youtube.com/watch?v=ah_Q3Oy4qMY
 ﻿Rok Strani]Black Sabbath}Pariah=http://www.youtube.com/watch?v=L3zuGHe1VXQ
 ﻿Rok Strani]Black Sabbath}Peace Of Mind=http://www.youtube.com/watch?v=iHAEUuv7YXA
 ﻿Rok Strani]Black Sabbath}Planet Caravan=http://www.youtube.com/watch?v=SvrOzYtnLMA
