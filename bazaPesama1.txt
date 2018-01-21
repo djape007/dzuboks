@@ -5129,7 +5129,7 @@
 ﻿Narodna]Dragana Mirković}O na, na, na=http://www.youtube.com/watch?v=4LL0nCriC2I
 ﻿Narodna]Dragana Mirković}Oči pune tuge=http://www.youtube.com/watch?v=8ZvNBSVDLIE
 ﻿Narodna]Dragana Mirković}Od kad sam se u tebe zaljubila=http://www.youtube.com/watch?v=T4szFUfQZig
-﻿Narodna]Dragana Mirković}Od milion jedan=http://www.youtube.com/watch?v=cEMP-5gx4NY
+﻿Narodna]Dragana Mirković}Od milion jedan=http://www.youtube.com/watch?v=3HiS0dQLXLg
 ﻿Narodna]Dragana Mirković}Opojni su zumbuli=http://www.youtube.com/watch?v=v_Ywd4uSPcg
 ﻿Narodna]Dragana Mirković}Oprosti što ti smetam=http://www.youtube.com/watch?v=1-DNBGwkYsY
 ﻿Narodna]Dragana Mirković}Oprosti za sve=http://www.youtube.com/watch?v=3SqymMp5iPM
@@ -8781,6 +8781,7 @@
 ﻿Zabavna]Ivana Selakov}Polovna=http://www.youtube.com/watch?v=-J1_UcNjpws
 ﻿Zabavna]Ivana Selakov}Priznaj mi=http://www.youtube.com/watch?v=KDNY90OHpbo
 ﻿Zabavna]Ivana Selakov}Probijam led=http://www.youtube.com/watch?v=XbTs54Uv5bU
+﻿Zabavna]Ivana Selakov}Promukla od bola=--start-time=3 https://www.youtube.com/watch?v=XYGJTjPv5dk
 ﻿Zabavna]Ivana Selakov}SOS=http://www.youtube.com/watch?v=JVcYMswQG_o
 ﻿Zabavna]Ivana Selakov}Sad odlazi=http://www.youtube.com/watch?v=aZrk0qCajKg
 ﻿Zabavna]Ivana Selakov}Samačka=http://www.youtube.com/watch?v=F48qsj7CCLg

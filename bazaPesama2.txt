@@ -1067,6 +1067,7 @@
 ﻿Narodna]Maya Berović}Djevojački san=http://www.youtube.com/watch?v=DbHXmYRVxAU
 ﻿Narodna]Maya Berović}Djevojačko prezime=http://www.youtube.com/watch?v=0SHFxksroHs
 ﻿Narodna]Maya Berović}Djevojka sa juga=http://www.youtube.com/watch?v=MCeDrDqTEoM
+﻿Narodna]Maya Berović}Harem=https://www.youtube.com/watch?v=rwPNFLZrGGA
 ﻿Narodna]Maya Berović}Džin i limunada=http://www.youtube.com/watch?v=hYnq5At7Z_k
 ﻿Narodna]Maya Berović}Ja volim za oboje=http://www.youtube.com/watch?v=Un3ibv6GycA
 ﻿Narodna]Maya Berović}Javi šta ti je u glavi=http://www.youtube.com/watch?v=RjhRyleT4jM
@@ -2660,13 +2661,13 @@
 ﻿Narodna]Nedeljko Bajić Baja}Oficir s ružom=http://www.youtube.com/watch?v=oIgi8cd2mrQ
 ﻿Narodna]Nedeljko Bajić Baja}Ključ=http://www.youtube.com/watch?v=VkYXor2ncW0
 ﻿Narodna]Nedeljko Bajić Baja}Boja očiju=http://www.youtube.com/watch?v=eQqYabqHUC4
-﻿Narodna]Nedeljko Bajić Baja}Rođen spreman=http://www.youtube.com/watch?v=XfSjsBKNVWM
+﻿Narodna]Nedeljko Bajić Baja}Rođen spreman=https://www.youtube.com/watch?v=HlKxyDwxIXs
 ﻿Narodna]Nedeljko Bajić Baja}Romansa=http://www.youtube.com/watch?v=Hf9f_SbkpKg
 ﻿Narodna]Nedeljko Bajić Baja}Sam u noći=--start-time=18 http://www.youtube.com/watch?v=7_k05PkQACU
 ﻿Narodna]Nedeljko Bajić Baja}Sastanak sa srećom=http://www.youtube.com/watch?v=Yv7Jc2aVhuE
 ﻿Narodna]Nedeljko Bajić Baja}Sećanje na nas=http://www.youtube.com/watch?v=1BImWnHjUZg
 ﻿Narodna]Nedeljko Bajić Baja}Snaga vetra=http://www.youtube.com/watch?v=9u1SBxHC_6o
-﻿Narodna]Nedeljko Bajić Baja}Snovi od stakla=http://www.youtube.com/watch?v=Nh-NPdWHCEY
+﻿Narodna]Nedeljko Bajić Baja}Snovi od stakla=http://www.youtube.com/watch?v=K8HC3WZq3qo
 ﻿Narodna]Nedeljko Bajić Baja}Ti oprosti=http://www.youtube.com/watch?v=zkfBwvHX5vs
 ﻿Narodna]Nedeljko Bajić Baja}Tip top=http://www.youtube.com/watch?v=TNiwy1Iw_Ss
 ﻿Narodna]Nedeljko Bajić Baja}Uzmi srce, vladaj njime=http://www.youtube.com/watch?v=vPFqw153xLQ
@@ -6828,7 +6829,7 @@
 ﻿Narodna]Seka Aleksić}Brodolom=http://www.youtube.com/watch?v=5qX5QgssiN0
 ﻿Narodna]Seka Aleksić}Chivas=http://www.youtube.com/watch?v=vMmBAez5z2I
 ﻿Narodna]Seka Aleksić}Crno i zlatno=http://www.youtube.com/watch?v=_SKe5AsjV1k
-﻿Narodna]Seka Aleksić}Crveni ruž=http://www.youtube.com/watch?v=s9E79hdbE-Q
+﻿Narodna]Seka Aleksić}Crveni ruž=http://www.youtube.com/watch?v=U6CZJgUbAYo
 ﻿Narodna]Seka Aleksić}Da sam muško=http://www.youtube.com/watch?v=M9_mUgZ98G0
 ﻿Narodna]Seka Aleksić}Dan od života=http://www.youtube.com/watch?v=uOeSGHOD9hI
 ﻿Narodna]Seka Aleksić}Devet dana=http://www.youtube.com/watch?v=32EwuoPAaFI
@@ -8810,6 +8811,7 @@
 ﻿Zabavna]Tanja Popović}Da se volimo=http://www.youtube.com/watch?v=8b_w_jp8r9Q
 ﻿Zabavna]Tanja Popović}Grmeč je u srcu mome=http://www.youtube.com/watch?v=syYoOy0Gg50
 ﻿Zabavna]Tanja Popović}Idealan spoj=http://www.youtube.com/watch?v=y1HmKvqm0sk
+﻿Zabavna]Tanja Popović}Ja sam se zaljubila u nas=http://www.youtube.com/watch?v=-LhiQOC1fEM
 ﻿Zabavna]Tanja Popović}Od oktobra do aprila=http://www.youtube.com/watch?v=MQl0ZiHy4Sk
 ﻿Zabavna]Tanja Popović}Prečica do srca=http://www.youtube.com/watch?v=xZdGgGtVgio
 ﻿Zabavna]Tanja Popović}Soba za tugu=http://www.youtube.com/watch?v=_cXcA5XDCGI
