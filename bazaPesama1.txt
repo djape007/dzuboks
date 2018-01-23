@@ -4184,7 +4184,7 @@
 ﻿Zabavna]Dino Dvornik}Život moj=http://www.youtube.com/watch?v=bQ5eLrqWUMw
 ﻿Zabavna]Dino Dvornik}Zmaja dah=http://www.youtube.com/watch?v=6XGOK1kgi1I
 ﻿Zabavna]Dino Merlin}A šta imam ja od tog=http://www.youtube.com/watch?v=xuROwfjHhAg
-﻿Zabavna]Dino Merlin}Ako me ikada sretneš=http://www.youtube.com/watch?v=YlLpF7lRswg
+﻿Zabavna]Dino Merlin}Ako me ikada sretneš=http://www.youtube.com/watch?v=3ycOvblTGNk
 ﻿Zabavna]Dino Merlin}Ako nastaviš ovako=https://www.youtube.com/watch?v=AHRs2NcPuXg
 ﻿Zabavna]Dino Merlin}Da je tuga sneg=http://www.youtube.com/watch?v=nO4gCGm5bhg
 ﻿Zabavna]Dino Merlin}Da šutiš=http://www.youtube.com/watch?v=5m5XcwaG1ic
@@ -5976,7 +5976,7 @@
 ﻿Zabavna]Emina Jahović}Metamorfoza=http://www.youtube.com/watch?v=USM3t-Io1jU
 ﻿Zabavna]Emina Jahović}Molim te=http://www.youtube.com/watch?v=IAVP5Ob2l3Q
 ﻿Zabavna]Emina Jahović}Nastavljamo dalje=http://www.youtube.com/watch?v=1idJOnP-5bU
-﻿Zabavna]Emina Jahović}Ne plašim se=http://www.youtube.com/watch?v=-2htbzd2ZAw
+﻿Zabavna]Emina Jahović}Ne plašim se=--start-time=48 http://www.youtube.com/watch?v=zvWs5ZpYUIY
 ﻿Zabavna]Emina Jahović}Ne zaboravi=http://www.youtube.com/watch?v=xpxY8VJP9lM
 ﻿Zabavna]Emina Jahović}Nedostaješ=http://www.youtube.com/watch?v=NaDwPir0u7E
 ﻿Zabavna]Emina Jahović}Nemilo=http://www.youtube.com/watch?v=7Cpduqi6vEA
@@ -14419,7 +14419,6 @@
 ﻿Rok Strani]Frank Zappa}Drafted Again=http://www.youtube.com/watch?v=iKQkD7JQ3pA
 ﻿Rok Strani]Frank Zappa}Dumb All Over=http://www.youtube.com/watch?v=jUg3wshcuLI
 ﻿Rok Strani]Frank Zappa}Dummy Up=http://www.youtube.com/watch?v=FmX3MGX9RYU
-﻿Rok Strani]Frank Zappa}Echidna's Arf (Of You)=http://www.youtube.com/watch?v=NeCGm8VipUU
 ﻿Rok Strani]Frank Zappa}Eddie, Are You Kidding?=http://www.youtube.com/watch?v=E47R__jJnDE
 ﻿Rok Strani]Frank Zappa}Electric Aunt Jemima=http://www.youtube.com/watch?v=QzDlf1Y49a4
 ﻿Rok Strani]Frank Zappa}Elvis Has Just Left The Building=http://www.youtube.com/watch?v=mvNV5IxxB4A
