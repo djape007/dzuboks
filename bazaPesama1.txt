@@ -5994,7 +5994,7 @@
 ﻿Zabavna]Emina Jahović}Osmi dan=http://www.youtube.com/watch?v=Kq-sLmPYVno
 ﻿Zabavna]Emina Jahović}Pile moje=http://www.youtube.com/watch?v=iXTHv3ovDFQ
 ﻿Zabavna]Emina Jahović}Pola oštrog noža=http://www.youtube.com/watch?v=XVnqYcDHBzk
-﻿Zabavna]Emina Jahović}Posle mene=http://www.youtube.com/watch?v=oQY0VjyNx6c
+﻿Zabavna]Emina Jahović}Posle mene=http://www.youtube.com/watch?v=jwyUczHv0Ug
 ﻿Zabavna]Emina Jahović}Protiv svih=--start-time=6 http://www.youtube.com/watch?v=_RI_s3hRaNU
 ﻿Zabavna]Emina Jahović}Prva dama=http://www.youtube.com/watch?v=12XoBp9S3dQ
 ﻿Zabavna]Emina Jahović}Radije, ranije=http://www.youtube.com/watch?v=xw7Aa3KjkWI
@@ -6012,7 +6012,7 @@
 ﻿Zabavna]Emina Jahović}Zauvek=http://www.youtube.com/watch?v=RxXLmYn8Eck
 ﻿Zabavna]Emina Jahović}Žena zmaj=http://www.youtube.com/watch?v=hvrUc6CYH70
 ﻿Zabavna]Emina Jahović}Živeo=http://www.youtube.com/watch?v=5LvwaxzHcQE
-﻿Zabavna]Emina Jahović}Zvijer=http://www.youtube.com/watch?v=srb6j4tOlYY
+﻿Zabavna]Emina Jahović}Zvijer=http://www.youtube.com/watch?v=CDfN19JktZI
 ﻿Zabavna]Ena Popov}Baj, baj, milo moje=http://www.youtube.com/watch?v=-w9Fojujb98
 ﻿Zabavna]Ena Popov}Na meni tope se=http://www.youtube.com/watch?v=Y92aQXuTElY
 ﻿Zabavna]Ena Popov}Naivna=http://www.youtube.com/watch?v=11aT5UUbWwA
@@ -8773,7 +8773,7 @@
 ﻿Zabavna]Ivana Selakov}Grad, grad=http://www.youtube.com/watch?v=0sx-JeL6RoE
 ﻿Zabavna]Ivana Selakov}Heroj=http://www.youtube.com/watch?v=Nx20JPHQ5lg
 ﻿Zabavna]Ivana Selakov}Ima nešto=--start-time=17 http://www.youtube.com/watch?v=0P2wxotmACI
-﻿Zabavna]Ivana Selakov}Izabran=http://www.youtube.com/watch?v=SXWe6ws1OzY
+﻿Zabavna]Ivana Selakov}Izabran=http://www.youtube.com/watch?v=9ktySfOG6WQ
 ﻿Zabavna]Ivana Selakov}Između redova=http://www.youtube.com/watch?v=840LaIui6y0
 ﻿Zabavna]Ivana Selakov}Jastuci=http://www.youtube.com/watch?v=q15F6a26HII
 ﻿Zabavna]Ivana Selakov}Mesec dana=http://www.youtube.com/watch?v=XAmpoVsV2QU
@@ -11963,7 +11963,6 @@
 ﻿Rok Strani]Alice Cooper}Billion Dollar Babies=http://www.youtube.com/watch?v=xsT1JqSCkIA
 ﻿Rok Strani]Alice Cooper}Black Juju=http://www.youtube.com/watch?v=01GRuQ3MWnw
 ﻿Rok Strani]Alice Cooper}Blow Me A Kiss=http://www.youtube.com/watch?v=-yMYRZnWm98
-﻿Rok Strani]Alice Cooper}Blue Turk=http://www.youtube.com/watch?v=I692-SnNXt4
 ﻿Rok Strani]Alice Cooper}Brutal Planet=http://www.youtube.com/watch?v=-tTDzEa0BU8
 ﻿Rok Strani]Alice Cooper}Caffeine=http://www.youtube.com/watch?v=9hrMXRXiB9Q
 ﻿Rok Strani]Alice Cooper}Catch Me If You Can=http://www.youtube.com/watch?v=rw4bNre2IEk
@@ -12008,7 +12007,7 @@
 ﻿Rok Strani]Alice Cooper}I Am The Future=http://www.youtube.com/watch?v=pYRMnYB-MNk
 ﻿Rok Strani]Alice Cooper}I Got A Line On You=http://www.youtube.com/watch?v=ayK2ZY8sQRw
 ﻿Rok Strani]Alice Cooper}I Like Girls=http://www.youtube.com/watch?v=GEpClFWXAUQ
-﻿Rok Strani]Alice Cooper}I Love The Dead=http://www.youtube.com/watch?v=pKZnt3NQMnk
+﻿Rok Strani]Alice Cooper}I Love The Dead=http://www.youtube.com/watch?v=s5nQY5qvT7c
 ﻿Rok Strani]Alice Cooper}I Never Cry=--start-time=10 http://www.youtube.com/watch?v=mvXO1WPJOjI
 ﻿Rok Strani]Alice Cooper}I'll Bite Your Face Off=--start-time=5 http://www.youtube.com/watch?v=R439Y5Awe78
 ﻿Rok Strani]Alice Cooper}I'm Eighteen=http://www.youtube.com/watch?v=jXZcJojTucg
