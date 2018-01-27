@@ -1040,6 +1040,7 @@
 ﻿Narodna]Ana Bekuta}Plače mi se od života=http://www.youtube.com/watch?v=s4OvxGhvnFg
 ﻿Narodna]Ana Bekuta}Podrži našu ljubav=http://www.youtube.com/watch?v=npwjCWd_Pgk
 ﻿Narodna]Ana Bekuta}Praznik=http://www.youtube.com/watch?v=YomU-t1TfY4
+Narodna]Ana Bekuta}Pređi na ljubav=--start-time=5 https://www.youtube.com/watch?v=YojUgTSTvSo
 ﻿Narodna]Ana Bekuta}Pričaj mi=http://www.youtube.com/watch?v=640mEAyEv7Y
 ﻿Narodna]Ana Bekuta}Pustite me da ga volim=http://www.youtube.com/watch?v=7clhU7STeA4
 ﻿Narodna]Ana Bekuta}Rano moja=http://www.youtube.com/watch?v=C2_dSAEMJSw
@@ -1247,6 +1248,7 @@
 ﻿Zabavna]Andreana Čekić}Zaplakaće jutra=http://www.youtube.com/watch?v=mZAscL6WZnc
 ﻿Zabavna]Andreana Čekić}Zaplakaće oči moje=http://www.youtube.com/watch?v=v6aOjgdLUd4
 ﻿Zabavna]Andreana Čekić}Ma samo me gledaj=https://www.youtube.com/watch?v=CC6whew_WWo
+﻿Zabavna]Andreana Čekić}Kraljevi falša (ft. Mr. Sharan)=--start-time=8 https://www.youtube.com/watch?v=JGPSdPdUjCw
 ﻿Zabavna]Andrija Marković}Iskoristi me=http://www.youtube.com/watch?v=iIU-vUdU93A
 ﻿Zabavna]Andrija Marković}Mala=http://www.youtube.com/watch?v=SqOcFRsJW-s
 ﻿Zabavna]Andrija Marković}Noći balkanske=http://www.youtube.com/watch?v=OuarfFWNCkI
@@ -4233,7 +4235,7 @@
 ﻿Zabavna]Dino Merlin}Na Vi=https://www.youtube.com/watch?v=z08ZBzR3FTE
 ﻿Zabavna]Dino Merlin}Jel Sarajevo gdje je nekad bilo=https://www.youtube.com/watch?v=2Xda4BUoZ3I
 ﻿Zabavna]Dino Merlin}Zar je to sve što imam od tebe=https://www.youtube.com/watch?v=Jo-PziHLQpY
-﻿Zabavna]Dino Merlin}Bosnom Behar probeharao=https://www.youtube.com/watch?v=1nsxFpjht0Y
+﻿Zabavna]Dino Merlin}Bosnom Behar probeharao=http://www.youtube.com/watch?v=pEDniLyXtAc
 ﻿Zabavna]Dino Merlin}Supermen=http://www.youtube.com/watch?v=5i2CkmQTJj4
 ﻿Zabavna]Dino Merlin}Sve do medalje=http://www.youtube.com/watch?v=T8I96qZO-CI
 ﻿Zabavna]Dino Merlin}Sve dok te bude imalo=http://www.youtube.com/watch?v=3TY6Ohs0lS8
@@ -7990,7 +7992,7 @@
 ﻿Narodna]Haris Džinović}Nikad te nisam lagao=http://www.youtube.com/watch?v=K_SoeCrqIoI
 ﻿Narodna]Haris Džinović}Nisam ja za tebe=http://www.youtube.com/watch?v=_dG_qp08GtM
 ﻿Narodna]Haris Džinović}Noćas mi je srce ranjeno=http://www.youtube.com/watch?v=LUgEKm87HVI
-﻿Narodna]Haris Džinović}Odlazi, nestaje=http://www.youtube.com/watch?v=Pkz6c5B8JJU
+﻿Narodna]Haris Džinović}Odlazi, nestaje=--start-time=22 http://www.youtube.com/watch?v=XmyNrMXgjKU
 ﻿Narodna]Haris Džinović}Odlaziš od mene=http://www.youtube.com/watch?v=WkyAobQkZ10
 ﻿Narodna]Haris Džinović}Opet sam ti u kafani=http://www.youtube.com/watch?v=YNmHtJCz4Oo
 ﻿Narodna]Haris Džinović}Ostariću, neću znati=http://www.youtube.com/watch?v=cwuvwXDOGXI
@@ -11640,9 +11642,8 @@
 ﻿DJ Strani]Martin Garrix}Wizard (ft. Jay Hardway)=https://www.youtube.com/watch?v=e60C4WvvvCo
 ﻿DJ Strani]Martin Garrix}Helicopter (ft. Firebeatz)=https://www.youtube.com/watch?v=ovDcLHa2L1o
 ﻿DJ Strani]Martin Garrix}Virus (ft. MOTi)=https://www.youtube.com/watch?v=iXIDtf1wP0g
-﻿DJ Strani]Martin Garrix}Chinatown=--start-time=14 https://www.youtube.com/watch?v=FPmr7F-spkk
+﻿DJ Strani]Martin Garrix}Chinatown=http://www.youtube.com/watch?v=4DjtfRWmZ64
 ﻿DJ Strani]Martin Garrix}Oops=https://www.youtube.com/watch?v=8Aj_VPE7B9w
-﻿DJ Strani]Martin Garrix}Valid (ft. Jay Hardway)=https://www.youtube.com/watch?v=7SzQLp1e-hg
 ﻿DJ Strani]Steve Aoki}Boneless=https://www.youtube.com/watch?v=Z6z9A9nyDpg
 ﻿DJ Strani]Steve Aoki}No beef=--start-time=5 https://www.youtube.com/watch?v=BBdVm0t7smg
 ﻿DJ Strani]Steve Aoki}Just hold on=https://www.youtube.com/watch?v=RJOqJ-RitOg
@@ -12088,7 +12089,6 @@
 ﻿Rok Strani]Alice Cooper}The House Is Haunted=http://www.youtube.com/watch?v=-B81L-ku5K0
 ﻿Rok Strani]Alice Cooper}The Quiet Room=http://www.youtube.com/watch?v=OFFEJIufPzM
 ﻿Rok Strani]Alice Cooper}The Saga Of Jesse Jane=http://www.youtube.com/watch?v=bfmAHfMH5F0
-﻿Rok Strani]Alice Cooper}The Sharpest Point=http://www.youtube.com/watch?v=326f1EdrmZU
 ﻿Rok Strani]Alice Cooper}The World Needs Guts=http://www.youtube.com/watch?v=xwM7-Zuj1Rw
 ﻿Rok Strani]Alice Cooper}This Maniac's In Love With You=http://www.youtube.com/watch?v=AnwTQY9DNAo
 ﻿Rok Strani]Alice Cooper}Time To Kill=http://www.youtube.com/watch?v=AxkrlNRqOAA
@@ -15125,7 +15125,7 @@
 ﻿Rok Strani]Hole}Sassy=http://www.youtube.com/watch?v=IIRZCmswt8w
 ﻿Rok Strani]Hole}Season Of The Witch=http://www.youtube.com/watch?v=Oi_QkBQiDWw
 ﻿Rok Strani]Hole}She Walks On Me=http://www.youtube.com/watch?v=aeNLTjhtHBc
-﻿Rok Strani]Hole}Skinny Little Bitch=http://www.youtube.com/watch?v=hsZgyAi-5Ws
+﻿Rok Strani]Hole}Skinny Little Bitch=http://www.youtube.com/watch?v=cFz6nk-OnF4
 ﻿Rok Strani]Hole}Softer, Softest=http://www.youtube.com/watch?v=4WxqJ4zKBH8
 ﻿Rok Strani]Hole}Someone Else's Bed=http://www.youtube.com/watch?v=O4CO1Y-WALU
 ﻿Rok Strani]Hole}Star Belly=http://www.youtube.com/watch?v=W4ZkZYe9llk
@@ -16233,7 +16233,7 @@
 ﻿Rok Strani]Lenny Kravitz}Are You Gonna Go My Way=http://www.youtube.com/watch?v=mEVZi_xd__I
 ﻿Rok Strani]Lenny Kravitz}Back In Vietnam=http://www.youtube.com/watch?v=-TgT9U93Gnc
 ﻿Rok Strani]Lenny Kravitz}Bank Robber Man=http://www.youtube.com/watch?v=so4eT5pA1uk
-﻿Rok Strani]Lenny Kravitz}Baptized=http://www.youtube.com/watch?v=ADPwxkfk8i0
+﻿Rok Strani]Lenny Kravitz}Baptized=http://www.youtube.com/watch?v=WM2KcKaZ4Jc
 ﻿Rok Strani]Lenny Kravitz}Battlefield Of Love=http://www.youtube.com/watch?v=B5XTNiHExmg
 ﻿Rok Strani]Lenny Kravitz}Believe In Me=http://www.youtube.com/watch?v=weQygxyj744
 ﻿Rok Strani]Lenny Kravitz}Believe=http://www.youtube.com/watch?v=K96-PvB49Eg
