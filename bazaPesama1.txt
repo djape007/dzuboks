@@ -257,7 +257,7 @@
 ﻿Narodna]Aca Matić}Dođi u moje sne=http://www.youtube.com/watch?v=djXtEBXG_eM
 ﻿Narodna]Aca Matić}Fato mori dušmanke=http://www.youtube.com/watch?v=K-RwVBrFYQc
 ﻿Narodna]Aca Matić}Krčmarice=http://www.youtube.com/watch?v=K_pounopoq0
-﻿Narodna]Aca Matić}Moje tužne noći=http://www.youtube.com/watch?v=2K4I9gQcAcM
+﻿Narodna]Aca Matić}Moje tužne noći=http://www.youtube.com/watch?v=SQRAiRA2P4I
 ﻿Narodna]Aca Matić}Oči tvoje, oči moje=http://www.youtube.com/watch?v=AKxsmL-e3lw
 ﻿Narodna]Aca Matić}Prava ljubav=http://www.youtube.com/watch?v=kW1Noqx6Lzs
 ﻿Narodna]Aca Matić}Šeherezada=http://www.youtube.com/watch?v=2p51kJA8_iw
@@ -544,7 +544,7 @@
 ﻿Zabavna]Aleksandra Radović}Ako nikada=http://www.youtube.com/watch?v=LoRoU9WO4EY
 ﻿Zabavna]Aleksandra Radović}Ako pogaziš laž=http://www.youtube.com/watch?v=S6ppFpCcM0Y
 ﻿Zabavna]Aleksandra Radović}Beskrajno=http://www.youtube.com/watch?v=j_UPh7QAol0
-﻿Zabavna]Aleksandra Radović}Bivši dragi=http://www.youtube.com/watch?v=cdppDblQMnE
+﻿Zabavna]Aleksandra Radović}Bivši dragi=http://www.youtube.com/watch?v=18j0bnfpv4Y
 ﻿Zabavna]Aleksandra Radović}Bori se=http://www.youtube.com/watch?v=9m4lXxgVq14
 ﻿Zabavna]Aleksandra Radović}Brod budala=http://www.youtube.com/watch?v=BHJcu9RIP1U
 ﻿Zabavna]Aleksandra Radović}Budi moj=http://www.youtube.com/watch?v=x8KQub3rZ1c
@@ -1040,7 +1040,7 @@
 ﻿Narodna]Ana Bekuta}Plače mi se od života=http://www.youtube.com/watch?v=s4OvxGhvnFg
 ﻿Narodna]Ana Bekuta}Podrži našu ljubav=http://www.youtube.com/watch?v=npwjCWd_Pgk
 ﻿Narodna]Ana Bekuta}Praznik=http://www.youtube.com/watch?v=YomU-t1TfY4
-Narodna]Ana Bekuta}Pređi na ljubav=--start-time=5 https://www.youtube.com/watch?v=YojUgTSTvSo
+﻿Narodna]Ana Bekuta}Pređi na ljubav=--start-time=5 https://www.youtube.com/watch?v=YojUgTSTvSo
 ﻿Narodna]Ana Bekuta}Pričaj mi=http://www.youtube.com/watch?v=640mEAyEv7Y
 ﻿Narodna]Ana Bekuta}Pustite me da ga volim=http://www.youtube.com/watch?v=7clhU7STeA4
 ﻿Narodna]Ana Bekuta}Rano moja=http://www.youtube.com/watch?v=C2_dSAEMJSw
@@ -6003,7 +6003,7 @@ Narodna]Ana Bekuta}Pređi na ljubav=--start-time=5 https://www.youtube.com/watch
 ﻿Zabavna]Emina Jahović}Sad nastavi=http://www.youtube.com/watch?v=eQrl6DDmKqk
 ﻿Zabavna]Emina Jahović}Skini ruke s mog vrata=http://www.youtube.com/watch?v=6CJLv8jPxhg
 ﻿Zabavna]Emina Jahović}Tačka=http://www.youtube.com/watch?v=0OTdzI9C38M
-﻿Zabavna]Emina Jahović}Telefon=http://www.youtube.com/watch?v=KuNA_slDHR0
+﻿Zabavna]Emina Jahović}Telefon=http://www.youtube.com/watch?v=XLwyTWksK1E
 ﻿Zabavna]Emina Jahović}Ti kvariigro=http://www.youtube.com/watch?v=Jn390hUXfJI
 ﻿Zabavna]Emina Jahović}Tvoja greška=http://www.youtube.com/watch?v=v6tuOipj5mk
 ﻿Zabavna]Emina Jahović}U la, la=http://www.youtube.com/watch?v=OIkO9Xg2XWs
@@ -9588,7 +9588,7 @@ Narodna]Ana Bekuta}Pređi na ljubav=--start-time=5 https://www.youtube.com/watch
 ﻿Narodna]Katarina Grujić}Paranoičan=--start-time=9 http://www.youtube.com/watch?v=_lr4PZUmf3o
 ﻿Zabavna]Katarina Kovačević}Hajde, nazdravi bivšoj ljubavi=http://www.youtube.com/watch?v=npOj5nwiOhw
 ﻿Zabavna]Katarina Kovačević}Neizlečivo zaljubljena=http://www.youtube.com/watch?v=qEJ6htTSrdA
-﻿Zabavna]Katarina Kovačević}Svetica=http://www.youtube.com/watch?v=nCZcNb9jygo
+﻿Zabavna]Katarina Kovačević}Svetica=http://www.youtube.com/watch?v=9gY8CkMPhrk
 ﻿Zabavna]Katarina Živković}Ako se rastanemo jednom=http://www.youtube.com/watch?v=TpjTnEa97Cc
 ﻿Zabavna]Katarina Živković}Bez ljubavi nisam živa=http://www.youtube.com/watch?v=eeJqHbZsj-o
 ﻿Zabavna]Katarina Živković}Čuvaću tvoju sliku=http://www.youtube.com/watch?v=lQnOsxPRD2k
