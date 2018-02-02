@@ -3753,7 +3753,6 @@
 ﻿Rok]Osvajači}Da te milujem=http://www.youtube.com/watch?v=UZgbND4l1Uc
 ﻿Rok]Osvajači}Druga žena=http://www.youtube.com/watch?v=a-V_6EuOsRU
 ﻿Rok]Osvajači}Duša kad izneveri=http://www.youtube.com/watch?v=gtlUdaCTfW4
-﻿Rok]Osvajači}Glorija=http://www.youtube.com/watch?v=sMskPwbkZwY
 ﻿Rok]Osvajači}Gotova priča=http://www.youtube.com/watch?v=QR-jWqz2cFM
 ﻿Rok]Osvajači}Iz sve snage=http://www.youtube.com/watch?v=n_s9l4bBoUg
 ﻿Rok]Osvajači}Jako srce udara=http://www.youtube.com/watch?v=Adx5xIxD6RQ
@@ -3774,7 +3773,6 @@
 ﻿Rok]Osvajači}Nikad više s' tobom=http://www.youtube.com/watch?v=zt3IW3swhQc
 ﻿Rok]Osvajači}Ona ima san=http://www.youtube.com/watch?v=ovu0ht6Bzm8
 ﻿Rok]Osvajači}Ostani=http://www.youtube.com/watch?v=6hj4RVnwXhU
-﻿Rok]Osvajači}Pakleni put=http://www.youtube.com/watch?v=C6uCddk4xl4
 ﻿Rok]Osvajači}Pesma za kraj=http://www.youtube.com/watch?v=imgKUQm9D2w
 ﻿Rok]Osvajači}Pronađi me=http://www.youtube.com/watch?v=c484OhnvI8Q
 ﻿Rok]Osvajači}Prvi put=http://www.youtube.com/watch?v=8SljBWKRIjA
@@ -7184,7 +7182,6 @@
 ﻿Narodna]Selma Bajrami}Pijanico=http://www.youtube.com/watch?v=B3UAZuWSalk
 ﻿Narodna]Selma Bajrami}Promijeni se=http://www.youtube.com/watch?v=gN721OHRtbA
 ﻿Narodna]Selma Bajrami}Rukujmo se kao prijatelji=http://www.youtube.com/watch?v=m0i6gRmMai0
-﻿Narodna]Selma Bajrami}Sarajevo=http://www.youtube.com/watch?v=UQwDPo0tZGg
 ﻿Narodna]Selma Bajrami}Sretna bez ljubavi=http://www.youtube.com/watch?v=FkXxFdOLCEs
 ﻿Narodna]Selma Bajrami}Šta je od Boga, dobro je=http://www.youtube.com/watch?v=nT2PTpzoyZc
 ﻿Narodna]Selma Bajrami}Svaki minut bitan je=http://www.youtube.com/watch?v=l0t9ZdrDCHs
@@ -8890,7 +8887,7 @@
 ﻿Narodna]Tanja Savić}Tako mlada=http://www.youtube.com/watch?v=0jKXyt-9YtE
 ﻿Narodna]Tanja Savić}Ti si ta=http://www.youtube.com/watch?v=63gtxWBmVbU
 ﻿Narodna]Tanja Savić}Tvrđava od ljubavi=http://www.youtube.com/watch?v=fWrOlOZy3rc
-﻿Narodna]Tanja Savić}U godini jedan dan=http://www.youtube.com/watch?v=NLptQpT0m18
+﻿Narodna]Tanja Savić}U godini jedan dan=http://www.youtube.com/watch?v=nF_2X23mQT0
 ﻿Narodna]Tanja Savić}Ulica=http://www.youtube.com/watch?v=oyNqi40ywj4
 ﻿Narodna]Tanja Savić}Van dometa=http://www.youtube.com/watch?v=XIIw2T5NktY
 ﻿Narodna]Tanja Savić}Viša sila=http://www.youtube.com/watch?v=JyOMesZPNrI
