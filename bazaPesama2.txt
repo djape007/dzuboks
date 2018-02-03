@@ -5044,6 +5044,7 @@
 ﻿Narodna]Radiša Urošević}Milena=http://www.youtube.com/watch?v=HfOQSAXiifc
 ﻿Narodna]Radiša Urošević}Ne dam te=http://www.youtube.com/watch?v=qM8FGUBhteg
 ﻿Narodna]Radiša Urošević}O živote moj=http://www.youtube.com/watch?v=6KK7EQ_XC_M
+﻿Narodna]Radiša Urošević}Očev savet=https://www.youtube.com/watch?v=WZ16BCrYS1s
 ﻿Narodna]Radiša Urošević}Oko moje=http://www.youtube.com/watch?v=ScUftmuaW2w
 ﻿Narodna]Radiša Urošević}Opasna za oči=http://www.youtube.com/watch?v=hUd3CqEfMMg
 ﻿Narodna]Radiša Urošević}Padaju rani snegovi=http://www.youtube.com/watch?v=-i5C8OrXY9M
@@ -9562,7 +9563,6 @@
 ﻿Zabavna]Vajta}Zlatna ribica=http://www.youtube.com/watch?v=zKsznvcBr0s
 ﻿Rok]Valentino}Bez tebe=http://www.youtube.com/watch?v=vkhVPgRxBcs
 ﻿Rok]Valentino}Idu ptice selice=http://www.youtube.com/watch?v=CaFpR6Ugj9k
-﻿Rok]Valentino}Kad me više ne bude=http://www.youtube.com/watch?v=--M20Jj2Dmg
 ﻿Rok]Valentino}Miriše mi miriše=http://www.youtube.com/watch?v=f6nj5ivjLCA
 ﻿Rok]Valentino}Oka tvoja dva=http://www.youtube.com/watch?v=fXtZaxY05Ds
 ﻿Rok]Valentino}Pile moje=http://www.youtube.com/watch?v=Papxl0PJczU
@@ -11449,12 +11449,12 @@
 ﻿Rok Strani]Kid Rock}Johnny Cash=https://www.youtube.com/watch?v=7ecE1oa7j2M
 ﻿Rok Strani]Kid Rock}Redneck paradise (remix)(ft. Hank Williams)=--start-time=13 https://www.youtube.com/watch?v=__HPfmvaWRw
 ﻿Rok Strani]Kid Rock}So hott=https://www.youtube.com/watch?v=2x93iLj06iM
-﻿Rok Strani]Kid Rock}Cocky=https://www.youtube.com/watch?v=KO7vKHmc8CQ
+﻿Rok Strani]Kid Rock}Cocky=http://www.youtube.com/watch?v=hMri8SWbznM
 ﻿Rok Strani]Kid Rock}Devil without a cause=https://www.youtube.com/watch?v=Ab4EEkOWUEQ
 ﻿Rok Strani]Kid Rock}Collide (ft. Sheryl Crow)=https://www.youtube.com/watch?v=WoFHIhAW4W0
 ﻿Rok Strani]Kid Rock}Jackson, Mississippi=https://www.youtube.com/watch?v=ykS39EnVKyw
 ﻿Rok Strani]Kid Rock}Let's roll (ft. Yelawolf)=--start-time=7 https://www.youtube.com/watch?v=WjF4eOnjCLE
-﻿Rok Strani]Kid Rock}I am the bullgod=https://www.youtube.com/watch?v=6k86Uou3PZg
+﻿Rok Strani]Kid Rock}I am the bullgod=http://www.youtube.com/watch?v=dLPLbHPd7Jk
 ﻿Rok Strani]Kid Rock}F-ck off=https://www.youtube.com/watch?v=zW3MwsQQONs
 ﻿Rok Strani]Kid Rock}I got one for ya'=https://www.youtube.com/watch?v=oiuKlbG8-Ms
 ﻿Rok Strani]Kid Rock}Care (ft. T.I., Angaleena Presley)=--start-time=24 https://www.youtube.com/watch?v=2Ccjjt5OihM
@@ -11515,7 +11515,7 @@
 ﻿Rok Strani]Kid Rock}Hillbilly stomp=https://www.youtube.com/watch?v=i8FFbnIx2iU
 ﻿Rok Strani]Kid Rock}Run off to LA=https://www.youtube.com/watch?v=cX-RO-5STpA
 ﻿Rok Strani]Kid Rock}Single father=https://www.youtube.com/watch?v=eFa665pnzkY
-﻿Rok Strani]Kid Rock}Feel like making love=https://www.youtube.com/watch?v=pk1QaYyF-ps
+﻿Rok Strani]Kid Rock}Feel like making love=http://www.youtube.com/watch?v=yquhPmU3Ia8
 ﻿Rok Strani]Kid Rock}Hard night for Sarah=https://www.youtube.com/watch?v=Wtxo0MJCWmk
 ﻿Rok Strani]Kid Rock}Do it for you=https://www.youtube.com/watch?v=IT4X3_pkbio
 ﻿Rok Strani]Kid Rock}Jesus and Bocephus=https://www.youtube.com/watch?v=uswV_gUny-k
@@ -17710,7 +17710,7 @@
 ﻿Rok Strani]B. B. King}Key To The Highway=http://www.youtube.com/watch?v=wNId8clBdbI
 ﻿Rok Strani]B. B. King}Lay Another Log On The Fire=http://www.youtube.com/watch?v=QXP4ZhFW8Z0
 ﻿Rok Strani]B. B. King}Let Me Love You=http://www.youtube.com/watch?v=rCB3vVwRkTw
-﻿Rok Strani]B. B. King}Let Me Make You Cry A Little Longer=http://www.youtube.com/watch?v=gSeuQGrZ08o
+﻿Rok Strani]B. B. King}Let Me Make You Cry A Little Longer=http://www.youtube.com/watch?v=Mp9_p8_1FdI
 ﻿Rok Strani]B. B. King}Let The Good Times Roll=http://www.youtube.com/watch?v=CmUzp7bNx48
 ﻿Rok Strani]B. B. King}Let's Do The Boogie=http://www.youtube.com/watch?v=kFfhGugDl2M
 ﻿Rok Strani]B. B. King}Let's Get Down To Business=http://www.youtube.com/watch?v=Ui6jswoZsZU

@@ -1098,6 +1098,7 @@
 ﻿Narodna]Ana Bekuta}Zabrinuta žena=http://www.youtube.com/watch?v=s5zYsT8YQes
 ﻿Narodna]Ana Bekuta}Zakon ljubavi=http://www.youtube.com/watch?v=yQAhuWlgNb4
 ﻿Narodna]Ana Bekuta}Zanele te noći=http://www.youtube.com/watch?v=yoP7RSQ8EJs
+﻿Narodna]Ana Bekuta}Zastani, živote=--start-time=5 https://www.youtube.com/watch?v=aMuOTlXjsj0
 ﻿Narodna]Ana Bekuta}Zavoleh te=http://www.youtube.com/watch?v=ilNqyaqPsxI
 ﻿Narodna]Ana Bekuta}Zelene oči=http://www.youtube.com/watch?v=EsOgNMlVzqE
 ﻿Narodna]Ana Bekuta}Zeman=http://www.youtube.com/watch?v=lmMgQUS0jsI
@@ -10733,7 +10734,7 @@
 ﻿Rok Strani]Led Zeppelin}Over the hills and far away=https://www.youtube.com/watch?v=QKdkFKResr4
 ﻿Rok Strani]Led Zeppelin}Rock and roll=https://www.youtube.com/watch?v=mwFqRB2FQu4
 ﻿Rok Strani]Led Zeppelin}Tangerine=https://www.youtube.com/watch?v=LyM4vxxu2jA
-﻿Rok Strani]Led Zeppelin}When the levee breaks=http://www.youtube.com/watch?v=KqeKikpLQ5o
+﻿Rok Strani]Led Zeppelin}When the levee breaks=http://www.youtube.com/watch?v=_h4NY-mnkXM
 ﻿Rok Strani]Led Zeppelin}Ten years gone=https://www.youtube.com/watch?v=4lLUCPBs5zc
 ﻿Rok Strani]Led Zeppelin}You shook me=https://www.youtube.com/watch?v=2sMBiRzML-g
 ﻿Rok Strani]Led Zeppelin}Your time is gonna come=https://www.youtube.com/watch?v=LeweFJpz2ac
