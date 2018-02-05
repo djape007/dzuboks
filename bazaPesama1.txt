@@ -2226,7 +2226,7 @@
 ﻿Narodna]Biljana Sečivanović}Sine moj=http://www.youtube.com/watch?v=hn4JGCMT_Ts
 ﻿Narodna]Biljana Sečivanović}Talija=http://www.youtube.com/watch?v=hctAN6qxT9o
 ﻿Narodna]Biljana Sečivanović}Zaklelo se nebo zemlji=http://www.youtube.com/watch?v=vPDxUvve8e0
-﻿Narodna]Biljana Sečivanović}Zašto me neko ne zaustavi=http://www.youtube.com/watch?v=SPZheNh2Tmg
+﻿Narodna]Biljana Sečivanović}Zašto me neko ne zaustavi=http://www.youtube.com/watch?v=OxXXKTvSyxw
 ﻿Narodna]Blizanci}Daj mi Bože pameti=http://www.youtube.com/watch?v=vXnCKekpeVM
 ﻿Narodna]Blizanci}Dva čoveka=http://www.youtube.com/watch?v=-AK0gDmeMWo
 ﻿Narodna]Blizanci}Idi nek' te čuva Bog=http://www.youtube.com/watch?v=cLxQh-kK2h0
@@ -8800,7 +8800,7 @@
 ﻿Zabavna]Ivana Selakov}Uradi mi to=http://www.youtube.com/watch?v=M9BSO4fjKBU
 ﻿Zabavna]Ivana Selakov}Uteha=http://www.youtube.com/watch?v=jR9K1XIEijw
 ﻿Zabavna]Ivana Selakov}Vremeplov=http://www.youtube.com/watch?v=DLrnuy4NKt4
-﻿Narodna]Jadranka Barjaktarović}Bedem=http://www.youtube.com/watch?v=dnYPrmjxXjc
+﻿Narodna]Jadranka Barjaktarović}Bedem=http://www.youtube.com/watch?v=VmbmDWuBVcI
 ﻿Narodna]Jadranka Barjaktarović}Biser Crne Gore=http://www.youtube.com/watch?v=E3z-1-rLYFo
 ﻿Narodna]Jadranka Barjaktarović}Deja vu=http://www.youtube.com/watch?v=DGSlkNhXNpc
 ﻿Narodna]Jadranka Barjaktarović}Dupla s čemerom=http://www.youtube.com/watch?v=_UKg_10tOPo
@@ -8814,7 +8814,6 @@
 ﻿Narodna]Jadranka Barjaktarović}Lude godine=http://www.youtube.com/watch?v=4_SU9Ow95zs
 ﻿Narodna]Jadranka Barjaktarović}Luzeru=--start-time=35 http://www.youtube.com/watch?v=JRDmZJApj9g
 ﻿Narodna]Jadranka Barjaktarović}Mambo=http://www.youtube.com/watch?v=4KcIb3Fsa6s
-﻿Narodna]Jadranka Barjaktarović}Moj živote, moja tugo=http://www.youtube.com/watch?v=_Lk5imeIZ6E
 ﻿Narodna]Jadranka Barjaktarović}Neotporna=http://www.youtube.com/watch?v=JvvZR1jbK24
 ﻿Narodna]Jadranka Barjaktarović}Očajna=http://www.youtube.com/watch?v=5SFyQttQkXA
 ﻿Narodna]Jadranka Barjaktarović}Prsten=http://www.youtube.com/watch?v=ESC7gOr3p1c
@@ -10779,7 +10778,7 @@
 ﻿Rok Strani]Led Zeppelin}When the levee breaks=http://www.youtube.com/watch?v=_h4NY-mnkXM
 ﻿Rok Strani]Led Zeppelin}Whole lotta love=--start-time=10 https://www.youtube.com/watch?v=qZfSWtRB_9E
 ﻿Rok Strani]Led Zeppelin}You shook me=https://www.youtube.com/watch?v=2sMBiRzML-g
-﻿Rok Strani]Led Zeppelin}Your time is gonna come=https://www.youtube.com/watch?v=LeweFJpz2ac﻿Rok Strani]Linkin Park}In the end=https://www.youtube.com/watch?v=eVTXPUF4Oz4
+﻿Rok Strani]Led Zeppelin}Your time is gonna come=http://www.youtube.com/watch?v=fssblRRCgmg
 ﻿Rok Strani]Linkin Park}New divide=--start-time=5 https://www.youtube.com/watch?v=ysSxxIqKNN0
 ﻿Rok Strani]Linkin Park}What i've done=--start-time=5 https://www.youtube.com/watch?v=8sgycukafqQ
 ﻿Rok Strani]Linkin Park}Castle of glass=--start-time=76 https://www.youtube.com/watch?v=ScNNfyq3d_w
@@ -12988,7 +12987,7 @@
 ﻿Rok Strani]Bon Jovi}Roulette=http://www.youtube.com/watch?v=xiNN9x3aeqI
 ﻿Rok Strani]Bon Jovi}Runaway=--start-time=10 http://www.youtube.com/watch?v=s86K-p089R8
 ﻿Rok Strani]Bon Jovi}Satellite=http://www.youtube.com/watch?v=x3BD6lw_8Fc
-﻿Rok Strani]Bon Jovi}Saturday Night Gave Me Sunday Morning=http://www.youtube.com/watch?v=xv-sH7MiUks
+﻿Rok Strani]Bon Jovi}Saturday Night Gave Me Sunday Morning=http://www.youtube.com/watch?v=mXAX_rxiTYo
 ﻿Rok Strani]Bon Jovi}Save A Prayer=http://www.youtube.com/watch?v=0_gfYoXL7sA
 ﻿Rok Strani]Bon Jovi}Save The World=http://www.youtube.com/watch?v=n44dEsIUvEo
 ﻿Rok Strani]Bon Jovi}Say It Isn't So=--start-time=7 http://www.youtube.com/watch?v=GRSB-QZHpXM
@@ -13230,7 +13229,6 @@
 ﻿Rok Strani]Cheap Trick}Perfect Stranger=http://www.youtube.com/watch?v=-zR-H6II-q8
 ﻿Rok Strani]Cheap Trick}Pop Drone=http://www.youtube.com/watch?v=VejrY4J7FN0
 ﻿Rok Strani]Cheap Trick}Radio Lover=http://www.youtube.com/watch?v=Ho7ieVsdAGs
-﻿Rok Strani]Cheap Trick}Rearview Mirror Romance=http://www.youtube.com/watch?v=dlJopl0ow5w
 ﻿Rok Strani]Cheap Trick}Rock 'N' Roll Tonight=http://www.youtube.com/watch?v=5zToD3Bib3o
 ﻿Rok Strani]Cheap Trick}Rock All Night=http://www.youtube.com/watch?v=CVLwPONR-k8
 ﻿Rok Strani]Cheap Trick}Roll Me=http://www.youtube.com/watch?v=BcQq8CFREgM
@@ -13773,7 +13771,7 @@
 ﻿Rok Strani]Eric Clapton}Breaking Point=http://www.youtube.com/watch?v=IFteZoJPLes
 ﻿Rok Strani]Eric Clapton}Broken Down=http://www.youtube.com/watch?v=wSJ3gmdihSU
 ﻿Rok Strani]Eric Clapton}Cajun Moon=http://www.youtube.com/watch?v=rndls-q4SC4
-﻿Rok Strani]Eric Clapton}Call Me The Breeze=http://www.youtube.com/watch?v=E2vqRT3mHB4
+﻿Rok Strani]Eric Clapton}Call Me The Breeze=--start-time=11 http://www.youtube.com/watch?v=zsqF3p8ORDE
 ﻿Rok Strani]Eric Clapton}Can't Find My Way Home=http://www.youtube.com/watch?v=VT-SFgkVlno
 ﻿Rok Strani]Eric Clapton}Can't Hold Out Much Longer=http://www.youtube.com/watch?v=-lMFRmCwk8M
 ﻿Rok Strani]Eric Clapton}Can't Let You Do It=http://www.youtube.com/watch?v=iz_M7R2BDAo
@@ -16274,7 +16272,7 @@
 ﻿Rok Strani]Lenny Kravitz}I Never Want To Let You Down=http://www.youtube.com/watch?v=77GCmMUQyTg
 ﻿Rok Strani]Lenny Kravitz}I'll Be Waiting=http://www.youtube.com/watch?v=RlVJy75bKwk
 ﻿Rok Strani]Lenny Kravitz}I'm A Believer=http://www.youtube.com/watch?v=CJEqGLjcz3s
-﻿Rok Strani]Lenny Kravitz}If I Could Fall In Love=http://www.youtube.com/watch?v=Mnk4D1rV8hY
+﻿Rok Strani]Lenny Kravitz}If I Could Fall In Love=http://www.youtube.com/watch?v=I_u93kfu6gU
 ﻿Rok Strani]Lenny Kravitz}If You Can't Say No=http://www.youtube.com/watch?v=R_HTlJOy9YA
 ﻿Rok Strani]Lenny Kravitz}If You Want It=http://www.youtube.com/watch?v=E1_YOXU9FoM
 ﻿Rok Strani]Lenny Kravitz}In My Life Today=http://www.youtube.com/watch?v=mft9x7yvViU

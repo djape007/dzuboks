@@ -3778,7 +3778,7 @@
 ﻿Rok]Osvajači}Prvi put=http://www.youtube.com/watch?v=8SljBWKRIjA
 ﻿Rok]Osvajači}Rekla je mogu ja sama=http://www.youtube.com/watch?v=LeLVKH1xA5k
 ﻿Rok]Osvajači}S kim čekaš dan=http://www.youtube.com/watch?v=9MSX5eZHfBo
-﻿Rok]Osvajači}Sad je na mene red=http://www.youtube.com/watch?v=OBs3LVW10yE
+﻿Rok]Osvajači}Sad je na mene red=https://www.youtube.com/watch?v=C_TL8J1W5AE
 ﻿Rok]Osvajači}Sad mi treba=http://www.youtube.com/watch?v=PdzLI7HV034
 ﻿Rok]Osvajači}Samo ti=http://www.youtube.com/watch?v=OWPxu4Xb7zA
 ﻿Rok]Osvajači}Sto godina=http://www.youtube.com/watch?v=3_DelT2vtdY
@@ -4415,7 +4415,6 @@
 ﻿Narodna]Predrag Živković Tozovac}Za ljubav moju ti si tako mlada=http://www.youtube.com/watch?v=0HFbSlPj43c
 ﻿Narodna]Predrag Živković Tozovac}Zaigraj kolo moje šareno=http://www.youtube.com/watch?v=4-8AF0-qCrc
 ﻿Narodna]Predrag Živković Tozovac}Zapevaj mi, Šumadijo mila=http://www.youtube.com/watch?v=V8ksgdHqaBc
-﻿Narodna]Predrag Živković Tozovac}Zar si mogla sve da zaboraviš=http://www.youtube.com/watch?v=Jjx9tMRBc2c
 ﻿Narodna]Predrag Živković Tozovac}Zašto te zavoleh=http://www.youtube.com/watch?v=VvxCwyJsRAQ
 ﻿Narodna]Predrag Živković Tozovac}Zašto zašto=http://www.youtube.com/watch?v=VvxCwyJsRAQ
 ﻿Narodna]Predrag Živković Tozovac}Željo pusta=http://www.youtube.com/watch?v=-y_uk6jQ0Uk
@@ -6525,7 +6524,7 @@
 ﻿Zabavna]Saša Kapor}Noćna ptica=--start-time=4 http://www.youtube.com/watch?v=VXqmSEjQp2Y
 ﻿Zabavna]Saša Kapor}Oči plave=http://www.youtube.com/watch?v=Np36LR-XMh4
 ﻿Zabavna]Saša Kapor}Podrum vina=http://www.youtube.com/watch?v=RcWdLmOGpWA
-﻿Zabavna]Saša Kapor}Sipaj ne pitaj=http://www.youtube.com/watch?v=iCaGVFZFW80
+﻿Zabavna]Saša Kapor}Sipaj ne pitaj=http://www.youtube.com/watch?v=nieeKAhpiUA
 ﻿Zabavna]Saša Kapor}Sveća za zdravlje=http://www.youtube.com/watch?v=RBQinJNkKcE
 ﻿Zabavna]Saša Kovačević}Bežimo iz grada=http://www.youtube.com/watch?v=g47cXq5ZH-o
 ﻿Zabavna]Saša Kovačević}Bolji čovek=http://www.youtube.com/watch?v=jG1ACxB12G8
@@ -7169,6 +7168,7 @@
 ﻿Narodna]Selma Bajrami}Korak do nervnog sloma=http://www.youtube.com/watch?v=fm-HxHNWk1s
 ﻿Narodna]Selma Bajrami}Lijepe žene=http://www.youtube.com/watch?v=aptNncIA4nI
 ﻿Narodna]Selma Bajrami}Malo se poigraj=http://www.youtube.com/watch?v=fmxNffmnGzw
+﻿Narodna]Selma Bajrami}Mlađe slađe (ft. Enela)=--start-time=6 https://www.youtube.com/watch?v=0BrWjLZz19w
 ﻿Narodna]Selma Bajrami}Muška suza=http://www.youtube.com/watch?v=yiKc97SBkJc
 ﻿Narodna]Selma Bajrami}Ne mogu te voljeti=http://www.youtube.com/watch?v=gSObzGVq1cU
 ﻿Narodna]Selma Bajrami}Nemoj da se šališ=http://www.youtube.com/watch?v=WZazvYa1BE0
@@ -7179,7 +7179,6 @@
 ﻿Narodna]Selma Bajrami}Oči zelene=http://www.youtube.com/watch?v=jnioRAJbPTc
 ﻿Narodna]Selma Bajrami}Ostrvo tuge=http://www.youtube.com/watch?v=Mm4oCiY-uzA
 ﻿Narodna]Selma Bajrami}Otvori se zemljo=http://www.youtube.com/watch?v=OgmmEwLpgvg
-﻿Narodna]Selma Bajrami}Pamtim=http://www.youtube.com/watch?v=7ph33hLxO64
 ﻿Narodna]Selma Bajrami}Pijanico=http://www.youtube.com/watch?v=B3UAZuWSalk
 ﻿Narodna]Selma Bajrami}Promijeni se=http://www.youtube.com/watch?v=gN721OHRtbA
 ﻿Narodna]Selma Bajrami}Rukujmo se kao prijatelji=http://www.youtube.com/watch?v=m0i6gRmMai0
@@ -8876,7 +8875,6 @@
 ﻿Narodna]Tanja Savić}Kišno leto=http://www.youtube.com/watch?v=NRWUcDngHDc
 ﻿Narodna]Tanja Savić}Minut ljubavi=http://www.youtube.com/watch?v=ACQmSMefGyI
 ﻿Narodna]Tanja Savić}Mrak=http://www.youtube.com/watch?v=H6pvLG22MB8
-﻿Narodna]Tanja Savić}Nova godina=http://www.youtube.com/watch?v=7GB9z38HWBQ
 ﻿Narodna]Tanja Savić}Oči boje viskija (ft. Corona, Rimski)=--start-time=7 http://www.youtube.com/watch?v=SAtcuA4r334
 ﻿Narodna]Tanja Savić}Poludela=http://www.youtube.com/watch?v=MEiZQE8iflU
 ﻿Narodna]Tanja Savić}Porok=http://www.youtube.com/watch?v=gh4iwSHR3PI
@@ -13395,7 +13393,6 @@
 ﻿Rok Strani]Queensryche}Eyes Of A Stranger=http://www.youtube.com/watch?v=KkXKF2J7HZo
 ﻿Rok Strani]Queensryche}Fallen=http://www.youtube.com/watch?v=gGH-L-rhquw
 ﻿Rok Strani]Queensryche}Falling Behind=http://www.youtube.com/watch?v=p1XsbyI1lx0
-﻿Rok Strani]Queensryche}Falling Down=http://www.youtube.com/watch?v=2iudlcFfWOU
 ﻿Rok Strani]Queensryche}Fallout=http://www.youtube.com/watch?v=onB3UIYqITQ
 ﻿Rok Strani]Queensryche}Get A Life=http://www.youtube.com/watch?v=baopRfqisBk
 ﻿Rok Strani]Queensryche}Get Started=http://www.youtube.com/watch?v=ZRWcdSTVCUc
