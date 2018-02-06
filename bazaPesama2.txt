@@ -2590,7 +2590,6 @@
 ﻿Narodna]Neda Ukraden}Naj naj=http://www.youtube.com/watch?v=BoEj6VbaQqQ
 ﻿Narodna]Neda Ukraden}Najbolji klub u gradu=http://www.youtube.com/watch?v=LoXtjLlCv2k
 ﻿Narodna]Neda Ukraden}Navikla sam da je loše=http://www.youtube.com/watch?v=iAVGrkV4694
-﻿Narodna]Neda Ukraden}Ne da, ne da=http://www.youtube.com/watch?v=QIuXtmZaCuQ
 ﻿Narodna]Neda Ukraden}Ne miriši zumbule=http://www.youtube.com/watch?v=PIsBcYqTxqQ
 ﻿Narodna]Neda Ukraden}Ne zovi me u ponoć=http://www.youtube.com/watch?v=jzrGPdRdGbE
 ﻿Narodna]Neda Ukraden}Neću prežaliti=http://www.youtube.com/watch?v=3ecOJW1D-i8
@@ -7164,10 +7163,8 @@
 ﻿Narodna]Selma Bajrami}Idi od mene=http://www.youtube.com/watch?v=f0qmv3NMC0Y
 ﻿Narodna]Selma Bajrami}Izbriši moj broj=http://www.youtube.com/watch?v=vDtU52YJxlU
 ﻿Narodna]Selma Bajrami}Kad se ne da, ne da se=http://www.youtube.com/watch?v=MARUjhUXXow
-﻿Narodna]Selma Bajrami}Kakvo tijelo Selma ima=http://www.youtube.com/watch?v=u86gG_HCYdI
 ﻿Narodna]Selma Bajrami}Korak do nervnog sloma=http://www.youtube.com/watch?v=fm-HxHNWk1s
 ﻿Narodna]Selma Bajrami}Lijepe žene=http://www.youtube.com/watch?v=aptNncIA4nI
-﻿Narodna]Selma Bajrami}Malo se poigraj=http://www.youtube.com/watch?v=fmxNffmnGzw
 ﻿Narodna]Selma Bajrami}Mlađe slađe (ft. Enela)=--start-time=6 https://www.youtube.com/watch?v=0BrWjLZz19w
 ﻿Narodna]Selma Bajrami}Muška suza=http://www.youtube.com/watch?v=yiKc97SBkJc
 ﻿Narodna]Selma Bajrami}Ne mogu te voljeti=http://www.youtube.com/watch?v=gSObzGVq1cU
@@ -14241,7 +14238,7 @@
 ﻿Rok Strani]Rush}Malignant Narcissism=http://www.youtube.com/watch?v=aeUWJbs9Q5E
 ﻿Rok Strani]Rush}Manhattan Project=http://www.youtube.com/watch?v=N4zP7l2NFKs
 ﻿Rok Strani]Rush}Marathon=http://www.youtube.com/watch?v=cxxgEzVkEjI
-﻿Rok Strani]Rush}Middletown Dreams=http://www.youtube.com/watch?v=JRuKz31-ZYs
+﻿Rok Strani]Rush}Middletown Dreams=https://www.youtube.com/watch?v=7t4SaJxu7SQ
 ﻿Rok Strani]Rush}Mission=http://www.youtube.com/watch?v=bLgkJ5Gtwos
 ﻿Rok Strani]Rush}Mr. Soul=http://www.youtube.com/watch?v=xFB4qe5vv14
 ﻿Rok Strani]Rush}Mystic Rhythms=http://www.youtube.com/watch?v=rxwRzW6ehAU
@@ -14280,9 +14277,9 @@
 ﻿Rok Strani]Rush}Tai Shan=http://www.youtube.com/watch?v=LdHCAiLsvWQ
 ﻿Rok Strani]Rush}Take A Friend=http://www.youtube.com/watch?v=hGCdLw_OlfA
 ﻿Rok Strani]Rush}Tears=http://www.youtube.com/watch?v=jI0w7X2Swl4
-﻿Rok Strani]Rush}Territories=http://www.youtube.com/watch?v=S065ezDbDNw
+﻿Rok Strani]Rush}Territories=http://www.youtube.com/watch?v=RvM387NJTYg
 ﻿Rok Strani]Rush}Test For Echo=http://www.youtube.com/watch?v=deUirMqTV6A
-﻿Rok Strani]Rush}The Analog Kid=http://www.youtube.com/watch?v=ubhq2qiUVxY
+﻿Rok Strani]Rush}The Analog Kid=http://www.youtube.com/watch?v=nXXGiIPTbOk
 ﻿Rok Strani]Rush}The Anarchist=http://www.youtube.com/watch?v=6RpOz2dwewc
 ﻿Rok Strani]Rush}The Big Money=http://www.youtube.com/watch?v=WQgu0MpnKq8
 ﻿Rok Strani]Rush}The Big Wheel=http://www.youtube.com/watch?v=T9mAl9Yeqf8
@@ -14300,7 +14297,7 @@
 ﻿Rok Strani]Rush}The Twilight Zone=http://www.youtube.com/watch?v=Qr2NRY3HG48
 ﻿Rok Strani]Rush}The Way The Wind Blows=http://www.youtube.com/watch?v=TyNFDKcYLiA
 ﻿Rok Strani]Rush}The Weapon=http://www.youtube.com/watch?v=PHlLk5m0S4o
-﻿Rok Strani]Rush}The Wreckers=http://www.youtube.com/watch?v=bDawNbACuCw
+﻿Rok Strani]Rush}The Wreckers=http://www.youtube.com/watch?v=GuFzz3heR9M
 ﻿Rok Strani]Rush}Time And Motion=http://www.youtube.com/watch?v=CAWRZbQ2QTE
 ﻿Rok Strani]Rush}Time Stand Still=http://www.youtube.com/watch?v=dMSFqXGZ5TQ
 ﻿Rok Strani]Rush}Tom Sawyer=http://www.youtube.com/watch?v=auLBLk4ibAk
@@ -16544,7 +16541,7 @@
 ﻿Rok Strani]Thin Lizzy}A Song For While I'm Away=http://www.youtube.com/watch?v=VoHg8t5cB1c
 ﻿Rok Strani]Thin Lizzy}Angel From The Coast=http://www.youtube.com/watch?v=kOoCt8FpMPQ
 ﻿Rok Strani]Thin Lizzy}Angel Of Death=http://www.youtube.com/watch?v=RGtJ8WR5Shc
-﻿Rok Strani]Thin Lizzy}Are You Ready?=http://www.youtube.com/watch?v=oyEqmtK3ul4
+﻿Rok Strani]Thin Lizzy}Are You Ready?=--start-time=3 https://www.youtube.com/watch?v=5Gi1btqCMCU
 ﻿Rok Strani]Thin Lizzy}Baby Face=http://www.youtube.com/watch?v=0kb2cLE6c8k
 ﻿Rok Strani]Thin Lizzy}Baby Please Don't Go=http://www.youtube.com/watch?v=rh1kPzMf9v4
 ﻿Rok Strani]Thin Lizzy}Bad Habits=http://www.youtube.com/watch?v=g39YnOw0NeQ
