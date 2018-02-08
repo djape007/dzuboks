@@ -188,7 +188,6 @@
 ﻿Narodna]Aca Lukas}Iza tvojih koraka=http://www.youtube.com/watch?v=xM4HANtusco
 ﻿Narodna]Aca Lukas}Ja i ti=http://www.youtube.com/watch?v=MT5jFshI_Mk
 ﻿Narodna]Aca Lukas}Ja ne mogu bez tebe=http://www.youtube.com/watch?v=9x-maSZ3O-8
-﻿Narodna]Aca Lukas}Ja ovaj život imam=http://www.youtube.com/watch?v=zm7kSb-AEf8
 ﻿Narodna]Aca Lukas}Ja živim sam=http://www.youtube.com/watch?v=U8ml7qcVb00
 ﻿Narodna]Aca Lukas}Jagnje moje=http://www.youtube.com/watch?v=i0xLRai6Vjw
 ﻿Narodna]Aca Lukas}Još pomišljam na najgore=http://www.youtube.com/watch?v=7Il-SyPOpvE
@@ -1532,7 +1531,6 @@
 ﻿Rok]Azra}Proljeće 13. u decembru=http://www.youtube.com/watch?v=mxaiKOgtWPE
 ﻿Rok]Azra}Provedimo vikend zajedno=http://www.youtube.com/watch?v=x3eRjQYC-6Q
 ﻿Rok]Azra}Pusto tursko=http://www.youtube.com/watch?v=Z_Dlp3s43U4
-﻿Rok]Azra}Put za Katmandu=http://www.youtube.com/watch?v=JZoGz3KWuy4
 ﻿Rok]Azra}Reket roll iz šume Striborove=http://www.youtube.com/watch?v=QJugLwiNBoE
 ﻿Rok]Azra}Repeticio est mater studiorum=http://www.youtube.com/watch?v=4-CnM-laMbM
 ﻿Rok]Azra}Rođen da budem sonjo=http://www.youtube.com/watch?v=LDk_Q40uYB8
@@ -3455,6 +3453,7 @@
 ﻿Zabavna]Dado Polumenta}Noćas si tu da ličiš na nju=http://www.youtube.com/watch?v=xnBUMI1FsQQ
 ﻿Zabavna]Dado Polumenta}Oči od stida=http://www.youtube.com/watch?v=g92JBNn8b4c
 ﻿Zabavna]Dado Polumenta}Od vina si me opila=http://www.youtube.com/watch?v=vQonHhnVpCc
+﻿Zabavna]Dado Polumenta}O tebi=--start-time=10 https://www.youtube.com/watch?v=5VXh84xWM5Q
 ﻿Zabavna]Dado Polumenta}Ovisan sam o njoj=http://www.youtube.com/watch?v=mXonHNDYx10
 ﻿Zabavna]Dado Polumenta}Pogledaj kako igram=http://www.youtube.com/watch?v=rzYH-fS2Jf8
 ﻿Zabavna]Dado Polumenta}Pozovite 93=http://www.youtube.com/watch?v=Y67qhHV6Si0
@@ -4682,7 +4681,6 @@
 ﻿Kantautori]Đorđe Balašević}U razdeljak te ljubim=http://www.youtube.com/watch?v=59COzUOBOag
 ﻿Kantautori]Đorđe Balašević}Uspavanka za dečaka=http://www.youtube.com/watch?v=0FhWA9Y-mfE
 ﻿Kantautori]Đorđe Balašević}Uticaj rođaka na moj životni put=http://www.youtube.com/watch?v=hwIUywt-gSs
-﻿Kantautori]Đorđe Balašević}Uvod=http://www.youtube.com/watch?v=m0A6W9_VhL0
 ﻿Kantautori]Đorđe Balašević}Vi ste jedan običan miš=http://www.youtube.com/watch?v=Ml-SXia5dIs
 ﻿Kantautori]Đorđe Balašević}Za sve je kriv Toma Sojer=http://www.youtube.com/watch?v=dLoH6OcX46I
 ﻿Kantautori]Đorđe Balašević}Za treću smenu=http://www.youtube.com/watch?v=OWpQnUBhd3w
@@ -13741,7 +13739,7 @@
 ﻿Rok Strani]Eric Clapton}All Of Me=http://www.youtube.com/watch?v=4_2PBswQHEw
 ﻿Rok Strani]Eric Clapton}All Our Past Times=http://www.youtube.com/watch?v=_DFVO_l0RRw
 ﻿Rok Strani]Eric Clapton}All Your Love=http://www.youtube.com/watch?v=KY4HR8QuGL0
-﻿Rok Strani]Eric Clapton}Another Ticket=http://www.youtube.com/watch?v=3tb_HXQt5W4
+﻿Rok Strani]Eric Clapton}Another Ticket=http://www.youtube.com/watch?v=LdxWMlZ_YRo
 ﻿Rok Strani]Eric Clapton}Anything For Your Love=http://www.youtube.com/watch?v=hp3jCi4tE2E
 ﻿Rok Strani]Eric Clapton}Anyway The Wind Blows=http://www.youtube.com/watch?v=Lbaq7Z8hNd0
 ﻿Rok Strani]Eric Clapton}Autumn Leaves=http://www.youtube.com/watch?v=UQlFOX0YKlQ
@@ -13920,7 +13918,7 @@
 ﻿Rok Strani]Eric Clapton}My Very Good Friend The Milkman=http://www.youtube.com/watch?v=KvENvzUJh6Y
 ﻿Rok Strani]Eric Clapton}Needs His Woman=http://www.youtube.com/watch?v=pc11dlKqBGk
 ﻿Rok Strani]Eric Clapton}Never Make You Cry=http://www.youtube.com/watch?v=E8nC6e4OI4w
-﻿Rok Strani]Eric Clapton}Next Time You See Her=http://www.youtube.com/watch?v=T8gBRSgYBpQ
+﻿Rok Strani]Eric Clapton}Next Time You See Her=https://www.youtube.com/watch?v=lfiB78imYqI
 ﻿Rok Strani]Eric Clapton}No Alibis=http://www.youtube.com/watch?v=WhaBlvkJvLc
 ﻿Rok Strani]Eric Clapton}Nobody Knows You When You're Down And Out=http://www.youtube.com/watch?v=_1byW9-xNBU
 ﻿Rok Strani]Eric Clapton}One Chance=http://www.youtube.com/watch?v=ioSyAip7jmw
@@ -15790,7 +15788,6 @@
 ﻿Rok Strani]Jimi Hendrix}Highway Chile=http://www.youtube.com/watch?v=km1zexw2vAU
 ﻿Rok Strani]Jimi Hendrix}Hound Dog=http://www.youtube.com/watch?v=4Xvriksg-Q0
 ﻿Rok Strani]Jimi Hendrix}If 6 Was 9=http://www.youtube.com/watch?v=vZuFq4CfRR8
-﻿Rok Strani]Jimi Hendrix}In From The Storm=http://www.youtube.com/watch?v=zgh5nIEIs9s
 ﻿Rok Strani]Jimi Hendrix}Izabella=http://www.youtube.com/watch?v=PW5kHYC-S3c
 ﻿Rok Strani]Jimi Hendrix}Killing Floor=http://www.youtube.com/watch?v=hMkdhVQMBHY
 ﻿Rok Strani]Jimi Hendrix}Let Me Move You=http://www.youtube.com/watch?v=wi-NLIOGv2g
@@ -17096,10 +17093,10 @@
 ﻿Rok Strani]Dire Straits}Brothers In Arms=http://www.youtube.com/watch?v=Dqok5m4lqeE
 ﻿Rok Strani]Dire Straits}Calling Elvis=http://www.youtube.com/watch?v=_xHyfpeM2Ko
 ﻿Rok Strani]Dire Straits}Down To The Waterline=http://www.youtube.com/watch?v=ugZRzISBrKk
-﻿Rok Strani]Dire Straits}Expresso Love=http://www.youtube.com/watch?v=BHsWX11vJBA
+﻿Rok Strani]Dire Straits}Expresso Love=--start-time=11 http://www.youtube.com/watch?v=Oik6qbPDi88
 ﻿Rok Strani]Dire Straits}Fade To Black=http://www.youtube.com/watch?v=TuYppz9Azzc
 ﻿Rok Strani]Dire Straits}Follow Me Home=http://www.youtube.com/watch?v=Kdul4vImn2c
-﻿Rok Strani]Dire Straits}Hand In Hand=http://www.youtube.com/watch?v=8pSvfvH7VGY
+﻿Rok Strani]Dire Straits}Hand In Hand=http://www.youtube.com/watch?v=WR97dGt0rsc
 ﻿Rok Strani]Dire Straits}Heavy Fuel=http://www.youtube.com/watch?v=I7j3KX-N9wo
 ﻿Rok Strani]Dire Straits}How Long=http://www.youtube.com/watch?v=RKYSHOstkKk
 ﻿Rok Strani]Dire Straits}If I Had You=http://www.youtube.com/watch?v=lkG6VTS7q-E
@@ -17107,7 +17104,7 @@
 ﻿Rok Strani]Dire Straits}Industrial Disease=http://www.youtube.com/watch?v=g3X3rKtruSg
 ﻿Rok Strani]Dire Straits}Iron Hand=http://www.youtube.com/watch?v=1U0ku1VDxGc
 ﻿Rok Strani]Dire Straits}Lady Writer=http://www.youtube.com/watch?v=-QMBELh1zyo
-﻿Rok Strani]Dire Straits}Les Boys=http://www.youtube.com/watch?v=2R_wyRFoaWs
+﻿Rok Strani]Dire Straits}Les Boys=http://www.youtube.com/watch?v=l7WRLkSs-6M
 ﻿Rok Strani]Dire Straits}Lions=http://www.youtube.com/watch?v=S4955FBxTso
 ﻿Rok Strani]Dire Straits}Love Over Gold=http://www.youtube.com/watch?v=7gej3hLOLDU
 ﻿Rok Strani]Dire Straits}Money For Nothing=http://www.youtube.com/watch?v=JRDgihVDEko
@@ -17119,13 +17116,13 @@
 ﻿Rok Strani]Dire Straits}Portobello Belle=http://www.youtube.com/watch?v=4_LUFvofAkg
 ﻿Rok Strani]Dire Straits}Private Investigations=http://www.youtube.com/watch?v=y-xG44ExDwM
 ﻿Rok Strani]Dire Straits}Ride Across The River=http://www.youtube.com/watch?v=rSZzyGXCTQk
-﻿Rok Strani]Dire Straits}Romeo And Juliet=http://www.youtube.com/watch?v=tfztpUa1Joc
+﻿Rok Strani]Dire Straits}Romeo And Juliet=http://www.youtube.com/watch?v=rC95MEenIxA
 ﻿Rok Strani]Dire Straits}Setting Me Up=http://www.youtube.com/watch?v=7oHfMpfZq9w
 ﻿Rok Strani]Dire Straits}Single Handed Sailor=http://www.youtube.com/watch?v=TyeNrGv4288
 ﻿Rok Strani]Dire Straits}Six Blade Knife=http://www.youtube.com/watch?v=JHIIivQnIsU
 ﻿Rok Strani]Dire Straits}Skateaway=http://www.youtube.com/watch?v=QffRoK61W8U
 ﻿Rok Strani]Dire Straits}So Far Away=http://www.youtube.com/watch?v=IHXK9glwFBg
-﻿Rok Strani]Dire Straits}Solid Rock=http://www.youtube.com/watch?v=au4nG0ixLYk
+﻿Rok Strani]Dire Straits}Solid Rock=--start-time=60 http://www.youtube.com/watch?v=FCz5CLmciAY
 ﻿Rok Strani]Dire Straits}Southbound Again=http://www.youtube.com/watch?v=S1Ih1HXNkUU
 ﻿Rok Strani]Dire Straits}Sultans Of Swing=http://www.youtube.com/watch?v=0fAQhSRLQnM
 ﻿Rok Strani]Dire Straits}The Bug=http://www.youtube.com/watch?v=1fOnLa_TB-4
