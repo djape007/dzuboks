@@ -497,7 +497,7 @@
 ﻿Narodna]Aleksandra Bursać}Izdajica=http://www.youtube.com/watch?v=J0thQot3BBk
 ﻿Narodna]Aleksandra Bursać}Jabuka=http://www.youtube.com/watch?v=4dU-5NJUL2k
 ﻿Narodna]Aleksandra Bursać}Kad mi kaže=http://www.youtube.com/watch?v=LcZUv_tpwoM
-﻿Narodna]Aleksandra Bursać}Mala, mala=http://www.youtube.com/watch?v=9iGFaR3aBDM
+﻿Narodna]Aleksandra Bursać}Mala, mala=http://www.youtube.com/watch?v=hZq5PYEC-00
 ﻿Narodna]Aleksandra Bursać}Padale su kiše=http://www.youtube.com/watch?v=3xg8VaUldow
 ﻿Narodna]Aleksandra Bursać}Prva liga=http://www.youtube.com/watch?v=1uCkAzItm_o
 ﻿Narodna]Aleksandra Bursać}Slomljena od bola=http://www.youtube.com/watch?v=QnK6EIL2LqA
@@ -6123,7 +6123,6 @@
 ﻿Narodna]Esma Redžepova}Dani su bez broja (ft. Magazin)=http://www.youtube.com/watch?v=hT8LoWVhNtU
 ﻿Narodna]Esma Redžepova}Đurđevdan, Đurđevdan=http://www.youtube.com/watch?v=ykLvR1yG_T8
 ﻿Narodna]Esma Redžepova}Isti san=http://www.youtube.com/watch?v=05ukcJ4aORw
-﻿Narodna]Esma Redžepova}Zašto si me majko rodila=https://www.youtube.com/watch?v=GoeGsonuDFQ
 ﻿Narodna]Esma Redžepova}Čekaj živote=https://www.youtube.com/watch?v=1yKbplqOW2k
 ﻿Narodna]Esma Redžepova}Svadba makedonska=https://www.youtube.com/watch?v=9v2K3LSVHFc
 ﻿Narodna]Esma Redžepova}Opa nina nina naj=https://www.youtube.com/watch?v=49zMXm4_wbs
@@ -6534,7 +6533,7 @@
 ﻿Zabavna]Galija}Pevaju jutra=http://www.youtube.com/watch?v=PPCAYJOJjqU
 ﻿Zabavna]Galija}Pismo=http://www.youtube.com/watch?v=tByOEdAAEeQ
 ﻿Zabavna]Galija}Pravoslavlje=http://www.youtube.com/watch?v=nFMohIUx0tk
-﻿Zabavna]Galija}Proleće=http://www.youtube.com/watch?v=uEZbyguonbI
+﻿Zabavna]Galija}Proleće=http://www.youtube.com/watch?v=DydVgloPrvc
 ﻿Zabavna]Galija}San=http://www.youtube.com/watch?v=583zyFF_ssw
 ﻿Zabavna]Galija}Seti se Maja=http://www.youtube.com/watch?v=CbXCHYhy29k
 ﻿Zabavna]Galija}Skadarska=http://www.youtube.com/watch?v=_IMKPCnGyRg
@@ -8436,7 +8435,6 @@
 ﻿Narodna]Indira Radić}Kletva=http://www.youtube.com/watch?v=oW59ZP2L3FA
 ﻿Narodna]Indira Radić}Ko je ona žena=http://www.youtube.com/watch?v=pA_J04ij2CM
 ﻿Narodna]Indira Radić}Krug=http://www.youtube.com/watch?v=k9IwZpG7ONU
-﻿Narodna]Indira Radić}Lepo se provedi=--start-time=6 http://www.youtube.com/watch?v=0-t1xGxdelQ
 ﻿Narodna]Indira Radić}Ljubav kad prestane=http://www.youtube.com/watch?v=sVHkBMe6RO4
 ﻿Narodna]Indira Radić}Ljubav stara=http://www.youtube.com/watch?v=fJChv2__cW0
 ﻿Narodna]Indira Radić}Ljubavi mrtvorođene=http://www.youtube.com/watch?v=32bhTK80aOI
@@ -8809,7 +8807,7 @@
 ﻿Narodna]Jadranka Barjaktarović}Krv sam tvoja=http://www.youtube.com/watch?v=S-MZMryM1jI
 ﻿Narodna]Jadranka Barjaktarović}Laka=http://www.youtube.com/watch?v=WdKcJt-KzI0
 ﻿Narodna]Jadranka Barjaktarović}Linija nadanja=http://www.youtube.com/watch?v=7tFRn8IwhZQ
-﻿Narodna]Jadranka Barjaktarović}Lude godine=http://www.youtube.com/watch?v=4_SU9Ow95zs
+﻿Narodna]Jadranka Barjaktarović}Lude godine=http://www.youtube.com/watch?v=tusnzuSYaZo
 ﻿Narodna]Jadranka Barjaktarović}Luzeru=--start-time=35 http://www.youtube.com/watch?v=JRDmZJApj9g
 ﻿Narodna]Jadranka Barjaktarović}Mambo=http://www.youtube.com/watch?v=4KcIb3Fsa6s
 ﻿Narodna]Jadranka Barjaktarović}Neotporna=http://www.youtube.com/watch?v=JvvZR1jbK24
@@ -11432,67 +11430,65 @@
 ﻿Rok Strani]Audioslave}Number one zero=https://www.youtube.com/watch?v=1_iMIfqlIHs
 ﻿Rok Strani]Audioslave}Nothing left to say but goodbye=https://www.youtube.com/watch?v=w5a-ngzIw-c
 ﻿Rok Strani]Audioslave}Like a stone=--start-time=3 https://www.youtube.com/watch?v=7QU1nvuxaMA
-﻿Rok Strani]Rammstein}Sonne=https://www.youtube.com/watch?v=StZcUAPRRac
-﻿Rok Strani]Rammstein}Ich will=--start-time=12 https://www.youtube.com/watch?v=EOnSh3QlpbQ
-﻿Rok Strani]Rammstein}Amerika=https://www.youtube.com/watch?v=Rr8ljRgcJNM
-﻿Rok Strani]Rammstein}Ich tu dir weh=https://www.youtube.com/watch?v=IxuEtL7gxoM
-﻿Rok Strani]Rammstein}Feuer frei!=https://www.youtube.com/watch?v=ZkW-K5RQdzo
-﻿Rok Strani]Rammstein}Rosenrot=https://www.youtube.com/watch?v=af59U2BRRAU
-﻿Rok Strani]Rammstein}Ohne dich=--start-time=10 https://www.youtube.com/watch?v=LIPc1cfS-oQ
-﻿Rok Strani]Rammstein}Mein herz brennt=--start-time=18 https://www.youtube.com/watch?v=WXv31OmnKqQ
-﻿Rok Strani]Rammstein}Keine lust=--start-time=5 https://www.youtube.com/watch?v=GjokeZcEjzE
-﻿Rok Strani]Rammstein}Links 2 3 4=https://www.youtube.com/watch?v=Ph-CA_tu5KA
-﻿Rok Strani]Rammstein}Mutter=--start-time=6 https://www.youtube.com/watch?v=gNdnVVHfseA
-﻿Rok Strani]Rammstein}Benzin=https://www.youtube.com/watch?v=z0wK6s-6cbo
-﻿Rok Strani]Rammstein}Du riechst so gut=https://www.youtube.com/watch?v=rrmsJhf89MY
-﻿Rok Strani]Rammstein}Haifisch=--start-time=15 https://www.youtube.com/watch?v=GukNjYQZW8s
-﻿Rok Strani]Rammstein}Mein teil=--start-time=10 https://www.youtube.com/watch?v=PBvwcH4XX6U
-﻿Rok Strani]Rammstein}Seemann=--start-time=7 https://www.youtube.com/watch?v=srN1GsnBui8
-﻿Rok Strani]Rammstein}Mann gegen mann=https://www.youtube.com/watch?v=_EVKy35L7MM
-﻿Rok Strani]Rammstein}Engel=http://www.youtube.com/watch?v=x2rQzv8OWEY
-﻿Rok Strani]Rammstein}Mein herz brennt, piano version=https://www.youtube.com/watch?v=Dv6Th7kJ64Q
-﻿Rok Strani]Rammstein}Rammstein=https://www.youtube.com/watch?v=_sM2sKk4DPM
-﻿Rok Strani]Rammstein}Liebe ist für alle da=http://www.youtube.com/watch?v=E_WHI4rofL0
-﻿Rok Strani]Rammstein}Spiel mit mir=--start-time=7 http://www.youtube.com/watch?v=H6xUVzYlvoA
-﻿Rok Strani]Rammstein}Reise, reise=--start-time=13 https://www.youtube.com/watch?v=N0e3ARhJIsg
-﻿Rok Strani]Rammstein}Buckstabu=https://www.youtube.com/watch?v=ri0kmuyec1Q
-﻿Rok Strani]Rammstein}Rammlied=--start-time=10 https://www.youtube.com/watch?v=8C3YWv9PIvc
-﻿Rok Strani]Rammstein}Amour=--start-time=9 https://www.youtube.com/watch?v=DXwha3NvM6w
-﻿Rok Strani]Rammstein}Ramm4=http://www.youtube.com/watch?v=TdWJ5z7EN-I
-﻿Rok Strani]Rammstein}Halleluja=http://www.youtube.com/watch?v=Vc6g4OUCOT4
-﻿Rok Strani]Rammstein}Bück dich=https://www.youtube.com/watch?v=nujjksexa1k
-﻿Rok Strani]Rammstein}Te quiero puta=https://www.youtube.com/watch?v=idtD--EF1Dg
-﻿Rok Strani]Rammstein}Zwitter=http://www.youtube.com/watch?v=KS0yyx3mhko
-﻿Rok Strani]Rammstein}Wut will nicht sterben=--start-time=10 https://www.youtube.com/watch?v=o08sl72zxFU
-﻿Rok Strani]Rammstein}Schtiel=--start-time=4 https://www.youtube.com/watch?v=J4Q87FwJMpU
-﻿Rok Strani]Rammstein}Nebel=https://www.youtube.com/watch?v=fv7AuNu2cqs
-﻿Rok Strani]Rammstein}Wilder wein=https://www.youtube.com/watch?v=RFxAxmo7EIU
-﻿Rok Strani]Rammstein}Odno i to zhe=https://www.youtube.com/watch?v=zZLgxjPLvQ4
-﻿Rok Strani]Rammstein}Vergiss uns nicht=--start-time=4 https://www.youtube.com/watch?v=ChBRdvbPAZ8
-﻿Rok Strani]Rammstein}Moskau=https://www.youtube.com/watch?v=vOoiQjyfIno
-﻿Rok Strani]Rammstein}Liese=https://www.youtube.com/watch?v=eIG8OTr5EtQ
-﻿Rok Strani]Rammstein}Donaukinder=https://www.youtube.com/watch?v=Oi-ixUoWAOU
-﻿Rok Strani]Rammstein}Los (full band version)=https://www.youtube.com/watch?v=HbgmivJulxs
-﻿Rok Strani]Rammstein}Schwarzes glas=https://www.youtube.com/watch?v=HSmgVoxbAxo
 ﻿Rok Strani]Rammstein}Alter mann (live)=https://www.youtube.com/watch?v=o-l7TBG3MY8
-﻿Rok Strani]Rammstein}Roter sand=--start-time=15 https://www.youtube.com/watch?v=O_KsZb9HFjA
-﻿Rok Strani]Rammstein}Kokain=--start-time=5 https://www.youtube.com/watch?v=KwkAw2kWRp8
-﻿Rok Strani]Rammstein}Evangelion=--start-time=6 https://www.youtube.com/watch?v=ptsEyadKJVg
-﻿Rok Strani]Rammstein}Dalai lama=--start-time=15 https://www.youtube.com/watch?v=henL_vMfUQ8
-﻿Rok Strani]Rammstein}Helden=https://www.youtube.com/watch?v=ruaMzPmKeIE
-﻿Rok Strani]Rammstein}Heirate mich=--start-time=10 https://www.youtube.com/watch?v=aeRHdVQfRJ8
-﻿Rok Strani]Rammstein}Pet sematary (live)=--start-time=15 https://www.youtube.com/watch?v=e8IBjUSng5g
-﻿Rok Strani]Rammstein}Spring=https://www.youtube.com/watch?v=5uB78p_4J_Q
-﻿Rok Strani]Rammstein}Weisses fleisch=https://www.youtube.com/watch?v=rqPr4bVsdlg
+﻿Rok Strani]Rammstein}Amerika=https://www.youtube.com/watch?v=Rr8ljRgcJNM
+﻿Rok Strani]Rammstein}Amour=--start-time=9 https://www.youtube.com/watch?v=DXwha3NvM6w
+﻿Rok Strani]Rammstein}Bück dich=https://www.youtube.com/watch?v=nujjksexa1k
+﻿Rok Strani]Rammstein}Benzin=https://www.youtube.com/watch?v=z0wK6s-6cbo
 ﻿Rok Strani]Rammstein}Bestrafe mich=https://www.youtube.com/watch?v=fceNB1AyGxo
-﻿Rok Strani]Rammstein}Waidmanns heil=http://www.youtube.com/watch?v=oVWL1AEAP94
-﻿Rok Strani]Rammstein}Herzeleid=--start-time=2 https://www.youtube.com/watch?v=F-lfY7gfNu4
+﻿Rok Strani]Rammstein}Buckstabu=https://www.youtube.com/watch?v=ri0kmuyec1Q
+﻿Rok Strani]Rammstein}Dalai lama=--start-time=15 https://www.youtube.com/watch?v=henL_vMfUQ8
+﻿Rok Strani]Rammstein}Donaukinder=https://www.youtube.com/watch?v=Oi-ixUoWAOU
+﻿Rok Strani]Rammstein}Du hast=https://www.youtube.com/watch?v=W3q8Od5qJio
+﻿Rok Strani]Rammstein}Du riechst so gut=https://www.youtube.com/watch?v=rrmsJhf89MY
+﻿Rok Strani]Rammstein}Engel=http://www.youtube.com/watch?v=x2rQzv8OWEY
+﻿Rok Strani]Rammstein}Evangelion=--start-time=6 https://www.youtube.com/watch?v=ptsEyadKJVg
+﻿Rok Strani]Rammstein}Feuer frei!=https://www.youtube.com/watch?v=ZkW-K5RQdzo
 ﻿Rok Strani]Rammstein}Feuerräder=https://www.youtube.com/watch?v=a6r_TnuUjjg
 ﻿Rok Strani]Rammstein}Frühling in Paris=https://www.youtube.com/watch?v=acCzIUE8qwc
+﻿Rok Strani]Rammstein}Haifisch=--start-time=15 https://www.youtube.com/watch?v=GukNjYQZW8s
+﻿Rok Strani]Rammstein}Halleluja=http://www.youtube.com/watch?v=Vc6g4OUCOT4
+﻿Rok Strani]Rammstein}Heirate mich=--start-time=10 https://www.youtube.com/watch?v=aeRHdVQfRJ8
+﻿Rok Strani]Rammstein}Helden=https://www.youtube.com/watch?v=ruaMzPmKeIE
+﻿Rok Strani]Rammstein}Herzeleid=--start-time=2 https://www.youtube.com/watch?v=F-lfY7gfNu4
+﻿Rok Strani]Rammstein}Ich tu dir weh=https://www.youtube.com/watch?v=IxuEtL7gxoM
+﻿Rok Strani]Rammstein}Ich will=--start-time=12 https://www.youtube.com/watch?v=EOnSh3QlpbQ
+﻿Rok Strani]Rammstein}Keine lust=--start-time=5 https://www.youtube.com/watch?v=GjokeZcEjzE
+﻿Rok Strani]Rammstein}Kokain=--start-time=5 https://www.youtube.com/watch?v=KwkAw2kWRp8
+﻿Rok Strani]Rammstein}Liebe ist für alle da=http://www.youtube.com/watch?v=E_WHI4rofL0
+﻿Rok Strani]Rammstein}Liese=https://www.youtube.com/watch?v=eIG8OTr5EtQ
+﻿Rok Strani]Rammstein}Links 2 3 4=https://www.youtube.com/watch?v=Ph-CA_tu5KA
+﻿Rok Strani]Rammstein}Los (full band version)=https://www.youtube.com/watch?v=HbgmivJulxs
+﻿Rok Strani]Rammstein}Mann gegen mann=https://www.youtube.com/watch?v=_EVKy35L7MM
+﻿Rok Strani]Rammstein}Mein herz brennt, piano version=https://www.youtube.com/watch?v=Dv6Th7kJ64Q
+﻿Rok Strani]Rammstein}Mein herz brennt=--start-time=18 https://www.youtube.com/watch?v=WXv31OmnKqQ
+﻿Rok Strani]Rammstein}Mein teil=--start-time=10 https://www.youtube.com/watch?v=PBvwcH4XX6U
+﻿Rok Strani]Rammstein}Moskau=https://www.youtube.com/watch?v=vOoiQjyfIno
+﻿Rok Strani]Rammstein}Mutter=--start-time=6 https://www.youtube.com/watch?v=gNdnVVHfseA
+﻿Rok Strani]Rammstein}Nebel=https://www.youtube.com/watch?v=fv7AuNu2cqs
 ﻿Rok Strani]Rammstein}Nymphomaniac=--start-time=8 https://www.youtube.com/watch?v=4apo48HXDYA
+﻿Rok Strani]Rammstein}Odno i to zhe=https://www.youtube.com/watch?v=zZLgxjPLvQ4
+﻿Rok Strani]Rammstein}Ohne dich=--start-time=10 https://www.youtube.com/watch?v=LIPc1cfS-oQ
+﻿Rok Strani]Rammstein}Pet sematary (live)=--start-time=15 https://www.youtube.com/watch?v=e8IBjUSng5g
+﻿Rok Strani]Rammstein}Ramm4=http://www.youtube.com/watch?v=TdWJ5z7EN-I
+﻿Rok Strani]Rammstein}Rammlied=--start-time=10 https://www.youtube.com/watch?v=8C3YWv9PIvc
+﻿Rok Strani]Rammstein}Rammstein=https://www.youtube.com/watch?v=_sM2sKk4DPM
+﻿Rok Strani]Rammstein}Reise, reise=--start-time=13 https://www.youtube.com/watch?v=N0e3ARhJIsg
+﻿Rok Strani]Rammstein}Rosenrot=https://www.youtube.com/watch?v=af59U2BRRAU
+﻿Rok Strani]Rammstein}Roter sand=--start-time=15 https://www.youtube.com/watch?v=O_KsZb9HFjA
+﻿Rok Strani]Rammstein}Schtiel=--start-time=4 https://www.youtube.com/watch?v=J4Q87FwJMpU
+﻿Rok Strani]Rammstein}Schwarzes glas=https://www.youtube.com/watch?v=HSmgVoxbAxo
+﻿Rok Strani]Rammstein}Seemann=--start-time=7 https://www.youtube.com/watch?v=srN1GsnBui8
+﻿Rok Strani]Rammstein}Sonne=https://www.youtube.com/watch?v=StZcUAPRRac
+﻿Rok Strani]Rammstein}Spiel mit mir=--start-time=7 http://www.youtube.com/watch?v=H6xUVzYlvoA
 ﻿Rok Strani]Rammstein}Stripped=http://www.youtube.com/watch?v=xqo_v5jDgMo
-﻿Rok Strani]Rammstein}Du hast=https://www.youtube.com/watch?v=W3q8Od5qJio
-﻿DJ Strani]Jamiroquai}Virtual insanity=--start-time=5 https://www.youtube.com/watch?v=4JkIs37a2JE
+﻿Rok Strani]Rammstein}Te quiero puta=https://www.youtube.com/watch?v=idtD--EF1Dg
+﻿Rok Strani]Rammstein}Vergiss uns nicht=--start-time=4 https://www.youtube.com/watch?v=ChBRdvbPAZ8
+﻿Rok Strani]Rammstein}Waidmanns heil=http://www.youtube.com/watch?v=oVWL1AEAP94
+﻿Rok Strani]Rammstein}Weisses fleisch=https://www.youtube.com/watch?v=rqPr4bVsdlg
+﻿Rok Strani]Rammstein}Wilder wein=https://www.youtube.com/watch?v=RFxAxmo7EIU
+﻿Rok Strani]Rammstein}Wut will nicht sterben=--start-time=10 https://www.youtube.com/watch?v=o08sl72zxFU
+﻿Rok Strani]Rammstein}Zwitter=http://www.youtube.com/watch?v=KS0yyx3mhko﻿DJ Strani]Jamiroquai}Virtual insanity=--start-time=5 https://www.youtube.com/watch?v=4JkIs37a2JE
 ﻿DJ Strani]Jamiroquai}Cosmic girl=--start-time=5 https://www.youtube.com/watch?v=D-NvQ6VJYtE
 ﻿DJ Strani]Jamiroquai}You give me something=https://www.youtube.com/watch?v=OEcBz6VtyDg
 ﻿DJ Strani]Jamiroquai}Little L=https://www.youtube.com/watch?v=1hHSH9sJUEo
@@ -12086,7 +12082,6 @@
 ﻿Rok Strani]Alice Cooper}The Congregation=http://www.youtube.com/watch?v=R_JHEexM0Go
 ﻿Rok Strani]Alice Cooper}The House Is Haunted=http://www.youtube.com/watch?v=-B81L-ku5K0
 ﻿Rok Strani]Alice Cooper}The Quiet Room=http://www.youtube.com/watch?v=OFFEJIufPzM
-﻿Rok Strani]Alice Cooper}The Saga Of Jesse Jane=http://www.youtube.com/watch?v=bfmAHfMH5F0
 ﻿Rok Strani]Alice Cooper}The World Needs Guts=http://www.youtube.com/watch?v=xwM7-Zuj1Rw
 ﻿Rok Strani]Alice Cooper}This Maniac's In Love With You=http://www.youtube.com/watch?v=AnwTQY9DNAo
 ﻿Rok Strani]Alice Cooper}Time To Kill=http://www.youtube.com/watch?v=AxkrlNRqOAA
