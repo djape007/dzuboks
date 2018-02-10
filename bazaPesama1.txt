@@ -1256,7 +1256,7 @@
 ﻿Zabavna]Andrija Marković}Ona mi fali=http://www.youtube.com/watch?v=RYRi4Q4ggI0
 ﻿Zabavna]Andrija Marković}Popravi me=http://www.youtube.com/watch?v=fenMYsMU7vI
 ﻿Zabavna]Andrija Marković}Slab sam na plavuše=http://www.youtube.com/watch?v=u6FQ0UW2sfM
-﻿Zabavna]Andrija Marković}Sneg u proleće=http://www.youtube.com/watch?v=c-_fwyLjHOQ
+﻿Zabavna]Andrija Marković}Sneg u proleće=http://www.youtube.com/watch?v=PR0Ftx_uOyI
 ﻿Narodna]Angel Dimov}A zašto je nema=http://www.youtube.com/watch?v=vtucxWeGdgY
 ﻿Narodna]Angel Dimov}Aleksandra=http://www.youtube.com/watch?v=YtuwPd4jAdA
 ﻿Narodna]Angel Dimov}Bogovi su odredili=http://www.youtube.com/watch?v=rxZ26-evIq4
@@ -4892,7 +4892,7 @@
 ﻿Narodna]Dragan Kojić - Keba}Kukavica=http://www.youtube.com/watch?v=YAUaQMTJlGc
 ﻿Narodna]Dragan Kojić - Keba}Lagala si=http://www.youtube.com/watch?v=pgf-nQLgYYc
 ﻿Narodna]Dragan Kojić - Keba}Lako je umreti=http://www.youtube.com/watch?v=KOYuQNFvzZM
-﻿Narodna]Dragan Kojić - Keba}Laži=http://www.youtube.com/watch?v=fu8yUU7v__M
+﻿Narodna]Dragan Kojić - Keba}Laži=--start-time=10 http://www.youtube.com/watch?v=tyylY5kYr2I
 ﻿Narodna]Dragan Kojić - Keba}Lice=http://www.youtube.com/watch?v=7VQLWdP9V5E
 ﻿Narodna]Dragan Kojić - Keba}Lili=http://www.youtube.com/watch?v=0OC7vnydE4w
 ﻿Narodna]Dragan Kojić - Keba}Ljiljana=http://www.youtube.com/watch?v=zappCC7RcIk
@@ -6801,7 +6801,7 @@
 ﻿Narodna]Goca Lazarević}Tandrčak=http://www.youtube.com/watch?v=CAxWuok97zg
 ﻿Narodna]Goca Lazarević}Trava zelena=http://www.youtube.com/watch?v=DSQyVzFuc5g
 ﻿Narodna]Goca Lazarević}Vidovdan=http://www.youtube.com/watch?v=PYSUdRkA7Qo
-﻿Narodna]Goca Lazarević}Voliš li me=http://www.youtube.com/watch?v=ToSgPohADOY
+﻿Narodna]Goca Lazarević}Voliš li me=http://www.youtube.com/watch?v=IZQEE1BzQRQ
 ﻿Zabavna]Goca Tržan}1200 milja=http://www.youtube.com/watch?v=p2J-Wi4uN5A
 ﻿Zabavna]Goca Tržan}21 gram=http://www.youtube.com/watch?v=ykvASBhQd2Y
 ﻿Zabavna]Goca Tržan}Ako je Bog dozvolio=http://www.youtube.com/watch?v=uw5zppHQ-t8
@@ -8225,28 +8225,28 @@
 ﻿Rok]ITD Band}Dražesna Meri=http://www.youtube.com/watch?v=pd-dEkPv468
 ﻿Rok]ITD Band}Duša iste siziliste=http://www.youtube.com/watch?v=3vv-2x3U4MY
 ﻿Rok]ITD Band}Elena=http://www.youtube.com/watch?v=SmvuHRky_7k
-﻿Rok]ITD Band}Gledam kroz prozor=http://www.youtube.com/watch?v=cRbBByiLSvY
+﻿Rok]ITD Band}Gledam kroz prozor=http://www.youtube.com/watch?v=AU7vomob_7k
 ﻿Rok]ITD Band}Gradske cure=http://www.youtube.com/watch?v=q0wcWAknl3c
 ﻿Rok]ITD Band}Ja sam slab na tebe=http://www.youtube.com/watch?v=Hucr86z3HGA
 ﻿Rok]ITD Band}Ja sam svoje tjerao do kraja=http://www.youtube.com/watch?v=C4mcMSCQKSA
 ﻿Rok]ITD Band}Lagano umirem=http://www.youtube.com/watch?v=aaTAz7Y3NNA
-﻿Rok]ITD Band}Majko zemljo=http://www.youtube.com/watch?v=y7JR34ifTKI
-﻿Rok]ITD Band}Osvajam Beograd=http://www.youtube.com/watch?v=jUyliHJcejE
+﻿Rok]ITD Band}Majko zemljo=http://www.youtube.com/watch?v=IKLMP0ty1is
+﻿Rok]ITD Band}Osvajam Beograd=http://www.youtube.com/watch?v=dw3dR0fmUIk
 ﻿Rok]ITD Band}Petak 13=http://www.youtube.com/watch?v=eWmPq_KBscs
-﻿Rok]ITD Band}Ponovo te volim onom istom tugom=http://www.youtube.com/watch?v=2TeGfVSZhDQ
+﻿Rok]ITD Band}Ponovo te volim onom istom tugom=http://www.youtube.com/watch?v=st8oSuKs7Lg
 ﻿Rok]ITD Band}Rođen u Zagrebu=http://www.youtube.com/watch?v=JS-ejekzIGg
 ﻿Rok]ITD Band}S ove strane ljubavi=http://www.youtube.com/watch?v=GwV1ipWFG4g
 ﻿Rok]ITD Band}Saloon=http://www.youtube.com/watch?v=hf5s3rf2AII
 ﻿Rok]ITD Band}Samo je tvoje lice=http://www.youtube.com/watch?v=UxE2YuM7beI
 ﻿Rok]ITD Band}Sanjam te Nataša=http://www.youtube.com/watch?v=n_Nb1YaGciE
 ﻿Rok]ITD Band}Sara=http://www.youtube.com/watch?v=Gt64rmI1Mv4
-﻿Rok]ITD Band}Skidam te pogledom=http://www.youtube.com/watch?v=uQBMXK2NaLU
+﻿Rok]ITD Band}Skidam te pogledom=http://www.youtube.com/watch?v=rcF7RJOf6JU
 ﻿Rok]ITD Band}Slavenska minijatura=http://www.youtube.com/watch?v=D26CcqTVr1M
 ﻿Rok]ITD Band}Sonja=http://www.youtube.com/watch?v=HSw4hePvYwU
-﻿Rok]ITD Band}Stalno misliš na sex=http://www.youtube.com/watch?v=F1HRwZt7h_c
+﻿Rok]ITD Band}Stalno misliš na sex=http://www.youtube.com/watch?v=9UPJjPU45pA
 ﻿Rok]ITD Band}Tekila sila=http://www.youtube.com/watch?v=KfRuqZyy4HU
 ﻿Rok]ITD Band}Treba izazivati neprilike=http://www.youtube.com/watch?v=MNyI_9d1ZC8
-﻿Rok]ITD Band}Veza 202=http://www.youtube.com/watch?v=6JSJ8wQbbAQ
+﻿Rok]ITD Band}Veza 202=http://www.youtube.com/watch?v=s3UB-bLVDHA
 ﻿Rok]ITD Band}Vojnička=http://www.youtube.com/watch?v=iRQe-DHGyjM
 ﻿Rok]ITD Band}Život, život=http://www.youtube.com/watch?v=rpVxXD_8-Lg
 ﻿Rok]Idoli}A kad te vidim ja=http://www.youtube.com/watch?v=qMMn6YjJqZM
@@ -10506,12 +10506,10 @@
 ﻿Rok]Napred u prošlost}Napred u prošlost=https://www.youtube.com/watch?v=yG4zn9fgbjM
 ﻿Rok]Napred u prošlost}Žena u defektu=https://www.youtube.com/watch?v=a2y9IL2zFVg
 ﻿Rok]Napred u prošlost}Vođa=https://www.youtube.com/watch?v=YlvsNsFgi0w
-﻿Rok]Napred u prošlost}Veliki Šnule=https://www.youtube.com/watch?v=O2yRHCKFvEA
 ﻿Rok]Napred u prošlost}Vreme je da odrasteš=https://www.youtube.com/watch?v=j-n3YrPVE5I
 ﻿Rok]Napred u prošlost}Đe je medo?=https://www.youtube.com/watch?v=PeM6Btf9wQM
 ﻿Rok]Napred u prošlost}Moj svet=https://www.youtube.com/watch?v=JH09zJ2lSFk
 ﻿Rok]Napred u prošlost}Komunizam=https://www.youtube.com/watch?v=VJWKSBpVGoU
-﻿Rok]Napred u prošlost}Osećam se usamljeno=https://www.youtube.com/watch?v=qsY13AepT78
 ﻿Rok]Napred u prošlost}Nebo=--start-time=5 https://www.youtube.com/watch?v=yNKPcP9hfEM
 ﻿Rok]Napred u prošlost}Sloveni i polja gliba=--start-time=4 https://www.youtube.com/watch?v=kBSfDjA1gCI
 ﻿Rok]Napred u prošlost}Srpski pasulj=https://www.youtube.com/watch?v=MgkhcHj8MJk
@@ -10528,7 +10526,6 @@
 ﻿Rok]Napred u prošlost}Doktore=--start-time=5 https://www.youtube.com/watch?v=NF2GNPftcoc
 ﻿Rok]Napred u prošlost}Agresivna pesma=https://www.youtube.com/watch?v=C0SR59A78wY
 ﻿Rok]Napred u prošlost}Kupi dete=--start-time=6 https://www.youtube.com/watch?v=oLaBRMlDL1A
-﻿Rok]Napred u prošlost}Ja sam pauk=https://www.youtube.com/watch?v=4vOq_c5cvyE
 ﻿Rok]Napred u prošlost}Mali čovek=https://www.youtube.com/watch?v=K0eMN2Z7fRA
 ﻿Rok]Napred u prošlost}Da je čovek=https://www.youtube.com/watch?v=vwTUswCYjSE
 ﻿Rok]Napred u prošlost}Nema dana=https://www.youtube.com/watch?v=SU5nbswosEc
@@ -10536,7 +10533,6 @@
 ﻿Rok]Napred u prošlost}Ljubav je neman koju treba hraniti=https://www.youtube.com/watch?v=ZXeE6W1ojkQ
 ﻿Rok]Napred u prošlost}Nemoj srećo, nemoj danas=--start-time=5 https://www.youtube.com/watch?v=62dMFOyS0N0
 ﻿Rok]Napred u prošlost}Nema tu strasti=https://www.youtube.com/watch?v=rp9GjnaJk_o
-﻿Rok]Napred u prošlost}Dal to novi opet jašu=https://www.youtube.com/watch?v=vKfeW6S90tI
 ﻿Rok]Napred u prošlost}Još jedna kontra ekipe revolucije=https://www.youtube.com/watch?v=YwZS5lY-Fag
 ﻿Rok]Napred u prošlost}Da leptir ima krila=https://www.youtube.com/watch?v=FfQnxvPUNYE
 ﻿Rok]Napred u prošlost}Reka=https://www.youtube.com/watch?v=uiHJQT3VX4Y
@@ -10555,7 +10551,6 @@
 ﻿Rok]Napred u prošlost}Donosim ti cveće u ludnicu i kažem crkni kučko=--start-time=9 https://www.youtube.com/watch?v=jRns1bTgpcE
 ﻿Rok]Napred u prošlost}Ona je tako sama=https://www.youtube.com/watch?v=Hpk-rNiTnBI
 ﻿Rok]Napred u prošlost}Zbogom pameti=https://www.youtube.com/watch?v=_NqY1Mj7n5M
-﻿Rok]Napred u prošlost}Pravda je još jednom pobedila=https://www.youtube.com/watch?v=_-Ky6ZCvM5Q
 ﻿Rok]Napred u prošlost}Dom je beo=https://www.youtube.com/watch?v=uWcdr38n8qk
 ﻿Rok]Napred u prošlost}Definicija NUP muzike=--start-time=6 https://www.youtube.com/watch?v=p1JOGeN03I4
 ﻿Rok]Napred u prošlost}Hijene u Africi=--start-time=4 https://www.youtube.com/watch?v=e85V_wo6t48
@@ -11489,7 +11484,7 @@
 ﻿Rok Strani]Rammstein}Weisses fleisch=https://www.youtube.com/watch?v=rqPr4bVsdlg
 ﻿Rok Strani]Rammstein}Wilder wein=https://www.youtube.com/watch?v=RFxAxmo7EIU
 ﻿Rok Strani]Rammstein}Wut will nicht sterben=--start-time=10 https://www.youtube.com/watch?v=o08sl72zxFU
-﻿Rok Strani]Rammstein}Zwitter=http://www.youtube.com/watch?v=KS0yyx3mhko﻿DJ Strani]Jamiroquai}Virtual insanity=--start-time=5 https://www.youtube.com/watch?v=4JkIs37a2JE
+﻿Rok Strani]Rammstein}Zwitter=http://www.youtube.com/watch?v=lrX9gW70NMY
 ﻿DJ Strani]Jamiroquai}Cosmic girl=--start-time=5 https://www.youtube.com/watch?v=D-NvQ6VJYtE
 ﻿DJ Strani]Jamiroquai}You give me something=https://www.youtube.com/watch?v=OEcBz6VtyDg
 ﻿DJ Strani]Jamiroquai}Little L=https://www.youtube.com/watch?v=1hHSH9sJUEo
@@ -12219,7 +12214,7 @@
 ﻿Rok Strani]Anthrax}Bring The Noise=http://www.youtube.com/watch?v=1d2ABH64-Dw
 ﻿Rok Strani]Anthrax}Burst=http://www.youtube.com/watch?v=SQoS_EXlwao
 ﻿Rok Strani]Anthrax}C11H17N2O2SNA (Sodium Pentathol)=http://www.youtube.com/watch?v=k64ScgLpP3Y
-﻿Rok Strani]Anthrax}Cadillac Rock Box=http://www.youtube.com/watch?v=C7bF8haM6DQ
+﻿Rok Strani]Anthrax}Cadillac Rock Box=https://www.youtube.com/watch?v=WaLrt9ixg0s
 ﻿Rok Strani]Anthrax}Catharsis=http://www.youtube.com/watch?v=47A9Nu1KDYw
 ﻿Rok Strani]Anthrax}Caught In A Mosh=--start-time=29 http://www.youtube.com/watch?v=zlLn0UicWrM
 ﻿Rok Strani]Anthrax}Celebrated Summer=http://www.youtube.com/watch?v=chp9KJCqWWM
