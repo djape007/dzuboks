@@ -996,7 +996,7 @@
 ﻿Narodna]Ana Bekuta}Ludo moja=http://www.youtube.com/watch?v=E0QH7mk2bW4
 ﻿Narodna]Ana Bekuta}Ma što baš ti=http://www.youtube.com/watch?v=jtJHrTAp-Uw
 ﻿Narodna]Ana Bekuta}Manite se, ljudi=http://www.youtube.com/watch?v=wioR5c0hSPE
-Narodna]Ana Bekuta}Metar=--start-time=5 https://www.youtube.com/watch?v=93fTqq_roBE
+﻿Narodna]Ana Bekuta}Metar=--start-time=5 https://www.youtube.com/watch?v=93fTqq_roBE
 ﻿Narodna]Ana Bekuta}Miluj, miluj, Milovane=http://www.youtube.com/watch?v=4ECtceUb2Vk
 ﻿Narodna]Ana Bekuta}Moj Milane, moje plakanje=http://www.youtube.com/watch?v=qIOlqc_Vnq8
 ﻿Narodna]Ana Bekuta}Moje milo=http://www.youtube.com/watch?v=s0lfsSIZ01g
@@ -3507,7 +3507,7 @@ Narodna]Ana Bekuta}Metar=--start-time=5 https://www.youtube.com/watch?v=93fTqq_r
 ﻿Narodna]Dajana Penezić}Glava ili pismo=http://www.youtube.com/watch?v=f2F97twPW6g
 ﻿Narodna]Dajana Penezić}Hitno=http://www.youtube.com/watch?v=6a8VfxD6v-0
 ﻿Narodna]Dajana Penezić}Kume moj=http://www.youtube.com/watch?v=U_POpcN8qfw
-﻿Narodna]Dajana Penezić}Levo, levo=http://www.youtube.com/watch?v=XK3X6uHromU
+﻿Narodna]Dajana Penezić}Levo, levo=http://www.youtube.com/watch?v=bbsbvky0oCM
 ﻿Narodna]Dajana Penezić}Mali gad=http://www.youtube.com/watch?v=GIIJj6SZpmk
 ﻿Narodna]Dajana Penezić}Mirna, mirna=http://www.youtube.com/watch?v=gpuXoM4aOP4
 ﻿Narodna]Dajana Penezić}Moje jedino=http://www.youtube.com/watch?v=u3Uq2R1AE3E
@@ -4621,7 +4621,7 @@ Narodna]Ana Bekuta}Metar=--start-time=5 https://www.youtube.com/watch?v=93fTqq_r
 ﻿Kantautori]Đorđe Balašević}Kere varošanke=http://www.youtube.com/watch?v=3gFqQNaN41E
 ﻿Kantautori]Đorđe Balašević}Lađarska serenata=http://www.youtube.com/watch?v=fIKtAMGuImA
 ﻿Kantautori]Đorđe Balašević}Lepa protina kći=http://www.youtube.com/watch?v=or80G_iRyVo
-﻿Kantautori]Đorđe Balašević}Ljerka=http://www.youtube.com/watch?v=gGxIDt95Npk
+﻿Kantautori]Đorđe Balašević}Ljerka=http://www.youtube.com/watch?v=cNnAy6PEA8c
 ﻿Kantautori]Đorđe Balašević}Ljubav ne pobeđuje=http://www.youtube.com/watch?v=nIzX2HB3Odc
 ﻿Kantautori]Đorđe Balašević}Ljudmila=http://www.youtube.com/watch?v=OA5_8YjA4Is
 ﻿Kantautori]Đorđe Balašević}Lunjo=http://www.youtube.com/watch?v=MFsouIelYL8
@@ -6828,7 +6828,6 @@ Narodna]Ana Bekuta}Metar=--start-time=5 https://www.youtube.com/watch?v=93fTqq_r
 ﻿Zabavna]Goca Tržan}Kad ponos ubije ljubav iz nehata=http://www.youtube.com/watch?v=CUOT-XmPeEk
 ﻿Zabavna]Goca Tržan}Kad pred očima se smrači=http://www.youtube.com/watch?v=bBMZTR5qUC8
 ﻿Zabavna]Goca Tržan}Karmin=http://www.youtube.com/watch?v=skNs2eifr7c
-﻿Zabavna]Goca Tržan}Konobarica=http://www.youtube.com/watch?v=pEOKhkIsRwM
 ﻿Zabavna]Goca Tržan}Korak do dna=http://www.youtube.com/watch?v=8fyM-38mXoI
 ﻿Zabavna]Goca Tržan}Krila anđela=http://www.youtube.com/watch?v=tKPSn1iUVxU
 ﻿Zabavna]Goca Tržan}Lažna krila=http://www.youtube.com/watch?v=U6LjQDrYKM0
@@ -7192,7 +7191,7 @@ Narodna]Ana Bekuta}Metar=--start-time=5 https://www.youtube.com/watch?v=93fTqq_r
 ﻿Narodna]Gordana Stojićević}Skreni Stevo, malo levo=http://www.youtube.com/watch?v=EOQjZQxLy1E
 ﻿Narodna]Gordana Stojićević}Stari bunar=http://www.youtube.com/watch?v=FIKh6mLt2-c
 ﻿Narodna]Gordana Stojićević}Suvo seno, suva trava=http://www.youtube.com/watch?v=e1YEL3DRUx8
-﻿Narodna]Gordana Stojićević}Te sam noći prevarila sebe=http://www.youtube.com/watch?v=gUTs9WT3nXM
+﻿Narodna]Gordana Stojićević}Te sam noći prevarila sebe=http://www.youtube.com/watch?v=rmAeaNsTHN4
 ﻿Narodna]Gordana Stojićević}Trepetljika trepetala=http://www.youtube.com/watch?v=ouujbEIyVqc
 ﻿Narodna]Gordana Stojićević}Zagrli me i oprosti mi=http://www.youtube.com/watch?v=HJOQH1sNRek
 ﻿Zabavna]Grupa Luna}After party=http://www.youtube.com/watch?v=84y9s3fHq48
@@ -10741,7 +10740,7 @@ Narodna]Ana Bekuta}Metar=--start-time=5 https://www.youtube.com/watch?v=93fTqq_r
 ﻿Rok Strani]Led Zeppelin}Houses of the holy=https://www.youtube.com/watch?v=s8e6VZTDBvs
 ﻿Rok Strani]Led Zeppelin}I can't quit you baby=https://www.youtube.com/watch?v=84GOPAWTwac
 ﻿Rok Strani]Led Zeppelin}I'm gonna crawl=https://www.youtube.com/watch?v=eAwuK61QzHs
-﻿Rok Strani]Led Zeppelin}Immigrant song=https://www.youtube.com/watch?v=Y2znL-noohI
+﻿Rok Strani]Led Zeppelin}Immigrant song=http://www.youtube.com/watch?v=j5dX2YnCIGw
 ﻿Rok Strani]Led Zeppelin}In my time of dying=https://www.youtube.com/watch?v=zwLBaBeo1k4
 ﻿Rok Strani]Led Zeppelin}In the evening (remastered)=https://www.youtube.com/watch?v=afEipftwkn4
 ﻿Rok Strani]Led Zeppelin}In the evening=--start-time=3 https://www.youtube.com/watch?v=b-2M88i_yDg
