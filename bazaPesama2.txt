@@ -489,6 +489,7 @@
 ﻿Zabavna]MC Stojan}Samo zaigraj=http://www.youtube.com/watch?v=CXwlATCjcmk
 ﻿Zabavna]MC Stojan}Skini sve=http://www.youtube.com/watch?v=_340oPAsDi8
 ﻿Zabavna]MC Stojan}Ti i ja=http://www.youtube.com/watch?v=Fz2xV5-Bex0
+﻿Zabavna]MC Stojan}Ti odlaziš, ja ostajem (ft. Dinna)=--start-time=6 https://www.youtube.com/watch?v=BGHR2oCGvgQ
 ﻿Zabavna]MC Stojan}U srce pucaj mi=--start-time=41 http://www.youtube.com/watch?v=LSgEdJJXof4
 ﻿Zabavna]MC Stojan}Vatreno, vatreno=--start-time=41 http://www.youtube.com/watch?v=RlTpH3oaEMU
 ﻿Zabavna]MC Stojan}Very bad bitch=http://www.youtube.com/watch?v=iinfqf8Fp5E
@@ -1437,6 +1438,7 @@
 ﻿Narodna]Mile Kitić}A ti, a ti, a ti=http://www.youtube.com/watch?v=GZ9w3HHhe7M
 ﻿Narodna]Mile Kitić}A, mi smo bili=http://www.youtube.com/watch?v=aCEMJC4q2F4
 ﻿Narodna]Mile Kitić}Ako te budu pitali=http://www.youtube.com/watch?v=vKZHZ_sLY50
+﻿Narodna]Mile Kitić}Aždaja=https://www.youtube.com/watch?v=Mbmk0_Rg4-I
 ﻿Narodna]Mile Kitić}Aldijana=http://www.youtube.com/watch?v=XB9Io_ze98s
 ﻿Narodna]Mile Kitić}Baby, baby=http://www.youtube.com/watch?v=j1ArOvzafVA
 ﻿Narodna]Mile Kitić}Baš si sladak=http://www.youtube.com/watch?v=BtncyKUek7k
@@ -2605,7 +2607,7 @@
 ﻿Narodna]Neda Ukraden}Ponoć je=http://www.youtube.com/watch?v=Rios7F9IMP4
 ﻿Narodna]Neda Ukraden}Radujte se prijatelji=http://www.youtube.com/watch?v=6PCB3Fs5vBw
 ﻿Narodna]Neda Ukraden}Reci mi gde sam pogrešila=http://www.youtube.com/watch?v=B2zOALufams
-﻿Narodna]Neda Ukraden}Sad il nikad=http://www.youtube.com/watch?v=RXuBXmDUyko
+﻿Narodna]Neda Ukraden}Sad il nikad=http://www.youtube.com/watch?v=ue6x8rSpL6w
 ﻿Narodna]Neda Ukraden}Saj rode saj=http://www.youtube.com/watch?v=ztKUvWLiOIs
 ﻿Narodna]Neda Ukraden}Sanjam te=http://www.youtube.com/watch?v=vfm3i9QWfRw
 ﻿Narodna]Neda Ukraden}Šljokice=http://www.youtube.com/watch?v=_HDzlbechgY
@@ -5643,6 +5645,7 @@
 ﻿Zabavna]S.A.R.S}Diploma=http://www.youtube.com/watch?v=mhoE8YyPSYs
 ﻿Zabavna]S.A.R.S}Klinka=http://www.youtube.com/watch?v=KrBf04hnIBA
 ﻿Zabavna]S.A.R.S}Klovn=http://www.youtube.com/watch?v=_IB3jCYQlxA
+﻿Zabavna]S.A.R.S}Ljubav umire=https://www.youtube.com/watch?v=KKOweO0p-dU
 ﻿Zabavna]S.A.R.S}Lutka=http://www.youtube.com/watch?v=P8KhDiYeN_g
 ﻿Zabavna]S.A.R.S}Neka te kraj mene=http://www.youtube.com/watch?v=bY4LsGcuFYk
 ﻿Zabavna]S.A.R.S}Istok zapad (ft. Kriki)=https://www.youtube.com/watch?v=9MUo9iXg4y0
@@ -6877,7 +6880,7 @@
 ﻿Narodna]Seka Aleksić}Da sam muško=http://www.youtube.com/watch?v=M9_mUgZ98G0
 ﻿Narodna]Seka Aleksić}Dan od života=http://www.youtube.com/watch?v=uOeSGHOD9hI
 ﻿Narodna]Seka Aleksić}Devet dana=http://www.youtube.com/watch?v=32EwuoPAaFI
-﻿Narodna]Seka Aleksić}Dim srca mog=http://www.youtube.com/watch?v=Figby8eZnUM
+﻿Narodna]Seka Aleksić}Dim srca mog=http://www.youtube.com/watch?v=cGvcLDC8Ngc
 ﻿Narodna]Seka Aleksić}Dobri druže moj=http://www.youtube.com/watch?v=i-Y4WCRXnZ4
 ﻿Narodna]Seka Aleksić}Dođi i uzmi me=http://www.youtube.com/watch?v=XQxRntt7Rpw
 ﻿Narodna]Seka Aleksić}Doktore=http://www.youtube.com/watch?v=vQvkdMM17N0
@@ -6894,7 +6897,6 @@
 ﻿Narodna]Seka Aleksić}Idi lepi moj=http://www.youtube.com/watch?v=t5yxscz_1Mo
 ﻿Narodna]Seka Aleksić}Idi pre jutra=http://www.youtube.com/watch?v=IQ0JqrMX3CA
 ﻿Narodna]Seka Aleksić}Idi s' njom=http://www.youtube.com/watch?v=xD3vNdZj_XI
-﻿Narodna]Seka Aleksić}Impulsi=http://www.youtube.com/watch?v=cd9UqoVHAPM
 ﻿Narodna]Seka Aleksić}Iskoristi moje mane=http://www.youtube.com/watch?v=nx-XAk_gm-I
 ﻿Narodna]Seka Aleksić}Izdajice=http://www.youtube.com/watch?v=4hIoDHa3i4E
 ﻿Narodna]Seka Aleksić}Ja nisam nešto slatko=http://www.youtube.com/watch?v=sTozAALqR5w
@@ -12227,7 +12229,7 @@
 ﻿Rok Strani]Motörhead}Devil I Know=http://www.youtube.com/watch?v=YOWonfy4UX4
 ﻿Rok Strani]Motörhead}Devils In My Head=http://www.youtube.com/watch?v=bpPS4PMlChs
 ﻿Rok Strani]Motörhead}Devils=http://www.youtube.com/watch?v=BY2BGPipaQw
-﻿Rok Strani]Motörhead}Die You Bastard=http://www.youtube.com/watch?v=zu90pWmHNu4
+﻿Rok Strani]Motörhead}Die You Bastard=http://www.youtube.com/watch?v=HcZDkQF2SJ0
 ﻿Rok Strani]Motörhead}Dog-Face Boy=http://www.youtube.com/watch?v=wz3fuz_-168
 ﻿Rok Strani]Motörhead}Dogs Of War=http://www.youtube.com/watch?v=y1j_sRI3yl0
 ﻿Rok Strani]Motörhead}Dogs=http://www.youtube.com/watch?v=MXDGm0FvTdQ

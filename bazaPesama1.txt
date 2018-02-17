@@ -498,7 +498,7 @@
 ﻿Narodna]Aleksandra Bursać}Jabuka=http://www.youtube.com/watch?v=4dU-5NJUL2k
 ﻿Narodna]Aleksandra Bursać}Kad mi kaže=http://www.youtube.com/watch?v=LcZUv_tpwoM
 ﻿Narodna]Aleksandra Bursać}Mala, mala=http://www.youtube.com/watch?v=hZq5PYEC-00
-﻿Narodna]Aleksandra Bursać}Padale su kiše=http://www.youtube.com/watch?v=3xg8VaUldow
+﻿Narodna]Aleksandra Bursać}Padale su kiše=http://www.youtube.com/watch?v=A4Acsnr_gTU
 ﻿Narodna]Aleksandra Bursać}Prva liga=http://www.youtube.com/watch?v=1uCkAzItm_o
 ﻿Narodna]Aleksandra Bursać}Slomljena od bola=http://www.youtube.com/watch?v=QnK6EIL2LqA
 ﻿Narodna]Aleksandra Bursać}Što te nema ljubavi (feat. Miloš Brkić)=--start-time=6 http://www.youtube.com/watch?v=eET6OHZqayA
@@ -999,6 +999,7 @@
 ﻿Narodna]Ana Bekuta}Metar=--start-time=5 https://www.youtube.com/watch?v=93fTqq_roBE
 ﻿Narodna]Ana Bekuta}Miluj, miluj, Milovane=http://www.youtube.com/watch?v=4ECtceUb2Vk
 ﻿Narodna]Ana Bekuta}Moj Milane, moje plakanje=http://www.youtube.com/watch?v=qIOlqc_Vnq8
+﻿Narodna]Ana Bekuta}Moj si, neka se zna=--start-time=5 https://www.youtube.com/watch?v=Z-F0Q0skPoA
 ﻿Narodna]Ana Bekuta}Moje milo=http://www.youtube.com/watch?v=s0lfsSIZ01g
 ﻿Narodna]Ana Bekuta}Moje oči pogledaj=http://www.youtube.com/watch?v=nzb8cs8nFQU
 ﻿Narodna]Ana Bekuta}Molitva za malo sreće=http://www.youtube.com/watch?v=mYUf0lGnn5k
@@ -1502,7 +1503,6 @@
 ﻿Rok]Azra}Jablan=http://www.youtube.com/watch?v=lAcq2ruZc6g
 ﻿Rok]Azra}Jesi li sama večeras=http://www.youtube.com/watch?v=870jCmJ0VCs
 ﻿Rok]Azra}Kao i jučer=http://www.youtube.com/watch?v=zap_lF_j38k
-﻿Rok]Azra}Kao ti i ja=http://www.youtube.com/watch?v=N3KDvy87m0A
 ﻿Rok]Azra}Klinček stoji pod oblokom=http://www.youtube.com/watch?v=gAAfUdaXzZI
 ﻿Rok]Azra}Kurvini sinovi=http://www.youtube.com/watch?v=5xRxhu_Qk3g
 ﻿Rok]Azra}Lepe žene prolaze kroz grad=http://www.youtube.com/watch?v=84CaXFJfLEo
@@ -3517,7 +3517,7 @@
 ﻿Narodna]Dajana Penezić}Poslednji put=http://www.youtube.com/watch?v=oZvRrRcJAUQ
 ﻿Narodna]Dajana Penezić}Red bull=http://www.youtube.com/watch?v=qDyJlRAJzzs
 ﻿Narodna]Dajana Penezić}Samo me pozovi=http://www.youtube.com/watch?v=w_HMH2ZtKhM
-﻿Narodna]Dajana Penezić}Sledeći=http://www.youtube.com/watch?v=wzrnARcNN6E
+﻿Narodna]Dajana Penezić}Sledeći=http://www.youtube.com/watch?v=7lugb8O755w
 ﻿Narodna]Dajana Penezić}Sve mi daj=http://www.youtube.com/watch?v=TQsdyb3smO8
 ﻿Narodna]Dajana Penezić}Trešnje=http://www.youtube.com/watch?v=hCbsBjMOJkg
 ﻿Narodna]Dajana Penezić}Uzalud=http://www.youtube.com/watch?v=uVpU1LzjAys
@@ -4738,7 +4738,6 @@
 ﻿Narodna]Donna Ares}Idi, idi moja vilo=http://www.youtube.com/watch?v=8tXLmua6Rg0
 ﻿Narodna]Donna Ares}Ja bih kao ti=http://www.youtube.com/watch?v=16CMnDV7O8w
 ﻿Narodna]Donna Ares}Ja sam tatin sin=http://www.youtube.com/watch?v=QZxYIBrKWrc
-﻿Narodna]Donna Ares}Jackpot=http://www.youtube.com/watch?v=BqQNsZQwScE
 ﻿Narodna]Donna Ares}Kasno za nas=http://www.youtube.com/watch?v=1pYCnrpZ60s
 ﻿Narodna]Donna Ares}Kazna=http://www.youtube.com/watch?v=5UvhxbMa4AM
 ﻿Narodna]Donna Ares}Ko si ti=http://www.youtube.com/watch?v=LtgYcc5zO7E
@@ -10751,7 +10750,7 @@
 ﻿Rok Strani]Led Zeppelin}No quarter=--start-time=3 https://www.youtube.com/watch?v=Pu94mWlgzMY
 ﻿Rok Strani]Led Zeppelin}Nobody's fault but mine=https://www.youtube.com/watch?v=f0HOf3uR5-4
 ﻿Rok Strani]Led Zeppelin}Over the hills and far away=https://www.youtube.com/watch?v=QKdkFKResr4
-﻿Rok Strani]Led Zeppelin}Physical graffiti=https://www.youtube.com/watch?v=CYyHfztkPUY
+﻿Rok Strani]Led Zeppelin}Physical graffiti=http://www.youtube.com/watch?v=7vPMbjjYctQ
 ﻿Rok Strani]Led Zeppelin}Rain song=https://www.youtube.com/watch?v=HZ4uzD_hLds
 ﻿Rok Strani]Led Zeppelin}Rock and roll=https://www.youtube.com/watch?v=mwFqRB2FQu4
 ﻿Rok Strani]Led Zeppelin}Royal Orleans=https://www.youtube.com/watch?v=OUHjo111vkw
@@ -11965,7 +11964,6 @@
 ﻿Rok Strani]Alice Cooper}Dead Babies=http://www.youtube.com/watch?v=e9j_iIXZsoU
 ﻿Rok Strani]Alice Cooper}Deeper=http://www.youtube.com/watch?v=w67l2PGFGRQ
 ﻿Rok Strani]Alice Cooper}Department Of Youth=http://www.youtube.com/watch?v=RetqavQzMTU
-﻿Rok Strani]Alice Cooper}Desperado=http://www.youtube.com/watch?v=x0oiM-OfdV4
 ﻿Rok Strani]Alice Cooper}Devil's Food=http://www.youtube.com/watch?v=k7ZTVFtxIIw
 ﻿Rok Strani]Alice Cooper}Dirty Dreams=http://www.youtube.com/watch?v=4CxNiWGJqg4
 ﻿Rok Strani]Alice Cooper}Disco Bloodbath Boogie Fever=http://www.youtube.com/watch?v=fMBhbllsnYM
