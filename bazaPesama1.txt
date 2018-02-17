@@ -559,7 +559,7 @@
 ﻿Zabavna]Aleksandra Radović}Kao so u moru=http://www.youtube.com/watch?v=6eJH4RLfC6M
 ﻿Zabavna]Aleksandra Radović}Karta za jug=http://www.youtube.com/watch?v=Z4RRCxZin8I
 ﻿Zabavna]Aleksandra Radović}Kažeš svejedno=http://www.youtube.com/watch?v=jOJeunPEAJY
-﻿Zabavna]Aleksandra Radović}Kocka leda=http://www.youtube.com/watch?v=1rAOeChwEDQ
+﻿Zabavna]Aleksandra Radović}Kocka leda=http://www.youtube.com/watch?v=l0y4iM5Zyy8
 ﻿Zabavna]Aleksandra Radović}Laž=http://www.youtube.com/watch?v=_kKfHuL9X54
 ﻿Zabavna]Aleksandra Radović}Ljubavi moja=--start-time=6 https://www.youtube.com/watch?v=7GSDD_rcePc
 ﻿Zabavna]Aleksandra Radović}Mali peh=http://www.youtube.com/watch?v=20jO58iKm4c
@@ -569,7 +569,7 @@
 ﻿Zabavna]Aleksandra Radović}Ne reci mi=http://www.youtube.com/watch?v=W2IINwDYuGk
 ﻿Zabavna]Aleksandra Radović}Ne verujem da me ne voliš=http://www.youtube.com/watch?v=J1-FkzTnvfE
 ﻿Zabavna]Aleksandra Radović}Neću plakati=http://www.youtube.com/watch?v=IYJWK9bOd0k
-﻿Zabavna]Aleksandra Radović}Neka me osude svi=http://www.youtube.com/watch?v=wEjsFJ6-RhI
+﻿Zabavna]Aleksandra Radović}Neka me osude svi=http://www.youtube.com/watch?v=QATCwtLmoMU
 ﻿Zabavna]Aleksandra Radović}Nema ljubavi tu=http://www.youtube.com/watch?v=ONU0UYVyUKg
 ﻿Zabavna]Aleksandra Radović}Nema te žene=http://www.youtube.com/watch?v=kXJQEOT1_3Q
 ﻿Zabavna]Aleksandra Radović}Nemoj=http://www.youtube.com/watch?v=o5A32wJWuqU
@@ -578,7 +578,7 @@
 ﻿Zabavna]Aleksandra Radović}Novi dan=http://www.youtube.com/watch?v=rOnRQTp-HFY
 ﻿Zabavna]Aleksandra Radović}Odavno=http://www.youtube.com/watch?v=fTjDl5lNeQo
 ﻿Zabavna]Aleksandra Radović}Otpiši sve bivše=http://www.youtube.com/watch?v=2pFLPZL_gfM
-﻿Zabavna]Aleksandra Radović}Pamti me=http://www.youtube.com/watch?v=aNdGvT61xcU
+﻿Zabavna]Aleksandra Radović}Pamti me=http://www.youtube.com/watch?v=ajumvZRsIJ8
 ﻿Zabavna]Aleksandra Radović}Parče sunca=http://www.youtube.com/watch?v=_jLz5bgt_Dk
 ﻿Zabavna]Aleksandra Radović}S tobom zauvek=http://www.youtube.com/watch?v=BvLpATyEnvs
 ﻿Zabavna]Aleksandra Radović}Sa mnom=http://www.youtube.com/watch?v=5-GUvRWZJvk
@@ -4290,7 +4290,7 @@
 ﻿Rok]Divlje Jagode}Ne, nisam ja=http://www.youtube.com/watch?v=8973QX7nW4c
 ﻿Rok]Divlje Jagode}Nemam ništa protiv=http://www.youtube.com/watch?v=sIMB0Z9pkeM
 ﻿Rok]Divlje Jagode}Od neba do neba=http://www.youtube.com/watch?v=lpVsEmwro38
-﻿Rok]Divlje Jagode}Oluja=http://www.youtube.com/watch?v=qsg-dWEjrcY
+﻿Rok]Divlje Jagode}Oluja=http://www.youtube.com/watch?v=L0tNEPzhN_c
 ﻿Rok]Divlje Jagode}Osjećam gola si ispod haljine=http://www.youtube.com/watch?v=hU1Koe53kX4
 ﻿Rok]Divlje Jagode}Patkica=http://www.youtube.com/watch?v=1E0Nli8Tky4
 ﻿Rok]Divlje Jagode}Pepeljuga=http://www.youtube.com/watch?v=nIqUCYasqC4
@@ -10750,7 +10750,6 @@
 ﻿Rok Strani]Led Zeppelin}No quarter=--start-time=3 https://www.youtube.com/watch?v=Pu94mWlgzMY
 ﻿Rok Strani]Led Zeppelin}Nobody's fault but mine=https://www.youtube.com/watch?v=f0HOf3uR5-4
 ﻿Rok Strani]Led Zeppelin}Over the hills and far away=https://www.youtube.com/watch?v=QKdkFKResr4
-﻿Rok Strani]Led Zeppelin}Physical graffiti=http://www.youtube.com/watch?v=7vPMbjjYctQ
 ﻿Rok Strani]Led Zeppelin}Rain song=https://www.youtube.com/watch?v=HZ4uzD_hLds
 ﻿Rok Strani]Led Zeppelin}Rock and roll=https://www.youtube.com/watch?v=mwFqRB2FQu4
 ﻿Rok Strani]Led Zeppelin}Royal Orleans=https://www.youtube.com/watch?v=OUHjo111vkw
@@ -11241,7 +11240,7 @@
 ﻿Rok Strani]Whitesnake}Lonely days, lonely nights=https://www.youtube.com/watch?v=YuHzgQ3inZM
 ﻿Rok Strani]Whitesnake}Walking in the shadow of the blues=https://www.youtube.com/watch?v=8Z4zHIY-6H4
 ﻿Rok Strani]Whitesnake}Love hunter=https://www.youtube.com/watch?v=vkraWG-a_AI
-﻿Rok Strani]Whitesnake}Rock 'n' Roll women=https://www.youtube.com/watch?v=UH2rnu7VZlI
+﻿Rok Strani]Whitesnake}Rock 'n' Roll women=http://www.youtube.com/watch?v=fTflkPC7Prs
 ﻿Rok Strani]Whitesnake}Medicine man=https://www.youtube.com/watch?v=-K-yfItmEs4
 ﻿Rok Strani]Whitesnake}Forevermore=https://www.youtube.com/watch?v=t1_KJxqAhn4
 ﻿Rok Strani]Whitesnake}Too many tears=--start-time=7 https://www.youtube.com/watch?v=4yNMM11VpxY
@@ -15836,7 +15835,7 @@
 ﻿Rok Strani]Judas Priest}Close To You=http://www.youtube.com/watch?v=eCQ5R53HzYk
 ﻿Rok Strani]Judas Priest}Cold Blooded=http://www.youtube.com/watch?v=hUCxnhJdoBo
 ﻿Rok Strani]Judas Priest}Come And Get It=http://www.youtube.com/watch?v=j_iP8lJ9Mz4
-﻿Rok Strani]Judas Priest}Conquest=http://www.youtube.com/watch?v=jg0Je_5VyJ4
+﻿Rok Strani]Judas Priest}Conquest=http://www.youtube.com/watch?v=DAFzQrpYCGQ
 ﻿Rok Strani]Judas Priest}Creatures=http://www.youtube.com/watch?v=wAausGaAhCs
 ﻿Rok Strani]Judas Priest}Crossfire=http://www.youtube.com/watch?v=K-RjOGnZuak
 ﻿Rok Strani]Judas Priest}Cyberface=http://www.youtube.com/watch?v=qHlF63w7o3w

@@ -775,12 +775,12 @@
 ﻿Rok]Majke}Daj mi=https://www.youtube.com/watch?v=-cN3cVCG2bs
 ﻿Rok]Majke}Život je osjećaj=https://www.youtube.com/watch?v=S84CozuaNbU
 ﻿Rok]Majke}Mala ima sliku=https://www.youtube.com/watch?v=1PeZtVGBG7I
-﻿Rep]Marchelo}Bolji život=http://www.youtube.com/watch?v=-9HkEbQGCGI
+﻿Rep]Marchelo}Bolji život=http://www.youtube.com/watch?v=a6iDqDFxKJQ
 ﻿Rep]Marchelo}Bube=http://www.youtube.com/watch?v=thLZkNXzhv4
 ﻿Rep]Marchelo}Čep=http://www.youtube.com/watch?v=xeMCR1l8piM
 ﻿Rep]Marchelo}De facto=http://www.youtube.com/watch?v=F1M3I-Csa3Y
 ﻿Rep]Marchelo}Dole=http://www.youtube.com/watch?v=WceTvltWO88
-﻿Rep]Marchelo}Gola vera=http://www.youtube.com/watch?v=BJj3BbdDsy8
+﻿Rep]Marchelo}Gola vera=http://www.youtube.com/watch?v=laFTTs7EqXU
 ﻿Rep]Marchelo}Himna maršala Mita=http://www.youtube.com/watch?v=0PCFm64Tzv0
 ﻿Rep]Marchelo}I opet kafanska spika=http://www.youtube.com/watch?v=nhhQP6iovxk
 ﻿Rep]Marchelo}Ispod (Dara II)=http://www.youtube.com/watch?v=Luj8ZF2mIs4
@@ -1032,7 +1032,7 @@
 ﻿Narodna]Marta Savić}Suze su za žene=http://www.youtube.com/watch?v=ngzih15fah4
 ﻿Narodna]Marta Savić}Svakom svoje=http://www.youtube.com/watch?v=MhKiCqcsNQY
 ﻿Narodna]Marta Savić}Svejedno mi je=http://www.youtube.com/watch?v=zTGgZ4_BNOY
-﻿Narodna]Marta Savić}Svetica=http://www.youtube.com/watch?v=r709mvBk0WI
+﻿Narodna]Marta Savić}Svetica=http://www.youtube.com/watch?v=-_EPRtoJis8
 ﻿Narodna]Marta Savić}Ta žena hoće sve=http://www.youtube.com/watch?v=0TMS1CEOPRw
 ﻿Narodna]Marta Savić}Tako mi trebaš=http://www.youtube.com/watch?v=i9-8GX8qM64
 ﻿Narodna]Marta Savić}Tebi se sve može=http://www.youtube.com/watch?v=ciTlWZAEYmg
@@ -2374,8 +2374,7 @@
 ﻿Rok]Mortal Kombat}Pauk čovek=https://www.youtube.com/watch?v=edbBGxMMoFk
 ﻿Narodna]Muharem Serbezovski}Alisa ne idi=http://www.youtube.com/watch?v=kjiJVc96WZE
 ﻿Narodna]Muharem Serbezovski}Amela=http://www.youtube.com/watch?v=4xQAHBg0Sz0
-﻿Narodna]Muharem Serbezovski}Boli me moja praznina=http://www.youtube.com/watch?v=Qx1AWzPzZXo
-﻿Narodna]Muharem Serbezovski}Bože moj=http://www.youtube.com/watch?v=ho3PIIt8eiM
+﻿Narodna]Muharem Serbezovski}Bože moj=http://www.youtube.com/watch?v=dU8M0Y_XWpo
 ﻿Narodna]Muharem Serbezovski}Ciganin sam i umem da volim=http://www.youtube.com/watch?v=GWH1F_R2QzA
 ﻿Narodna]Muharem Serbezovski}Daj mi Bože strpljenje=http://www.youtube.com/watch?v=SPJOOGgY4wU
 ﻿Narodna]Muharem Serbezovski}Daleko si ti od mene=http://www.youtube.com/watch?v=ziGh6foFPvY
@@ -2390,7 +2389,7 @@
 ﻿Narodna]Muharem Serbezovski}Hladna zima=http://www.youtube.com/watch?v=5kBKEUlE9c4
 ﻿Narodna]Muharem Serbezovski}Imam ljubav, ali kome da je dam=http://www.youtube.com/watch?v=68ZqUI5DW3w
 ﻿Narodna]Muharem Serbezovski}Jedina=http://www.youtube.com/watch?v=YLlCGSkT96w
-﻿Narodna]Muharem Serbezovski}Ko zna kol'ko daleko si ti=http://www.youtube.com/watch?v=Kj0Qz_SRJA4
+﻿Narodna]Muharem Serbezovski}Ko zna kol'ko daleko si ti=http://www.youtube.com/watch?v=jAITyB5e3Lo
 ﻿Narodna]Muharem Serbezovski}Mastika, mastika=http://www.youtube.com/watch?v=iJSrODYYmRw
 ﻿Narodna]Muharem Serbezovski}Moram plakati=http://www.youtube.com/watch?v=TtJILU_h6iY
 ﻿Narodna]Muharem Serbezovski}Nisi sve izgubila=http://www.youtube.com/watch?v=VVxsBBeWDno
@@ -2766,12 +2765,10 @@
 ﻿Rok]Negative}Iznenadi me=http://www.youtube.com/watch?v=E8V2_ke0E6s
 ﻿Rok]Negative}Ja bih te sanjala=http://www.youtube.com/watch?v=Y_2f4D6vdRU
 ﻿Rok]Negative}Još čekam ljubav=http://www.youtube.com/watch?v=Hc1c4S2tHns
-﻿Rok]Negative}Još jedan pokušaj=http://www.youtube.com/watch?v=d4MldxqWsHY
 ﻿Rok]Negative}Julija=http://www.youtube.com/watch?v=BhqX1J3qyE4
 ﻿Rok]Negative}Jutro posle dodira=http://www.youtube.com/watch?v=6K3ixPI1fhI
 ﻿Rok]Negative}Kad se svetla ugase=http://www.youtube.com/watch?v=byYFF6jh62I
 ﻿Rok]Negative}Konačan početak=http://www.youtube.com/watch?v=Cm9nCw0_dHQ
-﻿Rok]Negative}Kontakt=http://www.youtube.com/watch?v=FJKCSKX4QBg
 ﻿Rok]Negative}Kraj=http://www.youtube.com/watch?v=AVsEJcPca4E
 ﻿Rok]Negative}Laž=http://www.youtube.com/watch?v=PJk79-K8sV0
 ﻿Rok]Negative}Ljubav=http://www.youtube.com/watch?v=YfriozROhkQ
@@ -5526,7 +5523,7 @@
 ﻿Narodna]Rokeri S Moravu}Cmok, cmok=http://www.youtube.com/watch?v=ui_JSrf6s-E
 ﻿Narodna]Rokeri S Moravu}Crna krava, belo mleko=http://www.youtube.com/watch?v=UJtI1KEY1Rg
 ﻿Narodna]Rokeri S Moravu}Ću se kačim=http://www.youtube.com/watch?v=f63qVq7zHEM
-﻿Narodna]Rokeri S Moravu}Dabogda ti gaćni lastiš puk'o=http://www.youtube.com/watch?v=HTjr1l6oa7Q
+﻿Narodna]Rokeri S Moravu}Dabogda ti gaćni lastiš puk'o=http://www.youtube.com/watch?v=JxhRat8DHHA
 ﻿Narodna]Rokeri S Moravu}Daj ribu=http://www.youtube.com/watch?v=WpTIxNK6Lss
 ﻿Narodna]Rokeri S Moravu}Daj šta daš, ako Boga znaš=http://www.youtube.com/watch?v=GqiG3YHRcsg
 ﻿Narodna]Rokeri S Moravu}Darinka carinka=http://www.youtube.com/watch?v=NNu-jbgsE5M
@@ -6880,7 +6877,6 @@
 ﻿Narodna]Seka Aleksić}Da sam muško=http://www.youtube.com/watch?v=M9_mUgZ98G0
 ﻿Narodna]Seka Aleksić}Dan od života=http://www.youtube.com/watch?v=uOeSGHOD9hI
 ﻿Narodna]Seka Aleksić}Devet dana=http://www.youtube.com/watch?v=32EwuoPAaFI
-﻿Narodna]Seka Aleksić}Dim srca mog=http://www.youtube.com/watch?v=cGvcLDC8Ngc
 ﻿Narodna]Seka Aleksić}Dobri druže moj=http://www.youtube.com/watch?v=i-Y4WCRXnZ4
 ﻿Narodna]Seka Aleksić}Dođi i uzmi me=http://www.youtube.com/watch?v=XQxRntt7Rpw
 ﻿Narodna]Seka Aleksić}Doktore=http://www.youtube.com/watch?v=vQvkdMM17N0
@@ -7149,7 +7145,6 @@
 ﻿Narodna]Sekib Mujanović}Usne od paučine=http://www.youtube.com/watch?v=DjbygipStwg
 ﻿Narodna]Sekib Mujanović}Zaljuljali bi krevet=http://www.youtube.com/watch?v=Hvli_ADhg-Y
 ﻿Narodna]Selma Bajrami}Bakšiš=http://www.youtube.com/watch?v=_LAliqasXyw
-﻿Narodna]Selma Bajrami}Boli me noć, boli me dan=http://www.youtube.com/watch?v=LtFyJjoi1Ew
 ﻿Narodna]Selma Bajrami}Davno si ubio ponos u meni=http://www.youtube.com/watch?v=qtuRux4WePA
 ﻿Narodna]Selma Bajrami}Divlji zov=http://www.youtube.com/watch?v=dsZgFoqj5QA
 ﻿Narodna]Selma Bajrami}Đavolica=http://www.youtube.com/watch?v=bKkBdzacIhw
@@ -7159,7 +7154,7 @@
 ﻿Narodna]Selma Bajrami}Izbriši moj broj=http://www.youtube.com/watch?v=vDtU52YJxlU
 ﻿Narodna]Selma Bajrami}Kad se ne da, ne da se=http://www.youtube.com/watch?v=MARUjhUXXow
 ﻿Narodna]Selma Bajrami}Korak do nervnog sloma=http://www.youtube.com/watch?v=fm-HxHNWk1s
-﻿Narodna]Selma Bajrami}Lijepe žene=http://www.youtube.com/watch?v=sFgiPuKc9v8
+﻿Narodna]Selma Bajrami}Lijepe žene=http://www.youtube.com/watch?v=nKzfKvgbwHY
 ﻿Narodna]Selma Bajrami}Mlađe slađe (ft. Enela)=--start-time=6 https://www.youtube.com/watch?v=0BrWjLZz19w
 ﻿Narodna]Selma Bajrami}Muška suza=http://www.youtube.com/watch?v=yiKc97SBkJc
 ﻿Narodna]Selma Bajrami}Ne mogu te voljeti=http://www.youtube.com/watch?v=gSObzGVq1cU
@@ -8856,12 +8851,12 @@
 ﻿Narodna]Tanja Savić}Da, da=http://www.youtube.com/watch?v=QnJ-xgUO8ss
 ﻿Narodna]Tanja Savić}Da, to sam ja=http://www.youtube.com/watch?v=jHRHDfuKryE
 ﻿Narodna]Tanja Savić}Đerdani=http://www.youtube.com/watch?v=fFxXXyx9_Js
-﻿Narodna]Tanja Savić}Gde ljubav putuje=http://www.youtube.com/watch?v=izqb5RC0dkc
+﻿Narodna]Tanja Savić}Gde ljubav putuje=http://www.youtube.com/watch?v=oWdWAeqMF1c
 ﻿Narodna]Tanja Savić}Ginisov rekord=http://www.youtube.com/watch?v=9o0CDfpQps4
 ﻿Narodna]Tanja Savić}Hotel za izgubljene duše=http://www.youtube.com/watch?v=lv6KKOfWp78
 ﻿Narodna]Tanja Savić}Igračka=http://www.youtube.com/watch?v=Qinkq4kkYKA
 ﻿Narodna]Tanja Savić}Incident=http://www.youtube.com/watch?v=LDS6GYXJZzM
-﻿Narodna]Tanja Savić}Kad pronađeš moj lik=http://www.youtube.com/watch?v=WX6GVIix56k
+﻿Narodna]Tanja Savić}Kad pronađeš moj lik=http://www.youtube.com/watch?v=2wga7f8G8N8
 ﻿Narodna]Tanja Savić}Kameleon=http://www.youtube.com/watch?v=ZB_-yzGvtJw
 ﻿Narodna]Tanja Savić}Kao brodovi=http://www.youtube.com/watch?v=dXKDpEHNI5Y
 ﻿Narodna]Tanja Savić}Minut ljubavi=http://www.youtube.com/watch?v=ACQmSMefGyI
@@ -10629,7 +10624,6 @@
 ﻿Rok]Zoran Kiki Lesendrić}Bog vidi sve=http://www.youtube.com/watch?v=MHYHleJby-g
 ﻿Rok]Zoran Kiki Lesendrić}Bog je za nas imao plan=--start-time=6 https://www.youtube.com/watch?v=3F1lvTL8sYU
 ﻿Rok]Zoran Kiki Lesendrić}Budi tu kad padne sneg=http://www.youtube.com/watch?v=Z4yCAZ_pTs0
-﻿Rok]Zoran Kiki Lesendrić}Daleko bilo=http://www.youtube.com/watch?v=r35_VZmnD7M
 ﻿Rok]Zoran Kiki Lesendrić}Dve ili tri stvari koje znam o njoj=http://www.youtube.com/watch?v=4czUu84WCHM
 ﻿Rok]Zoran Kiki Lesendrić}Kažu da ljubav je samo reč (duet Piloti)=http://www.youtube.com/watch?v=8nj-L7il74o
 ﻿Rok]Zoran Kiki Lesendrić}Manje više (ft. Olga Popović)=--start-time=7 https://www.youtube.com/watch?v=kcAIX8NbV20
@@ -12178,7 +12172,7 @@
 ﻿Rok Strani]Motörhead}Ace Of Spades=http://www.youtube.com/watch?v=vcf7DnHi54g
 ﻿Rok Strani]Motörhead}Ain't My Crime=http://www.youtube.com/watch?v=SfZ-tz73vkI
 ﻿Rok Strani]Motörhead}All For You=http://www.youtube.com/watch?v=B-ANH1MMFRQ
-﻿Rok Strani]Motörhead}All Gone To Hell=http://www.youtube.com/watch?v=GrkcSMZhSAU
+﻿Rok Strani]Motörhead}All Gone To Hell=http://www.youtube.com/watch?v=p7bMn-QIVA0
 ﻿Rok Strani]Motörhead}All The Aces=http://www.youtube.com/watch?v=qAAErhW_heY
 ﻿Rok Strani]Motörhead}America=http://www.youtube.com/watch?v=QR2KhKskXM4
 ﻿Rok Strani]Motörhead}Angel City=http://www.youtube.com/watch?v=uNmnbOZH-mw
@@ -12230,7 +12224,7 @@
 ﻿Rok Strani]Motörhead}Devils In My Head=http://www.youtube.com/watch?v=bpPS4PMlChs
 ﻿Rok Strani]Motörhead}Devils=http://www.youtube.com/watch?v=BY2BGPipaQw
 ﻿Rok Strani]Motörhead}Die You Bastard=http://www.youtube.com/watch?v=HcZDkQF2SJ0
-﻿Rok Strani]Motörhead}Dog-Face Boy=http://www.youtube.com/watch?v=wz3fuz_-168
+﻿Rok Strani]Motörhead}Dog-Face Boy=http://www.youtube.com/watch?v=aqTuVpZCBTI
 ﻿Rok Strani]Motörhead}Dogs Of War=http://www.youtube.com/watch?v=y1j_sRI3yl0
 ﻿Rok Strani]Motörhead}Dogs=http://www.youtube.com/watch?v=MXDGm0FvTdQ
 ﻿Rok Strani]Motörhead}Don't Let Daddy Kiss Me=http://www.youtube.com/watch?v=Umfa_60KYAo
