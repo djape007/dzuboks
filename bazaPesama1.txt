@@ -4671,7 +4671,6 @@
 ﻿Kantautori]Đorđe Balašević}Ratnik paorskog srca=http://www.youtube.com/watch?v=EsIBws6rumg
 ﻿Kantautori]Đorđe Balašević}Regruteska=http://www.youtube.com/watch?v=X5YPu8sfl8E
 ﻿Kantautori]Đorđe Balašević}Ringispil=http://www.youtube.com/watch?v=gNL7mgL7VF0
-﻿Kantautori]Đorđe Balašević}Samo da rata ne bude=http://www.youtube.com/watch?v=yC5qEbuGves
 ﻿Kantautori]Đorđe Balašević}Sedam osmina=http://www.youtube.com/watch?v=7n1WKOYVHas
 ﻿Kantautori]Đorđe Balašević}Sin jedinac=http://www.youtube.com/watch?v=TMD2s5SbHng
 ﻿Kantautori]Đorđe Balašević}Slovenska=http://www.youtube.com/watch?v=Hee8aNgoibQ
@@ -4950,7 +4949,7 @@
 ﻿Narodna]Dragan Kojić - Keba}Sve ljubavi nove=http://www.youtube.com/watch?v=rNKbbIwMxPs
 ﻿Narodna]Dragan Kojić - Keba}Sve na pesmu i veselje=http://www.youtube.com/watch?v=YNBhDmuJ7jw
 ﻿Narodna]Dragan Kojić - Keba}Sve si rane izlečila=http://www.youtube.com/watch?v=Fyj3rDLHbQM
-﻿Narodna]Dragan Kojić - Keba}Sve što duže živim=http://www.youtube.com/watch?v=17-63JHSb_Y
+﻿Narodna]Dragan Kojić - Keba}Sve što duže živim=http://www.youtube.com/watch?v=agXj4isT37U
 ﻿Narodna]Dragan Kojić - Keba}Ti hodaš sa njom=http://www.youtube.com/watch?v=VRRJFf6JHZg
 ﻿Narodna]Dragan Kojić - Keba}Ti si uvek tu=http://www.youtube.com/watch?v=ntckI9sOsYg
 ﻿Narodna]Dragan Kojić - Keba}Ti srca nemaš=http://www.youtube.com/watch?v=DMoqTIGeyIw
@@ -10070,7 +10069,6 @@
 ﻿Zabavna]Koktel Bend}Boje=http://www.youtube.com/watch?v=gmW8jUWAPXc
 ﻿Zabavna]Koktel Bend}Daleko ti sreća=http://www.youtube.com/watch?v=NTO1sJ7d5Xk
 ﻿Zabavna]Koktel Bend}Doza prejaka=http://www.youtube.com/watch?v=83B7vbG_3jc
-﻿Zabavna]Koktel Bend}Drugarice=http://www.youtube.com/watch?v=IkiT-5m_iow
 ﻿Zabavna]Koktel Bend}Druže=http://www.youtube.com/watch?v=JFK6rZyphQ8
 ﻿Zabavna]Koktel Bend}Dvadeset ispod nule=http://www.youtube.com/watch?v=9D1zAFe160g
 ﻿Zabavna]Koktel Bend}Grmi seva=http://www.youtube.com/watch?v=-m4q-bP0DAM
@@ -11428,7 +11426,7 @@
 ﻿Rok Strani]Rammstein}Alter mann (live)=https://www.youtube.com/watch?v=o-l7TBG3MY8
 ﻿Rok Strani]Rammstein}Amerika=https://www.youtube.com/watch?v=Rr8ljRgcJNM
 ﻿Rok Strani]Rammstein}Amour=--start-time=9 https://www.youtube.com/watch?v=DXwha3NvM6w
-﻿Rok Strani]Rammstein}Bück dich=https://www.youtube.com/watch?v=nujjksexa1k
+﻿Rok Strani]Rammstein}Bück dich=http://www.youtube.com/watch?v=j1buLlbTx64
 ﻿Rok Strani]Rammstein}Benzin=https://www.youtube.com/watch?v=z0wK6s-6cbo
 ﻿Rok Strani]Rammstein}Bestrafe mich=https://www.youtube.com/watch?v=fceNB1AyGxo
 ﻿Rok Strani]Rammstein}Buckstabu=https://www.youtube.com/watch?v=ri0kmuyec1Q
@@ -11987,7 +11985,6 @@
 ﻿Rok Strani]Alice Cooper}Guilty=http://www.youtube.com/watch?v=HfEIYvi5YCg
 ﻿Rok Strani]Alice Cooper}Gutter Cats Vs. The Jets=http://www.youtube.com/watch?v=yy9XcruKqEg
 ﻿Rok Strani]Alice Cooper}Hallowed Be My Name=http://www.youtube.com/watch?v=_ERMZC5JTeM
-﻿Rok Strani]Alice Cooper}He's Back (The Man Behind The Mask)=--start-time=22 http://www.youtube.com/watch?v=wgSbZ8J8eAw
 ﻿Rok Strani]Alice Cooper}Hell Is Living Without You=http://www.youtube.com/watch?v=jHNCAvovuIE
 ﻿Rok Strani]Alice Cooper}Hello Hooray=http://www.youtube.com/watch?v=80bqSzONHP4
 ﻿Rok Strani]Alice Cooper}Hey Stoopid=--start-time=30 http://www.youtube.com/watch?v=XcAl93uEYUA
@@ -12012,7 +12009,6 @@
 ﻿Rok Strani]Alice Cooper}Keepin' Halloween Alive=http://www.youtube.com/watch?v=gFwUGHpvRr0
 ﻿Rok Strani]Alice Cooper}Killed By Love=http://www.youtube.com/watch?v=9KtKoFyFyVM
 ﻿Rok Strani]Alice Cooper}Killer=--start-time=4 http://www.youtube.com/watch?v=f7vfehwBevo
-﻿Rok Strani]Alice Cooper}Lace And Whiskey=http://www.youtube.com/watch?v=c6RavIU8-ZM
 ﻿Rok Strani]Alice Cooper}Last Man On Earth=http://www.youtube.com/watch?v=_i32zPVhbK4
 ﻿Rok Strani]Alice Cooper}Leather Boots=http://www.youtube.com/watch?v=O3RE3vddzOk
 ﻿Rok Strani]Alice Cooper}Levity Ball=http://www.youtube.com/watch?v=WOnplIx8D1w
