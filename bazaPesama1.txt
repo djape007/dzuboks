@@ -4188,7 +4188,7 @@
 ﻿Zabavna]Dino Dvornik}Život moj=http://www.youtube.com/watch?v=bQ5eLrqWUMw
 ﻿Zabavna]Dino Dvornik}Zmaja dah=http://www.youtube.com/watch?v=6XGOK1kgi1I
 ﻿Zabavna]Dino Merlin}A šta imam ja od tog=http://www.youtube.com/watch?v=xuROwfjHhAg
-﻿Zabavna]Dino Merlin}Ako me ikada sretneš=http://www.youtube.com/watch?v=3ycOvblTGNk
+﻿Zabavna]Dino Merlin}Ako me ikada sretneš=http://www.youtube.com/watch?v=tBTR2arLSQQ
 ﻿Zabavna]Dino Merlin}Ako nastaviš ovako=https://www.youtube.com/watch?v=AHRs2NcPuXg
 ﻿Zabavna]Dino Merlin}Da je tuga sneg=http://www.youtube.com/watch?v=nO4gCGm5bhg
 ﻿Zabavna]Dino Merlin}Da šutiš=http://www.youtube.com/watch?v=5m5XcwaG1ic
@@ -4891,7 +4891,6 @@
 ﻿Narodna]Dragan Kojić - Keba}Kukavica=http://www.youtube.com/watch?v=YAUaQMTJlGc
 ﻿Narodna]Dragan Kojić - Keba}Lagala si=http://www.youtube.com/watch?v=pgf-nQLgYYc
 ﻿Narodna]Dragan Kojić - Keba}Lako je umreti=http://www.youtube.com/watch?v=KOYuQNFvzZM
-﻿Narodna]Dragan Kojić - Keba}Laži=--start-time=10 http://www.youtube.com/watch?v=tyylY5kYr2I
 ﻿Narodna]Dragan Kojić - Keba}Lice=http://www.youtube.com/watch?v=7VQLWdP9V5E
 ﻿Narodna]Dragan Kojić - Keba}Lili=http://www.youtube.com/watch?v=0OC7vnydE4w
 ﻿Narodna]Dragan Kojić - Keba}Ljiljana=http://www.youtube.com/watch?v=zappCC7RcIk
@@ -11482,7 +11481,6 @@
 ﻿Rok Strani]Rammstein}Weisses fleisch=https://www.youtube.com/watch?v=rqPr4bVsdlg
 ﻿Rok Strani]Rammstein}Wilder wein=https://www.youtube.com/watch?v=RFxAxmo7EIU
 ﻿Rok Strani]Rammstein}Wut will nicht sterben=--start-time=10 https://www.youtube.com/watch?v=o08sl72zxFU
-﻿Rok Strani]Rammstein}Zwitter=http://www.youtube.com/watch?v=lrX9gW70NMY
 ﻿DJ Strani]Jamiroquai}Cosmic girl=--start-time=5 https://www.youtube.com/watch?v=D-NvQ6VJYtE
 ﻿DJ Strani]Jamiroquai}You give me something=https://www.youtube.com/watch?v=OEcBz6VtyDg
 ﻿DJ Strani]Jamiroquai}Little L=https://www.youtube.com/watch?v=1hHSH9sJUEo
