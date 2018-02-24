@@ -1023,7 +1023,7 @@
 ﻿Narodna]Ana Bekuta}Ničija=http://www.youtube.com/watch?v=60vHQXwatOg
 ﻿Narodna]Ana Bekuta}Nije ljubav kolo=http://www.youtube.com/watch?v=EjFDGK6R6D4
 ﻿Narodna]Ana Bekuta}Nije meni ni do čega=http://www.youtube.com/watch?v=p2hQ36PMA_Q
-﻿Narodna]Ana Bekuta}Ništa ne obecavam=http://www.youtube.com/watch?v=bYFAXPYb2KI
+﻿Narodna]Ana Bekuta}Ništa ne obećavam=http://www.youtube.com/watch?v=bYFAXPYb2KI
 ﻿Narodna]Ana Bekuta}Ime sreće=--start-time=6 http://www.youtube.com/watch?v=fHw3B48kqLQ
 ﻿Narodna]Ana Bekuta}Oči crne, oči lažne=http://www.youtube.com/watch?v=Ib1F3PgWb2U
 ﻿Narodna]Ana Bekuta}Od samoće goreg druga nema=http://www.youtube.com/watch?v=3_PHFHCILLA
@@ -1040,6 +1040,7 @@
 ﻿Narodna]Ana Bekuta}Pitaš kako živim=http://www.youtube.com/watch?v=u1khvcXe_pE
 ﻿Narodna]Ana Bekuta}Plače mi se od života=http://www.youtube.com/watch?v=s4OvxGhvnFg
 ﻿Narodna]Ana Bekuta}Podrži našu ljubav=http://www.youtube.com/watch?v=npwjCWd_Pgk
+﻿Narodna]Ana Bekuta}Pođi, pa na staro dođi=--start-time=6 https://www.youtube.com/watch?v=3kbKlUqcDj4
 ﻿Narodna]Ana Bekuta}Praznik=http://www.youtube.com/watch?v=YomU-t1TfY4
 ﻿Narodna]Ana Bekuta}Pređi na ljubav=--start-time=5 https://www.youtube.com/watch?v=YojUgTSTvSo
 ﻿Narodna]Ana Bekuta}Pričaj mi=http://www.youtube.com/watch?v=640mEAyEv7Y
@@ -3482,7 +3483,7 @@
 ﻿Rok]Dado Topić}Bit ćemo zajedno=http://www.youtube.com/watch?v=8Zymd4OoRAk
 ﻿Rok]Dado Topić}Bolji život=http://www.youtube.com/watch?v=5rTq_UFwJig
 ﻿Rok]Dado Topić}Da li znaš da te volim=http://www.youtube.com/watch?v=wUKm3Ua8f3I
-﻿Rok]Dado Topić}Divlje guske=http://www.youtube.com/watch?v=fePAvC6xbHs
+﻿Rok]Dado Topić}Divlje guske=http://www.youtube.com/watch?v=H-xPLwttND4
 ﻿Rok]Dado Topić}Elizabet=http://www.youtube.com/watch?v=GMqEmDh8jfI
 ﻿Rok]Dado Topić}Frio=http://www.youtube.com/watch?v=5YhVtHiSmBQ
 ﻿Rok]Dado Topić}Istina mašina=http://www.youtube.com/watch?v=K7Gx5XjHPbA
@@ -3493,7 +3494,7 @@
 ﻿Rok]Dado Topić}Kralj alkohol=http://www.youtube.com/watch?v=7RxlkZbdkf8
 ﻿Rok]Dado Topić}Makedonija=http://www.youtube.com/watch?v=aO5Beq-D74A
 ﻿Rok]Dado Topić}Mojim prijateljima=http://www.youtube.com/watch?v=CoTs8EZMYi0
-﻿Rok]Dado Topić}Pjesma No. 3=http://www.youtube.com/watch?v=NF4RclFSUvg
+﻿Rok]Dado Topić}Pjesma No. 3=http://www.youtube.com/watch?v=DuJjIkvpbkw
 ﻿Rok]Dado Topić}Poželi nešto=http://www.youtube.com/watch?v=RqhnuVY4GSY
 ﻿Rok]Dado Topić}Princeza=http://www.youtube.com/watch?v=cVAyIeDhr0A
 ﻿Rok]Dado Topić}Rokenrol u Beogradu=http://www.youtube.com/watch?v=s_wlNMfm4XQ
@@ -4272,7 +4273,7 @@
 ﻿Rok]Divlje Jagode}Ljubav može sve=http://www.youtube.com/watch?v=0BTm7S68jfM
 ﻿Rok]Divlje Jagode}Ljubavi, daj mi ljubavi=http://www.youtube.com/watch?v=3qDkJjjDkvA
 ﻿Rok]Divlje Jagode}Ljubi me i ostani=http://www.youtube.com/watch?v=eeMCzJ-1dFY
-﻿Rok]Divlje Jagode}London=http://www.youtube.com/watch?v=nlGD-7Xhzj8
+﻿Rok]Divlje Jagode}London=http://www.youtube.com/watch?v=ZoaLEnZ0N4k
 ﻿Rok]Divlje Jagode}Love is in your hands=http://www.youtube.com/watch?v=2kmmXisuROE
 ﻿Rok]Divlje Jagode}Marija=http://www.youtube.com/watch?v=4gSgIdJlfDQ
 ﻿Rok]Divlje Jagode}Meni je lijepo, ja volim slijepo=http://www.youtube.com/watch?v=Z-xI01Dcwvo
@@ -9550,6 +9551,15 @@
 ﻿Zabavna]Kaliopi}Želim ti reći=http://www.youtube.com/watch?v=4DdnFQl7mjI
 ﻿Zabavna]Kaliopi}Znam da te volim=http://www.youtube.com/watch?v=koO-s_wCwIk
 ﻿Zabavna]Kaliopi}Zovem se=http://www.youtube.com/watch?v=KtfB4hOm9Gw
+﻿Zabavna]Karolina Gočeva}Budna=https://www.youtube.com/watch?v=V6p1dSRneWw
+﻿Zabavna]Karolina Gočeva}Ti ne dođe=https://www.youtube.com/watch?v=MJib0h47i64
+﻿Zabavna]Karolina Gočeva}Zemi go srcevo=https://www.youtube.com/watch?v=n1-nE_mg--Y
+﻿Zabavna]Karolina Gočeva}Da e son=https://www.youtube.com/watch?v=cKJ5cgSi5Co
+﻿Zabavna]Karolina Gočeva}Beli cvetovi=https://www.youtube.com/watch?v=QVhJB1aU_ZU
+﻿Zabavna]Karolina Gočeva}Nema pesna za mene=https://www.youtube.com/watch?v=mN-Q1iKTb-A
+﻿Zabavna]Karolina Gočeva}Gazam bosa=https://www.youtube.com/watch?v=9Dkg26l9tX0
+﻿Zabavna]Karolina Gočeva}Mladi bagremi=https://www.youtube.com/watch?v=U0AGU6zr6t8
+﻿Zabavna]Karolina Gočeva}Ubav život=https://www.youtube.com/watch?v=M5LJ9t-pMYg
 ﻿Zabavna]Karolina Gočeva}Boje=http://www.youtube.com/watch?v=2YkQnljjNxI
 ﻿Zabavna]Karolina Gočeva}Gorka pilula=http://www.youtube.com/watch?v=ImdeBlMxOUI
 ﻿Zabavna]Karolina Gočeva}Još samo jedan dan=http://www.youtube.com/watch?v=Cy-73OCfOQ0
@@ -11427,7 +11437,7 @@
 ﻿Rok Strani]Rammstein}Amour=--start-time=9 https://www.youtube.com/watch?v=DXwha3NvM6w
 ﻿Rok Strani]Rammstein}Bück dich=http://www.youtube.com/watch?v=j1buLlbTx64
 ﻿Rok Strani]Rammstein}Benzin=https://www.youtube.com/watch?v=z0wK6s-6cbo
-﻿Rok Strani]Rammstein}Bestrafe mich=https://www.youtube.com/watch?v=fceNB1AyGxo
+﻿Rok Strani]Rammstein}Bestrafe mich=http://www.youtube.com/watch?v=QBlkD1NjtxE
 ﻿Rok Strani]Rammstein}Buckstabu=https://www.youtube.com/watch?v=ri0kmuyec1Q
 ﻿Rok Strani]Rammstein}Dalai lama=--start-time=15 https://www.youtube.com/watch?v=henL_vMfUQ8
 ﻿Rok Strani]Rammstein}Donaukinder=https://www.youtube.com/watch?v=Oi-ixUoWAOU
@@ -11440,7 +11450,6 @@
 ﻿Rok Strani]Rammstein}Frühling in Paris=https://www.youtube.com/watch?v=acCzIUE8qwc
 ﻿Rok Strani]Rammstein}Haifisch=--start-time=15 https://www.youtube.com/watch?v=GukNjYQZW8s
 ﻿Rok Strani]Rammstein}Halleluja=http://www.youtube.com/watch?v=Vc6g4OUCOT4
-﻿Rok Strani]Rammstein}Heirate mich=--start-time=10 https://www.youtube.com/watch?v=aeRHdVQfRJ8
 ﻿Rok Strani]Rammstein}Helden=https://www.youtube.com/watch?v=ruaMzPmKeIE
 ﻿Rok Strani]Rammstein}Herzeleid=--start-time=2 https://www.youtube.com/watch?v=F-lfY7gfNu4
 ﻿Rok Strani]Rammstein}Ich tu dir weh=https://www.youtube.com/watch?v=IxuEtL7gxoM
@@ -11940,7 +11949,6 @@
 ﻿Rok Strani]Alice Cooper}A Bad Situation=http://www.youtube.com/watch?v=7bTp0awpDz0
 ﻿Rok Strani]Alice Cooper}Ain't That Just Like A Woman=http://www.youtube.com/watch?v=i24aSax_uTw
 ﻿Rok Strani]Alice Cooper}Backyard Brawl=http://www.youtube.com/watch?v=SKe01CjlGlw
-﻿Rok Strani]Alice Cooper}Bad Place Alone=http://www.youtube.com/watch?v=YyeFvx1y1hQ
 ﻿Rok Strani]Alice Cooper}Ballad Of Dwight Fry=http://www.youtube.com/watch?v=t-Di4sFY9Rg
 ﻿Rok Strani]Alice Cooper}Be My Lover=http://www.youtube.com/watch?v=GAR_niQU4lQ
 ﻿Rok Strani]Alice Cooper}Be With You Awhile=http://www.youtube.com/watch?v=PfX4DeO1bJA
