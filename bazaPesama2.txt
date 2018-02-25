@@ -987,7 +987,7 @@
 ﻿Narodna]Marta Savić}Hajde, suzo=http://www.youtube.com/watch?v=4ZpBGQHa3WU
 ﻿Narodna]Marta Savić}Hiljadu jedan=http://www.youtube.com/watch?v=1sOJHI1E9wY
 ﻿Narodna]Marta Savić}Idem s tobom=http://www.youtube.com/watch?v=GLfLYevFg3g
-﻿Narodna]Marta Savić}Idi vidi šta je život=http://www.youtube.com/watch?v=M8aB_6fexSE
+﻿Narodna]Marta Savić}Idi vidi šta je život=http://www.youtube.com/watch?v=vpOSgVY1pFo
 ﻿Narodna]Marta Savić}Idiot=http://www.youtube.com/watch?v=zHEEUV1UiBU
 ﻿Narodna]Marta Savić}Ikad ili nikad=http://www.youtube.com/watch?v=4PXRBHsTods
 ﻿Narodna]Marta Savić}Izgubljena bitka=http://www.youtube.com/watch?v=BrcNH5NDumI
@@ -1035,7 +1035,7 @@
 ﻿Narodna]Marta Savić}Svetica=http://www.youtube.com/watch?v=-_EPRtoJis8
 ﻿Narodna]Marta Savić}Ta žena hoće sve=http://www.youtube.com/watch?v=9ZKNGoYkris
 ﻿Narodna]Marta Savić}Tako mi trebaš=http://www.youtube.com/watch?v=i9-8GX8qM64
-﻿Narodna]Marta Savić}Tebi se sve može=http://www.youtube.com/watch?v=ciTlWZAEYmg
+﻿Narodna]Marta Savić}Tebi se sve može=http://www.youtube.com/watch?v=AjYbiGcCrdY
 ﻿Narodna]Marta Savić}Ti si istina moje mladosti=http://www.youtube.com/watch?v=FkIU4Y0Bpto
 ﻿Narodna]Marta Savić}Tresi, mesi=http://www.youtube.com/watch?v=APSFk8aU_88
 ﻿Narodna]Marta Savić}Umirem kraj tebe=http://www.youtube.com/watch?v=1cdEqYmAd8g
@@ -9172,7 +9172,7 @@
 ﻿Zabavna]Toni Cetinski}Prava ljubav=http://www.youtube.com/watch?v=YmwSkDj7F_U
 ﻿Zabavna]Toni Cetinski}Reći da li znaš=http://www.youtube.com/watch?v=f-avaNmH3Xw
 ﻿Zabavna]Toni Cetinski}Samo tvoja ljubav, Bože=http://www.youtube.com/watch?v=zQ9A42nayyg
-﻿Zabavna]Toni Cetinski}Sigurni=http://www.youtube.com/watch?v=GTR48cLcxlM
+﻿Zabavna]Toni Cetinski}Sigurni=http://www.youtube.com/watch?v=PqUBWH_i9BQ
 ﻿Zabavna]Toni Cetinski}Sjećanje=http://www.youtube.com/watch?v=Lk__aAIsT2E
 ﻿Zabavna]Toni Cetinski}Sjena što te prati=http://www.youtube.com/watch?v=FDF1X0Pd5VI
 ﻿Zabavna]Toni Cetinski}Skriveno mjesto=http://www.youtube.com/watch?v=TxLuoxcE5fY
@@ -11121,8 +11121,8 @@
 ﻿Rok Strani]AC-DC}TNT=https://www.youtube.com/watch?v=pR30knJs4Xk
 ﻿Rok Strani]AC-DC}Shoot to thrill=https://www.youtube.com/watch?v=4gDch1p4c_M
 ﻿Rok Strani]AC-DC}For those about to rock=https://www.youtube.com/watch?v=fKhTk0IynHM
-﻿Rok Strani]AC-DC}Have a drink on me=https://www.youtube.com/watch?v=e7v0V58V3Uw
-﻿Rok Strani]AC-DC}Let me put my love into you=https://www.youtube.com/watch?v=WhF6dpY5E3A
+﻿Rok Strani]AC-DC}Have a drink on me=http://www.youtube.com/watch?v=m4TV6UDfbLg
+﻿Rok Strani]AC-DC}Let me put my love into you=http://www.youtube.com/watch?v=Z0ve83PMs3w
 ﻿Rok Strani]AC-DC}Givin' the dog a bone=https://www.youtube.com/watch?v=EQ3swBEBqBc
 ﻿Rok Strani]AC-DC}War machine=https://www.youtube.com/watch?v=hjlBMl6f3hU
 ﻿Rok Strani]AC-DC}Black ice=https://www.youtube.com/watch?v=3TIDudfnSCI
@@ -11138,7 +11138,7 @@
 ﻿Rok Strani]AC-DC}First blood=https://www.youtube.com/watch?v=vRD7S0uZnVM
 ﻿Rok Strani]AC-DC}Stand up=https://www.youtube.com/watch?v=kjgWjhj_suQ
 ﻿Rok Strani]AC-DC}Hell or high water=https://www.youtube.com/watch?v=ZzbqGUTkSJI
-﻿Rok Strani]AC-DC}Can't stand still=https://www.youtube.com/watch?v=iuUoHFLSiRQ
+﻿Rok Strani]AC-DC}Can't stand still=http://www.youtube.com/watch?v=QXMEYz4zSYw
 ﻿Rok Strani]AC-DC}Can't stop Rock 'n' Roll=https://www.youtube.com/watch?v=AacU5ZCxtRM
 ﻿Rok Strani]AC-DC}House of Jazz=https://www.youtube.com/watch?v=mlp4_MLRq58
 ﻿Rok Strani]AC-DC}All screwed up=https://www.youtube.com/watch?v=_JyiEFEt69M
@@ -17074,7 +17074,7 @@
 ﻿Rok Strani]White Zombie}Electric Head Pt. 1 (The Agony)=http://www.youtube.com/watch?v=GgMt0yih0kw
 ﻿Rok Strani]White Zombie}Electric Head Pt. 2 (The Ecstasy)=http://www.youtube.com/watch?v=RmButioCSbw
 ﻿Rok Strani]White Zombie}Fast Jungle=http://www.youtube.com/watch?v=E9JNzQIDQfk
-﻿Rok Strani]White Zombie}Feed The Gods=http://www.youtube.com/watch?v=Np-R866U7hM
+﻿Rok Strani]White Zombie}Feed The Gods=http://www.youtube.com/watch?v=MSgQvNf7LB8
 ﻿Rok Strani]White Zombie}Future Shock=http://www.youtube.com/watch?v=yQJiXM0XaOc
 ﻿Rok Strani]White Zombie}Gentleman Junkie=http://www.youtube.com/watch?v=xCHaql_uWnc
 ﻿Rok Strani]White Zombie}God Of Thunder=http://www.youtube.com/watch?v=EAczaWCLhpw

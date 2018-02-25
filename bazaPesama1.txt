@@ -1484,7 +1484,6 @@
 ﻿Rok]Azra}Azra=http://www.youtube.com/watch?v=vR6dWROHKvU
 ﻿Rok]Azra}Balegari ne vjeruju sreći=http://www.youtube.com/watch?v=-BWiFNkF7RM
 ﻿Rok]Azra}Bankrot mama=http://www.youtube.com/watch?v=_8EADGG7k38
-﻿Rok]Azra}Boli glava=http://www.youtube.com/watch?v=y7NDqY3s2Bk
 ﻿Rok]Azra}Divno biće=http://www.youtube.com/watch?v=JZdoH1g7qws
 ﻿Rok]Azra}Dunjo, bre=http://www.youtube.com/watch?v=tPULH8alEmY
 ﻿Rok]Azra}Džoni, budi dobar=http://www.youtube.com/watch?v=OHRZp0uX9EQ
@@ -5927,7 +5926,6 @@
 ﻿Narodna]Elma Sinanović}Nije vetar, nije kiša=http://www.youtube.com/watch?v=3iTryOWivIQ
 ﻿Narodna]Elma Sinanović}Ništa lično=http://www.youtube.com/watch?v=Fm4rjmNdhbk
 ﻿Narodna]Elma Sinanović}Ništa mi ne treba=http://www.youtube.com/watch?v=5deMINEdUo4
-﻿Narodna]Elma Sinanović}O tom, po tom=http://www.youtube.com/watch?v=3aGBPusYsH8
 ﻿Narodna]Elma Sinanović}Odvedi me=http://www.youtube.com/watch?v=6PDwvSSwc54
 ﻿Narodna]Elma Sinanović}Otkrij mi tajnu=http://www.youtube.com/watch?v=PVAPZYX7b7k
 ﻿Narodna]Elma Sinanović}Panika=http://www.youtube.com/watch?v=Int7L87VUaM
@@ -9552,13 +9550,10 @@
 ﻿Zabavna]Kaliopi}Znam da te volim=http://www.youtube.com/watch?v=koO-s_wCwIk
 ﻿Zabavna]Kaliopi}Zovem se=http://www.youtube.com/watch?v=KtfB4hOm9Gw
 ﻿Zabavna]Karolina Gočeva}Budna=https://www.youtube.com/watch?v=V6p1dSRneWw
-﻿Zabavna]Karolina Gočeva}Ti ne dođe=https://www.youtube.com/watch?v=MJib0h47i64
 ﻿Zabavna]Karolina Gočeva}Zemi go srcevo=https://www.youtube.com/watch?v=n1-nE_mg--Y
 ﻿Zabavna]Karolina Gočeva}Da e son=https://www.youtube.com/watch?v=cKJ5cgSi5Co
 ﻿Zabavna]Karolina Gočeva}Beli cvetovi=https://www.youtube.com/watch?v=QVhJB1aU_ZU
-﻿Zabavna]Karolina Gočeva}Nema pesna za mene=https://www.youtube.com/watch?v=mN-Q1iKTb-A
 ﻿Zabavna]Karolina Gočeva}Gazam bosa=https://www.youtube.com/watch?v=9Dkg26l9tX0
-﻿Zabavna]Karolina Gočeva}Mladi bagremi=https://www.youtube.com/watch?v=U0AGU6zr6t8
 ﻿Zabavna]Karolina Gočeva}Ubav život=https://www.youtube.com/watch?v=M5LJ9t-pMYg
 ﻿Zabavna]Karolina Gočeva}Boje=http://www.youtube.com/watch?v=2YkQnljjNxI
 ﻿Zabavna]Karolina Gočeva}Gorka pilula=http://www.youtube.com/watch?v=ImdeBlMxOUI
