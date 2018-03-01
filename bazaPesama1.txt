@@ -314,7 +314,7 @@
 ﻿Narodna]Aco Pejović}Nisam pao=http://www.youtube.com/watch?v=spNxnPILJcc
 ﻿Narodna]Aco Pejović}Noć bez tebe=http://www.youtube.com/watch?v=F189FFy8RcE
 ﻿Narodna]Aco Pejović}Oko mene sve=http://www.youtube.com/watch?v=tmbSZ0ywhmo
-﻿Narodna]Aco Pejović}Opušteno=http://www.youtube.com/watch?v=2bW-_-4WuK0
+﻿Narodna]Aco Pejović}Opušteno=http://www.youtube.com/watch?v=O5r_aBWi-sQ
 ﻿Narodna]Aco Pejović}Ovo vino=http://www.youtube.com/watch?v=e3Y7QpDIjqA
 ﻿Narodna]Aco Pejović}Pet kvadrata=http://www.youtube.com/watch?v=IUXo-GrSkEY
 ﻿Narodna]Aco Pejović}Pet minuta=http://www.youtube.com/watch?v=fioAgRTn8-s
@@ -557,7 +557,7 @@
 ﻿Zabavna]Aleksandra Radović}Još danas=http://www.youtube.com/watch?v=uBelpVVnj_4
 ﻿Zabavna]Aleksandra Radović}Kao so u moru=http://www.youtube.com/watch?v=6eJH4RLfC6M
 ﻿Zabavna]Aleksandra Radović}Karta za jug=http://www.youtube.com/watch?v=Z4RRCxZin8I
-﻿Zabavna]Aleksandra Radović}Kažeš svejedno=http://www.youtube.com/watch?v=jOJeunPEAJY
+﻿Zabavna]Aleksandra Radović}Kažeš svejedno=http://www.youtube.com/watch?v=pVltBy1IjGo
 ﻿Zabavna]Aleksandra Radović}Kocka leda=http://www.youtube.com/watch?v=l0y4iM5Zyy8
 ﻿Zabavna]Aleksandra Radović}Laž=http://www.youtube.com/watch?v=_kKfHuL9X54
 ﻿Zabavna]Aleksandra Radović}Ljubavi moja=--start-time=6 https://www.youtube.com/watch?v=7GSDD_rcePc
@@ -1252,7 +1252,7 @@
 ﻿Zabavna]Andreana Čekić}Zaplakaće oči moje=http://www.youtube.com/watch?v=v6aOjgdLUd4
 ﻿Zabavna]Andreana Čekić}Ma samo me gledaj=https://www.youtube.com/watch?v=CC6whew_WWo
 ﻿Zabavna]Andreana Čekić}Kraljevi falša (ft. Mr. Sharan)=--start-time=8 https://www.youtube.com/watch?v=JGPSdPdUjCw
-﻿Zabavna]Andrija Marković}Iskoristi me=http://www.youtube.com/watch?v=iIU-vUdU93A
+﻿Zabavna]Andrija Marković}Iskoristi me=https://www.youtube.com/watch?v=n-iQ8cBzZbQ
 ﻿Zabavna]Andrija Marković}Mala=http://www.youtube.com/watch?v=SqOcFRsJW-s
 ﻿Zabavna]Andrija Marković}Noći balkanske=http://www.youtube.com/watch?v=OuarfFWNCkI
 ﻿Zabavna]Andrija Marković}Ona mi fali=http://www.youtube.com/watch?v=RYRi4Q4ggI0
@@ -2319,7 +2319,7 @@
 ﻿Zabavna]Boban Rajović}Tetovaža=http://www.youtube.com/watch?v=hudGuDTqla0
 ﻿Zabavna]Boban Rajović}Ti si mene vezala=http://www.youtube.com/watch?v=qxNcuJKlOhM
 ﻿Zabavna]Boban Rajović}Tuga prođe, ljubav nikad=http://www.youtube.com/watch?v=oBocTK1HKbM
-﻿Zabavna]Boban Rajović}Ubi me ti=http://www.youtube.com/watch?v=QnnzoAS49NM
+﻿Zabavna]Boban Rajović}Ubi me ti=http://www.youtube.com/watch?v=3wq1WS1UcUU
 ﻿Zabavna]Boban Rajović}Usne boje vina=http://www.youtube.com/watch?v=8LHK5XEe1ZE
 ﻿Zabavna]Boban Rajović}Vojnik zabluda=http://www.youtube.com/watch?v=fPKHsNUMqjY
 ﻿Zabavna]Boban Rajović}Vratiću se ja=http://www.youtube.com/watch?v=0x8RU4lTmJI
@@ -3293,7 +3293,6 @@
 ﻿Rok]Crvena Jabuka}Sviđa mi se ova stvar=http://www.youtube.com/watch?v=2TSdg4wI20w
 ﻿Rok]Crvena Jabuka}Svijet je lopta šarena=http://www.youtube.com/watch?v=csboSeETIG4
 ﻿Rok]Crvena Jabuka}Tamo gdje ljubav počinje=http://www.youtube.com/watch?v=ic3df84fu6U
-﻿Rok]Crvena Jabuka}Tebe imam sam da ostarim=http://www.youtube.com/watch?v=Kf6tYnIQM7Q
 ﻿Rok]Crvena Jabuka}Tebi je do mene stalo=http://www.youtube.com/watch?v=P1UERSnp_nw
 ﻿Rok]Crvena Jabuka}Ti mi dušu uzimaš=http://www.youtube.com/watch?v=iZ6SYBCUuDU
 ﻿Rok]Crvena Jabuka}Ti si lijepa=http://www.youtube.com/watch?v=obBXOpgE5f8
@@ -5917,7 +5916,6 @@
 ﻿Narodna]Elma Sinanović}Kažu mi ljubavi=http://www.youtube.com/watch?v=nO9NB2l4HZY
 ﻿Narodna]Elma Sinanović}Ko tebe kamenom, ti njega hlebom=http://www.youtube.com/watch?v=98rY2eYikPs
 ﻿Narodna]Elma Sinanović}Korak do dna=http://www.youtube.com/watch?v=u183HVwoD6Y
-﻿Narodna]Elma Sinanović}Krv i jagode=http://www.youtube.com/watch?v=SJbsVwEpkro
 ﻿Narodna]Elma Sinanović}Lepi=http://www.youtube.com/watch?v=2MtoXHNj1jg
 ﻿Narodna]Elma Sinanović}Loša ti je procena=http://www.youtube.com/watch?v=9BxTqGoqKXs
 ﻿Narodna]Elma Sinanović}Moje drugarice=http://www.youtube.com/watch?v=9nh_IZ2SWTo
@@ -6295,7 +6293,7 @@
 ﻿Rok]Film}Chicago=http://www.youtube.com/watch?v=DaofwkWx22o
 ﻿Rok]Film}Dijete ulice=http://www.youtube.com/watch?v=W-dQV590xUw
 ﻿Rok]Film}Doći ću ti u snovima=http://www.youtube.com/watch?v=UydP3SA7sbQ
-﻿Rok]Film}Dođi gola, dođi bosa=http://www.youtube.com/watch?v=wCs-rTJsWWM
+﻿Rok]Film}Dođi gola, dođi bosa=http://www.youtube.com/watch?v=HEVW69U7EVQ
 ﻿Rok]Film}Dom=http://www.youtube.com/watch?v=OE9AJYx4xRo
 ﻿Rok]Film}E moj druže beogradski=http://www.youtube.com/watch?v=kQ6KM0pdUTg
 ﻿Rok]Film}Gdje sam bio, ne pitaj me=http://www.youtube.com/watch?v=ltIMzrrY0uo
@@ -6543,7 +6541,7 @@
 ﻿Zabavna]Galija}Trava=http://www.youtube.com/watch?v=mQNWojLRQtI
 ﻿Zabavna]Galija}Trube=http://www.youtube.com/watch?v=qrwZtk-jsJ0
 ﻿Zabavna]Galija}U suton=http://www.youtube.com/watch?v=d-AuvNcBhxk
-﻿Zabavna]Galija}Uzalud se trudiš=http://www.youtube.com/watch?v=LBlpW4v_gE4
+﻿Zabavna]Galija}Uzalud se trudiš=http://www.youtube.com/watch?v=uAvElYlzv1k
 ﻿Zabavna]Galija}Vera=http://www.youtube.com/watch?v=5QC5baQW0I0
 ﻿Zabavna]Galija}Zar baš moram nešto mudro da kažem=http://www.youtube.com/watch?v=30zO6-e3wxI
 ﻿Rok]Garavi Sokak}Ako tebe ljubit ne smem=http://www.youtube.com/watch?v=NCQMbKq9czc
@@ -8156,7 +8154,7 @@
 ﻿Rok]Hladno Pivo}Teško je ful biti kul=http://www.youtube.com/watch?v=MUdvu4ajM5o
 ﻿Rok]Hladno Pivo}Tijana=http://www.youtube.com/watch?v=jaBnwjw-W5k
 ﻿Rok]Hladno Pivo}Tišina=http://www.youtube.com/watch?v=NtZ3uRI7YuI
-﻿Rok]Hladno Pivo}Trening za umiranje=http://www.youtube.com/watch?v=-A6RxBl8G9o
+﻿Rok]Hladno Pivo}Trening za umiranje=--start-time=12 http://www.youtube.com/watch?v=YCKpHiWieT4
 ﻿Rok]Hladno Pivo}U ritmu moje dlakave guze=http://www.youtube.com/watch?v=uLO3PodrKRM
 ﻿Rok]Hladno Pivo}U sobi on i brat=http://www.youtube.com/watch?v=5vixVoYBzNc
 ﻿Rok]Hladno Pivo}Usamljeni u gomili=http://www.youtube.com/watch?v=XNq_GWQFKLw
@@ -12063,7 +12061,6 @@
 ﻿Rok Strani]Alice Cooper}Sing Low, Sweet Cheerio=http://www.youtube.com/watch?v=uZITQuE-_aI
 ﻿Rok Strani]Alice Cooper}Snakebite=http://www.youtube.com/watch?v=CAPP9TqdcYE
 ﻿Rok Strani]Alice Cooper}Some Folks=http://www.youtube.com/watch?v=VOKAEe1Mxcc
-﻿Rok Strani]Alice Cooper}Something To Remember Me By=http://www.youtube.com/watch?v=GPcQh4WxJhM
 ﻿Rok Strani]Alice Cooper}Spark In The Dark=http://www.youtube.com/watch?v=4qSTXn_zYdE
 ﻿Rok Strani]Alice Cooper}Steven=http://www.youtube.com/watch?v=uluR__ko7oc
 ﻿Rok Strani]Alice Cooper}Sun Arise=http://www.youtube.com/watch?v=4IuUoZTNkLo
@@ -12460,7 +12457,7 @@
 ﻿Rok Strani]Black Crowes}Descending=http://www.youtube.com/watch?v=izWOYXtvVCA
 ﻿Rok Strani]Black Crowes}Diamond Ring=http://www.youtube.com/watch?v=cpTBWMix6HY
 ﻿Rok Strani]Black Crowes}Don't Wake Me=http://www.youtube.com/watch?v=SAC-y8eP2fc
-﻿Rok Strani]Black Crowes}Downtown Money Waster=http://www.youtube.com/watch?v=RuDb7EjSmsQ
+﻿Rok Strani]Black Crowes}Downtown Money Waster=http://www.youtube.com/watch?v=9JWHx8DjCZA
 ﻿Rok Strani]Black Crowes}Evergreen=http://www.youtube.com/watch?v=qtTq1hiVTuo
 ﻿Rok Strani]Black Crowes}Evil Eye=http://www.youtube.com/watch?v=ANffC_chF4M
 ﻿Rok Strani]Black Crowes}Fork In The River=http://www.youtube.com/watch?v=1aqK5n0-gvg
@@ -14713,7 +14710,7 @@
 ﻿Rok Strani]Green Day}At The Library=http://www.youtube.com/watch?v=7j0-85jWzvk
 ﻿Rok Strani]Green Day}Bab's Uvula Who?=http://www.youtube.com/watch?v=7gJPS87rH3w
 ﻿Rok Strani]Green Day}Baby Eyes=http://www.youtube.com/watch?v=XAf82x0d3I8
-﻿Rok Strani]Green Day}Bang Bang=http://www.youtube.com/watch?v=qhUAEfXUYZ0
+﻿Rok Strani]Green Day}Bang Bang=http://www.youtube.com/watch?v=iDONKzBLnHg
 ﻿Rok Strani]Green Day}Basket Case=http://www.youtube.com/watch?v=wZ8eZRxFA-0
 ﻿Rok Strani]Green Day}Before The Lobotomy=http://www.youtube.com/watch?v=2cYcbAzsLD8
 ﻿Rok Strani]Green Day}Best Thing In Town=http://www.youtube.com/watch?v=oTLF9b9fEMA
@@ -14812,7 +14809,7 @@
 ﻿Rok Strani]Green Day}One Of My Lies=http://www.youtube.com/watch?v=sTWS0sMrxw8
 ﻿Rok Strani]Green Day}Only Of You=http://www.youtube.com/watch?v=li4L1Iyasok
 ﻿Rok Strani]Green Day}Ordinary World=http://www.youtube.com/watch?v=X1Tj6HZAXH4
-﻿Rok Strani]Green Day}Outlaws=http://www.youtube.com/watch?v=hdeAcMtIOYY
+﻿Rok Strani]Green Day}Outlaws=http://www.youtube.com/watch?v=KbFUPxbyzSs
 ﻿Rok Strani]Green Day}Outsider=http://www.youtube.com/watch?v=rrkTCQcA8qg
 ﻿Rok Strani]Green Day}Panic Song=http://www.youtube.com/watch?v=fPN-vp-quOs
 ﻿Rok Strani]Green Day}Paper Lanterns=http://www.youtube.com/watch?v=FVGtpeVogqg
@@ -17482,7 +17479,7 @@
 ﻿Rok Strani]Allaman Brothers Band}Old Before My Time=http://www.youtube.com/watch?v=9vYr1cD49aA
 ﻿Rok Strani]Allaman Brothers Band}Old Friend=http://www.youtube.com/watch?v=W06paHp-bGY
 ﻿Rok Strani]Allaman Brothers Band}One Way Out=http://www.youtube.com/watch?v=qr1dPUoLqMM
-﻿Rok Strani]Allaman Brothers Band}Please Call Home=http://www.youtube.com/watch?v=_OBtzYqE5aE
+﻿Rok Strani]Allaman Brothers Band}Please Call Home=http://www.youtube.com/watch?v=8EXo1itp4xE
 ﻿Rok Strani]Allaman Brothers Band}Pony Boy=http://www.youtube.com/watch?v=J7j7xpW_ViQ
 ﻿Rok Strani]Allaman Brothers Band}Ramblin' Man=http://www.youtube.com/watch?v=6VxoXn-0Ezs
 ﻿Rok Strani]Allaman Brothers Band}Revival=http://www.youtube.com/watch?v=b48FoMwzCgc
