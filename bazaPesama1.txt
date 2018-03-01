@@ -10269,6 +10269,7 @@
 ﻿Zabavna]Leontina}Zamisli=http://www.youtube.com/watch?v=4_lCo9QzOWY
 ﻿Zabavna]Leontina}Zaslužio si sve=http://www.youtube.com/watch?v=5ILnGdsOsVQ
 ﻿Narodna]Lepa Brena}2, 3, 303 noći ja i ti=http://www.youtube.com/watch?v=OFMOfCSxDoc
+﻿Narodna]Lepa Brena}A kako ću ja=https://www.youtube.com/watch?v=Is24VPLNKec
 ﻿Narodna]Lepa Brena}Ali Baba=http://www.youtube.com/watch?v=cYs3INCmupM
 ﻿Narodna]Lepa Brena}Bato, bato=http://www.youtube.com/watch?v=iUAmLgJY5v0
 ﻿Narodna]Lepa Brena}Beli se golubovi vraćaju=http://www.youtube.com/watch?v=azQDBkb7qhs
@@ -10280,6 +10281,7 @@
 ﻿Narodna]Lepa Brena}Bol za bol=http://www.youtube.com/watch?v=0EIYVynKH4w
 ﻿Narodna]Lepa Brena}Boli me uvo za sve=http://www.youtube.com/watch?v=LNNCagaZmuc
 ﻿Narodna]Lepa Brena}Boliš i ne prolaziš=--start-time=24 https://www.youtube.com/watch?v=FPKP6NJ_Ck4
+﻿Narodna]Lepa Brena}Bolje ne=https://www.youtube.com/watch?v=sVd7pmiWSyU
 ﻿Narodna]Lepa Brena}Bosanac=http://www.youtube.com/watch?v=oXoPz7L2Du8
 ﻿Narodna]Lepa Brena}Brani me, brani=http://www.youtube.com/watch?v=1BmatZeiE10
 ﻿Narodna]Lepa Brena}Briši me=http://www.youtube.com/watch?v=_-Oqlyn8vuM
@@ -10321,6 +10323,7 @@
 ﻿Narodna]Lepa Brena}Još juče za tebe dala bih sve=http://www.youtube.com/watch?v=exyZueOSNZU
 ﻿Narodna]Lepa Brena}Još sam živa=http://www.youtube.com/watch?v=1QUZC32Y-xQ
 ﻿Narodna]Lepa Brena}Jugoslovenka=http://www.youtube.com/watch?v=I1kexrKS_4Y
+﻿Narodna]Lepa Brena}Kad jedno voli za oboje=https://www.youtube.com/watch?v=4lGB_ojJACk
 ﻿Narodna]Lepa Brena}Kao nova=https://www.youtube.com/watch?v=x8nXyAQ5BT0
 ﻿Narodna]Lepa Brena}Kazna Božija=http://www.youtube.com/watch?v=qt9sKRZX1w0
 ﻿Narodna]Lepa Brena}Kazni ga Bože=http://www.youtube.com/watch?v=sbN1knTjM90
@@ -10382,6 +10385,8 @@
 ﻿Narodna]Lepa Brena}Srećna žena=--start-time=2 https://www.youtube.com/watch?v=kul0oTas0KU
 ﻿Narodna]Lepa Brena}Šećeru, šećeru=http://www.youtube.com/watch?v=tyT-VTHLJdA
 ﻿Narodna]Lepa Brena}Šeik=http://www.youtube.com/watch?v=4zEVIHqQw-0
+﻿Narodna]Lepa Brena}Sigurno=http://www.youtube.com/watch?v=FgmhB56DBNY
+﻿Narodna]Lepa Brena}Sve smo mi krive=https://www.youtube.com/watch?v=vj6-FdYFHfs
 ﻿Narodna]Lepa Brena}Širi dragi ruke=http://www.youtube.com/watch?v=C32gfC-A9xk
 ﻿Narodna]Lepa Brena}Sitnije, Cile sitnije=http://www.youtube.com/watch?v=jeneF0uCmEo
 ﻿Narodna]Lepa Brena}Sledeći=http://www.youtube.com/watch?v=EPiqkmrw1ek
@@ -10396,6 +10401,7 @@
 ﻿Narodna]Lepa Brena}Sve bih dala da si moj=http://www.youtube.com/watch?v=_oy-5X-zvdk
 ﻿Narodna]Lepa Brena}Sve mi dobro ide osim ljubavi=http://www.youtube.com/watch?v=9uQcC6-1aVo
 ﻿Narodna]Lepa Brena}Sviraj rock'n'roll=http://www.youtube.com/watch?v=SotSr0qcrDY
+﻿Narodna]Lepa Brena}Tako si juče=https://www.youtube.com/watch?v=550cXC3Eu04
 ﻿Narodna]Lepa Brena}Takve i Bog čuva=http://www.youtube.com/watch?v=2RdNBRvUQVw
 ﻿Narodna]Lepa Brena}Tamba lamba=http://www.youtube.com/watch?v=CyXvAjPZZ9U
 ﻿Narodna]Lepa Brena}Ti me podsećaš na sreću=http://www.youtube.com/watch?v=jBEysB_VC8I
