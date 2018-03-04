@@ -5899,7 +5899,6 @@
 ﻿Narodna]Elma Sinanović}Ah tugo, tugo=http://www.youtube.com/watch?v=4W3cfY7w-tA
 ﻿Narodna]Elma Sinanović}Bez mene dobro si=http://www.youtube.com/watch?v=eTsdKYkRIKU
 ﻿Narodna]Elma Sinanović}Briga me=http://www.youtube.com/watch?v=GQwWdXp-KmQ
-﻿Narodna]Elma Sinanović}Čarobno, čarobno=http://www.youtube.com/watch?v=vxgxMFo7Vsc
 ﻿Narodna]Elma Sinanović}Da me ne vara=http://www.youtube.com/watch?v=-SJW7hqSPWU
 ﻿Narodna]Elma Sinanović}Da te može zameniti neko=http://www.youtube.com/watch?v=oCba35u2CB0
 ﻿Narodna]Elma Sinanović}Depresija=http://www.youtube.com/watch?v=tX9UBCaupxA
@@ -5929,14 +5928,12 @@
 ﻿Narodna]Elma Sinanović}Ništa mi ne treba=http://www.youtube.com/watch?v=5deMINEdUo4
 ﻿Narodna]Elma Sinanović}Odvedi me=http://www.youtube.com/watch?v=6PDwvSSwc54
 ﻿Narodna]Elma Sinanović}Otkrij mi tajnu=http://www.youtube.com/watch?v=PVAPZYX7b7k
-﻿Narodna]Elma Sinanović}Panika=http://www.youtube.com/watch?v=Int7L87VUaM
 ﻿Narodna]Elma Sinanović}Pitam se pitam=http://www.youtube.com/watch?v=DwlwKycL-wc
 ﻿Narodna]Elma Sinanović}Priđi mi=http://www.youtube.com/watch?v=qYkYwbRSGbk
-﻿Narodna]Elma Sinanović}Protivotrov=http://www.youtube.com/watch?v=9ygMTLZRQbg
+﻿Narodna]Elma Sinanović}Protivotrov=http://www.youtube.com/watch?v=GDwYDHihHFQ
 ﻿Narodna]Elma Sinanović}Ruka pravde=http://www.youtube.com/watch?v=t-Fa8cIjT1o
 ﻿Narodna]Elma Sinanović}Samo tebe volim ja=http://www.youtube.com/watch?v=2XIItWvOUgc
 ﻿Narodna]Elma Sinanović}Sat što kasni=http://www.youtube.com/watch?v=GUUfnrNSURw
-﻿Narodna]Elma Sinanović}Sine stani=http://www.youtube.com/watch?v=qHrv5QWB80o
 ﻿Narodna]Elma Sinanović}Sipaj duplo=http://www.youtube.com/watch?v=92LfFfNAR4I
 ﻿Narodna]Elma Sinanović}Šta ćeš ti u mojim pesmama=http://www.youtube.com/watch?v=KKVyabuUv20
 ﻿Narodna]Elma Sinanović}Šta da radim=http://www.youtube.com/watch?v=T7l_WJOx6jA
@@ -6129,7 +6126,6 @@
 ﻿Narodna]Esma Redžepova}Oči tvoje=https://www.youtube.com/watch?v=UCp3AOOztyA
 ﻿Narodna]Esma Redžepova}Srce cigansko=https://www.youtube.com/watch?v=T2ImJhkGD0w
 ﻿Narodna]Esma Redžepova}Ja sam tu=https://www.youtube.com/watch?v=Ym4iTlIvEPA
-﻿Narodna]Esma Redžepova}Za Makedoniju=https://www.youtube.com/watch?v=5g9_4kuQnTM
 ﻿Narodna]Esma Redžepova}Kad žena zavoli=https://www.youtube.com/watch?v=r6QNtcZLaoM
 ﻿Narodna]Esma Redžepova}Ljubav, ljubav=https://www.youtube.com/watch?v=vc-shDecdYE
 ﻿Narodna]Esma Redžepova}Sastali se Cigani=https://www.youtube.com/watch?v=zwdgxJVOVUw
@@ -10301,7 +10297,6 @@
 ﻿Narodna]Lepa Brena}E moj Miko=http://www.youtube.com/watch?v=Z4TiSxC9O-M
 ﻿Narodna]Lepa Brena}Epidemija ljubavi=http://www.youtube.com/watch?v=X8QVZFn5Hwg
 ﻿Narodna]Lepa Brena}Evo moga delije=http://www.youtube.com/watch?v=7s0KU0QxIW0
-﻿Narodna]Lepa Brena}Evo zima će=http://www.youtube.com/watch?v=QQqXdBzuYNs
 ﻿Narodna]Lepa Brena}Gde si ti=http://www.youtube.com/watch?v=8AroZiDNSvE
 ﻿Narodna]Lepa Brena}Golube=http://www.youtube.com/watch?v=D-yATo991Hw
 ﻿Narodna]Lepa Brena}Grad=http://www.youtube.com/watch?v=uEPN-IVnlkM
