@@ -539,7 +539,7 @@
 ﻿Narodna]Aleksandra Prijović}Totalna anestezija=--start-time=6 http://www.youtube.com/watch?v=WfMY2AksjIU
 ﻿Narodna]Aleksandra Prijović}Voljena greško=--start-time=6 http://www.youtube.com/watch?v=QHhunj3lQSY
 ﻿Narodna]Aleksandra Prijović}Za nas kasno je=http://www.youtube.com/watch?v=cUFaZVIcE_0
-﻿Zabavna]Aleksandra Radović}Ako nikada=http://www.youtube.com/watch?v=LoRoU9WO4EY
+﻿Zabavna]Aleksandra Radović}Ako nikada=http://www.youtube.com/watch?v=rCiOmSSUuUs
 ﻿Zabavna]Aleksandra Radović}Ako pogaziš laž=http://www.youtube.com/watch?v=S6ppFpCcM0Y
 ﻿Zabavna]Aleksandra Radović}Beskrajno=http://www.youtube.com/watch?v=j_UPh7QAol0
 ﻿Zabavna]Aleksandra Radović}Bivši dragi=http://www.youtube.com/watch?v=18j0bnfpv4Y
@@ -1219,7 +1219,7 @@
 ﻿Zabavna]Ana Stanić}Taj koji zna=--start-time=5 http://www.youtube.com/watch?v=6j8NDI23gMU
 ﻿Zabavna]Ana Stanić}Tamno nebo=--start-time=5 http://www.youtube.com/watch?v=HaDPaG_nueE
 ﻿Zabavna]Ana Stanić}Točkovi=--start-time=5 http://www.youtube.com/watch?v=F_1m5JGkA3w
-﻿Zabavna]Ana Stanić}Trag ljubomore=http://www.youtube.com/watch?v=t48WMQ3A1K4
+﻿Zabavna]Ana Stanić}Trag ljubomore=--start-time=5 http://www.youtube.com/watch?v=qbPWpNAP4FQ
 ﻿Zabavna]Ana Stanić}Udahni me=http://www.youtube.com/watch?v=vtciNsd88nA
 ﻿Zabavna]Ana Stanić}Vidim te kad=--start-time=5 http://www.youtube.com/watch?v=V3CD0F_tJE0
 ﻿Zabavna]Ana Stanić}Zadnji sjaj=--start-time=5 http://www.youtube.com/watch?v=rcVQdgVY2q4
@@ -8394,8 +8394,8 @@
 ﻿Narodna]Indira Radić}Dve muzike=http://www.youtube.com/watch?v=QGF4JqphLZc
 ﻿Narodna]Indira Radić}Evo ti ruka, vodi me=http://www.youtube.com/watch?v=rNWJOt5_WfI
 ﻿Narodna]Indira Radić}Gde ćemo večeras=http://www.youtube.com/watch?v=AHPuSAePaWU
-﻿Narodna]Indira Radić}Gledaj me i umri=http://www.youtube.com/watch?v=zqVXKebvGRw
 ﻿Narodna]Indira Radić}Grom=http://www.youtube.com/watch?v=YfpmBjM_80g
+﻿Narodna]Indira Radić}Gledaj me i umri=https://www.youtube.com/watch?v=5R1bEl-Z2UA
 ﻿Narodna]Indira Radić}Hajde, sestro=http://www.youtube.com/watch?v=4oiRkwlosVY
 ﻿Narodna]Indira Radić}Halo srce gde si=http://www.youtube.com/watch?v=WjdxAjMp7R4
 ﻿Narodna]Indira Radić}Hej, zašto ne=http://www.youtube.com/watch?v=XmqLc5uRiSI
@@ -8789,7 +8789,6 @@
 ﻿Zabavna]Ivana Selakov}Uteha=http://www.youtube.com/watch?v=jR9K1XIEijw
 ﻿Zabavna]Ivana Selakov}Vremeplov=http://www.youtube.com/watch?v=DLrnuy4NKt4
 ﻿Narodna]Jadranka Barjaktarović}Bedem=http://www.youtube.com/watch?v=VmbmDWuBVcI
-﻿Narodna]Jadranka Barjaktarović}Biser Crne Gore=http://www.youtube.com/watch?v=E3z-1-rLYFo
 ﻿Narodna]Jadranka Barjaktarović}Deja vu=http://www.youtube.com/watch?v=DGSlkNhXNpc
 ﻿Narodna]Jadranka Barjaktarović}Dupla s čemerom=http://www.youtube.com/watch?v=_UKg_10tOPo
 ﻿Narodna]Jadranka Barjaktarović}Fatalna=http://www.youtube.com/watch?v=V3tp5Hzubeg
@@ -8801,7 +8800,7 @@
 ﻿Narodna]Jadranka Barjaktarović}Linija nadanja=http://www.youtube.com/watch?v=7tFRn8IwhZQ
 ﻿Narodna]Jadranka Barjaktarović}Lude godine=http://www.youtube.com/watch?v=tusnzuSYaZo
 ﻿Narodna]Jadranka Barjaktarović}Luzeru=--start-time=35 http://www.youtube.com/watch?v=JRDmZJApj9g
-﻿Narodna]Jadranka Barjaktarović}Mambo=http://www.youtube.com/watch?v=4KcIb3Fsa6s
+﻿Narodna]Jadranka Barjaktarović}Mambo=--start-time=4 http://www.youtube.com/watch?v=jqavkgjQBko
 ﻿Narodna]Jadranka Barjaktarović}Neotporna=http://www.youtube.com/watch?v=JvvZR1jbK24
 ﻿Narodna]Jadranka Barjaktarović}Očajna=http://www.youtube.com/watch?v=5SFyQttQkXA
 ﻿Narodna]Jadranka Barjaktarović}Prsten=http://www.youtube.com/watch?v=ESC7gOr3p1c
@@ -9233,7 +9232,7 @@
 ﻿Zabavna]Jelena Tomašević}Nema koga=http://www.youtube.com/watch?v=mcjiZ_cDoPE
 ﻿Zabavna]Jelena Tomašević}Noćas dođi mi=http://www.youtube.com/watch?v=bcXa3itEBdo
 ﻿Zabavna]Jelena Tomašević}Okeani=http://www.youtube.com/watch?v=EzYmyWQVx7Y
-﻿Zabavna]Jelena Tomašević}Oro=http://www.youtube.com/watch?v=spPYNysa8fU
+﻿Zabavna]Jelena Tomašević}Oro=http://www.youtube.com/watch?v=0Sn3TKoPeA0
 ﻿Zabavna]Jelena Tomašević}Ovo nije ljubav=http://www.youtube.com/watch?v=x6VzdO1gqYs
 ﻿Zabavna]Jelena Tomašević}Panta rei=http://www.youtube.com/watch?v=Nw0UOzjEZuY
 ﻿Zabavna]Jelena Tomašević}Radio svira za nas=http://www.youtube.com/watch?v=_HNqkAooFwE

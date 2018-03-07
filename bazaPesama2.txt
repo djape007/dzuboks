@@ -789,7 +789,7 @@
 ﻿Rep]Marchelo}Kostim=http://www.youtube.com/watch?v=NF81NCMhIGc
 ﻿Rep]Marchelo}Kuća na promaji=http://www.youtube.com/watch?v=UtpB5zeKRlw
 ﻿Rep]Marchelo}Mamica=http://www.youtube.com/watch?v=fdqmM4XoKuI
-﻿Rep]Marchelo}Mc bez harizme=http://www.youtube.com/watch?v=tRfbvr6vPLg
+﻿Rep]Marchelo}Mc bez harizme=http://www.youtube.com/watch?v=YyutV3a6wDI
 ﻿Rep]Marchelo}Mrak=http://www.youtube.com/watch?v=JPYkKrtx_8s
 ﻿Rep]Marchelo}Nedođija=http://www.youtube.com/watch?v=J_u-3tv748M
 ﻿Rep]Marchelo}Neko treći=http://www.youtube.com/watch?v=AdfayEkqe9s
@@ -992,11 +992,11 @@
 ﻿Narodna]Marta Savić}Ikad ili nikad=http://www.youtube.com/watch?v=4PXRBHsTods
 ﻿Narodna]Marta Savić}Izgubljena bitka=http://www.youtube.com/watch?v=BrcNH5NDumI
 ﻿Narodna]Marta Savić}Ja nisam takva=http://www.youtube.com/watch?v=TtT8PQSO5us
-﻿Narodna]Marta Savić}Jedan dan=http://www.youtube.com/watch?v=NvDI4Ff6qZI
+﻿Narodna]Marta Savić}Jedan dan=http://www.youtube.com/watch?v=9DafwTj0W3M
 ﻿Narodna]Marta Savić}Kad zavoliš, pa izgubiš=http://www.youtube.com/watch?v=6JYwtOAeums
 ﻿Narodna]Marta Savić}Kakav si to čovek=http://www.youtube.com/watch?v=fZKrP1EED50
 ﻿Narodna]Marta Savić}Kao cigareta=http://www.youtube.com/watch?v=1yWkmUDt4Qc
-﻿Narodna]Marta Savić}Kukavice=http://www.youtube.com/watch?v=FV06V8PcBpE
+﻿Narodna]Marta Savić}Kukavice=http://www.youtube.com/watch?v=-npt9paSJro
 ﻿Narodna]Marta Savić}Lagao si svako slovo=http://www.youtube.com/watch?v=YMCrTraYjok
 ﻿Narodna]Marta Savić}Mama (feat. Azis i Mirko Gavrić)=http://www.youtube.com/watch?v=oJO9cfBIrpg
 ﻿Narodna]Marta Savić}Mamin sin=http://www.youtube.com/watch?v=0sIa3x2toBw
@@ -3758,7 +3758,6 @@
 ﻿Rok]Osvajači}Krv i led=http://www.youtube.com/watch?v=9VKRGcZs_9c
 ﻿Rok]Osvajači}Ljubomora=http://www.youtube.com/watch?v=8wMl6Qw5AO4
 ﻿Rok]Osvajači}Lutati je najbolje što znam=http://www.youtube.com/watch?v=M9eWBgYJwmA
-﻿Rok]Osvajači}Marija=http://www.youtube.com/watch?v=A37LExnjbwU
 ﻿Rok]Osvajači}Maska=http://www.youtube.com/watch?v=CBN-BU7yiOE
 ﻿Rok]Osvajači}Minut ćutanja=http://www.youtube.com/watch?v=RYybO_pQxsc
 ﻿Rok]Osvajači}Možda nebo zna=http://www.youtube.com/watch?v=0Gs_MTKfssA
@@ -5028,7 +5027,7 @@
 ﻿Narodna]Radiša Urošević}Ja sam dečko, čuj me mala=http://www.youtube.com/watch?v=iFTbb1iOWPs
 ﻿Narodna]Radiša Urošević}Ja za tebe dišem=http://www.youtube.com/watch?v=oNcGdT0j1BI
 ﻿Narodna]Radiša Urošević}Jesen prođe ja se ne oženi=http://www.youtube.com/watch?v=lvvdG49nd6I
-﻿Narodna]Radiša Urošević}Još te nešto čini izuzetnom=http://www.youtube.com/watch?v=LPlawwpV9gQ
+﻿Narodna]Radiša Urošević}Još te nešto čini izuzetnom=http://www.youtube.com/watch?v=mQhlj5SJvjs
 ﻿Narodna]Radiša Urošević}Kad bi znala=http://www.youtube.com/watch?v=JPTTJCzdP-8
 ﻿Narodna]Radiša Urošević}Ko je on=http://www.youtube.com/watch?v=AEICiexjvuA
 ﻿Narodna]Radiša Urošević}Ko je srećnik što kraj tebe spava=http://www.youtube.com/watch?v=kuEfVJiTBDs
@@ -6764,7 +6763,6 @@
 ﻿Zabavna]Sejo Boy}Sve je laž=http://www.youtube.com/watch?v=qeBftx2Xu-s
 ﻿Zabavna]Sejo Boy}Sve zbog nas=http://www.youtube.com/watch?v=NuXdUGG34-4
 ﻿Zabavna]Sejo Boy}Sviraj brate=http://www.youtube.com/watch?v=eXdEhfvkKSU
-﻿Zabavna]Sejo Boy}U srce diraš=http://www.youtube.com/watch?v=3dJ108-qdEI
 ﻿Zabavna]Sejo Boy}U srcu Balkana=http://www.youtube.com/watch?v=6gWko3rPgic
 ﻿Zabavna]Sejo Boy}Uzimaš mi dušu nježno=http://www.youtube.com/watch?v=rKba06fzbsA
 ﻿Zabavna]Sejo Boy}Vraćam se iz bijelog svijeta=http://www.youtube.com/watch?v=VQkoYwG7r58
@@ -7155,7 +7153,6 @@
 ﻿Narodna]Selma Bajrami}Ne mogu te voljeti=http://www.youtube.com/watch?v=gSObzGVq1cU
 ﻿Narodna]Selma Bajrami}Nije više osamnaest meni=http://www.youtube.com/watch?v=WQ5Szr09LTM
 ﻿Narodna]Selma Bajrami}Nisam ti oprostila=http://www.youtube.com/watch?v=fKs_aD1M86g
-﻿Narodna]Selma Bajrami}Oči zelene=http://www.youtube.com/watch?v=kRqJNb1_ktQ
 ﻿Narodna]Selma Bajrami}Ostrvo tuge=http://www.youtube.com/watch?v=RbdcTZ8xOsA
 ﻿Narodna]Selma Bajrami}Rukujmo se kao prijatelji=http://www.youtube.com/watch?v=7VhgaMCFCb0
 ﻿Narodna]Selma Bajrami}Tijelo bez duše=http://www.youtube.com/watch?v=aTj1ISwaDG0
@@ -7163,7 +7160,6 @@
 ﻿Narodna]Selma Bajrami}Voli me do bola=http://www.youtube.com/watch?v=_8mJkiKBOBQ
 ﻿Narodna]Selma Bajrami}Zakon sudbine=http://www.youtube.com/watch?v=m6jyNJVAcPw
 ﻿Narodna]Selma Bajrami}Žalim=http://www.youtube.com/watch?v=L43YRHJbfR0
-﻿Narodna]Selma Bajrami}Zaljubljena=http://www.youtube.com/watch?v=F6HTGKmJkAs
 ﻿Narodna]Selma Bajrami}Živa zdrava=http://www.youtube.com/watch?v=CJg6PMlTqFk
 ﻿Narodna]Šemsa Suljaković}7000 suza=http://www.youtube.com/watch?v=XPaL14kTK04
 ﻿Narodna]Šemsa Suljaković}Ako mi ne veruješ=http://www.youtube.com/watch?v=_hfa4Hvjo_0
@@ -9472,7 +9468,6 @@
 ﻿Rep]VIP}Kao niko do sad=https://www.youtube.com/watch?v=pVLxTpRy6KQ
 ﻿Rep]VIP}Kažu mi=http://www.youtube.com/watch?v=vOuIEyCh5TE
 ﻿Rep]VIP}Ko će to da plati=http://www.youtube.com/watch?v=oRQlud6vKR0
-﻿Rep]VIP}Ko vas jebe=http://www.youtube.com/watch?v=YBbx3F4QMIs
 ﻿Rep]VIP}Krimosi sa značkama=https://www.youtube.com/watch?v=WBgKg3NGUmo
 ﻿Rep]VIP}Ljubav preko žice=https://www.youtube.com/watch?v=yuoy2-Xj_Z8
 ﻿Rep]VIP}Lova, moć, poštovanje=https://www.youtube.com/watch?v=Uv4dsEKhcMA
@@ -12253,7 +12248,7 @@
 ﻿Rok Strani]Motörhead}Jailbait=http://www.youtube.com/watch?v=pzdK8yd45uA
 ﻿Rok Strani]Motörhead}Joy Of Labour=http://www.youtube.com/watch?v=SbXycH877Lw
 ﻿Rok Strani]Motörhead}Keep Us On The Road=http://www.youtube.com/watch?v=NceX4gTMrms
-﻿Rok Strani]Motörhead}Keep Your Powder Dry=http://www.youtube.com/watch?v=25OtqrljqeA
+﻿Rok Strani]Motörhead}Keep Your Powder Dry=http://www.youtube.com/watch?v=sg_ii1j3_kk
 ﻿Rok Strani]Motörhead}Keys To The Kingdom=http://www.youtube.com/watch?v=C9ZCFfF2Tyc
 ﻿Rok Strani]Motörhead}Kill The World=http://www.youtube.com/watch?v=3Z9pmuWg4Qo
 ﻿Rok Strani]Motörhead}Killed By Death=http://www.youtube.com/watch?v=6ngDWnP2akE
