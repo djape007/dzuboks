@@ -2376,7 +2376,6 @@
 ﻿Rok]Mortal Kombat}Pauk čovek=https://www.youtube.com/watch?v=edbBGxMMoFk
 ﻿Narodna]Muharem Serbezovski}Alisa ne idi=http://www.youtube.com/watch?v=kjiJVc96WZE
 ﻿Narodna]Muharem Serbezovski}Amela=http://www.youtube.com/watch?v=4xQAHBg0Sz0
-﻿Narodna]Muharem Serbezovski}Bože moj=http://www.youtube.com/watch?v=dU8M0Y_XWpo
 ﻿Narodna]Muharem Serbezovski}Ciganin sam i umem da volim=http://www.youtube.com/watch?v=GWH1F_R2QzA
 ﻿Narodna]Muharem Serbezovski}Daj mi Bože strpljenje=http://www.youtube.com/watch?v=SPJOOGgY4wU
 ﻿Narodna]Muharem Serbezovski}Daleko si ti od mene=http://www.youtube.com/watch?v=ziGh6foFPvY
@@ -2654,7 +2653,6 @@
 ﻿Narodna]Nedeljko Bajić Baja}Od ljubavi jače=http://www.youtube.com/watch?v=drwbuf90zww
 ﻿Narodna]Nedeljko Bajić Baja}Oficir s ružom=http://www.youtube.com/watch?v=oIgi8cd2mrQ
 ﻿Narodna]Nedeljko Bajić Baja}Ključ=http://www.youtube.com/watch?v=VkYXor2ncW0
-﻿Narodna]Nedeljko Bajić Baja}Boja očiju=http://www.youtube.com/watch?v=eQqYabqHUC4
 ﻿Narodna]Nedeljko Bajić Baja}Rođen spreman=https://www.youtube.com/watch?v=HlKxyDwxIXs
 ﻿Narodna]Nedeljko Bajić Baja}Romansa=http://www.youtube.com/watch?v=Hf9f_SbkpKg
 ﻿Narodna]Nedeljko Bajić Baja}Sam u noći=--start-time=18 http://www.youtube.com/watch?v=7_k05PkQACU
@@ -3456,7 +3454,7 @@
 ﻿Zabavna]Oliver Dragojević}Još ovaj put=http://www.youtube.com/watch?v=TuNEVhuR458
 ﻿Zabavna]Oliver Dragojević}Još sam tu=http://www.youtube.com/watch?v=fTOO3IJq0xI
 ﻿Zabavna]Oliver Dragojević}Jubavi lipa=http://www.youtube.com/watch?v=ZBA8NFeFXw8
-﻿Zabavna]Oliver Dragojević}Kad bi došla ti=http://www.youtube.com/watch?v=YgYDFX5Cu-c
+﻿Zabavna]Oliver Dragojević}Kad bi došla ti=http://www.youtube.com/watch?v=F7AUYoacKUo
 ﻿Zabavna]Oliver Dragojević}Kad bi samo ljubit' znala=http://www.youtube.com/watch?v=ifUyZT5-N5c
 ﻿Zabavna]Oliver Dragojević}Kad mi dođeš ti=http://www.youtube.com/watch?v=jl28BmXtnIY
 ﻿Zabavna]Oliver Dragojević}Kad u te nestane mi vire=http://www.youtube.com/watch?v=4XtcdKHI2kE
@@ -6358,6 +6356,7 @@
 ﻿Zabavna]Sandra Afrika}Afrika=http://www.youtube.com/watch?v=g4es6AHRCMg
 ﻿Zabavna]Sandra Afrika}Buduće bivše=--start-time=5 http://www.youtube.com/watch?v=RbUCCDoAuCQ
 ﻿Zabavna]Sandra Afrika}Bye bye=http://www.youtube.com/watch?v=iMv3-nqYXV4
+﻿Narodna]Sandra Afrika}Deža Vu (ft. Đani, Costi)=--start-time=6 https://www.youtube.com/watch?v=8db0BQCL36w
 ﻿Zabavna]Sandra Afrika}Devojka tvog druga=http://www.youtube.com/watch?v=eFJKfvRjDzY
 ﻿Zabavna]Sandra Afrika}Dijabole=--start-time=45 http://www.youtube.com/watch?v=hBmQqkbWQ7s
 ﻿Zabavna]Sandra Afrika}Iza tebe=--start-time=6 http://www.youtube.com/watch?v=2-UuncGHDJ4
@@ -8858,9 +8857,9 @@
 ﻿Narodna]Tanja Savić}Ulica=http://www.youtube.com/watch?v=oyNqi40ywj4
 ﻿Narodna]Tanja Savić}Van dometa=http://www.youtube.com/watch?v=p5hn9quqYb4
 ﻿Narodna]Tanja Savić}Viša sila=http://www.youtube.com/watch?v=JyOMesZPNrI
-﻿Narodna]Tanja Savić}Za moje dobro=http://www.youtube.com/watch?v=avloL4QdqUg
+﻿Narodna]Tanja Savić}Za moje dobro=http://www.youtube.com/watch?v=LS5P2i5Ooz0
 ﻿Narodna]Tanja Savić}Zašto me u obraz ljubiš=http://www.youtube.com/watch?v=pMfS68aVWJU
-﻿Narodna]Tanja Savić}Zlatnik=http://www.youtube.com/watch?v=WFFyTCZa3ME
+﻿Narodna]Tanja Savić}Zlatnik=http://www.youtube.com/watch?v=_-OW9TGs5rU
 ﻿Zabavna]Tap 011}Bunda=http://www.youtube.com/watch?v=OXTMoYTkY-4
 ﻿Zabavna]Tap 011}Dan po dan=http://www.youtube.com/watch?v=KtA8w_0vG9E
 ﻿Zabavna]Tap 011}Jegulja=http://www.youtube.com/watch?v=MawtHf-HMFs
@@ -13101,7 +13100,7 @@
 ﻿Rok Strani]Pink Floyd}The Trial=http://www.youtube.com/watch?v=FCMHmDnfD6I
 ﻿Rok Strani]Pink Floyd}Time=http://www.youtube.com/watch?v=Z-OytmtYoOI
 ﻿Rok Strani]Pink Floyd}Two Suns In The Sunset=http://www.youtube.com/watch?v=3TSz30Nj2n4
-﻿Rok Strani]Pink Floyd}Vegetable Man=http://www.youtube.com/watch?v=RlpYi2ZXfi0
+﻿Rok Strani]Pink Floyd}Vegetable Man=http://www.youtube.com/watch?v=B3FOR4tulWk
 ﻿Rok Strani]Pink Floyd}Waiting For The Worms=http://www.youtube.com/watch?v=0bDY0DfEjmo
 ﻿Rok Strani]Pink Floyd}Walk With Me Sydney=http://www.youtube.com/watch?v=-5SnhW_DE-U
 ﻿Rok Strani]Pink Floyd}Wearing The Inside Out=http://www.youtube.com/watch?v=nShc6s6vrhU
@@ -14187,7 +14186,7 @@
 ﻿Rok Strani]Rush}Heart Full Of Soul=http://www.youtube.com/watch?v=g5F6XgGHeuY
 ﻿Rok Strani]Rush}Heresy=http://www.youtube.com/watch?v=O91uTrNRXI0
 ﻿Rok Strani]Rush}High Water=http://www.youtube.com/watch?v=o3iQNLA8oJo
-﻿Rok Strani]Rush}How It Is=http://www.youtube.com/watch?v=axCn6mGnq7s
+﻿Rok Strani]Rush}How It Is=http://www.youtube.com/watch?v=oOP-K0t1a5Q
 ﻿Rok Strani]Rush}I Think I'm Going Bald=http://www.youtube.com/watch?v=Rc52vCJ83LA
 ﻿Rok Strani]Rush}In The End=http://www.youtube.com/watch?v=stBOhNxLrbM
 ﻿Rok Strani]Rush}In The Mood=http://www.youtube.com/watch?v=g5njyO9h9Ys
@@ -15320,7 +15319,7 @@
 ﻿Rok Strani]The Beatles}Can't Buy Me Love=http://www.youtube.com/watch?v=srwxJUXPHvE
 ﻿Rok Strani]The Beatles}Carol=http://www.youtube.com/watch?v=2j4oXVgXJzc
 ﻿Rok Strani]The Beatles}Chains=http://www.youtube.com/watch?v=ZYr-jagJzF4
-﻿Rok Strani]The Beatles}Clarabella=http://www.youtube.com/watch?v=bSFJHCLGbBc
+﻿Rok Strani]The Beatles}Clarabella=--start-time=6 http://www.youtube.com/watch?v=GcHSK35iILI
 ﻿Rok Strani]The Beatles}Come And Get It=http://www.youtube.com/watch?v=rhSE0pJnSLU
 ﻿Rok Strani]The Beatles}Come Together=http://www.youtube.com/watch?v=uSM5MpKSnqE
 ﻿Rok Strani]The Beatles}Cry Baby Cry=http://www.youtube.com/watch?v=LEqKb-I_tnk
@@ -15410,7 +15409,7 @@
 ﻿Rok Strani]The Beatles}Johnny B. Goode=http://www.youtube.com/watch?v=4-6TP8wvYTI
 ﻿Rok Strani]The Beatles}Julia=http://www.youtube.com/watch?v=iiSb41sFNlI
 ﻿Rok Strani]The Beatles}Junk=http://www.youtube.com/watch?v=xUsVtXFESUk
-﻿Rok Strani]The Beatles}Keep Your Hands Off My Baby=http://www.youtube.com/watch?v=6smnG8-8J08
+﻿Rok Strani]The Beatles}Keep Your Hands Off My Baby=--start-time=11 http://www.youtube.com/watch?v=FbOXbUmIxEA
 ﻿Rok Strani]The Beatles}Komm, Gib Mir Deine Hand=http://www.youtube.com/watch?v=C5lpAJiLCPs
 ﻿Rok Strani]The Beatles}Lady Madonna=http://www.youtube.com/watch?v=g6-pqbAOzg8
 ﻿Rok Strani]The Beatles}Leave My Kitten Alone=http://www.youtube.com/watch?v=H1WytU0yZwI
@@ -15431,7 +15430,7 @@
 ﻿Rok Strani]The Beatles}Martha My Dear=http://www.youtube.com/watch?v=zH4Cjw_m8_s
 ﻿Rok Strani]The Beatles}Matchbox=http://www.youtube.com/watch?v=6_1ao_HzJKw
 ﻿Rok Strani]The Beatles}Maxwell's Silver Hammer=http://www.youtube.com/watch?v=z3X0fJOxyFc
-﻿Rok Strani]The Beatles}Memphis, Tennessee=http://www.youtube.com/watch?v=fMCPyLuEgfU
+﻿Rok Strani]The Beatles}Memphis, Tennessee=--start-time=10 http://www.youtube.com/watch?v=obqNVzw8Sy4
 ﻿Rok Strani]The Beatles}Michelle=http://www.youtube.com/watch?v=_64CVdkjLQU
 ﻿Rok Strani]The Beatles}Misery=http://www.youtube.com/watch?v=jzxdApFBBGQ
 ﻿Rok Strani]The Beatles}Money (That's What I Want)=http://www.youtube.com/watch?v=6vH3lBI5Arc
@@ -15538,7 +15537,7 @@
 ﻿Rok Strani]The Beatles}You Won't See Me=http://www.youtube.com/watch?v=BsrQgIQSQSw
 ﻿Rok Strani]The Beatles}You'll Be Mine=http://www.youtube.com/watch?v=wcCzclyUSG4
 ﻿Rok Strani]The Beatles}You've Got To Hide Your Love Away=http://www.youtube.com/watch?v=IArfrd14scw
-﻿Rok Strani]The Beatles}Young Blood=http://www.youtube.com/watch?v=EmUFW07UIes
+﻿Rok Strani]The Beatles}Young Blood=--start-time=13 http://www.youtube.com/watch?v=753kMZd35Vc
 ﻿Rok Strani]The Beatles}Your Mother Should Know=http://www.youtube.com/watch?v=5E2f237QKaA
 ﻿Rok Strani]The Clash}1-2 Crush On You=http://www.youtube.com/watch?v=o38FqvLXsgM
 ﻿Rok Strani]The Clash}1977=http://www.youtube.com/watch?v=KorwwAjKpaY
@@ -15971,7 +15970,7 @@
 ﻿Rok Strani]The Kinks}Got Love If You Want It=http://www.youtube.com/watch?v=1NuOuPINI3k
 ﻿Rok Strani]The Kinks}Got My Feet On The Ground=http://www.youtube.com/watch?v=4j50-I7cXeg
 ﻿Rok Strani]The Kinks}Got To Be Free=http://www.youtube.com/watch?v=l7qChiEGugE
-﻿Rok Strani]The Kinks}Gotta Get The First Plane Home=http://www.youtube.com/watch?v=3opym9cp7Gk
+﻿Rok Strani]The Kinks}Gotta Get The First Plane Home=http://www.youtube.com/watch?v=E_ssVbt4H_c
 ﻿Rok Strani]The Kinks}Groovy Movies=http://www.youtube.com/watch?v=GqxD-CPyA_Q
 ﻿Rok Strani]The Kinks}Harry Rag=http://www.youtube.com/watch?v=SPN81cFRX5M
 ﻿Rok Strani]The Kinks}Hatred (A Duet)=http://www.youtube.com/watch?v=XAr9CIbd4b4
@@ -16072,7 +16071,7 @@
 ﻿Rok Strani]The Kinks}Naggin' Woman=http://www.youtube.com/watch?v=k58NHoipn4I
 ﻿Rok Strani]The Kinks}National Health=http://www.youtube.com/watch?v=xzrBGPBvZZU
 ﻿Rok Strani]The Kinks}Natural Gift=http://www.youtube.com/watch?v=csthC1mrNg4
-﻿Rok Strani]The Kinks}Never Met A Girl Like You Before=http://www.youtube.com/watch?v=lU8S3xS9_UU
+﻿Rok Strani]The Kinks}Never Met A Girl Like You Before=http://www.youtube.com/watch?v=5VURgewhuuQ
 ﻿Rok Strani]The Kinks}Nine To Five=http://www.youtube.com/watch?v=hvy-3MmtrfE
 ﻿Rok Strani]The Kinks}No More Looking Back=http://www.youtube.com/watch?v=koraNwOw_DQ
 ﻿Rok Strani]The Kinks}No Return=http://www.youtube.com/watch?v=csgEMKs_vDg
@@ -16280,7 +16279,7 @@
 ﻿Rok Strani]The Offspring}It'll Be A Long Time=http://www.youtube.com/watch?v=Z11PvigNtwY
 ﻿Rok Strani]The Offspring}Jennifer Lost The War=http://www.youtube.com/watch?v=UVqNe_ZlEuk
 ﻿Rok Strani]The Offspring}Kick Him When He's Down=http://www.youtube.com/watch?v=Hjk9jaOxGU4
-﻿Rok Strani]The Offspring}Kill The President=http://www.youtube.com/watch?v=IG_WD84_kvg
+﻿Rok Strani]The Offspring}Kill The President=http://www.youtube.com/watch?v=jxudIpbKdjk
 ﻿Rok Strani]The Offspring}Killboy Powerhead=http://www.youtube.com/watch?v=Kzo_GZgOiIQ
 ﻿Rok Strani]The Offspring}Kristy, Are You Doing Okay?=http://www.youtube.com/watch?v=c-IK90DQxvw
 ﻿Rok Strani]The Offspring}L.A.P.D.=http://www.youtube.com/watch?v=Cr5bU44iRWE
