@@ -2653,13 +2653,13 @@
 ﻿Narodna]Nedeljko Bajić Baja}Od ljubavi jače=http://www.youtube.com/watch?v=drwbuf90zww
 ﻿Narodna]Nedeljko Bajić Baja}Oficir s ružom=http://www.youtube.com/watch?v=oIgi8cd2mrQ
 ﻿Narodna]Nedeljko Bajić Baja}Ključ=http://www.youtube.com/watch?v=VkYXor2ncW0
-﻿Narodna]Nedeljko Bajić Baja}Rođen spreman=https://www.youtube.com/watch?v=HlKxyDwxIXs
+﻿Narodna]Nedeljko Bajić Baja}Rođen spreman=--start-time=31 http://www.youtube.com/watch?v=XfSjsBKNVWM
 ﻿Narodna]Nedeljko Bajić Baja}Romansa=http://www.youtube.com/watch?v=Hf9f_SbkpKg
 ﻿Narodna]Nedeljko Bajić Baja}Sam u noći=--start-time=18 http://www.youtube.com/watch?v=7_k05PkQACU
 ﻿Narodna]Nedeljko Bajić Baja}Sastanak sa srećom=http://www.youtube.com/watch?v=Yv7Jc2aVhuE
 ﻿Narodna]Nedeljko Bajić Baja}Sećanje na nas=http://www.youtube.com/watch?v=1BImWnHjUZg
 ﻿Narodna]Nedeljko Bajić Baja}Snaga vetra=http://www.youtube.com/watch?v=9u1SBxHC_6o
-﻿Narodna]Nedeljko Bajić Baja}Snovi od stakla=http://www.youtube.com/watch?v=K8HC3WZq3qo
+﻿Narodna]Nedeljko Bajić Baja}Snovi od stakla=http://www.youtube.com/watch?v=Nh-NPdWHCEY
 ﻿Narodna]Nedeljko Bajić Baja}Šta ti fali kad ti ništa ne fali=https://www.youtube.com/watch?v=ITo09tAjAIo
 ﻿Narodna]Nedeljko Bajić Baja}Šta me briga=https://www.youtube.com/watch?v=Aa9wMCFvb1s
 ﻿Narodna]Nedeljko Bajić Baja}Ti oprosti=http://www.youtube.com/watch?v=zkfBwvHX5vs
@@ -13845,7 +13845,7 @@
 ﻿Rok Strani]Rolling Stones}Dancing In The Light=http://www.youtube.com/watch?v=-QoTFxMa6EA
 ﻿Rok Strani]Rolling Stones}Dancing With Mr. D.=http://www.youtube.com/watch?v=Z_S532DjrZk
 ﻿Rok Strani]Rolling Stones}Dandelion=http://www.youtube.com/watch?v=Rlb23Vh8s_o
-﻿Rok Strani]Rolling Stones}Dangerous Beauty=http://www.youtube.com/watch?v=86upWa1lJ6E
+﻿Rok Strani]Rolling Stones}Dangerous Beauty=http://www.youtube.com/watch?v=NA9bwdiwdxQ
 ﻿Rok Strani]Rolling Stones}Dead Flowers=http://www.youtube.com/watch?v=jzKG5WS1yMk
 ﻿Rok Strani]Rolling Stones}Dear Doctor=http://www.youtube.com/watch?v=A4VpZkSM20A
 ﻿Rok Strani]Rolling Stones}Dirty Work=http://www.youtube.com/watch?v=wXtruXusMdU
@@ -13936,7 +13936,7 @@
 ﻿Rok Strani]Rolling Stones}If You Let Me=http://www.youtube.com/watch?v=xuezWjQkFbY
 ﻿Rok Strani]Rolling Stones}If You Need Me=http://www.youtube.com/watch?v=N6xoCLLFEUk
 ﻿Rok Strani]Rolling Stones}If You Really Want To Be My Friend=http://www.youtube.com/watch?v=Usgnm7xNgJI
-﻿Rok Strani]Rolling Stones}In Another Land=http://www.youtube.com/watch?v=8VluNbHe368
+﻿Rok Strani]Rolling Stones}In Another Land=http://www.youtube.com/watch?v=bLr18dXD-6w
 ﻿Rok Strani]Rolling Stones}Indian Girl=http://www.youtube.com/watch?v=SvLGadrbBCo
 ﻿Rok Strani]Rolling Stones}Infamy=http://www.youtube.com/watch?v=gjCzVR_N7R0
 ﻿Rok Strani]Rolling Stones}It Must Be Hell=http://www.youtube.com/watch?v=orldCDC07gc
@@ -13947,7 +13947,7 @@
 ﻿Rok Strani]Rolling Stones}Jig-Saw Puzzle=http://www.youtube.com/watch?v=rWFxBqiZya0
 ﻿Rok Strani]Rolling Stones}Jiving Sister Fanny=http://www.youtube.com/watch?v=G0fcqfgJJeE
 ﻿Rok Strani]Rolling Stones}Jump On Top Of Me=http://www.youtube.com/watch?v=vWoqv8_JgiM
-﻿Rok Strani]Rolling Stones}Jumping Jack Flash=http://www.youtube.com/watch?v=eQSGw0hMd_I
+﻿Rok Strani]Rolling Stones}Jumping Jack Flash=--start-time=30 http://www.youtube.com/watch?v=Sf7x_sqUmKo
 ﻿Rok Strani]Rolling Stones}Just Like I Treat You=http://www.youtube.com/watch?v=IgV416-xqfQ
 ﻿Rok Strani]Rolling Stones}Just My Imagination (Running Away With Me)=http://www.youtube.com/watch?v=7RIRul-cKoc
 ﻿Rok Strani]Rolling Stones}Just Your Fool=http://www.youtube.com/watch?v=PacX2YgdLOo
@@ -13957,7 +13957,7 @@
 ﻿Rok Strani]Rolling Stones}Let It Bleed=http://www.youtube.com/watch?v=3GxoSr3CHdI
 ﻿Rok Strani]Rolling Stones}Let It Loose=http://www.youtube.com/watch?v=j2k_KfvxBW8
 ﻿Rok Strani]Rolling Stones}Let It Rock=http://www.youtube.com/watch?v=lqFoLwKOznQ
-﻿Rok Strani]Rolling Stones}Let Me Down Slow=http://www.youtube.com/watch?v=mtQtiT6Es38
+﻿Rok Strani]Rolling Stones}Let Me Down Slow=http://www.youtube.com/watch?v=_2iMrlgq9ZQ
 ﻿Rok Strani]Rolling Stones}Let Me Go=http://www.youtube.com/watch?v=A61hGdI0m3Q
 ﻿Rok Strani]Rolling Stones}Let's Spend The Night Together=http://www.youtube.com/watch?v=pAOQkSFTKMw
 ﻿Rok Strani]Rolling Stones}Lies=http://www.youtube.com/watch?v=KvDJyVbOQt8
@@ -14012,7 +14012,7 @@
 ﻿Rok Strani]Rolling Stones}Paint It Black=http://www.youtube.com/watch?v=-MZBLnk9YOk
 ﻿Rok Strani]Rolling Stones}Parachute Woman=http://www.youtube.com/watch?v=4Fp1M0dpC7w
 ﻿Rok Strani]Rolling Stones}Pass The Wine (Sophia Loren)=http://www.youtube.com/watch?v=qgnG85U4q0k
-﻿Rok Strani]Rolling Stones}Play With Fire=http://www.youtube.com/watch?v=_QlBTOAqHhk
+﻿Rok Strani]Rolling Stones}Play With Fire=--start-time=3 http://www.youtube.com/watch?v=8gKmmaZrJpc
 ﻿Rok Strani]Rolling Stones}Please Go Home=http://www.youtube.com/watch?v=akVW78_QD9U
 ﻿Rok Strani]Rolling Stones}Plundered My Soul=http://www.youtube.com/watch?v=u6ZnmXrRUIQ
 ﻿Rok Strani]Rolling Stones}Pretty Beat Up=http://www.youtube.com/watch?v=g9Dl0-mWQME
@@ -14026,7 +14026,7 @@
 ﻿Rok Strani]Rolling Stones}Rocks Off=http://www.youtube.com/watch?v=_lNP-x94-SE
 ﻿Rok Strani]Rolling Stones}Rough Justice=http://www.youtube.com/watch?v=CqVSsidA7yA
 ﻿Rok Strani]Rolling Stones}Route 66=http://www.youtube.com/watch?v=BE36QIwwkOc
-﻿Rok Strani]Rolling Stones}Ruby Tuesday=http://www.youtube.com/watch?v=a00_tPLcE_g
+﻿Rok Strani]Rolling Stones}Ruby Tuesday=http://www.youtube.com/watch?v=ifOmL_pWpj0
 ﻿Rok Strani]Rolling Stones}Sad Sad Sad=http://www.youtube.com/watch?v=ndmrDNl3-k4
 ﻿Rok Strani]Rolling Stones}Saint Of Me=http://www.youtube.com/watch?v=obGCaVC69Y0
 ﻿Rok Strani]Rolling Stones}Salt Of The Earth=http://www.youtube.com/watch?v=P2bxix3vFYM
@@ -14070,7 +14070,6 @@
 ﻿Rok Strani]Rolling Stones}Sweet Neo Con=http://www.youtube.com/watch?v=fwj6ZGMF_uA
 ﻿Rok Strani]Rolling Stones}Sweet Virginia=http://www.youtube.com/watch?v=JS7QkXwiN_0
 ﻿Rok Strani]Rolling Stones}Sweethearts Together=http://www.youtube.com/watch?v=vbm3bwlCAfk
-﻿Rok Strani]Rolling Stones}Sympathy For The Devil=http://www.youtube.com/watch?v=vBecM3CQVD8
 ﻿Rok Strani]Rolling Stones}Take It Or Leave It=http://www.youtube.com/watch?v=RKdNu39kghQ
 ﻿Rok Strani]Rolling Stones}Talkin' About You=http://www.youtube.com/watch?v=93erhvAjQZ4
 ﻿Rok Strani]Rolling Stones}Tell Me=http://www.youtube.com/watch?v=LJEhZqZNjXM
