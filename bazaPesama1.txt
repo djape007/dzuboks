@@ -1255,7 +1255,7 @@
 ﻿Zabavna]Andrija Marković}Iskoristi me=http://www.youtube.com/watch?v=psGOCE1WO14
 ﻿Zabavna]Andrija Marković}Mala=http://www.youtube.com/watch?v=SqOcFRsJW-s
 ﻿Zabavna]Andrija Marković}Noći balkanske=http://www.youtube.com/watch?v=OuarfFWNCkI
-﻿Zabavna]Andrija Marković}Ona mi fali=http://www.youtube.com/watch?v=RYRi4Q4ggI0
+﻿Zabavna]Andrija Marković}Ona mi fali=https://www.youtube.com/watch?v=rKWZzzyEWVc
 ﻿Zabavna]Andrija Marković}Popravi me=http://www.youtube.com/watch?v=fenMYsMU7vI
 ﻿Zabavna]Andrija Marković}Slab sam na plavuše=http://www.youtube.com/watch?v=u6FQ0UW2sfM
 ﻿Zabavna]Andrija Marković}Sneg u proleće=http://www.youtube.com/watch?v=PR0Ftx_uOyI
@@ -1506,7 +1506,6 @@
 ﻿Rok]Azra}Kurvini sinovi=http://www.youtube.com/watch?v=5xRxhu_Qk3g
 ﻿Rok]Azra}Lepe žene prolaze kroz grad=http://www.youtube.com/watch?v=84CaXFJfLEo
 ﻿Rok]Azra}Linda Lane=http://www.youtube.com/watch?v=xUGDBLQgDIA
-﻿Rok]Azra}Ljudi samoće=http://www.youtube.com/watch?v=7xbY9xHqYYo
 ﻿Rok]Azra}Marina=http://www.youtube.com/watch?v=XOD4kQsWhRQ
 ﻿Rok]Azra}Melankolija=http://www.youtube.com/watch?v=E2kSgBjrOkQ
 ﻿Rok]Azra}Meni se, dušo, od tebe ne rastaje=http://www.youtube.com/watch?v=NnIxSWLF1gY
@@ -3730,7 +3729,7 @@
 ﻿Narodna]Dara Bubamara}Džoni, Džoni=http://www.youtube.com/watch?v=6RvyQUI6PvQ
 ﻿Narodna]Dara Bubamara}Extravagantno=http://www.youtube.com/watch?v=BQQNe88eVac
 ﻿Narodna]Dara Bubamara}Folirantu, prevarantu=http://www.youtube.com/watch?v=0ldX3mrYqjg
-﻿Narodna]Dara Bubamara}Galama=http://www.youtube.com/watch?v=FbUl2sZIF88
+﻿Narodna]Dara Bubamara}Galama=--start-time=4 http://www.youtube.com/watch?v=iVbtntt_Ub8
 ﻿Narodna]Dara Bubamara}Gar=http://www.youtube.com/watch?v=AXbLQz7DJws
 ﻿Narodna]Dara Bubamara}Golube=http://www.youtube.com/watch?v=5KMJuj4tftU
 ﻿Narodna]Dara Bubamara}Iz dana u dan=http://www.youtube.com/watch?v=arO0FoqpyZ0
@@ -6710,7 +6709,7 @@
 ﻿Rok]Goblini}Pečenja i rakije=http://www.youtube.com/watch?v=juw3gXXMeq8
 ﻿Rok]Goblini}Pesma o ribaru Marinu, Marini i moru=http://www.youtube.com/watch?v=sF5I77X69Yg
 ﻿Rok]Goblini}Petra=http://www.youtube.com/watch?v=5S6PGNeUG2Q
-﻿Rok]Goblini}Pod ledom=http://www.youtube.com/watch?v=1lT-ItlmawI
+﻿Rok]Goblini}Pod ledom=http://www.youtube.com/watch?v=DBUiQlXfdOY
 ﻿Rok]Goblini}Ponedeljak=http://www.youtube.com/watch?v=mLRA4HWPeO4
 ﻿Rok]Goblini}Pozdrav Suncu=http://www.youtube.com/watch?v=D9QptOHsU10
 ﻿Rok]Goblini}Pričaš=http://www.youtube.com/watch?v=KxxBdm_qWN4
@@ -6718,7 +6717,7 @@
 ﻿Rok]Goblini}Punk's not dead=http://www.youtube.com/watch?v=dUI_INIo3t4
 ﻿Rok]Goblini}Reci da=http://www.youtube.com/watch?v=D6SOr3Fas0s
 ﻿Rok]Goblini}Sam-phone-glas=http://www.youtube.com/watch?v=dfVAbEOPIXI
-﻿Rok]Goblini}Savršen svet=http://www.youtube.com/watch?v=QFPIBGVbHbg
+﻿Rok]Goblini}Savršen svet=http://www.youtube.com/watch?v=_vxHT0Yj1WM
 ﻿Rok]Goblini}Splet okolnosti=http://www.youtube.com/watch?v=c7ZAkwCGdu8
 ﻿Rok]Goblini}TV=http://www.youtube.com/watch?v=3Yiqwdy9xzM
 ﻿Rok]Goblini}Telefon=http://www.youtube.com/watch?v=DC4LdvkZy8U
@@ -9403,6 +9402,7 @@
 ﻿Narodna]Jovan Perišić}Igraj=http://www.youtube.com/watch?v=O1YB6XwncjQ
 ﻿Narodna]Jovan Perišić}Ja još u ljubav verujem=http://www.youtube.com/watch?v=elc4ZMwDhHQ
 ﻿Narodna]Jovan Perišić}Ja noćas plaćam sve=http://www.youtube.com/watch?v=LzAuoUGIJx4
+﻿Narodna]Jovan Perišić}Jednom majka rađa (ft. MC Stojan)=--start-time=24 https://www.youtube.com/watch?v=cLvHV2eKb2Y
 ﻿Narodna]Jovan Perišić}Još uvek te volim=http://www.youtube.com/watch?v=aESul6k1Ihs
 ﻿Narodna]Jovan Perišić}Kako je, tako je=http://www.youtube.com/watch?v=qfxxzmL-v5M
 ﻿Narodna]Jovan Perišić}Koja bi mene ljubila=http://www.youtube.com/watch?v=LnhbVScTP1g
@@ -9579,6 +9579,7 @@
 ﻿Narodna]Katarina Grujić}Lutka=--start-time=6 http://www.youtube.com/watch?v=X7Vjkn2bD1E
 ﻿Narodna]Katarina Grujić}Paranoičan=--start-time=9 http://www.youtube.com/watch?v=_lr4PZUmf3o
 ﻿Narodna]Katarina Grujić}Nisam kao druge=--start-time=5 https://www.youtube.com/watch?v=iAiNjGmFV6E
+﻿Narodna]Katarina Grujić}Ti i ja=https://www.youtube.com/watch?v=h8tUHv32h9Y
 ﻿Zabavna]Katarina Kovačević}Hajde, nazdravi bivšoj ljubavi=http://www.youtube.com/watch?v=npOj5nwiOhw
 ﻿Zabavna]Katarina Kovačević}Neizlečivo zaljubljena=http://www.youtube.com/watch?v=qEJ6htTSrdA
 ﻿Zabavna]Katarina Kovačević}Svetica=http://www.youtube.com/watch?v=9gY8CkMPhrk
@@ -10737,7 +10738,7 @@
 ﻿Rok Strani]Led Zeppelin}Going to california=https://www.youtube.com/watch?v=7IZ-jATBq9A
 ﻿Rok Strani]Led Zeppelin}Good times bad times=https://www.youtube.com/watch?v=1ppjI6KZHlE
 ﻿Rok Strani]Led Zeppelin}Heartbreaker=https://www.youtube.com/watch?v=EUFGJvYlPFk
-﻿Rok Strani]Led Zeppelin}Hey hey what can i do=https://www.youtube.com/watch?v=YGEsWTYCliY
+﻿Rok Strani]Led Zeppelin}Hey hey what can i do=--start-time=13 http://www.youtube.com/watch?v=pFLR5t5q0yQ
 ﻿Rok Strani]Led Zeppelin}Hots on for nowhere=--start-time=6 https://www.youtube.com/watch?v=Vu5aQa4X9g0
 ﻿Rok Strani]Led Zeppelin}Houses of the holy=https://www.youtube.com/watch?v=s8e6VZTDBvs
 ﻿Rok Strani]Led Zeppelin}I can't quit you baby=https://www.youtube.com/watch?v=84GOPAWTwac
@@ -11434,7 +11435,6 @@
 ﻿Rok Strani]Rammstein}Benzin=https://www.youtube.com/watch?v=z0wK6s-6cbo
 ﻿Rok Strani]Rammstein}Bestrafe mich=http://www.youtube.com/watch?v=QBlkD1NjtxE
 ﻿Rok Strani]Rammstein}Buckstabu=https://www.youtube.com/watch?v=ri0kmuyec1Q
-﻿Rok Strani]Rammstein}Dalai lama=--start-time=15 https://www.youtube.com/watch?v=henL_vMfUQ8
 ﻿Rok Strani]Rammstein}Donaukinder=https://www.youtube.com/watch?v=Oi-ixUoWAOU
 ﻿Rok Strani]Rammstein}Du hast=https://www.youtube.com/watch?v=W3q8Od5qJio
 ﻿Rok Strani]Rammstein}Du riechst so gut=https://www.youtube.com/watch?v=rrmsJhf89MY
@@ -13862,7 +13862,7 @@
 ﻿Rok Strani]Eric Clapton}Last Fair Deal Gone Down=http://www.youtube.com/watch?v=h_unEbilNHI
 ﻿Rok Strani]Eric Clapton}Last Night=http://www.youtube.com/watch?v=VurSo06Fr9s
 ﻿Rok Strani]Eric Clapton}Lawdy Mama=http://www.youtube.com/watch?v=RkgukTU3iIg
-﻿Rok Strani]Eric Clapton}Layla (Acoustic)=--start-time=12 http://www.youtube.com/watch?v=Q_L-0Ryhmic
+﻿Rok Strani]Eric Clapton}Layla=https://www.youtube.com/watch?v=0WUdlaLWSVM
 ﻿Rok Strani]Eric Clapton}Lay Down Sally=http://www.youtube.com/watch?v=9hQqP6RNnDE
 ﻿Rok Strani]Eric Clapton}Lead Me On=http://www.youtube.com/watch?v=G-DfERRViNo
 ﻿Rok Strani]Eric Clapton}Let It Grow=http://www.youtube.com/watch?v=KXDf9UwHGF4
@@ -15178,7 +15178,6 @@
 ﻿Rok Strani]Iggy Pop}I Won't Crap Out=http://www.youtube.com/watch?v=woa3_p077a8
 ﻿Rok Strani]Iggy Pop}I'm A Conservative=http://www.youtube.com/watch?v=sSciv_hdeZk
 ﻿Rok Strani]Iggy Pop}I'm Bored=http://www.youtube.com/watch?v=7NuaK29J1fM
-﻿Rok Strani]Iggy Pop}In The Lobby=http://www.youtube.com/watch?v=F-tBAchjCQI
 ﻿Rok Strani]Iggy Pop}Innocent World=http://www.youtube.com/watch?v=yoh-C84wIyc
 ﻿Rok Strani]Iggy Pop}Instinct=http://www.youtube.com/watch?v=uREE4Ycmy-I
 ﻿Rok Strani]Iggy Pop}It's All Shit=http://www.youtube.com/watch?v=ckkzH3tHsEg
@@ -15895,7 +15894,6 @@
 ﻿Rok Strani]Judas Priest}Living Bad Dreams=http://www.youtube.com/watch?v=7t2XPPqglb8
 ﻿Rok Strani]Judas Priest}Locked In=http://www.youtube.com/watch?v=Zr6rChjsWgs
 ﻿Rok Strani]Judas Priest}Lost And Found=http://www.youtube.com/watch?v=Fas2yr3PEB4
-﻿Rok Strani]Judas Priest}Lost Love=http://www.youtube.com/watch?v=v8CTu5NOrs8
 ﻿Rok Strani]Judas Priest}Love Bites=http://www.youtube.com/watch?v=PWFkhLUcvo0
 ﻿Rok Strani]Judas Priest}Love You To Death=http://www.youtube.com/watch?v=HTM2ZA7jdDc
 ﻿Rok Strani]Judas Priest}Love Zone=http://www.youtube.com/watch?v=Zql7O8xjXmE

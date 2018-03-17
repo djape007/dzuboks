@@ -479,6 +479,7 @@
 ﻿Zabavna]MC Stojan}Haljina bez leđa=--start-time=6 http://www.youtube.com/watch?v=aY315DSuhVw
 ﻿Zabavna]MC Stojan}Kakva guza=http://www.youtube.com/watch?v=rruNDmgcLzQ
 ﻿Zabavna]MC Stojan}Kraljevi grada=--start-time=13 http://www.youtube.com/watch?v=37b4KkJDEDs
+﻿Zabavna]MC Stojan}Jednom majka rađa (ft. Jovan Perišić)=--start-time=24 https://www.youtube.com/watch?v=cLvHV2eKb2Y
 ﻿Zabavna]MC Stojan}Luda žurka=--start-time=6 http://www.youtube.com/watch?v=y943qF58Hug
 ﻿Zabavna]MC Stojan}Mein schatzi (feat. Darko Lazić)=--start-time=16 http://www.youtube.com/watch?v=tuWM6uG79RI
 ﻿Zabavna]MC Stojan}Nadice isprži mi jaja=http://www.youtube.com/watch?v=MIobbX7pguE
@@ -6525,7 +6526,8 @@
 ﻿Zabavna]Saša Kapor}Podrum vina=http://www.youtube.com/watch?v=RcWdLmOGpWA
 ﻿Zabavna]Saša Kapor}Sipaj ne pitaj=http://www.youtube.com/watch?v=nieeKAhpiUA
 ﻿Zabavna]Saša Kapor}Sveća za zdravlje=http://www.youtube.com/watch?v=RBQinJNkKcE
-﻿Zabavna]Saša Kovačević}Bežimo iz grada=http://www.youtube.com/watch?v=g47cXq5ZH-o
+Zabavna]Saša Kovačević}Bez tebe me nema=--start-time=52 ﻿https://www.youtube.com/watch?v=5klMUvkvMe4
+Zabavna]Saša Kovačević}Bežimo iz grada=http://www.youtube.com/watch?v=g47cXq5ZH-o
 ﻿Zabavna]Saša Kovačević}Bolji čovek=http://www.youtube.com/watch?v=jG1ACxB12G8
 ﻿Zabavna]Saša Kovačević}Idemo do mene=http://www.youtube.com/watch?v=yNLZqQjs-oI
 ﻿Zabavna]Saša Kovačević}Jasno ko dan=http://www.youtube.com/watch?v=acm23Y3XbKo
@@ -7159,7 +7161,7 @@
 ﻿Narodna]Selma Bajrami}Rukujmo se kao prijatelji=http://www.youtube.com/watch?v=7VhgaMCFCb0
 ﻿Narodna]Selma Bajrami}Tijelo bez duše=http://www.youtube.com/watch?v=aTj1ISwaDG0
 ﻿Narodna]Selma Bajrami}Tijelo uz tijelo=http://www.youtube.com/watch?v=nEFOsR7qPjM
-﻿Narodna]Selma Bajrami}Voli me do bola=http://www.youtube.com/watch?v=_8mJkiKBOBQ
+﻿Narodna]Selma Bajrami}Voli me do bola=--start-time=31 http://www.youtube.com/watch?v=VjDxDLfQo28
 ﻿Narodna]Selma Bajrami}Zakon sudbine=http://www.youtube.com/watch?v=m6jyNJVAcPw
 ﻿Narodna]Selma Bajrami}Žalim=http://www.youtube.com/watch?v=L43YRHJbfR0
 ﻿Narodna]Selma Bajrami}Živa zdrava=http://www.youtube.com/watch?v=CJg6PMlTqFk
@@ -7264,7 +7266,7 @@
 ﻿Narodna]Šemsa Suljaković}Sve, samo s' tobom ne=http://www.youtube.com/watch?v=wuoecqIoW-w
 ﻿Narodna]Šemsa Suljaković}Svetom putuju ljubav i tuga=http://www.youtube.com/watch?v=9yawv9XzyvI
 ﻿Narodna]Šemsa Suljaković}Tebi idem=http://www.youtube.com/watch?v=Z_EbWTxITT0
-﻿Narodna]Šemsa Suljaković}Ti i dalje živiš=http://www.youtube.com/watch?v=pskw5pY12O0
+﻿Narodna]Šemsa Suljaković}Ti i dalje živiš=http://www.youtube.com/watch?v=7X5XhSUF4P4
 ﻿Narodna]Šemsa Suljaković}Tugo moja, kome da te pričam=http://www.youtube.com/watch?v=fLCHZzg8N7s
 ﻿Narodna]Šemsa Suljaković}Učini nešto=http://www.youtube.com/watch?v=a0H7kJ8m4JI
 ﻿Narodna]Šemsa Suljaković}Ugasi svetlo=http://www.youtube.com/watch?v=zODA23PDxWY
@@ -11120,11 +11122,11 @@
 ﻿Rok Strani]AC-DC}Have a drink on me=http://www.youtube.com/watch?v=m4TV6UDfbLg
 ﻿Rok Strani]AC-DC}Let me put my love into you=http://www.youtube.com/watch?v=Z0ve83PMs3w
 ﻿Rok Strani]AC-DC}Givin' the dog a bone=https://www.youtube.com/watch?v=EQ3swBEBqBc
-﻿Rok Strani]AC-DC}War machine=https://www.youtube.com/watch?v=hjlBMl6f3hU
+﻿Rok Strani]AC-DC}War machine=http://www.youtube.com/watch?v=5ydMwunUytU
 ﻿Rok Strani]AC-DC}Black ice=https://www.youtube.com/watch?v=3TIDudfnSCI
-﻿Rok Strani]AC-DC}Skies on fire=https://www.youtube.com/watch?v=_22npNtUP20
-﻿Rok Strani]AC-DC}Spoilin for a fight=https://www.youtube.com/watch?v=jBAy028wOPk
-﻿Rok Strani]AC-DC}Smash 'n' grab=https://www.youtube.com/watch?v=5MqEnxFYxbw
+﻿Rok Strani]AC-DC}Skies on fire=http://www.youtube.com/watch?v=Ueqdg6IY4aQ
+﻿Rok Strani]AC-DC}Spoilin for a fight=http://www.youtube.com/watch?v=Y-ddcNA_Bpo
+﻿Rok Strani]AC-DC}Smash 'n' grab=http://www.youtube.com/watch?v=ezOhuakgf4c
 ﻿Rok Strani]AC-DC}Wheels=https://www.youtube.com/watch?v=P3_aUY_P01g
 ﻿Rok Strani]AC-DC}Decibel=https://www.youtube.com/watch?v=1uH6JNRsx9I
 ﻿Rok Strani]AC-DC}The razors edge=https://www.youtube.com/watch?v=Ihu9UtNjmXM
@@ -13635,7 +13637,7 @@
 ﻿Rok Strani]Ramones}Now I Wanna Be A Good Boy=http://www.youtube.com/watch?v=6Vt7pjsAmAQ
 ﻿Rok Strani]Ramones}Now I Wanna Sniff Some Glue=http://www.youtube.com/watch?v=FwJnnf1Ogcw
 ﻿Rok Strani]Ramones}Oh Oh I Love Her So=http://www.youtube.com/watch?v=f8HxnhD4c6k
-﻿Rok Strani]Ramones}Out Of Time=http://www.youtube.com/watch?v=xjb4DB2njLA
+﻿Rok Strani]Ramones}Out Of Time=http://www.youtube.com/watch?v=r07Nr0Y5NK8
 ﻿Rok Strani]Ramones}Outsider=http://www.youtube.com/watch?v=5Qzd-Ko3Nqo
 ﻿Rok Strani]Ramones}Palisades Park=http://www.youtube.com/watch?v=uHBIQ9frC88
 ﻿Rok Strani]Ramones}Pet Sematary=http://www.youtube.com/watch?v=F3J0iwwsq-w
