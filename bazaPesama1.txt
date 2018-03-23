@@ -3272,7 +3272,7 @@
 ﻿Rok]Crvena Jabuka}Reci mi=http://www.youtube.com/watch?v=eCQGgkbUT0I
 ﻿Rok]Crvena Jabuka}Riznice sjećanja=http://www.youtube.com/watch?v=qp9-z8bUDko
 ﻿Rok]Crvena Jabuka}Rođendan=http://www.youtube.com/watch?v=YKsksDrZs8s
-﻿Rok]Crvena Jabuka}Sa tvojih usana=http://www.youtube.com/watch?v=8wePV_2toG0
+﻿Rok]Crvena Jabuka}Sa tvojih usana=http://www.youtube.com/watch?v=sFDyNjZ7Nc4
 ﻿Rok]Crvena Jabuka}Sad je srce stijena=http://www.youtube.com/watch?v=6AC1rKg2VHc
 ﻿Rok]Crvena Jabuka}Samo da me ne iznevjeriš ti=http://www.youtube.com/watch?v=FXLR1kmQItc
 ﻿Rok]Crvena Jabuka}Šampanjski poljubac=http://www.youtube.com/watch?v=s-8oQ4NWoCU
@@ -4187,7 +4187,7 @@
 ﻿Zabavna]Dino Dvornik}Žigolo=http://www.youtube.com/watch?v=lgsFZxJq-1E
 ﻿Zabavna]Dino Dvornik}Život moj=http://www.youtube.com/watch?v=bQ5eLrqWUMw
 ﻿Zabavna]Dino Dvornik}Zmaja dah=http://www.youtube.com/watch?v=6XGOK1kgi1I
-﻿Zabavna]Dino Merlin}A šta imam ja od tog=http://www.youtube.com/watch?v=xuROwfjHhAg
+﻿Zabavna]Dino Merlin}A šta imam ja od tog=http://www.youtube.com/watch?v=FGktPG0Pm_c
 ﻿Zabavna]Dino Merlin}Ako me ikada sretneš=http://www.youtube.com/watch?v=tBTR2arLSQQ
 ﻿Zabavna]Dino Merlin}Ako nastaviš ovako=https://www.youtube.com/watch?v=AHRs2NcPuXg
 ﻿Zabavna]Dino Merlin}Da je tuga sneg=http://www.youtube.com/watch?v=nO4gCGm5bhg
@@ -4735,8 +4735,8 @@
 ﻿Narodna]Donna Ares}Fantastična=http://www.youtube.com/watch?v=2H_CNORHTs8
 ﻿Narodna]Donna Ares}Godine=http://www.youtube.com/watch?v=PfOqBhIG2os
 ﻿Narodna]Donna Ares}Idemo do dna=http://www.youtube.com/watch?v=LWhqRsMqQZ0
-﻿Narodna]Donna Ares}Idi idi=http://www.youtube.com/watch?v=8tXLmua6Rg0
-﻿Narodna]Donna Ares}Idi, idi moja vilo=http://www.youtube.com/watch?v=8tXLmua6Rg0
+﻿Narodna]Donna Ares}Idi idi=http://www.youtube.com/watch?v=_U4hRSK3Kck
+﻿Narodna]Donna Ares}Idi, idi moja vilo=http://www.youtube.com/watch?v=9jmbC85A5XM
 ﻿Narodna]Donna Ares}Ja bih kao ti=http://www.youtube.com/watch?v=16CMnDV7O8w
 ﻿Narodna]Donna Ares}Ja sam tatin sin=http://www.youtube.com/watch?v=QZxYIBrKWrc
 ﻿Narodna]Donna Ares}Kasno za nas=http://www.youtube.com/watch?v=1pYCnrpZ60s
@@ -4746,7 +4746,7 @@
 ﻿Narodna]Donna Ares}Mašina=http://www.youtube.com/watch?v=BCmWOqxI_zY
 ﻿Narodna]Donna Ares}Ne vjerujem nikome=http://www.youtube.com/watch?v=5AZYbiQA1d0
 ﻿Narodna]Donna Ares}Ne volim te više=http://www.youtube.com/watch?v=Fk_mJgZoyCQ
-﻿Narodna]Donna Ares}Nemam razloga za strah=http://www.youtube.com/watch?v=pMETAtvKCPc
+﻿Narodna]Donna Ares}Nemam razloga za strah=http://www.youtube.com/watch?v=VY_-zlEoQSs
 ﻿Narodna]Donna Ares}Nemoj da pogađam=http://www.youtube.com/watch?v=lNIcB8bfFto
 ﻿Narodna]Donna Ares}Noći lude i kafane=http://www.youtube.com/watch?v=SuqlnwyGda4
 ﻿Narodna]Donna Ares}Ostavljaš me noćas=http://www.youtube.com/watch?v=vmPsKhbpnXI
@@ -10756,7 +10756,6 @@
 ﻿Rok Strani]Led Zeppelin}No quarter=--start-time=3 https://www.youtube.com/watch?v=Pu94mWlgzMY
 ﻿Rok Strani]Led Zeppelin}Nobody's fault but mine=https://www.youtube.com/watch?v=f0HOf3uR5-4
 ﻿Rok Strani]Led Zeppelin}Over the hills and far away=https://www.youtube.com/watch?v=QKdkFKResr4
-﻿Rok Strani]Led Zeppelin}Rain song=https://www.youtube.com/watch?v=HZ4uzD_hLds
 ﻿Rok Strani]Led Zeppelin}Rock and roll=https://www.youtube.com/watch?v=mwFqRB2FQu4
 ﻿Rok Strani]Led Zeppelin}Royal Orleans=https://www.youtube.com/watch?v=OUHjo111vkw
 ﻿Rok Strani]Led Zeppelin}Stairway to Heaven=https://www.youtube.com/watch?v=D9ioyEvdggk
@@ -12123,7 +12122,7 @@
 ﻿Rok Strani]Alice in Chains}Get Born Again=http://www.youtube.com/watch?v=xKHUwfFb2lw
 ﻿Rok Strani]Alice in Chains}God Am=http://www.youtube.com/watch?v=c1ebCHFNeMo
 ﻿Rok Strani]Alice in Chains}God Smack=http://www.youtube.com/watch?v=hmOSizEukP8
-﻿Rok Strani]Alice in Chains}Got Me Wrong=http://www.youtube.com/watch?v=HTRNJKYAGLw
+﻿Rok Strani]Alice in Chains}Got Me Wrong=https://www.youtube.com/watch?v=eRx7QdT8EZA
 ﻿Rok Strani]Alice in Chains}Grind=http://www.youtube.com/watch?v=83gddxVpitc
 ﻿Rok Strani]Alice in Chains}Hate To Feel=http://www.youtube.com/watch?v=eiOjK_Wng7I
 ﻿Rok Strani]Alice in Chains}Head Creeps=http://www.youtube.com/watch?v=sch_6qBa5F8
@@ -13216,7 +13215,7 @@
 ﻿Rok Strani]Cheap Trick}Rock 'N' Roll Tonight=http://www.youtube.com/watch?v=5zToD3Bib3o
 ﻿Rok Strani]Cheap Trick}Rock All Night=http://www.youtube.com/watch?v=CVLwPONR-k8
 ﻿Rok Strani]Cheap Trick}Roll Me=http://www.youtube.com/watch?v=BcQq8CFREgM
-﻿Rok Strani]Cheap Trick}Saturday At Midnight=http://www.youtube.com/watch?v=PT0kAqdOYG0
+﻿Rok Strani]Cheap Trick}Saturday At Midnight=http://www.youtube.com/watch?v=9ovkcLOX57w
 ﻿Rok Strani]Cheap Trick}Say Goodbye=http://www.youtube.com/watch?v=oOAl2TKBA0w
 ﻿Rok Strani]Cheap Trick}Scent Of A Woman=http://www.youtube.com/watch?v=J9Z7_Hwcy00
 ﻿Rok Strani]Cheap Trick}She's Alright=http://www.youtube.com/watch?v=5UGAB7DMIRk
