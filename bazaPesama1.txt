@@ -14,7 +14,6 @@
 ﻿Rep]187}Princeza sa asfalta=--start-time=8 https://www.youtube.com/watch?v=qiqiMGPazIg
 ﻿Rep]187}U senci=https://www.youtube.com/watch?v=YrNEPY2uWjU
 ﻿Rep]187}Tamna strana=https://www.youtube.com/watch?v=bgD4RvRbR18
-﻿Rep]187}Tamna strana=https://www.youtube.com/watch?v=bgD4RvRbR18
 ﻿Rep]187}Lavovi=https://www.youtube.com/watch?v=hsPGdLbecZM
 ﻿Rep]187}Pumpaj=https://www.youtube.com/watch?v=NtPA4aI4Dco
 ﻿Rep]187}Tvoja devojka=https://www.youtube.com/watch?v=qgy1pfZN0No
@@ -3503,7 +3502,7 @@
 ﻿Rok]Dado Topić}Uzalud je sve=http://www.youtube.com/watch?v=BJYPPt3kW3I
 ﻿Rok]Dado Topić}Vjerujem u ljubav=http://www.youtube.com/watch?v=YyUwC-SKoKI
 ﻿Rok]Dado Topić}Za koji život treba da se rodim=http://www.youtube.com/watch?v=19fnkqAJdJA
-﻿Narodna]Dajana Penezić}Adrenalin=http://www.youtube.com/watch?v=h1tR-9N4pSo
+﻿Narodna]Dajana Penezić}Adrenalin=http://www.youtube.com/watch?v=UiTwOCE1cTI
 ﻿Narodna]Dajana Penezić}Glava ili pismo=http://www.youtube.com/watch?v=f2F97twPW6g
 ﻿Narodna]Dajana Penezić}Hitno=http://www.youtube.com/watch?v=6a8VfxD6v-0
 ﻿Narodna]Dajana Penezić}Kume moj=http://www.youtube.com/watch?v=U_POpcN8qfw
@@ -3970,7 +3969,6 @@
 ﻿Narodna]Davor Badrov}Duša mangupska=http://www.youtube.com/watch?v=Se-dWrAOvbU
 ﻿Narodna]Davor Badrov}Hajmo hajmo na ex=http://www.youtube.com/watch?v=yigQqC61oc4
 ﻿Narodna]Davor Badrov}Helena=http://www.youtube.com/watch?v=QdIxc2-3OeA
-﻿Narodna]Davor Badrov}Hitna pomoć=http://www.youtube.com/watch?v=wiDOg8Ln95E
 ﻿Narodna]Davor Badrov}Ja baraba, sve joj džaba=http://www.youtube.com/watch?v=-bUZUJKd4iQ
 ﻿Narodna]Davor Badrov}Ja sam svoj=http://www.youtube.com/watch?v=cG4re1ik8Jo
 ﻿Narodna]Davor Badrov}Jedina=http://www.youtube.com/watch?v=7HawqIBJahc
@@ -3978,7 +3976,7 @@
 ﻿Narodna]Davor Badrov}Jednom si mlad=http://www.youtube.com/watch?v=x0SAyOurrC4
 ﻿Narodna]Davor Badrov}Kaput srama=http://www.youtube.com/watch?v=tPYD77NZhXU
 ﻿Narodna]Davor Badrov}Kasmir=http://www.youtube.com/watch?v=rLO5M0GhaIw
-﻿Narodna]Davor Badrov}Kraljica dobrog provoda=http://www.youtube.com/watch?v=JvpTbpx6Jgc
+﻿Narodna]Davor Badrov}Kraljica dobrog provoda=--start-time=7 http://www.youtube.com/watch?v=ePd_h_ymeMw
 ﻿Narodna]Davor Badrov}Ljubavi=http://www.youtube.com/watch?v=R89wrqJl7Zw
 ﻿Narodna]Davor Badrov}Ludo ljeto=http://www.youtube.com/watch?v=jYgY8O6a4QE
 ﻿Narodna]Davor Badrov}Ludo srce=http://www.youtube.com/watch?v=8qOJu2hvqmg
@@ -5942,7 +5940,6 @@
 ﻿Narodna]Elma Sinanović}Tebi je sudbina=http://www.youtube.com/watch?v=0qJCKJtU1v8
 ﻿Narodna]Elma Sinanović}Tebi za ljubav=http://www.youtube.com/watch?v=QLwDvvdUAj8
 ﻿Narodna]Elma Sinanović}Ti kad ljubiš=http://www.youtube.com/watch?v=plqPCVk6kZA
-﻿Narodna]Elma Sinanović}Ti si ta=http://www.youtube.com/watch?v=_EP9UT44GOY
 ﻿Narodna]Elma Sinanović}Totalni preokret=http://www.youtube.com/watch?v=LJo5lsPNe7w
 ﻿Narodna]Elma Sinanović}Treba mi=http://www.youtube.com/watch?v=lwVx2ed7110
 ﻿Narodna]Elma Sinanović}Viđam te s njom=http://www.youtube.com/watch?v=paZc0CpePag
@@ -12127,7 +12124,7 @@
 ﻿Rok Strani]Alice in Chains}I Know Somethin' ('Bout You)=http://www.youtube.com/watch?v=qyHQzK0KwKk
 ﻿Rok Strani]Alice in Chains}I Stay Away=http://www.youtube.com/watch?v=ODTv9Lt5WYs
 ﻿Rok Strani]Alice in Chains}It Ain't Like That=http://www.youtube.com/watch?v=x3wF0mZEuBY
-﻿Rok Strani]Alice in Chains}Junkhead=http://www.youtube.com/watch?v=t6RbNhmmpRo
+﻿Rok Strani]Alice in Chains}Junkhead=http://www.youtube.com/watch?v=-4EV2OTBh7Y
 ﻿Rok Strani]Alice in Chains}Killer Is Me=http://www.youtube.com/watch?v=5uyICsRq2Ko
 ﻿Rok Strani]Alice in Chains}Killing Yourself=http://www.youtube.com/watch?v=Nzu2AfptWqo
 ﻿Rok Strani]Alice in Chains}King Of The Kats=http://www.youtube.com/watch?v=XGN4WhH1qiU
