@@ -1180,7 +1180,6 @@
 ﻿Zabavna]Ana Nikolić}Ptica skitnica=http://www.youtube.com/watch?v=VB7Qa4f-sAU
 ﻿Zabavna]Ana Nikolić}Romale, romali=http://www.youtube.com/watch?v=e51vpPQ2_t4
 ﻿Zabavna]Ana Nikolić}Šizofrenija=http://www.youtube.com/watch?v=AvE-OwWgZZA
-﻿Zabavna]Ana Nikolić}Slučajnost (ft. Rasta)=--start-time=15 http://www.youtube.com/watch?v=0fhrf-BMPxY
 ﻿Zabavna]Ana Nikolić}Solo ti, solo ja=http://www.youtube.com/watch?v=4IY7VLU0XU0
 ﻿Zabavna]Ana Nikolić}Srećan mi ne dolazi=http://www.youtube.com/watch?v=ugoMJOE6Yvc
 ﻿Zabavna]Ana Nikolić}Uvek ima jedan još=http://www.youtube.com/watch?v=564Ko4Li1HA
@@ -3367,7 +3366,6 @@
 ﻿Zabavna]Cvija}Reci brate=http://www.youtube.com/watch?v=prsZjaVx0hQ
 ﻿Zabavna]Cvija}Rulet=--start-time=6 http://www.youtube.com/watch?v=P7j63Bk4qIk
 ﻿Zabavna]Cvija}Sexy dupe=http://www.youtube.com/watch?v=lKwB11x7yIw
-﻿Zabavna]Cvija}Tako dobro (ft. Rasta)=--start-time=8 http://www.youtube.com/watch?v=TB80SNKBuu0
 ﻿Zabavna]Cvija}Ti si uvek bila tu=http://www.youtube.com/watch?v=my07PpROevY
 ﻿Zabavna]Cvija}Ubila si me=--start-time=6 http://www.youtube.com/watch?v=VkJCglIqjWs
 ﻿Zabavna]Cvija}Vodi me=http://www.youtube.com/watch?v=C_mH71wb4zY
@@ -5926,7 +5924,7 @@
 ﻿Narodna]Elma Sinanović}Otkrij mi tajnu=http://www.youtube.com/watch?v=PVAPZYX7b7k
 ﻿Narodna]Elma Sinanović}Pitam se pitam=http://www.youtube.com/watch?v=DwlwKycL-wc
 ﻿Narodna]Elma Sinanović}Priđi mi=http://www.youtube.com/watch?v=qYkYwbRSGbk
-﻿Narodna]Elma Sinanović}Protivotrov=http://www.youtube.com/watch?v=GDwYDHihHFQ
+﻿Narodna]Elma Sinanović}Protivotrov=http://www.youtube.com/watch?v=F9npoUoDB5w
 ﻿Narodna]Elma Sinanović}Ruka pravde=http://www.youtube.com/watch?v=t-Fa8cIjT1o
 ﻿Narodna]Elma Sinanović}Samo tebe volim ja=http://www.youtube.com/watch?v=2XIItWvOUgc
 ﻿Narodna]Elma Sinanović}Sat što kasni=http://www.youtube.com/watch?v=GUUfnrNSURw
@@ -5987,7 +5985,7 @@
 ﻿Zabavna]Emina Jahović}Posle mene=http://www.youtube.com/watch?v=jwyUczHv0Ug
 ﻿Zabavna]Emina Jahović}Protiv svih=--start-time=6 http://www.youtube.com/watch?v=_RI_s3hRaNU
 ﻿Zabavna]Emina Jahović}Prva dama=http://www.youtube.com/watch?v=12XoBp9S3dQ
-﻿Zabavna]Emina Jahović}Radije, ranije=http://www.youtube.com/watch?v=xw7Aa3KjkWI
+﻿Zabavna]Emina Jahović}Radije, ranije=http://www.youtube.com/watch?v=UofLO4KTa7I
 ﻿Zabavna]Emina Jahović}Sad nastavi=http://www.youtube.com/watch?v=eQrl6DDmKqk
 ﻿Zabavna]Emina Jahović}Skini ruke s mog vrata=http://www.youtube.com/watch?v=6CJLv8jPxhg
 ﻿Zabavna]Emina Jahović}Tačka=http://www.youtube.com/watch?v=0OTdzI9C38M
@@ -6001,7 +5999,6 @@
 ﻿Zabavna]Emina Jahović}Za tebe pitam=http://www.youtube.com/watch?v=KRKKG9Q_jx8
 ﻿Zabavna]Emina Jahović}Zauvek=http://www.youtube.com/watch?v=RxXLmYn8Eck
 ﻿Zabavna]Emina Jahović}Žena zmaj=http://www.youtube.com/watch?v=hvrUc6CYH70
-﻿Zabavna]Emina Jahović}Živeo=http://www.youtube.com/watch?v=5LvwaxzHcQE
 ﻿Zabavna]Emina Jahović}Zvijer=http://www.youtube.com/watch?v=CDfN19JktZI
 ﻿Zabavna]Ena Popov}Baj, baj, milo moje=http://www.youtube.com/watch?v=-w9Fojujb98
 ﻿Zabavna]Ena Popov}Na meni tope se=http://www.youtube.com/watch?v=Y92aQXuTElY
@@ -7095,7 +7092,7 @@
 ﻿Zabavna]Goran Karan}Kada jesen dođe=http://www.youtube.com/watch?v=gxfbN2J-ViQ
 ﻿Zabavna]Goran Karan}Kada zaspu anđeli=http://www.youtube.com/watch?v=p9Hqs_NyUjQ
 ﻿Zabavna]Goran Karan}Kako da te zaboravin=http://www.youtube.com/watch?v=VASM4FzkS7M
-﻿Zabavna]Goran Karan}Kao da te ne volim=http://www.youtube.com/watch?v=wfNuNNwNrtE
+﻿Zabavna]Goran Karan}Kao da te ne volim=http://www.youtube.com/watch?v=DJSr6kVgqwM
 ﻿Zabavna]Goran Karan}Kazna mi je što te ljubim=http://www.youtube.com/watch?v=p24xj8zRuVw
 ﻿Zabavna]Goran Karan}Koga ljubiš sad=http://www.youtube.com/watch?v=DnbMEbKq4KA
 ﻿Zabavna]Goran Karan}Lipa si, lipa=http://www.youtube.com/watch?v=8kYz0gQUwUE
@@ -9211,18 +9208,18 @@
 ﻿Zabavna]Jelena Rozga}Vršnjaci moji=http://www.youtube.com/watch?v=ufKKQqXtnuI
 ﻿Zabavna]Jelena Rozga}Zanemari=http://www.youtube.com/watch?v=0T7X-v3oJGw
 ﻿Zabavna]Jelena Rozga}Život je čudo=http://www.youtube.com/watch?v=_CPbmy1j49g
-﻿Zabavna]Jelena Tomašević}Ako opet odlaziš=http://www.youtube.com/watch?v=6R-KkJRiqsQ
+﻿Zabavna]Jelena Tomašević}Ako opet odlaziš=http://www.youtube.com/watch?v=C7-3z8RPTto
 ﻿Zabavna]Jelena Tomašević}Čovek moj=http://www.youtube.com/watch?v=J0hLBq1YzBE
 ﻿Zabavna]Jelena Tomašević}Da mi je da mi se vrati=http://www.youtube.com/watch?v=-SnUYfnOf5o
 ﻿Zabavna]Jelena Tomašević}Gde da odem da te ne volim=http://www.youtube.com/watch?v=qCfmwkA7zNw
 ﻿Zabavna]Jelena Tomašević}Ime moje=http://www.youtube.com/watch?v=WKoQlMZEe3A
-﻿Zabavna]Jelena Tomašević}Jutro=http://www.youtube.com/watch?v=0VCi2Hnx89Y
+﻿Zabavna]Jelena Tomašević}Jutro=http://www.youtube.com/watch?v=fu2iUFWqSoI
 ﻿Zabavna]Jelena Tomašević}Kad ne bude tvoje ljubavi=http://www.youtube.com/watch?v=6Og90RuwsEs
 ﻿Zabavna]Jelena Tomašević}Košava=http://www.youtube.com/watch?v=RT2jHPL5y48
 ﻿Zabavna]Jelena Tomašević}Ludo zabludo=http://www.youtube.com/watch?v=Bub_Ea3tyt0
 ﻿Zabavna]Jelena Tomašević}Med i žaoka=http://www.youtube.com/watch?v=GELHqgqa2yo
 ﻿Zabavna]Jelena Tomašević}Melanholija=http://www.youtube.com/watch?v=Ffxqj0ES6WA
-﻿Zabavna]Jelena Tomašević}Ne dam na tebe=http://www.youtube.com/watch?v=fOsYWwhShcA
+﻿Zabavna]Jelena Tomašević}Ne dam na tebe=http://www.youtube.com/watch?v=DgM06dOMYAM
 ﻿Zabavna]Jelena Tomašević}Nema koga=http://www.youtube.com/watch?v=mcjiZ_cDoPE
 ﻿Zabavna]Jelena Tomašević}Noćas dođi mi=http://www.youtube.com/watch?v=bcXa3itEBdo
 ﻿Zabavna]Jelena Tomašević}Okeani=http://www.youtube.com/watch?v=EzYmyWQVx7Y
@@ -10664,7 +10661,6 @@
 ﻿Rok Strani]Joe Cocker}I put a spell on you=https://www.youtube.com/watch?v=pOCvGZH4rNo
 ﻿Rok Strani]Joe Cocker}My fathers son ...=https://www.youtube.com/watch?v=i8WoZOdin-k
 ﻿Rok Strani]Joe Cocker}With a little help from my friends=--start-time=10 https://www.youtube.com/watch?v=nCrlyX6XbTU
-﻿Rok Strani]Joe Cocker}Feelin' alright=https://www.youtube.com/watch?v=FoAO0851FwA
 ﻿Rok Strani]Joe Cocker}Up where we belong=https://www.youtube.com/watch?v=X5h02ZmeB5c
 ﻿Rok Strani]Joe Cocker}Don't let me be misunderstood=https://www.youtube.com/watch?v=ity-l7be1z0
 ﻿Rok Strani]Joe Cocker}I who have nothing=https://www.youtube.com/watch?v=1fSTFWskdSA
@@ -10712,7 +10708,7 @@
 ﻿Rok Strani]Joe Cocker}Shelter me=https://www.youtube.com/watch?v=bw5Abo4NHFI
 ﻿Rok Strani]Joe Cocker}Two wrongs=--start-time=4 https://www.youtube.com/watch?v=vKxgALMVOFY
 ﻿Rok Strani]Joe Cocker}Letting go=https://www.youtube.com/watch?v=_urDsvNX7tA
-﻿Rok Strani]Joe Cocker}Darling be home soon=https://www.youtube.com/watch?v=BqeOlQEW5SU
+﻿Rok Strani]Joe Cocker}Darling be home soon=http://www.youtube.com/watch?v=nyZrZPmDKKw
 ﻿Rok Strani]Joe Cocker}Lean on me=https://www.youtube.com/watch?v=ZgmQ9RfqQJk
 ﻿Rok Strani]Joe Cocker}Now that youre gone=https://www.youtube.com/watch?v=CNM2MDUy7ko
 ﻿Rok Strani]Joe Cocker}Have a little faith in me=https://www.youtube.com/watch?v=pwOg88GMmbA
@@ -11977,7 +11973,6 @@
 ﻿Rok Strani]Alice Cooper}Gutter Cats Vs. The Jets=http://www.youtube.com/watch?v=yy9XcruKqEg
 ﻿Rok Strani]Alice Cooper}Hallowed Be My Name=http://www.youtube.com/watch?v=_ERMZC5JTeM
 ﻿Rok Strani]Alice Cooper}Hell Is Living Without You=http://www.youtube.com/watch?v=jHNCAvovuIE
-﻿Rok Strani]Alice Cooper}Hello Hooray=http://www.youtube.com/watch?v=80bqSzONHP4
 ﻿Rok Strani]Alice Cooper}Hey Stoopid=--start-time=30 http://www.youtube.com/watch?v=XcAl93uEYUA
 ﻿Rok Strani]Alice Cooper}House Of Fire=--start-time=12 http://www.youtube.com/watch?v=0Hu_mq0Uc0M
 ﻿Rok Strani]Alice Cooper}I Am Made Of You=http://www.youtube.com/watch?v=uV47roZm1-Q
@@ -12018,7 +12013,6 @@
 ﻿Rok Strani]Alice Cooper}My Stars=http://www.youtube.com/watch?v=xxMNWO8nbVI
 ﻿Rok Strani]Alice Cooper}Nothing's Free=http://www.youtube.com/watch?v=AO3ms4w_mqY
 ﻿Rok Strani]Alice Cooper}Novocaine=http://www.youtube.com/watch?v=amQ9mpig3PE
-﻿Rok Strani]Alice Cooper}Nurse Rozetta=http://www.youtube.com/watch?v=R-h13lDzGNo
 ﻿Rok Strani]Alice Cooper}Only My Heart Talkin'=http://www.youtube.com/watch?v=JZvijOU941o
 ﻿Rok Strani]Alice Cooper}Only Women Bleed=http://www.youtube.com/watch?v=Pfd1d9ful7E
 ﻿Rok Strani]Alice Cooper}Pain=http://www.youtube.com/watch?v=NRM0blRaEHM
@@ -12289,7 +12283,6 @@
 ﻿Rok Strani]Anthrax}Safe Home=http://www.youtube.com/watch?v=MMRgrZYzg4A
 ﻿Rok Strani]Anthrax}Schism=http://www.youtube.com/watch?v=aEfhLcsGLfU
 ﻿Rok Strani]Anthrax}Sects=http://www.youtube.com/watch?v=RyLERjQbiZA
-﻿Rok Strani]Anthrax}Smokin'=http://www.youtube.com/watch?v=byWdgwjCJzg
 ﻿Rok Strani]Anthrax}Soldiers Of Metal=http://www.youtube.com/watch?v=C9BAw-yk9Ow
 ﻿Rok Strani]Anthrax}Soror Irrumator=http://www.youtube.com/watch?v=9CfM_HxAGnk
 ﻿Rok Strani]Anthrax}Starting Up A Posse=http://www.youtube.com/watch?v=3BOsFf0zcbs
@@ -12574,7 +12567,7 @@
 ﻿Rok Strani]Black Sabbath}Hand Of Doom=http://www.youtube.com/watch?v=eI4P--OYmrA
 ﻿Rok Strani]Black Sabbath}Hard Life To Love=http://www.youtube.com/watch?v=9Vrhs9pemAc
 ﻿Rok Strani]Black Sabbath}Hard Road=http://www.youtube.com/watch?v=lSYX58QoZ8I
-﻿Rok Strani]Black Sabbath}Headless Cross=http://www.youtube.com/watch?v=408HsWdVIfw
+﻿Rok Strani]Black Sabbath}Headless Cross=--start-time=3 http://www.youtube.com/watch?v=iUgzLjVnW48
 ﻿Rok Strani]Black Sabbath}Heart Like A Wheel=http://www.youtube.com/watch?v=MW6ddB-WmWU
 ﻿Rok Strani]Black Sabbath}Heaven And Hell=http://www.youtube.com/watch?v=DHrXtV5Ck7E
 ﻿Rok Strani]Black Sabbath}Heaven In Black=http://www.youtube.com/watch?v=9shD0x1w6m0
@@ -14438,7 +14431,6 @@
 ﻿Rok Strani]Frank Zappa}I'm Stealing The Towels=http://www.youtube.com/watch?v=ABAdpBGIkLw
 ﻿Rok Strani]Frank Zappa}I'm The Slime=http://www.youtube.com/watch?v=w-sREpqDiUo
 ﻿Rok Strani]Frank Zappa}In France=http://www.youtube.com/watch?v=eep1_tiPOVY
-﻿Rok Strani]Frank Zappa}Intro=http://www.youtube.com/watch?v=Tn0LGwVMqlA
 ﻿Rok Strani]Frank Zappa}It Can't Happen Here=http://www.youtube.com/watch?v=svdrAHn_LGo
 ﻿Rok Strani]Frank Zappa}It Just Might Be A One-Shot Deal=http://www.youtube.com/watch?v=sKZ_x1jJYfE
 ﻿Rok Strani]Frank Zappa}Jeff Quits=http://www.youtube.com/watch?v=2sLJPjVuOro

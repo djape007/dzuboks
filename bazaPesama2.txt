@@ -2043,7 +2043,7 @@
 ﻿Tamburaši]Miroslav Škoro}Konje bile, konje vrane=http://www.youtube.com/watch?v=Z1TlBthVrbE
 ﻿Tamburaši]Miroslav Škoro}Laku noć ljubavi=http://www.youtube.com/watch?v=kGXEQy9rvH8
 ﻿Tamburaši]Miroslav Škoro}Ljubav ne bira=http://www.youtube.com/watch?v=_u9Ws4U3pVo
-﻿Tamburaši]Miroslav Škoro}Majko jedina=http://www.youtube.com/watch?v=1DDJSxzc8jA
+﻿Tamburaši]Miroslav Škoro}Majko jedina=http://www.youtube.com/watch?v=9YjsRJTVNZE
 ﻿Tamburaši]Miroslav Škoro}Maligani=http://www.youtube.com/watch?v=jG7WqMsfDBw
 ﻿Tamburaši]Miroslav Škoro}Mata=http://www.youtube.com/watch?v=hd4cwMITGpk
 ﻿Tamburaši]Miroslav Škoro}Moja Juliška=http://www.youtube.com/watch?v=HBZoKWy8c8Y
@@ -4574,8 +4574,8 @@
 ﻿Zabavna]Ok Band}Ne mogu ti to oprostiti=https://www.youtube.com/watch?v=uzFQYqcAgHQ
 ﻿Zabavna]Ok Band}Gde ti je sada on=https://www.youtube.com/watch?v=zkzqll1VjYM
 ﻿Zabavna]Ok Band}Volele il ne volele=https://www.youtube.com/watch?v=EDu3F1fgD4U
-﻿Zabavna]Ok Band}Kraljevo Valjevo=https://www.youtube.com/watch?v=YYRDPKweCx0
-﻿Zabavna]Ok Band}Oko mene lete svi=https://www.youtube.com/watch?v=9U0K1lt60Jg
+﻿Zabavna]Ok Band}Kraljevo Valjevo=http://www.youtube.com/watch?v=1HunAF-UKtg
+﻿Zabavna]Ok Band}Oko mene lete svi=--start-time=4 https://www.youtube.com/watch?v=xFQntQ9UdT8
 ﻿Zabavna]Ok Band}A u međuvremenu=https://www.youtube.com/watch?v=6wtwUu56G_s
 ﻿Zabavna]Ok Band}Najbolje žene=https://www.youtube.com/watch?v=7t9nnCWkncQ
 ﻿Zabavna]Ok Band}Tri flaše=https://www.youtube.com/watch?v=pgwQcjcCsnY
@@ -5091,22 +5091,17 @@
 ﻿Narodna]Raša Pavlović}Zbog mlade Krčmarice=http://www.youtube.com/watch?v=nEMKhM22tCY
 ﻿Narodna]Raša Pavlović}Zvoni, zvoni pesmo naša=http://www.youtube.com/watch?v=Ov_CMhOsn5Y
 ﻿Rep~Zabavna]Rasta}Armani (ft. Zli Toni i Mali Mire)=http://www.youtube.com/watch?v=Tznf05hPSfI
-﻿Rep~Zabavna]Rasta}Balkan=--start-time=50 http://www.youtube.com/watch?v=fs9XYB8LKlI
 ﻿Rep~Zabavna]Rasta}Euforija=http://www.youtube.com/watch?v=_vI_3dD1b0s
 ﻿Rep~Zabavna]Rasta}Ćao, ćao (ft. Ljupka Stević)=--start-time=6 https://www.youtube.com/watch?v=UWOSr8ExfQA
-﻿Rep~Zabavna]Rasta}Habibi=--start-time=2 http://www.youtube.com/watch?v=ysfCNuDZTSk
 ﻿Rep~Zabavna]Rasta}Hotel=http://www.youtube.com/watch?v=nCcBMviYH60
 ﻿Rep~Zabavna]Rasta}Indigo=http://www.youtube.com/watch?v=O4QaUX7zN0Y
 ﻿Rep~Zabavna]Rasta}Kavali=http://www.youtube.com/watch?v=47uIZgIfK10
 ﻿Rep~Zabavna]Rasta}Kavasaki=--start-time=17 http://www.youtube.com/watch?v=Zo8S1ErnnTE
 ﻿Rep~Zabavna]Rasta}Kilo kilo=http://www.youtube.com/watch?v=j0Ofvvmleu8
-﻿Rep~Zabavna]Rasta}Mala=http://www.youtube.com/watch?v=Qd-zHPRBMrM
 ﻿Rep~Zabavna]Rasta}Mahinalno (ft. G.I)=--start-time=7 https://www.youtube.com/watch?v=ksIk8Eh895I
 ﻿Rep~Zabavna]Rasta}Moja stvar=http://www.youtube.com/watch?v=cSENwIYyibM
 ﻿Rep~Zabavna]Rasta}Noći nemirne=http://www.youtube.com/watch?v=LY262S4eyBo
-﻿Rep~Zabavna]Rasta}Slučajnost (ft. Ana Nikolić)=--start-time=15 http://www.youtube.com/watch?v=0fhrf-BMPxY
 ﻿Rep~Zabavna]Rasta}Sreća=http://www.youtube.com/watch?v=iT-NFyCxB_4
-﻿Rep~Zabavna]Rasta}Tako dobro (ft. Cvija)=--start-time=8 http://www.youtube.com/watch?v=TB80SNKBuu0
 ﻿Rep~Zabavna]Rasta}Vedro nebo=--start-time=27 http://www.youtube.com/watch?v=6B7RUXra1Jg
 ﻿Zabavna]Regina}A tebe nema=http://www.youtube.com/watch?v=XmTR7nPaOOI
 ﻿Zabavna]Regina}Bez tebe=http://www.youtube.com/watch?v=PlkBxKA0VCM
@@ -7227,7 +7222,7 @@
 ﻿Narodna]Šemsa Suljaković}Prođi sa mnom ispod duge=http://www.youtube.com/watch?v=fhOgtfRz_RQ
 ﻿Narodna]Šemsa Suljaković}Putuj, putuj ljubavi=http://www.youtube.com/watch?v=tbY3b0rHYKo
 ﻿Narodna]Šemsa Suljaković}Razbio si čašu=http://www.youtube.com/watch?v=_ezAz4tUihw
-﻿Narodna]Šemsa Suljaković}Rođena da patim=http://www.youtube.com/watch?v=-squLMB6e64
+﻿Narodna]Šemsa Suljaković}Rođena da patim=http://www.youtube.com/watch?v=yULqdciNt-I
 ﻿Narodna]Šemsa Suljaković}Ruža i trn=http://www.youtube.com/watch?v=dZ6pPBkKMAM
 ﻿Narodna]Šemsa Suljaković}Sanjam=http://www.youtube.com/watch?v=eKD8jxNrH6w
 ﻿Narodna]Šemsa Suljaković}Savršeno=http://www.youtube.com/watch?v=R20PPnbZBEY
@@ -7248,7 +7243,6 @@
 ﻿Narodna]Šemsa Suljaković}Sve je s tobom bilo promašeno=http://www.youtube.com/watch?v=Fc978jGW3r4
 ﻿Narodna]Šemsa Suljaković}Svetom putuju ljubav i tuga=http://www.youtube.com/watch?v=_3JQLXusc80
 ﻿Narodna]Šemsa Suljaković}Tebi idem=http://www.youtube.com/watch?v=sUEbLgS7S_I
-﻿Narodna]Šemsa Suljaković}Ti i dalje živiš=http://www.youtube.com/watch?v=7X5XhSUF4P4
 ﻿Narodna]Šemsa Suljaković}Tugo moja, kome da te pričam=http://www.youtube.com/watch?v=rhrtrKAkNfM
 ﻿Narodna]Šemsa Suljaković}Učini nešto=http://www.youtube.com/watch?v=sneT7G4_wc4
 ﻿Narodna]Šemsa Suljaković}Ugasi svetlo=http://www.youtube.com/watch?v=4ZCY1duFESo
@@ -9122,7 +9116,7 @@
 ﻿Zabavna]Toni Cetinski}Moje sve=http://www.youtube.com/watch?v=O3Yue9qkHh8
 ﻿Zabavna]Toni Cetinski}Ne daj=http://www.youtube.com/watch?v=Fzsk9m_pEDA
 ﻿Zabavna]Toni Cetinski}Nebo iznad nas=http://www.youtube.com/watch?v=1yRUqRxYzfo
-﻿Zabavna]Toni Cetinski}Neka te odvede=http://www.youtube.com/watch?v=rUEc0QRiR88
+﻿Zabavna]Toni Cetinski}Neka te odvede=http://www.youtube.com/watch?v=tQcRHZe9yUE
 ﻿Zabavna]Toni Cetinski}Nemirne noći=http://www.youtube.com/watch?v=TbuPtET8IkQ
 ﻿Zabavna]Toni Cetinski}Od jednog poljupca=http://www.youtube.com/watch?v=goGDxag740A
 ﻿Zabavna]Toni Cetinski}Od milijun žena=http://www.youtube.com/watch?v=rV5htT87a-Q
@@ -11511,7 +11505,7 @@
 ﻿Rok Strani]Limp Bizkit}Get a life=https://www.youtube.com/watch?v=AtWyHckCzGU
 ﻿Rok Strani]Limp Bizkit}Autotunage=--start-time=8 https://www.youtube.com/watch?v=L5d858rrxpE
 ﻿Rok Strani]Limp Bizkit}90210=https://www.youtube.com/watch?v=A-1hlk6adIQ
-﻿Rok Strani]Limp Bizkit}Los Angeles=https://www.youtube.com/watch?v=GGFUBcEWbXc
+﻿Rok Strani]Limp Bizkit}Los Angeles=https://www.youtube.com/watch?v=ABMKK3wb0ik
 ﻿Rok Strani]Limp Bizkit}Why try=https://www.youtube.com/watch?v=GiPXaRFuP_w
 ﻿Rok Strani]Limp Bizkit}Crack addict=https://www.youtube.com/watch?v=BLC4MMcDBFk
 ﻿Rok Strani]Limp Bizkit}Time=https://www.youtube.com/watch?v=ib-VhpZyjdc
@@ -13779,7 +13773,7 @@
 ﻿Rok Strani]Rolling Stones}Before They Make Me Run=http://www.youtube.com/watch?v=2dGoKgSknuk
 ﻿Rok Strani]Rolling Stones}Biggest Mistake=http://www.youtube.com/watch?v=RxRycqKE7lA
 ﻿Rok Strani]Rolling Stones}Bitch=http://www.youtube.com/watch?v=qtnxvpIEg8w
-﻿Rok Strani]Rolling Stones}Black Limousine=http://www.youtube.com/watch?v=k8Qbu4GiWl4
+﻿Rok Strani]Rolling Stones}Black Limousine=http://www.youtube.com/watch?v=uKhSySfXPZA
 ﻿Rok Strani]Rolling Stones}Blinded By Love=http://www.youtube.com/watch?v=3hyxf4nfJvo
 ﻿Rok Strani]Rolling Stones}Blinded By Rainbows=http://www.youtube.com/watch?v=djfSvI043dI
 ﻿Rok Strani]Rolling Stones}Blood Red Wine=http://www.youtube.com/watch?v=taKUIPEVz24
@@ -13813,7 +13807,7 @@
 ﻿Rok Strani]Rolling Stones}Dancing In The Light=http://www.youtube.com/watch?v=-QoTFxMa6EA
 ﻿Rok Strani]Rolling Stones}Dancing With Mr. D.=http://www.youtube.com/watch?v=Z_S532DjrZk
 ﻿Rok Strani]Rolling Stones}Dandelion=http://www.youtube.com/watch?v=Rlb23Vh8s_o
-﻿Rok Strani]Rolling Stones}Dangerous Beauty=http://www.youtube.com/watch?v=NA9bwdiwdxQ
+﻿Rok Strani]Rolling Stones}Dangerous Beauty=http://www.youtube.com/watch?v=XVXhLn0RdMU
 ﻿Rok Strani]Rolling Stones}Dead Flowers=http://www.youtube.com/watch?v=jzKG5WS1yMk
 ﻿Rok Strani]Rolling Stones}Dear Doctor=http://www.youtube.com/watch?v=A4VpZkSM20A
 ﻿Rok Strani]Rolling Stones}Dirty Work=http://www.youtube.com/watch?v=wXtruXusMdU
@@ -13825,7 +13819,7 @@
 ﻿Rok Strani]Rolling Stones}Down Home Girl=http://www.youtube.com/watch?v=thpy1btCE8I
 ﻿Rok Strani]Rolling Stones}Down In The Bottom=http://www.youtube.com/watch?v=ppNGFJFe1sI
 ﻿Rok Strani]Rolling Stones}Down In The Hole=http://www.youtube.com/watch?v=7ofTW5iOwuA
-﻿Rok Strani]Rolling Stones}Down The Road Apiece=http://www.youtube.com/watch?v=yASJdGLA5rs
+﻿Rok Strani]Rolling Stones}Down The Road Apiece=http://www.youtube.com/watch?v=cmaBFrhL4xk
 ﻿Rok Strani]Rolling Stones}Downtown Suzie=http://www.youtube.com/watch?v=4V-HI6pN-dw
 ﻿Rok Strani]Rolling Stones}Driving Too Fast=http://www.youtube.com/watch?v=OXZZsa4WI4s
 ﻿Rok Strani]Rolling Stones}Each And Everyday Of The Year=http://www.youtube.com/watch?v=bQAHDJPVWbo
@@ -13850,7 +13844,7 @@
 ﻿Rok Strani]Rolling Stones}Gomper=http://www.youtube.com/watch?v=gONZ8KMG4qI
 ﻿Rok Strani]Rolling Stones}Good Time Women=http://www.youtube.com/watch?v=QwpgVoSpxxk
 ﻿Rok Strani]Rolling Stones}Good Times, Bad Times=http://www.youtube.com/watch?v=Py0W7omBt24
-﻿Rok Strani]Rolling Stones}Good Times=http://www.youtube.com/watch?v=7O3isHm_Dfw
+﻿Rok Strani]Rolling Stones}Good Times=http://www.youtube.com/watch?v=9Oa1L_GWGac
 ﻿Rok Strani]Rolling Stones}Goodbye Girl=http://www.youtube.com/watch?v=umaDdtkGYzE
 ﻿Rok Strani]Rolling Stones}Gotta Get Away=http://www.youtube.com/watch?v=OwzaFGWwbDk
 ﻿Rok Strani]Rolling Stones}Grown Up Wrong=http://www.youtube.com/watch?v=tnv-J5xMNPI
@@ -13879,7 +13873,7 @@
 ﻿Rok Strani]Rolling Stones}Hoo Doo Blues=http://www.youtube.com/watch?v=cPmJYJOCjZI
 ﻿Rok Strani]Rolling Stones}Hot Stuff=http://www.youtube.com/watch?v=0l-W2r9Do2w
 ﻿Rok Strani]Rolling Stones}How Can I Stop?=http://www.youtube.com/watch?v=R0KjJ5VC-60
-﻿Rok Strani]Rolling Stones}I Am Waiting=http://www.youtube.com/watch?v=qapGwHxf5Hw
+﻿Rok Strani]Rolling Stones}I Am Waiting=http://www.youtube.com/watch?v=02rHc9O94BM
 ﻿Rok Strani]Rolling Stones}I Can't Be Satisfied=http://www.youtube.com/watch?v=cZjBz2XtMlE
 ﻿Rok Strani]Rolling Stones}I Can't Quit You Baby=http://www.youtube.com/watch?v=XqoWuDgEAAE
 ﻿Rok Strani]Rolling Stones}I Don't Know Why=http://www.youtube.com/watch?v=w6yFq0qMaHw
@@ -14042,7 +14036,7 @@
 ﻿Rok Strani]Rolling Stones}Talkin' About You=http://www.youtube.com/watch?v=93erhvAjQZ4
 ﻿Rok Strani]Rolling Stones}Tell Me=http://www.youtube.com/watch?v=LJEhZqZNjXM
 ﻿Rok Strani]Rolling Stones}Terrifying=http://www.youtube.com/watch?v=8_geAZ8_Ryg
-﻿Rok Strani]Rolling Stones}That's How Strong My Love Is=http://www.youtube.com/watch?v=ya-X68xDJzs
+﻿Rok Strani]Rolling Stones}That's How Strong My Love Is=http://www.youtube.com/watch?v=XKLgdsXAgzU
 ﻿Rok Strani]Rolling Stones}The Lantern=http://www.youtube.com/watch?v=r3-XPoWRqf8
 ﻿Rok Strani]Rolling Stones}The Last Time=http://www.youtube.com/watch?v=eM2b9CcH1KM
 ﻿Rok Strani]Rolling Stones}The Singer Not The Song=http://www.youtube.com/watch?v=wsQtndswJbc
@@ -15463,7 +15457,7 @@
 ﻿Rok Strani]The Beatles}The Hippy Hippy Shake=http://www.youtube.com/watch?v=JS8UqMOmEnM
 ﻿Rok Strani]The Beatles}The Honeymoon Song=http://www.youtube.com/watch?v=yz4kAim4Y2E
 ﻿Rok Strani]The Beatles}The Long And Winding Road=http://www.youtube.com/watch?v=3A19HSowZp0
-﻿Rok Strani]The Beatles}The Night Before=http://www.youtube.com/watch?v=tnRFlrHA7Es
+﻿Rok Strani]The Beatles}The Night Before=http://www.youtube.com/watch?v=SF3Tgsj-D0c
 ﻿Rok Strani]The Beatles}The Sheik Of Araby=http://www.youtube.com/watch?v=2aGoD8ScM2g
 ﻿Rok Strani]The Beatles}The Word=http://www.youtube.com/watch?v=qOv6ld7erSA
 ﻿Rok Strani]The Beatles}There's A Place=http://www.youtube.com/watch?v=qj--x1Q2ENg
