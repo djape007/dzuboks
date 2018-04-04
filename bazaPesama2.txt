@@ -8702,6 +8702,7 @@
 ﻿Rep]THCF}Plan B (ft. GRU, DeeJay)=--start-time=5 https://www.youtube.com/watch?v=CfBi2km-Hlo
 ﻿Rep]THCF}Priča sa terena i brat Goldi=--start-time=10 https://www.youtube.com/watch?v=qU0zkNmaF18
 ﻿Rep]THCF}Rastemo=https://www.youtube.com/watch?v=KabGHg9-ieo
+﻿Rep]THCF}Reč=--start-time=10 https://www.youtube.com/watch?v=e-bqzne2oY4
 ﻿Rep]THCF}Saučesnik=http://www.youtube.com/watch?v=WfRZhFCpsR0
 ﻿Rep]THCF}Snovi kao život stvarni=--start-time=10 http://www.youtube.com/watch?v=4oUNetZB_ak
 ﻿Rep]THCF}Somovi=https://www.youtube.com/watch?v=Cn8uKau5Uf4
