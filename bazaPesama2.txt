@@ -2484,7 +2484,6 @@
 ﻿Narodna]Nada Topčagić}Prsten za uspomenu=http://www.youtube.com/watch?v=9KBHL-eWctY
 ﻿Narodna]Nada Topčagić}Psujem te živote=http://www.youtube.com/watch?v=NKTuFA7Gsqg
 ﻿Narodna]Nada Topčagić}Rodila se princeza=http://www.youtube.com/watch?v=mwx7CN-esI0
-﻿Narodna]Nada Topčagić}Šaram, šaram, varam=http://www.youtube.com/watch?v=mujJICOJDhE
 ﻿Narodna]Nada Topčagić}Slavski kolač=http://www.youtube.com/watch?v=0q2ksaYr8vM
 ﻿Narodna]Nada Topčagić}Treba mi tvoje rame=http://www.youtube.com/watch?v=cf_8XCG-zBk
 ﻿Narodna]Nada Topčagić}Vragolanka=http://www.youtube.com/watch?v=4g1cquRveLg
@@ -6774,7 +6773,7 @@
 ﻿Narodna]Sejo Kalać}Daj mi, daj=http://www.youtube.com/watch?v=Rpjig1lx2Z8
 ﻿Narodna]Sejo Kalać}Decembar je bio=http://www.youtube.com/watch?v=xSvzrUc1uGo
 ﻿Narodna]Sejo Kalać}Digni glavu prijatelju moj=http://www.youtube.com/watch?v=rXxOulyzlmY
-﻿Narodna]Sejo Kalać}Đulo Đulzija=http://www.youtube.com/watch?v=nd8LE-b_IUw
+﻿Narodna]Sejo Kalać}Đulo Đulzija=http://www.youtube.com/watch?v=3lA4OiezxSU
 ﻿Narodna]Sejo Kalać}Dobro djelo učini=http://www.youtube.com/watch?v=iFoZoOTYWpE
 ﻿Narodna]Sejo Kalać}Dobro sam živ=http://www.youtube.com/watch?v=8bjiJ4eTIi4
 ﻿Narodna]Sejo Kalać}E moj ćale=http://www.youtube.com/watch?v=1-grOchmXrA
@@ -13817,7 +13816,7 @@
 ﻿Rok Strani]Rolling Stones}Don't Stop=http://www.youtube.com/watch?v=tAiVW2ZkSH4
 ﻿Rok Strani]Rolling Stones}Doncha Bother Me=http://www.youtube.com/watch?v=Bb8LTe8ilB4
 ﻿Rok Strani]Rolling Stones}Doo Doo Doo Doo Doo (Heartbreaker)=http://www.youtube.com/watch?v=k71WMAIF-UA
-﻿Rok Strani]Rolling Stones}Doom And Gloom=http://www.youtube.com/watch?v=Rkjmv4lhqCo
+﻿Rok Strani]Rolling Stones}Doom And Gloom=http://www.youtube.com/watch?v=1DWiB7ZuLvI
 ﻿Rok Strani]Rolling Stones}Down Home Girl=http://www.youtube.com/watch?v=thpy1btCE8I
 ﻿Rok Strani]Rolling Stones}Down In The Bottom=http://www.youtube.com/watch?v=ppNGFJFe1sI
 ﻿Rok Strani]Rolling Stones}Down In The Hole=http://www.youtube.com/watch?v=7ofTW5iOwuA
