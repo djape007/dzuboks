@@ -467,19 +467,19 @@
 ﻿Narodna]Louis}Veštica=http://www.youtube.com/watch?v=WK11akki9xQ
 ﻿Narodna]Louis}Zbogom, odlazim=http://www.youtube.com/watch?v=TA85VnN3lvw
 ﻿Narodna]Louis}Ženim te=http://www.youtube.com/watch?v=CD1puhEh524
-Rep]Ludi Srbi}Belo iz Dubaija (ft. Skele)=https://www.youtube.com/watch?v=SAfLfAM43mM
-Rep]Ludi Srbi}Nindža ratnik=--start-time=18 https://www.youtube.com/watch?v=rIsGrdTRrrA
-Rep]Ludi Srbi}Dskoteka=--start-time=52 https://www.youtube.com/watch?v=cLX8nYqivKU
-Rep]Ludi Srbi}Plave Ruskinje (ft. Jovica Dobrica)=https://www.youtube.com/watch?v=ZrWEjftQioM
-Rep]Ludi Srbi}Tehno Viking=--start-time=15 https://www.youtube.com/watch?v=mtaLBnR0kyQ
-Rep]Ludi Srbi}Crna glava=https://www.youtube.com/watch?v=D-YsigN49WE
-Rep]Ludi Srbi}Ja imam talenat=https://www.youtube.com/watch?v=dITQ6G6-WF0
-Rep]Ludi Srbi}Ludi Srbi=--start-time=8 https://www.youtube.com/watch?v=p_f7fM7U7Wk
-Rep]Ludi Srbi}Jahači lobanje=https://www.youtube.com/watch?v=8s9NgR16TXo
-Rep]Ludi Srbi}Nedostaje mi MDMA (Lacku summer rmx)=https://www.youtube.com/watch?v=aA-t-fNf3Pc
-Rep]Ludi Srbi}Nedostaje mi MDMA=--start-time=23 https://www.youtube.com/watch?v=IK5ZoLW320E
-Rep]Ludi Srbi}Mislio sam da si umrla=https://www.youtube.com/watch?v=u5cKevsc2Uc
-Rep]Ludi Srbi}LS NS=https://www.youtube.com/watch?v=5bJK1bXIRLk
+﻿Rep]Ludi Srbi}Belo iz Dubaija (ft. Skele)=https://www.youtube.com/watch?v=SAfLfAM43mM
+﻿Rep]Ludi Srbi}Nindža ratnik=--start-time=18 https://www.youtube.com/watch?v=rIsGrdTRrrA
+﻿Rep]Ludi Srbi}Dskoteka=--start-time=52 https://www.youtube.com/watch?v=cLX8nYqivKU
+﻿Rep]Ludi Srbi}Plave Ruskinje (ft. Jovica Dobrica)=https://www.youtube.com/watch?v=ZrWEjftQioM
+﻿Rep]Ludi Srbi}Tehno Viking=--start-time=15 https://www.youtube.com/watch?v=mtaLBnR0kyQ
+﻿Rep]Ludi Srbi}Crna glava=https://www.youtube.com/watch?v=D-YsigN49WE
+﻿Rep]Ludi Srbi}Ja imam talenat=https://www.youtube.com/watch?v=dITQ6G6-WF0
+﻿Rep]Ludi Srbi}Ludi Srbi=--start-time=8 https://www.youtube.com/watch?v=p_f7fM7U7Wk
+﻿Rep]Ludi Srbi}Jahači lobanje=https://www.youtube.com/watch?v=8s9NgR16TXo
+﻿Rep]Ludi Srbi}Nedostaje mi MDMA (Lacku summer rmx)=https://www.youtube.com/watch?v=aA-t-fNf3Pc
+﻿Rep]Ludi Srbi}Nedostaje mi MDMA=--start-time=23 https://www.youtube.com/watch?v=IK5ZoLW320E
+﻿Rep]Ludi Srbi}Mislio sam da si umrla=https://www.youtube.com/watch?v=u5cKevsc2Uc
+﻿Rep]Ludi Srbi}LS NS=https://www.youtube.com/watch?v=5bJK1bXIRLk
 ﻿Zabavna]MC Stojan}Ajmo svi=--start-time=23 http://www.youtube.com/watch?v=ez3ftgp7tU8
 ﻿Zabavna]MC Stojan}Bičuj me Stojane=http://www.youtube.com/watch?v=udhqd2dub_A
 ﻿Zabavna]MC Stojan}Brzo=http://www.youtube.com/watch?v=nVXaQ4seZh8
@@ -513,7 +513,6 @@ Rep]Ludi Srbi}LS NS=https://www.youtube.com/watch?v=5bJK1bXIRLk
 ﻿Zabavna]MC Yankoo}Nije nije=http://www.youtube.com/watch?v=azbO2g8jCyY
 ﻿Zabavna]MC Yankoo}Ožiljak=http://www.youtube.com/watch?v=jxF0zs5MJWA
 ﻿Zabavna]MC Yankoo}Palim klub=http://www.youtube.com/watch?v=83AiRpRZwMc
-﻿Zabavna]MC Yankoo}Ruža=http://www.youtube.com/watch?v=p6mDCEKgFQc
 ﻿Zabavna]MC Yankoo}Slatka mala=http://www.youtube.com/watch?v=Zpqkf6_0f6E
 ﻿Zabavna]MC Yankoo}Zvuk=http://www.youtube.com/watch?v=g95sXh6HuWk
 ﻿Zabavna]MVP}Celu noć i celi dan=http://www.youtube.com/watch?v=_6-0Ujr8oyM
@@ -9981,7 +9980,6 @@ Rep]Ludi Srbi}LS NS=https://www.youtube.com/watch?v=5bJK1bXIRLk
 ﻿Narodna]Xenia Pajčin}Magije=http://www.youtube.com/watch?v=pm5w1LyzQg8
 ﻿Narodna]Xenia Pajčin}Mene ne zanima to=http://www.youtube.com/watch?v=V8NxiKkuDn8
 ﻿Narodna]Xenia Pajčin}Možda se ne probudim=http://www.youtube.com/watch?v=hKWEOtpyfHQ
-﻿Narodna]Xenia Pajčin}Najbolje za oboje=http://www.youtube.com/watch?v=hH37nuqMFi0
 ﻿Narodna]Xenia Pajčin}Neven=http://www.youtube.com/watch?v=5EwZUwFfku4
 ﻿Narodna]Xenia Pajčin}Nino=http://www.youtube.com/watch?v=ytPpqQLudQg
 ﻿Narodna]Xenia Pajčin}Pica=--start-time=20 http://www.youtube.com/watch?v=XD9qUGBslBg
@@ -10355,7 +10353,6 @@ Rep]Ludi Srbi}LS NS=https://www.youtube.com/watch?v=5bJK1bXIRLk
 ﻿Zabavna]Željko Joksimović}Ne daš mi mira=http://www.youtube.com/watch?v=SoI-74l__eQ
 ﻿Zabavna]Željko Joksimović}Nema tebi doveka=http://www.youtube.com/watch?v=CVDsWfpIl5w
 ﻿Zabavna]Željko Joksimović}Nerado=http://www.youtube.com/watch?v=PBm1ryracLk
-﻿Zabavna]Željko Joksimović}Nesanica=http://www.youtube.com/watch?v=qxuMFTjw_CM
 ﻿Zabavna]Željko Joksimović}Nije ljubav stvar=http://www.youtube.com/watch?v=LnrTDS85rC8
 ﻿Zabavna]Željko Joksimović}Nisam te zbog lepote voleo=http://www.youtube.com/watch?v=lD34dU5fpD0
 ﻿Zabavna]Željko Joksimović}Nisam znao da ti kažem=http://www.youtube.com/watch?v=Xi0U1j17y7g
@@ -12754,7 +12751,6 @@ Rep]Ludi Srbi}LS NS=https://www.youtube.com/watch?v=5bJK1bXIRLk
 ﻿Rok Strani]Pat Benatar}Cerebral Man=http://www.youtube.com/watch?v=1J7ikLH-e44
 ﻿Rok Strani]Pat Benatar}Christmas In America=http://www.youtube.com/watch?v=b1IUsTUuNLU
 ﻿Rok Strani]Pat Benatar}Cool Zero=http://www.youtube.com/watch?v=cwTlwBSMV8k
-﻿Rok Strani]Pat Benatar}Crazy=http://www.youtube.com/watch?v=h3vPSMP7uPo
 ﻿Rok Strani]Pat Benatar}Dirty Little Secrets=http://www.youtube.com/watch?v=rGShl0z1gvg
 ﻿Rok Strani]Pat Benatar}Don't Let It Show=http://www.youtube.com/watch?v=NPhsGNQq3Qg
 ﻿Rok Strani]Pat Benatar}Don't Walk Away=http://www.youtube.com/watch?v=bQTtfdyvSbA
@@ -13765,7 +13761,7 @@ Rep]Ludi Srbi}LS NS=https://www.youtube.com/watch?v=5bJK1bXIRLk
 ﻿Rok Strani]Rolling Stones}(I Can't Get No) Satisfaction=http://www.youtube.com/watch?v=nrIPxlFzDi0
 ﻿Rok Strani]Rolling Stones}(Walkin' Thru The) Sleepy City=http://www.youtube.com/watch?v=DQnmC65mlSk
 ﻿Rok Strani]Rolling Stones}100 Years Ago=http://www.youtube.com/watch?v=CrciVFFw3iQ
-﻿Rok Strani]Rolling Stones}19th Nervous Breakdown=http://www.youtube.com/watch?v=o_sf8XFkmUg
+﻿Rok Strani]Rolling Stones}19th Nervous Breakdown=http://www.youtube.com/watch?v=wU1kTuVSUOw
 ﻿Rok Strani]Rolling Stones}2000 Light Years From Home=http://www.youtube.com/watch?v=lEq3ZXGoUN4
 ﻿Rok Strani]Rolling Stones}2000 Man=http://www.youtube.com/watch?v=AbsNSweLl1Q
 ﻿Rok Strani]Rolling Stones}Ain't Too Proud To Beg=http://www.youtube.com/watch?v=gOcEmvsLD0c
@@ -13781,7 +13777,7 @@ Rep]Ludi Srbi}LS NS=https://www.youtube.com/watch?v=5bJK1bXIRLk
 ﻿Rok Strani]Rolling Stones}Anybody Seen My Baby?=http://www.youtube.com/watch?v=nNYIWJxBSHE
 ﻿Rok Strani]Rolling Stones}Anyway You Look At It=http://www.youtube.com/watch?v=ZsoC2U__i-s
 ﻿Rok Strani]Rolling Stones}Around And Around=http://www.youtube.com/watch?v=v0W6iV5os4M
-﻿Rok Strani]Rolling Stones}As Tears Go By=http://www.youtube.com/watch?v=VLm_vVUhH5s
+﻿Rok Strani]Rolling Stones}As Tears Go By=https://www.youtube.com/watch?v=bYrsezzVJDQ
 ﻿Rok Strani]Rolling Stones}Baby Break It Down=http://www.youtube.com/watch?v=661KOfc4KBg
 ﻿Rok Strani]Rolling Stones}Baby, What's Wrong=http://www.youtube.com/watch?v=GHdxSGxbfiY
 ﻿Rok Strani]Rolling Stones}Back Of My Hand=http://www.youtube.com/watch?v=N6UG4ieOjZ4
@@ -13857,7 +13853,7 @@ Rep]Ludi Srbi}LS NS=https://www.youtube.com/watch?v=5bJK1bXIRLk
 ﻿Rok Strani]Rolling Stones}Following The River=http://www.youtube.com/watch?v=TZg4Ai3Mq1o
 ﻿Rok Strani]Rolling Stones}Fool To Cry=http://www.youtube.com/watch?v=Teo0LYxjxvI
 ﻿Rok Strani]Rolling Stones}Fortune Teller=http://www.youtube.com/watch?v=2HBUhOKq5fw
-﻿Rok Strani]Rolling Stones}Get Off Of My Cloud=http://www.youtube.com/watch?v=YlhPRuAve8k
+﻿Rok Strani]Rolling Stones}Get Off Of My Cloud=https://www.youtube.com/watch?v=GYPms8_uSYg
 ﻿Rok Strani]Rolling Stones}Gomper=http://www.youtube.com/watch?v=gONZ8KMG4qI
 ﻿Rok Strani]Rolling Stones}Good Time Women=http://www.youtube.com/watch?v=QwpgVoSpxxk
 ﻿Rok Strani]Rolling Stones}Good Times, Bad Times=http://www.youtube.com/watch?v=Py0W7omBt24
@@ -13931,7 +13927,7 @@ Rep]Ludi Srbi}LS NS=https://www.youtube.com/watch?v=5bJK1bXIRLk
 ﻿Rok Strani]Rolling Stones}Just My Imagination (Running Away With Me)=http://www.youtube.com/watch?v=7RIRul-cKoc
 ﻿Rok Strani]Rolling Stones}Just Your Fool=http://www.youtube.com/watch?v=PacX2YgdLOo
 ﻿Rok Strani]Rolling Stones}Keys To Your Love=http://www.youtube.com/watch?v=W6ZVgDksUhk
-﻿Rok Strani]Rolling Stones}Lady Jane=http://www.youtube.com/watch?v=41K5Sqob2SQ
+﻿Rok Strani]Rolling Stones}Lady Jane=http://www.youtube.com/watch?v=2yd8X2EnajU
 ﻿Rok Strani]Rolling Stones}Laugh, I Nearly Died=http://www.youtube.com/watch?v=gnDuUpu1Puo
 ﻿Rok Strani]Rolling Stones}Let It Bleed=http://www.youtube.com/watch?v=3GxoSr3CHdI
 ﻿Rok Strani]Rolling Stones}Let It Loose=http://www.youtube.com/watch?v=j2k_KfvxBW8
@@ -13969,12 +13965,12 @@ Rep]Ludi Srbi}LS NS=https://www.youtube.com/watch?v=5bJK1bXIRLk
 ﻿Rok Strani]Rolling Stones}Monkey Man=http://www.youtube.com/watch?v=HNY8eYmzdH4
 ﻿Rok Strani]Rolling Stones}Moon Is Up=http://www.youtube.com/watch?v=Y-woVa0ouUU
 ﻿Rok Strani]Rolling Stones}Moonlight Mile=http://www.youtube.com/watch?v=stpRIyHHw8g
-﻿Rok Strani]Rolling Stones}Mother's Little Helper=http://www.youtube.com/watch?v=E-62QgzmcDQ
+﻿Rok Strani]Rolling Stones}Mother's Little Helper=http://www.youtube.com/watch?v=Sa7-YLJsBJ0
 ﻿Rok Strani]Rolling Stones}My Girl=http://www.youtube.com/watch?v=_gQacbV65UU
 ﻿Rok Strani]Rolling Stones}My Obsession=http://www.youtube.com/watch?v=4JS6af9NdZg
 ﻿Rok Strani]Rolling Stones}Neighbours=http://www.youtube.com/watch?v=X2tPWjtQKdk
 ﻿Rok Strani]Rolling Stones}New Faces=http://www.youtube.com/watch?v=3jrAFCXThA8
-﻿Rok Strani]Rolling Stones}No Expectations=http://www.youtube.com/watch?v=1rIqBeMZAMc
+﻿Rok Strani]Rolling Stones}No Expectations=http://www.youtube.com/watch?v=IWbwUEiyMV8
 ﻿Rok Strani]Rolling Stones}No Use In Crying=http://www.youtube.com/watch?v=77f1TlFGOJ0
 ﻿Rok Strani]Rolling Stones}Not Fade Away=http://www.youtube.com/watch?v=P6RWnGQ3XqQ
 ﻿Rok Strani]Rolling Stones}Off The Hook=http://www.youtube.com/watch?v=krWenYbyISc
@@ -14016,7 +14012,7 @@ Rep]Ludi Srbi}LS NS=https://www.youtube.com/watch?v=5bJK1bXIRLk
 ﻿Rok Strani]Rolling Stones}She Saw Me Coming=http://www.youtube.com/watch?v=94maOZIMcoQ
 ﻿Rok Strani]Rolling Stones}She Smiled Sweetly=http://www.youtube.com/watch?v=wwAsS9qjX7c
 ﻿Rok Strani]Rolling Stones}She Was Hot=http://www.youtube.com/watch?v=OCH9fB07Ar8
-﻿Rok Strani]Rolling Stones}She's A Rainbow=http://www.youtube.com/watch?v=sH-0eqA0gJ4
+﻿Rok Strani]Rolling Stones}She's A Rainbow=http://www.youtube.com/watch?v=fLfRg-SmIvg
 ﻿Rok Strani]Rolling Stones}She's So Cold=http://www.youtube.com/watch?v=Xrx_55SgwAY
 ﻿Rok Strani]Rolling Stones}Shine A Light=http://www.youtube.com/watch?v=the7gV99YRI
 ﻿Rok Strani]Rolling Stones}Short And Curlies=http://www.youtube.com/watch?v=xcMRAhJhFGw
@@ -14078,7 +14074,7 @@ Rep]Ludi Srbi}LS NS=https://www.youtube.com/watch?v=5bJK1bXIRLk
 ﻿Rok Strani]Rolling Stones}Try A Little Harder=http://www.youtube.com/watch?v=RKJd5WVhhgs
 ﻿Rok Strani]Rolling Stones}Tumbling Dice=http://www.youtube.com/watch?v=UYDDJKSTuaY
 ﻿Rok Strani]Rolling Stones}Turd On The Run=http://www.youtube.com/watch?v=QwZNruyHCSs
-﻿Rok Strani]Rolling Stones}Under My Thumb=http://www.youtube.com/watch?v=nYYTLJ8YHi4
+﻿Rok Strani]Rolling Stones}Under My Thumb=http://www.youtube.com/watch?v=Vfk_vdrHehg
 ﻿Rok Strani]Rolling Stones}Under The Board Walk=http://www.youtube.com/watch?v=ELMV1Q9zB4A
 ﻿Rok Strani]Rolling Stones}Ventilator Blues=http://www.youtube.com/watch?v=zwsl-SuOEXc
 ﻿Rok Strani]Rolling Stones}Waiting On A Friend=http://www.youtube.com/watch?v=1LDqQ6e6BTE
@@ -15484,7 +15480,7 @@ Rep]Ludi Srbi}LS NS=https://www.youtube.com/watch?v=5bJK1bXIRLk
 ﻿Rok Strani]The Beatles}Three Cool Cats=http://www.youtube.com/watch?v=b-R0FiSWLEQ
 ﻿Rok Strani]The Beatles}Ticket To Ride=http://www.youtube.com/watch?v=0IaqRVrOXiY
 ﻿Rok Strani]The Beatles}Till There Was You=http://www.youtube.com/watch?v=Mr5gCdUXJQY
-﻿Rok Strani]The Beatles}To Know Her Is To Love Her=http://www.youtube.com/watch?v=KaDCw-vBzgA
+﻿Rok Strani]The Beatles}To Know Her Is To Love Her=--start-time=5 http://www.youtube.com/watch?v=YEoR-oNs4ow
 ﻿Rok Strani]The Beatles}Tomorrow Never Knows=http://www.youtube.com/watch?v=Ah2ckzXgrx4
 ﻿Rok Strani]The Beatles}Too Much Monkey Business=http://www.youtube.com/watch?v=uAXXy8EMEEM
 ﻿Rok Strani]The Beatles}Twist And Shout=http://www.youtube.com/watch?v=z9ypq6_5bsg
@@ -17347,7 +17343,6 @@ Rep]Ludi Srbi}LS NS=https://www.youtube.com/watch?v=5bJK1bXIRLk
 ﻿Rok Strani]ZZ Top}I Gotsta Get Paid=http://www.youtube.com/watch?v=kaIZWjItReI
 ﻿Rok Strani]ZZ Top}I Need You Tonight=http://www.youtube.com/watch?v=pGr4NHj92rY
 ﻿Rok Strani]ZZ Top}I Thank You=http://www.youtube.com/watch?v=IUkNwmc03yY
-﻿Rok Strani]ZZ Top}I Wanna Drive You Home=http://www.youtube.com/watch?v=hyLDiEeunLk
 ﻿Rok Strani]ZZ Top}I'm Bad, I'm Nationwide=http://www.youtube.com/watch?v=12BbI-kmrpI
 ﻿Rok Strani]ZZ Top}If I Could Only Flag Her Down=http://www.youtube.com/watch?v=-3SZVOFVqzU
 ﻿Rok Strani]ZZ Top}It's Only Love=http://www.youtube.com/watch?v=fVx4N8iAFz4
@@ -17435,7 +17430,7 @@ Rep]Ludi Srbi}LS NS=https://www.youtube.com/watch?v=5bJK1bXIRLk
 ﻿Rok Strani]King Crimson}Cat Food=http://www.youtube.com/watch?v=HjfVkJjZhgg
 ﻿Rok Strani]King Crimson}Coda: I Have A Dream=http://www.youtube.com/watch?v=SyBY14qhNjA
 ﻿Rok Strani]King Crimson}Dinosaur=http://www.youtube.com/watch?v=pl2AySUVYGw
-﻿Rok Strani]King Crimson}Easy Money=http://www.youtube.com/watch?v=CbAbL3Dov7k
+﻿Rok Strani]King Crimson}Easy Money=http://www.youtube.com/watch?v=SXfMkJ17Qys
 ﻿Rok Strani]King Crimson}Elephant Talk=http://www.youtube.com/watch?v=yrdvvGQtKDw
 ﻿Rok Strani]King Crimson}Exiles=http://www.youtube.com/watch?v=rJp90cERMsQ
 ﻿Rok Strani]King Crimson}Fallen Angel=http://www.youtube.com/watch?v=a3sJbFTySJM
