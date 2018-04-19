@@ -5054,6 +5054,7 @@
 ﻿Rep~Zabavna]Rasta}Kavasaki=--start-time=17 http://www.youtube.com/watch?v=Zo8S1ErnnTE
 ﻿Rep~Zabavna]Rasta}Kilo kilo=http://www.youtube.com/watch?v=j0Ofvvmleu8
 ﻿Rep~Zabavna]Rasta}Mahinalno (ft. G.I)=--start-time=7 https://www.youtube.com/watch?v=ksIk8Eh895I
+﻿Rep~Zabavna]Rasta}Matematika=--start-time=12 https://www.youtube.com/watch?v=1kHwMPKjDe0
 ﻿Rep~Zabavna]Rasta}Moja stvar=http://www.youtube.com/watch?v=cSENwIYyibM
 ﻿Rep~Zabavna]Rasta}Noći nemirne=http://www.youtube.com/watch?v=LY262S4eyBo
 ﻿Rep~Zabavna]Rasta}Sreća=http://www.youtube.com/watch?v=iT-NFyCxB_4
@@ -9205,6 +9206,7 @@
 ﻿Zabavna]Tropico Band}Pogledaj kako živimo=http://www.youtube.com/watch?v=X9hRnfKyYN0
 ﻿Zabavna]Tropico Band}Samo idi=--start-time=7 https://www.youtube.com/watch?v=A3hfErUzjdg
 ﻿Zabavna]Tropico Band}Sreća=http://www.youtube.com/watch?v=G4PfsT-5sPM
+Zabavna]Tropico Band}Sinovi tame (ft. Dženan Lončarević)=--start-time=12 https://www.youtube.com/watch?v=i706uJSueMU
 ﻿Zabavna]Tropico Band}Šta ću tebi ja=http://www.youtube.com/watch?v=yuQk5rU3YfA
 ﻿Zabavna]Tropico Band}Sve moje zore=http://www.youtube.com/watch?v=PEUrilCqxdc
 ﻿Zabavna]Tropico Band}U ljubav verujem=http://www.youtube.com/watch?v=Ry9QGPp7t6k
