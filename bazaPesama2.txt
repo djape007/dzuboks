@@ -49,7 +49,6 @@
 ﻿Zabavna]Lexington}Gdje mi je pamet bila=http://www.youtube.com/watch?v=hlLImvMhnGQ
 ﻿Zabavna]Lexington}Godinama=http://www.youtube.com/watch?v=0xThUk1vMb0
 ﻿Zabavna]Lexington}Ja te srećom častim=http://www.youtube.com/watch?v=AZFzpSvOS7k
-﻿Zabavna]Lexington}Jer sam tvoj kad nema ko=http://www.youtube.com/watch?v=kbPsdWNd-Gs
 ﻿Zabavna]Lexington}Kad kreneš=http://www.youtube.com/watch?v=N29kXOtNDDA
 ﻿Zabavna]Lexington}Kako je, tako je=http://www.youtube.com/watch?v=VivEsrKLcoc
 ﻿Zabavna]Lexington}Letnje kiše=http://www.youtube.com/watch?v=bTLCVfJwl78
@@ -877,6 +876,7 @@
 ﻿Zabavna]Marina Visković}Ljubav za sva vremena=http://www.youtube.com/watch?v=xSssuiB88pM
 ﻿Zabavna]Marina Visković}Ludara=--start-time=6 https://www.youtube.com/watch?v=cRiGeDQxR70
 ﻿Zabavna]Marina Visković}Moj pakao=http://www.youtube.com/watch?v=eSi2WqcoGJg
+﻿Zabavna]Marina Visković}Ona (ne) zna=--start-time=13 https://www.youtube.com/watch?v=ZypMrkzZboA
 ﻿Zabavna]Marina Visković}Pogrešan raj=http://www.youtube.com/watch?v=gp4LMJ0AESo
 ﻿Zabavna]Marina Visković}Pogrešna=http://www.youtube.com/watch?v=3oRiI6E3NYw
 ﻿Zabavna]Marina Visković}Problemi bogataša=--start-time=5 https://www.youtube.com/watch?v=uiBR3_lrc7o
@@ -1398,7 +1398,7 @@
 ﻿Narodna]Milanče Radosavljević}Jedna žena plave kose=http://www.youtube.com/watch?v=YxFz6JDfy1Q
 ﻿Narodna]Milanče Radosavljević}Kad zasvira Dragačevska truba=http://www.youtube.com/watch?v=xoAXaNdv55c
 ﻿Narodna]Milanče Radosavljević}Kakva žena=http://www.youtube.com/watch?v=Cd2kbjnigYY
-﻿Narodna]Milanče Radosavljević}Ljubavi se staroj vrati=http://www.youtube.com/watch?v=N8WDfVRKgTI
+﻿Narodna]Milanče Radosavljević}Ljubavi se staroj vrati=http://www.youtube.com/watch?v=znUcsas4Jbg
 ﻿Narodna]Milanče Radosavljević}Magla pala=http://www.youtube.com/watch?v=JhYJ4wurAtE
 ﻿Narodna]Milanče Radosavljević}Mnogo sam te draga poželeo=http://www.youtube.com/watch?v=fPe9BxzYr6o
 ﻿Narodna]Milanče Radosavljević}Mnogo suza u očima=http://www.youtube.com/watch?v=tD-hkccbaYY
@@ -2058,7 +2058,7 @@
 ﻿Tamburaši]Miroslav Škoro}Vrijedilo je=http://www.youtube.com/watch?v=8BBpWmjBngM
 ﻿Tamburaši]Miroslav Škoro}Vrime rastanka=http://www.youtube.com/watch?v=NQNUe2Ylfts
 ﻿Tamburaši]Miroslav Škoro}Vrime=http://www.youtube.com/watch?v=2B3gTkiK9fI
-﻿Tamburaši]Miroslav Škoro}Zadnja želja=http://www.youtube.com/watch?v=AbDLPrrZeuM
+﻿Tamburaši]Miroslav Škoro}Zadnja želja=http://www.youtube.com/watch?v=10bydCV4slc
 ﻿Tamburaši]Miroslav Škoro}Žao mi je=http://www.youtube.com/watch?v=lnhlb6bMB6c
 ﻿Tamburaši]Miroslav Škoro}Zašto lažu nam u lice=http://www.youtube.com/watch?v=hRIa2fmj0d0
 ﻿Tamburaši]Miroslav Škoro}Zbog tebe mi srce stade=http://www.youtube.com/watch?v=GZwVTAXF3jI
@@ -2811,16 +2811,15 @@
 ﻿Kantautori]Neno Belan}Sunčan dan=http://www.youtube.com/watch?v=EV27ZmuQEHg
 ﻿Kantautori]Neno Belan}Ulicama grada (ft. Fiumens i Ljetno kino)=http://www.youtube.com/watch?v=HJ9UdmL_Dt4
 ﻿Kantautori]Neno Belan}Vino noći=http://www.youtube.com/watch?v=TugkXfgXkLM
-﻿Narodna]Nervozni Poštar}Bez zavičaja sreće nema=http://www.youtube.com/watch?v=X1L6CKjpAMY
+﻿Narodna]Nervozni Poštar}Bez zavičaja sreće nema=http://www.youtube.com/watch?v=WrMIY2PGnPA
 ﻿Narodna]Nervozni Poštar}Bilo jednom u SFRJ=http://www.youtube.com/watch?v=CWq55wkq1PE
 ﻿Narodna]Nervozni Poštar}Bjelašnica planina=http://www.youtube.com/watch?v=LSmlIHstxd8
-﻿Narodna]Nervozni Poštar}Bosno, rodna grudo=http://www.youtube.com/watch?v=ZGkdk-az6Dw
 ﻿Narodna]Nervozni Poštar}Cirkus Kolorado=http://www.youtube.com/watch?v=Ky_OUc_oVig
 ﻿Narodna]Nervozni Poštar}Čoban tjera ovčice=http://www.youtube.com/watch?v=M1-Ue-R_EQA
 ﻿Narodna]Nervozni Poštar}Ivana=http://www.youtube.com/watch?v=kMpHsUFdQYM
 ﻿Narodna]Nervozni Poštar}Ja živim sam=http://www.youtube.com/watch?v=zlDARq6Zk8I
-﻿Narodna]Nervozni Poštar}Jugo, Jugo=http://www.youtube.com/watch?v=MCa5_wQ4RVo
-﻿Narodna]Nervozni Poštar}Komšinice medena=http://www.youtube.com/watch?v=ONUFkT4iSZw
+﻿Narodna]Nervozni Poštar}Jugo, Jugo=http://www.youtube.com/watch?v=JzEAgZ9Ws6c
+﻿Narodna]Nervozni Poštar}Komšinice medena=http://www.youtube.com/watch?v=uyw008pvr3s
 ﻿Narodna]Nervozni Poštar}Krntija=http://www.youtube.com/watch?v=YcICTpUdD4A
 ﻿Narodna]Nervozni Poštar}Lijepa Fata=http://www.youtube.com/watch?v=nLFWR2o9Zn8
 ﻿Narodna]Nervozni Poštar}Marko Kamiondžija=http://www.youtube.com/watch?v=wiNMrYkfH_U
@@ -2829,7 +2828,7 @@
 ﻿Narodna]Nervozni Poštar}Ništa više nije kao prije=http://www.youtube.com/watch?v=U9HmmtPTmFE
 ﻿Narodna]Nervozni Poštar}Nova Godina=http://www.youtube.com/watch?v=F0ySBYUwsU8
 ﻿Narodna]Nervozni Poštar}Pamti pa vrati=http://www.youtube.com/watch?v=MyjYWG8hWPs
-﻿Narodna]Nervozni Poštar}Plavi anđeli=http://www.youtube.com/watch?v=tkgtl4d0Qe0
+﻿Narodna]Nervozni Poštar}Plavi anđeli=http://www.youtube.com/watch?v=dV9x8heajSI
 ﻿Narodna]Nervozni Poštar}Ponoćni sat=http://www.youtube.com/watch?v=6Cc4l90sj9w
 ﻿Narodna]Nervozni Poštar}Poštar u finalu, jaro u kanalu=http://www.youtube.com/watch?v=kB5KbyNAbuY
 ﻿Narodna]Nervozni Poštar}Salko Dinamitas=http://www.youtube.com/watch?v=624X6qqZTb4
@@ -3636,8 +3635,8 @@
 ﻿Narodna]Osman Hadžić}Na peronu gužva=http://www.youtube.com/watch?v=pY-Mga6VNmc
 ﻿Narodna]Osman Hadžić}Ne budi luda=http://www.youtube.com/watch?v=x8n9DQDQD0s
 ﻿Narodna]Osman Hadžić}Ne pitaj me=http://www.youtube.com/watch?v=rKePHxT0dAw
-﻿Narodna]Osman Hadžić}Neću da prosim za komadić sreće=http://www.youtube.com/watch?v=ZuBbWzjMIR8
-﻿Narodna]Osman Hadžić}Nije čudo što te volim ludo=http://www.youtube.com/watch?v=P81RlI0TSU8
+﻿Narodna]Osman Hadžić}Neću da prosim za komadić sreće=http://www.youtube.com/watch?v=J2kQ9o3J88w
+﻿Narodna]Osman Hadžić}Nije čudo što te volim ludo=http://www.youtube.com/watch?v=m9Idnor14MU
 ﻿Narodna]Osman Hadžić}Nikad više Snježana=http://www.youtube.com/watch?v=HfVKXBWqgoA
 ﻿Narodna]Osman Hadžić}Nikada ti neću reći=http://www.youtube.com/watch?v=_0s5OWsEHGw
 ﻿Narodna]Osman Hadžić}Novi dom=http://www.youtube.com/watch?v=1pwxtWc_oAM
@@ -3649,7 +3648,6 @@
 ﻿Narodna]Osman Hadžić}Pita me pamet=http://www.youtube.com/watch?v=uEpgbRg0ccw
 ﻿Narodna]Osman Hadžić}Pitajte me nešto lakše=http://www.youtube.com/watch?v=NXWM8P0z8c8
 ﻿Narodna]Osman Hadžić}Pjesmom do Brazila=http://www.youtube.com/watch?v=BOK5WMa_doo
-﻿Narodna]Osman Hadžić}Pokušaj bar malo da me voliš=http://www.youtube.com/watch?v=kheLWaXbDoE
 ﻿Narodna]Osman Hadžić}Poljubi me=http://www.youtube.com/watch?v=Yw1NiDxK1p4
 ﻿Narodna]Osman Hadžić}Ponovo se volimo=http://www.youtube.com/watch?v=B1oyHilulyk
 ﻿Narodna]Osman Hadžić}Prezime=http://www.youtube.com/watch?v=CJ_y3RmPHT0
@@ -3812,7 +3810,7 @@
 ﻿Rok]Parni Valjak}Ostani s njim=http://www.youtube.com/watch?v=GI4lud4UBF0
 ﻿Rok]Parni Valjak}Ostavljam trag=http://www.youtube.com/watch?v=joyTISsovCA
 ﻿Rok]Parni Valjak}Pariz=http://www.youtube.com/watch?v=uZYF9AP5I-8
-﻿Rok]Parni Valjak}Partneri za ples=http://www.youtube.com/watch?v=uFlurfbQGKk
+﻿Rok]Parni Valjak}Partneri za ples=http://www.youtube.com/watch?v=LbhhkFW4GAw
 ﻿Rok]Parni Valjak}Pjesma o starosti=http://www.youtube.com/watch?v=vD8JmxBx0YA
 ﻿Rok]Parni Valjak}Povratak ratnika=http://www.youtube.com/watch?v=nlYAjRbwQGE
 ﻿Rok]Parni Valjak}Prazno tijelo=http://www.youtube.com/watch?v=F2DGEjQrWi4
@@ -4525,7 +4523,7 @@
 ﻿Zabavna]Ok Band}Zašto bih se vratio=https://www.youtube.com/watch?v=KOddRR5DUmk
 ﻿Zabavna]Ok Band}Zabranjena ljubav=http://www.youtube.com/watch?v=4aeg-1Hgpzo
 ﻿Zabavna]Ok Band}Samo noćas budi tu=https://www.youtube.com/watch?v=2L_9m45uAwo
-﻿Zabavna]Ok Band}Ne mogu ti to oprostiti=https://www.youtube.com/watch?v=uzFQYqcAgHQ
+﻿Zabavna]Ok Band}Ne mogu ti to oprostiti=http://www.youtube.com/watch?v=SQWZL-Dbx48
 ﻿Zabavna]Ok Band}Gde ti je sada on=https://www.youtube.com/watch?v=zkzqll1VjYM
 ﻿Zabavna]Ok Band}Volele il ne volele=https://www.youtube.com/watch?v=EDu3F1fgD4U
 ﻿Zabavna]Ok Band}Kraljevo Valjevo=http://www.youtube.com/watch?v=1HunAF-UKtg
@@ -7378,7 +7376,6 @@
 ﻿Narodna]Šerif Konjević}Nije za tebe čovjek k'o ja=http://www.youtube.com/watch?v=081ZtLJRKjE
 ﻿Narodna]Šerif Konjević}Nikad u proljeće=http://www.youtube.com/watch?v=CCH4juvZ9M4
 ﻿Narodna]Šerif Konjević}Nisam te ponizio=http://www.youtube.com/watch?v=CpOQjFqr5Sk
-﻿Narodna]Šerif Konjević}Ništa vječno nije=http://www.youtube.com/watch?v=nJSvZS5pdYk
 ﻿Narodna]Šerif Konjević}O, suze moje=http://www.youtube.com/watch?v=ZpeHuoqpadQ
 ﻿Narodna]Šerif Konjević}Obećaj mi=http://www.youtube.com/watch?v=KMmDCMDfJfo
 ﻿Narodna]Šerif Konjević}Očeva želja=http://www.youtube.com/watch?v=wCPcf5ejkM8
@@ -7603,7 +7600,7 @@
 ﻿Narodna]Sinan Sakić}Muko moja=http://www.youtube.com/watch?v=ogGVXxZ23FY
 ﻿Narodna]Sinan Sakić}Na Balkanu=http://www.youtube.com/watch?v=jxxUBRgB8Rs
 ﻿Narodna]Sinan Sakić}Na igranci sinoć=http://www.youtube.com/watch?v=MLSj1eBNKpE
-﻿Narodna]Sinan Sakić}Na stolu prazne čaše=http://www.youtube.com/watch?v=4aJfsEKWzrA
+﻿Narodna]Sinan Sakić}Na stolu prazne čaše=http://www.youtube.com/watch?v=9r0WQYxkXV4
 ﻿Narodna]Sinan Sakić}Na tvojoj sam strani=http://www.youtube.com/watch?v=OQxl8vKDQ70
 ﻿Narodna]Sinan Sakić}Nasloni glavu na moje rame=http://www.youtube.com/watch?v=4TP1EWbmOQY
 ﻿Narodna]Sinan Sakić}Ne budi me majko=http://www.youtube.com/watch?v=bv8DybLyFoA
@@ -9207,7 +9204,7 @@
 ﻿Zabavna]Tropico Band}Pogledaj kako živimo=http://www.youtube.com/watch?v=X9hRnfKyYN0
 ﻿Zabavna]Tropico Band}Samo idi=--start-time=7 https://www.youtube.com/watch?v=A3hfErUzjdg
 ﻿Zabavna]Tropico Band}Sreća=http://www.youtube.com/watch?v=G4PfsT-5sPM
-Zabavna]Tropico Band}Sinovi tame (ft. Dženan Lončarević)=--start-time=12 https://www.youtube.com/watch?v=i706uJSueMU
+﻿Zabavna]Tropico Band}Sinovi tame (ft. Dženan Lončarević)=--start-time=12 https://www.youtube.com/watch?v=i706uJSueMU
 ﻿Zabavna]Tropico Band}Šta ću tebi ja=http://www.youtube.com/watch?v=yuQk5rU3YfA
 ﻿Zabavna]Tropico Band}Sve moje zore=http://www.youtube.com/watch?v=PEUrilCqxdc
 ﻿Zabavna]Tropico Band}U ljubav verujem=http://www.youtube.com/watch?v=Ry9QGPp7t6k
@@ -10029,7 +10026,7 @@ Zabavna]Tropico Band}Sinovi tame (ft. Dženan Lončarević)=--start-time=12 http
 ﻿Rok]Zabranjeno Pušenje}Izvini, jaro, guzim=http://www.youtube.com/watch?v=cjulRAk_cQw
 ﻿Rok]Zabranjeno Pušenje}Ja imam kuhinju=http://www.youtube.com/watch?v=RU1zJ8D4msI
 ﻿Rok]Zabranjeno Pušenje}Ja nisam odavle=http://www.youtube.com/watch?v=KVf-zP8vB1s
-﻿Rok]Zabranjeno Pušenje}Javi mi=http://www.youtube.com/watch?v=5b-Jl_8AYc4
+﻿Rok]Zabranjeno Pušenje}Javi mi=http://www.youtube.com/watch?v=REBick_UkF8
 ﻿Rok]Zabranjeno Pušenje}Jugo 45=http://www.youtube.com/watch?v=0IofpvkGJPM
 ﻿Rok]Zabranjeno Pušenje}Kad Sena pleše=http://www.youtube.com/watch?v=qrMDEargILI
 ﻿Rok]Zabranjeno Pušenje}Kad procvatu behari=http://www.youtube.com/watch?v=x4jPjuZs6JY
@@ -10079,7 +10076,7 @@ Zabavna]Tropico Band}Sinovi tame (ft. Dženan Lončarević)=--start-time=12 http
 ﻿Rok]Zabranjeno Pušenje}Srce, ruke i lopata=http://www.youtube.com/watch?v=9gqZj4IVOVs
 ﻿Rok]Zabranjeno Pušenje}Stanje šoka=http://www.youtube.com/watch?v=4Ud-lDQk16E
 ﻿Rok]Zabranjeno Pušenje}Sto načina=http://www.youtube.com/watch?v=Y3LRLLm6FTg
-﻿Rok]Zabranjeno Pušenje}Straža pored Prizrena=http://www.youtube.com/watch?v=U6zb_DXOk0c
+﻿Rok]Zabranjeno Pušenje}Straža pored Prizrena=http://www.youtube.com/watch?v=wHzFr-hOVE8
 ﻿Rok]Zabranjeno Pušenje}Takvim sjajem=http://www.youtube.com/watch?v=JrPKdAd6YlU
 ﻿Rok]Zabranjeno Pušenje}Ti voliš sapunice=http://www.youtube.com/watch?v=D12vbA6hOws
 ﻿Rok]Zabranjeno Pušenje}Tragovi suza=http://www.youtube.com/watch?v=8Oo0bUQ3eiM
@@ -14419,7 +14416,7 @@ Zabavna]Tropico Band}Sinovi tame (ft. Dženan Lončarević)=--start-time=12 http
 ﻿Rok Strani]Slayer}Die By The Sword=http://www.youtube.com/watch?v=ASKb-u4Vt5g
 ﻿Rok Strani]Slayer}Disciple=http://www.youtube.com/watch?v=tS0mQ25ezq4
 ﻿Rok Strani]Slayer}Dissident Aggressor=http://www.youtube.com/watch?v=oTtV0QYvuyI
-﻿Rok Strani]Slayer}Dittohead=http://www.youtube.com/watch?v=3WtdCxlkFRU
+﻿Rok Strani]Slayer}Dittohead=http://www.youtube.com/watch?v=yCCRHVPgDHg
 ﻿Rok Strani]Slayer}Divine Intervention=http://www.youtube.com/watch?v=_8htAULV2Lo
 ﻿Rok Strani]Slayer}Epidemic=http://www.youtube.com/watch?v=pF_re9gHNW8
 ﻿Rok Strani]Slayer}Evil Has No Boundaries=http://www.youtube.com/watch?v=7W5v77dASGw
@@ -14523,7 +14520,7 @@ Zabavna]Tropico Band}Sinovi tame (ft. Dženan Lončarević)=--start-time=12 http
 ﻿Rok Strani]Smashing Pumpkins}Astral Planes=http://www.youtube.com/watch?v=Ibir_sZvVAs
 ﻿Rok Strani]Smashing Pumpkins}Ava Adore=http://www.youtube.com/watch?v=yzVQT5EgDpw
 ﻿Rok Strani]Smashing Pumpkins}Beautiful=http://www.youtube.com/watch?v=lEsW1kJvJfQ
-﻿Rok Strani]Smashing Pumpkins}Behold! The Night Mare=http://www.youtube.com/watch?v=oGeXsfRdPM4
+﻿Rok Strani]Smashing Pumpkins}Behold! The Night Mare=http://www.youtube.com/watch?v=6XNztn6wxzo
 ﻿Rok Strani]Smashing Pumpkins}Being Beige (World's On Fire)=http://www.youtube.com/watch?v=FA8CrVJFXmk
 ﻿Rok Strani]Smashing Pumpkins}Blank Page=http://www.youtube.com/watch?v=mPi_JaCbtLg
 ﻿Rok Strani]Smashing Pumpkins}Bleed=http://www.youtube.com/watch?v=-RXRHmIFB_c
