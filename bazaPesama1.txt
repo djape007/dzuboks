@@ -1927,7 +1927,7 @@
 ﻿Narodna]Bata Zdravković}Niko i ništa=http://www.youtube.com/watch?v=2HrA-vSw9QM
 ﻿Narodna]Bata Zdravković}Otvori mi druže=http://www.youtube.com/watch?v=4TK1c3oXw0w
 ﻿Narodna]Bata Zdravković}Potraži me među pijanima=http://www.youtube.com/watch?v=HZWdIcyCZ2A
-﻿Narodna]Bata Zdravković}Recite joj vetrovi=http://www.youtube.com/watch?v=ENOxSM39rLI
+﻿Narodna]Bata Zdravković}Recite joj vetrovi=http://www.youtube.com/watch?v=efBmcMRpAmo
 ﻿Narodna]Bata Zdravković}Rođeni su da se vole=http://www.youtube.com/watch?v=ZeLqmckznOM
 ﻿Narodna]Bata Zdravković}Sad plači ako, ako=http://www.youtube.com/watch?v=UavqzqS4JvI
 ﻿Narodna]Bata Zdravković}Samo mi javi=http://www.youtube.com/watch?v=oLahyiBxCYI
@@ -2790,7 +2790,6 @@
 ﻿Narodna]Ceca}Bruka=http://www.youtube.com/watch?v=cxZCsn9WxH0
 ﻿Narodna]Ceca}Brže, brže=http://www.youtube.com/watch?v=TQ_568xaBwU
 ﻿Narodna]Ceca}Budi dečko moj=http://www.youtube.com/watch?v=FftIpFphHzA
-﻿Narodna]Ceca}Cigani=http://www.youtube.com/watch?v=TMZgTBpgPGc
 ﻿Narodna]Ceca}Cipelice=http://www.youtube.com/watch?v=DwImzRQet2A
 ﻿Narodna]Ceca}Crni sneg=http://www.youtube.com/watch?v=qGzVAWFqdvo
 ﻿Narodna]Ceca}Crveno=http://www.youtube.com/watch?v=aRuu4LwMgjw
@@ -3578,7 +3577,7 @@
 ﻿Zabavna]Danijel Đokić}Amore mio=http://www.youtube.com/watch?v=e2FMaA3m4Lc
 ﻿Zabavna]Danijel Đokić}Balkan u mojim venama=http://www.youtube.com/watch?v=iePwG4__KtE
 ﻿Zabavna]Danijel Đokić}Buntovnik bez razloga=http://www.youtube.com/watch?v=F0hjrtPjxcc
-﻿Zabavna]Danijel Đokić}Cigani=http://www.youtube.com/watch?v=A-1PyWwk-cw
+﻿Zabavna]Danijel Đokić}Cigani=--start-time=10 http://www.youtube.com/watch?v=DYFz6JOiRJQ
 ﻿Zabavna]Danijel Đokić}Da sam te ranije sreo=http://www.youtube.com/watch?v=p0ph_ZqyYWc
 ﻿Zabavna]Danijel Đokić}Dođe mi da=http://www.youtube.com/watch?v=BnSQuMB_EEw
 ﻿Zabavna]Danijel Đokić}Iskoristi to=http://www.youtube.com/watch?v=0Fs3sIVUhsk
@@ -4922,7 +4921,7 @@
 ﻿Narodna]Dragan Kojić - Keba}Srce piše suzama=http://www.youtube.com/watch?v=zhRVVWmwxc4
 ﻿Narodna]Dragan Kojić - Keba}Stranca dva=http://www.youtube.com/watch?v=jHpWw976gb4
 ﻿Narodna]Dragan Kojić - Keba}Svako svojim putem=http://www.youtube.com/watch?v=qnhHiqsFor0
-﻿Narodna]Dragan Kojić - Keba}Sve ću tuge poneti sa sobom=http://www.youtube.com/watch?v=buSKhwcctbY
+﻿Narodna]Dragan Kojić - Keba}Sve ću tuge poneti sa sobom=http://www.youtube.com/watch?v=8HG-FpNitYM
 ﻿Narodna]Dragan Kojić - Keba}Sve ljubavi nove=http://www.youtube.com/watch?v=rNKbbIwMxPs
 ﻿Narodna]Dragan Kojić - Keba}Sve na pesmu i veselje=http://www.youtube.com/watch?v=YNBhDmuJ7jw
 ﻿Narodna]Dragan Kojić - Keba}Sve si rane izlečila=http://www.youtube.com/watch?v=Fyj3rDLHbQM
@@ -4979,7 +4978,7 @@
 ﻿Narodna]Dragana Mirković}Biću njegova=http://www.youtube.com/watch?v=ZU6B4i-xJBk
 ﻿Narodna]Dragana Mirković}Bila sam naivna=http://www.youtube.com/watch?v=GeKWx62H70Q
 ﻿Narodna]Dragana Mirković}Bog srca mog=http://www.youtube.com/watch?v=bBeBDMzeni0
-﻿Narodna]Dragana Mirković}Bog zna=http://www.youtube.com/watch?v=f1sCIbj1nUQ
+﻿Narodna]Dragana Mirković}Bog zna=http://www.youtube.com/watch?v=zm1MgXxyEWk
 ﻿Narodna]Dragana Mirković}Bolna sam ti=http://www.youtube.com/watch?v=-bYPEs2RHrA
 ﻿Narodna]Dragana Mirković}Brate moj=http://www.youtube.com/watch?v=kfvO3TeYMCE
 ﻿Narodna]Dragana Mirković}Budućnost je moja u rukama tvojim=http://www.youtube.com/watch?v=ymx77gWvpbI
@@ -8302,6 +8301,7 @@
 ﻿Zabavna]In Vivo}Jun i jul=--start-time=3 http://www.youtube.com/watch?v=QNvyaPSFw3U
 ﻿Zabavna]In Vivo}Kada noću te suze probude=http://www.youtube.com/watch?v=C1W4YxXldfo
 ﻿Zabavna]In Vivo}Karamela=http://www.youtube.com/watch?v=gL70ZPolaXM
+Zabavna]In Vivo}Koka koka=--start-time=6 https://www.youtube.com/watch?v=g6pHFWToZLo
 ﻿Zabavna]In Vivo}Komšinica=http://www.youtube.com/watch?v=4QWnkMfejQc
 ﻿Zabavna]In Vivo}Kulira (ft. TeodoRa)=--start-time=3 http://www.youtube.com/watch?v=AmlcuqYvs0A
 ﻿Zabavna]In Vivo}Marina=http://www.youtube.com/watch?v=_GYTYgj45Ho
@@ -9505,6 +9505,7 @@
 ﻿Zabavna]Karolina Gočeva}Volela sam te=http://www.youtube.com/watch?v=SLt9_CrVKCw
 ﻿Zabavna]Karolina Gočeva}Želim samo tebe=http://www.youtube.com/watch?v=NUwQx-dMgZg
 ﻿Zabavna]Karolina Gočeva}Znam koliko vredim=http://www.youtube.com/watch?v=ZpcA9EdoRgA
+﻿Narodna]Katarina Grujić}Emotivno dno=--start-time=7 https://www.youtube.com/watch?v=F3E1x20q3k8
 ﻿Narodna]Katarina Grujić}Greška=--start-time=23 http://www.youtube.com/watch?v=O3m7jGKz1hc
 ﻿Narodna]Katarina Grujić}Jedno đubre obično=http://www.youtube.com/watch?v=AV_ftDkpzqE
 ﻿Narodna]Katarina Grujić}Lutka=--start-time=6 http://www.youtube.com/watch?v=X7Vjkn2bD1E
@@ -11881,7 +11882,6 @@
 ﻿Rok Strani]Alice Cooper}Dance Yourself To Death=http://www.youtube.com/watch?v=R4UguaVktSQ
 ﻿Rok Strani]Alice Cooper}Dangerous Tonight=http://www.youtube.com/watch?v=FU6Iz5hS5m4
 ﻿Rok Strani]Alice Cooper}Dead Babies=http://www.youtube.com/watch?v=e9j_iIXZsoU
-﻿Rok Strani]Alice Cooper}Deeper=http://www.youtube.com/watch?v=w67l2PGFGRQ
 ﻿Rok Strani]Alice Cooper}Department Of Youth=http://www.youtube.com/watch?v=RetqavQzMTU
 ﻿Rok Strani]Alice Cooper}Devil's Food=http://www.youtube.com/watch?v=k7ZTVFtxIIw
 ﻿Rok Strani]Alice Cooper}Dirty Dreams=http://www.youtube.com/watch?v=eFX8w-uD9uE
@@ -11919,7 +11919,6 @@
 ﻿Rok Strani]Alice Cooper}I'm Your Gun=http://www.youtube.com/watch?v=SoXVaFSqcHA
 ﻿Rok Strani]Alice Cooper}Identity Crisis=http://www.youtube.com/watch?v=bN2ofoP-qEE
 ﻿Rok Strani]Alice Cooper}Inmates (We're All Crazy)=http://www.youtube.com/watch?v=Pik20oCus_c
-﻿Rok Strani]Alice Cooper}Is Anyone Home=http://www.youtube.com/watch?v=q5F2jKRk-JA
 ﻿Rok Strani]Alice Cooper}Is It My Body=http://www.youtube.com/watch?v=p4O2CPe_AAE
 ﻿Rok Strani]Alice Cooper}It's Hot Tonight=http://www.youtube.com/watch?v=EmhTc8AjQdk
 ﻿Rok Strani]Alice Cooper}It's Me=http://www.youtube.com/watch?v=cVvwO7pvX5E
@@ -11962,7 +11961,6 @@
 ﻿Rok Strani]Alice Cooper}Public Animal #9=http://www.youtube.com/watch?v=92yxT_zImFg
 ﻿Rok Strani]Alice Cooper}Roses On White Lace=http://www.youtube.com/watch?v=puldlUvy0fc
 ﻿Rok Strani]Alice Cooper}Run Down The Devil=http://www.youtube.com/watch?v=aXn87dsbvuk
-﻿Rok Strani]Alice Cooper}Salvation=http://www.youtube.com/watch?v=RBmDjG3luBs
 ﻿Rok Strani]Alice Cooper}Sanctuary=http://www.youtube.com/watch?v=SjuTMSEbLJ8
 ﻿Rok Strani]Alice Cooper}School's Out=http://www.youtube.com/watch?v=nkphqC4tOe4
 ﻿Rok Strani]Alice Cooper}Science Fiction=http://www.youtube.com/watch?v=PrmcYk3gMfM
@@ -14825,7 +14823,7 @@
 ﻿Rok Strani]Heart}Devil Delight=http://www.youtube.com/watch?v=e9dikg4HtxY
 ﻿Rok Strani]Heart}Dog And Butterfly=http://www.youtube.com/watch?v=UpoP4YSFKGA
 ﻿Rok Strani]Heart}Down On Me=http://www.youtube.com/watch?v=wfrznjQCvso
-﻿Rok Strani]Heart}Down The Nile=http://www.youtube.com/watch?v=oVW0jhJBlzQ
+﻿Rok Strani]Heart}Down The Nile=http://www.youtube.com/watch?v=vnsfCxEhZJE
 ﻿Rok Strani]Heart}Dream Of The Archer=http://www.youtube.com/watch?v=UsnBT3NofiQ
 ﻿Rok Strani]Heart}Dreamboat Annie (Reprise)=http://www.youtube.com/watch?v=SVLHqB7x5KE
 ﻿Rok Strani]Heart}Dreamboat Annie=http://www.youtube.com/watch?v=eLoMej34zvA
@@ -14840,7 +14838,7 @@
 ﻿Rok Strani]Heart}Heartless=http://www.youtube.com/watch?v=aLmSRt1MMrw
 ﻿Rok Strani]Heart}Heaven=http://www.youtube.com/watch?v=h0ZPS6EDjmk
 ﻿Rok Strani]Heart}Heavy Heart=http://www.youtube.com/watch?v=vwQmCMGREy4
-﻿Rok Strani]Heart}Hello Moonglow=http://www.youtube.com/watch?v=yWHAyJq0xXs
+﻿Rok Strani]Heart}Hello Moonglow=http://www.youtube.com/watch?v=XPMzUqblOpg
 ﻿Rok Strani]Heart}Here Song=http://www.youtube.com/watch?v=K3bmqaTGhtI
 ﻿Rok Strani]Heart}Hey Darlin' Darlin'=http://www.youtube.com/watch?v=bg7v3XpKW9U
 ﻿Rok Strani]Heart}Hey You=http://www.youtube.com/watch?v=KhrD28pxSuQ
@@ -14867,7 +14865,6 @@
 ﻿Rok Strani]Heart}Led To One=http://www.youtube.com/watch?v=GKay8NZbj5w
 ﻿Rok Strani]Heart}Lighter Touch=http://www.youtube.com/watch?v=aH0taAp5X04
 ﻿Rok Strani]Heart}Little Queen=http://www.youtube.com/watch?v=kKY1wJlzqjo
-﻿Rok Strani]Heart}Lost Angel=http://www.youtube.com/watch?v=hZB0dYnDvBs
 ﻿Rok Strani]Heart}Love Alive=http://www.youtube.com/watch?v=BCt0S4etsec
 ﻿Rok Strani]Heart}Love Come Down At Christmas=http://www.youtube.com/watch?v=87q1Tsv8QFg
 ﻿Rok Strani]Heart}Love Mistake=http://www.youtube.com/watch?v=07udJD4xAYU
