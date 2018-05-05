@@ -195,7 +195,7 @@
 ﻿Narodna]Aca Lukas}Koma=http://www.youtube.com/watch?v=P1q65uMKdY0
 ﻿Narodna]Aca Lukas}Kriva je=http://www.youtube.com/watch?v=NU3gJ5LFk4A
 ﻿Narodna]Aca Lukas}Kuda idu ljudi kao ja=http://www.youtube.com/watch?v=O90mI_dB3M0
-﻿Narodna]Aca Lukas}Lešće=http://www.youtube.com/watch?v=Sz_5NrP4c6k
+﻿Narodna]Aca Lukas}Lešće=--start-time=12 http://www.youtube.com/watch?v=Sz_5NrP4c6k
 ﻿Narodna]Aca Lukas}Lična karta=http://www.youtube.com/watch?v=Ivdy6233iJg
 ﻿Narodna]Aca Lukas}Lisica=http://www.youtube.com/watch?v=jIyaMQ0U5CI
 ﻿Narodna]Aca Lukas}Ljubav u doba kokaina=http://www.youtube.com/watch?v=jZTzI-_8vCQ
