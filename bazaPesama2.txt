@@ -6743,7 +6743,7 @@
 ﻿Narodna]Sejo Kalać}Kafanska pjevačica=http://www.youtube.com/watch?v=BR6JjeGog7g
 ﻿Narodna]Sejo Kalać}Kafić=http://www.youtube.com/watch?v=B2XxMHSrhaY
 ﻿Narodna]Sejo Kalać}Kajundžijo baci prsten=http://www.youtube.com/watch?v=kmvUgHmSfzY
-﻿Narodna]Sejo Kalać}Kapi kiše=http://www.youtube.com/watch?v=fBwREB9M278
+﻿Narodna]Sejo Kalać}Kapi kiše=http://www.youtube.com/watch?v=yuRqiVR_yEg
 ﻿Narodna]Sejo Kalać}Kraljica=http://www.youtube.com/watch?v=Z-VyNjQN5eo
 ﻿Narodna]Sejo Kalać}Kupi mi Crnu Goru=http://www.youtube.com/watch?v=wJAHPg-7QvA
 ﻿Narodna]Sejo Kalać}Lažu da je vino lijek=http://www.youtube.com/watch?v=gnwYYj58yg8
@@ -6756,7 +6756,6 @@
 ﻿Narodna]Sejo Kalać}Mogu bez tebe=http://www.youtube.com/watch?v=d_NOjtw2r0Y
 ﻿Narodna]Sejo Kalać}Nažalost=http://www.youtube.com/watch?v=uRCYpp7BdNc
 ﻿Narodna]Sejo Kalać}Ne vjerujem ženi sa plavim očima=http://www.youtube.com/watch?v=hVWV-Q-a9bo
-﻿Narodna]Sejo Kalać}Ne volim da gubim=http://www.youtube.com/watch?v=NXnYpd6yjzE
 ﻿Narodna]Sejo Kalać}Neka pati=http://www.youtube.com/watch?v=A3_JFKK39P8
 ﻿Narodna]Sejo Kalać}Neke ljubavi kasne=http://www.youtube.com/watch?v=PAv4PAaKL24
 ﻿Narodna]Sejo Kalać}Nisam fer=http://www.youtube.com/watch?v=5t8oI9_DxSo
@@ -6778,7 +6777,7 @@
 ﻿Narodna]Sejo Kalać}Sretan ti rođendan=http://www.youtube.com/watch?v=gbyn03ilEeE
 ﻿Narodna]Sejo Kalać}Što me pitaš (duet Južni Vetar)=http://www.youtube.com/watch?v=xt4rvVs0Upo
 ﻿Narodna]Sejo Kalać}Sunce sjalo (duet Jana)=http://www.youtube.com/watch?v=_GeVJJk4VrU
-﻿Narodna]Sejo Kalać}Svatovska=http://www.youtube.com/watch?v=SafFGw_G4Xw
+﻿Narodna]Sejo Kalać}Svatovska=http://www.youtube.com/watch?v=o6sSU7yVHSo
 ﻿Narodna]Sejo Kalać}Teško je i meni, majko=http://www.youtube.com/watch?v=4vi-zGCvOG4
 ﻿Narodna]Sejo Kalać}Tika tak=http://www.youtube.com/watch?v=5m0Pr1kai6A
 ﻿Narodna]Sejo Kalać}To nije fer=http://www.youtube.com/watch?v=RG5_5tnK5zA
@@ -10382,7 +10381,7 @@
 ﻿Narodna]Žika Antić}Eh da imam krila mladog orla=http://www.youtube.com/watch?v=-cXRQwHQ_Fk
 ﻿Narodna]Žika Antić}Kad ja krenem=http://www.youtube.com/watch?v=zSQO0fgG6fk
 ﻿Narodna]Žika Antić}Nas dva brata=http://www.youtube.com/watch?v=OOanufJKeQ8
-﻿Narodna]Žika Antić}Nema, nema je=http://www.youtube.com/watch?v=2DRd09yujrQ
+﻿Narodna]Žika Antić}Nema, nema je=http://www.youtube.com/watch?v=vb_woSyMTE0
 ﻿Narodna]Žika Antić}Ribarska pjesma=http://www.youtube.com/watch?v=YmqLB-Eifm8
 ﻿Narodna]Žika Antić}Šta ću noćas u kafani=http://www.youtube.com/watch?v=be4_uOfh4_w
 ﻿Narodna]Žika Antić}Užice=http://www.youtube.com/watch?v=FaeRugelVpc
@@ -10399,7 +10398,7 @@
 ﻿Narodna]Žika Ivković}U vojsku me majka šalje=http://www.youtube.com/watch?v=QgTxwjToIxo
 ﻿Narodna]Žika Ivković}Voliš li me isto kao nekad=http://www.youtube.com/watch?v=eBnC2Z4nGn4
 ﻿Narodna]Žika Ivković}Voljena ženo tužna uspomeno=http://www.youtube.com/watch?v=J3Ooh-oT1eE
-﻿Narodna]Zlata Petrović}Da l' je majko ovo život=http://www.youtube.com/watch?v=olIC7RuLlps
+﻿Narodna]Zlata Petrović}Da l' je majko ovo život=http://www.youtube.com/watch?v=zyE43WqsuQU
 ﻿Narodna]Zlata Petrović}Ljubav nema pamet=http://www.youtube.com/watch?v=6DdG58d86Ws
 ﻿Narodna]Zlata Petrović}Mađije=http://www.youtube.com/watch?v=ls98zaW3xNc
 ﻿Narodna]Zlata Petrović}Mirišeš na nju=http://www.youtube.com/watch?v=bpHGEyq2we8
@@ -13742,7 +13741,7 @@
 ﻿Rok Strani]Rolling Stones}Happy=http://www.youtube.com/watch?v=fBcFjNUzFJ0
 ﻿Rok Strani]Rolling Stones}Harlem Shuffle=http://www.youtube.com/watch?v=YOyJh5XuSVk
 ﻿Rok Strani]Rolling Stones}Hate To See You Go=http://www.youtube.com/watch?v=lrIjMzBr-ck
-﻿Rok Strani]Rolling Stones}Have You Seen Your Mother Baby, Standing In The Shadow?=http://www.youtube.com/watch?v=uw9l3_c4ZJE
+﻿Rok Strani]Rolling Stones}Have You Seen Your Mother Baby, Standing In The Shadow?=http://www.youtube.com/watch?v=xubWr3ogmZc
 ﻿Rok Strani]Rolling Stones}Heart Of Stone=--start-time=20 http://www.youtube.com/watch?v=Ot6yc4cqfJA
 ﻿Rok Strani]Rolling Stones}Hearts For Sale=http://www.youtube.com/watch?v=6uIBE035lRQ
 ﻿Rok Strani]Rolling Stones}Heaven=http://www.youtube.com/watch?v=TTxVSsjGitg
@@ -14507,7 +14506,6 @@
 ﻿Rok Strani]Smashing Pumpkins}Anti-Hero=http://www.youtube.com/watch?v=eyM_gzURQPk
 ﻿Rok Strani]Smashing Pumpkins}Appels + Oranjes=http://www.youtube.com/watch?v=fcwjnKYF2OU
 ﻿Rok Strani]Smashing Pumpkins}Astral Planes=http://www.youtube.com/watch?v=Ibir_sZvVAs
-﻿Rok Strani]Smashing Pumpkins}Ava Adore=http://www.youtube.com/watch?v=yzVQT5EgDpw
 ﻿Rok Strani]Smashing Pumpkins}Beautiful=http://www.youtube.com/watch?v=lEsW1kJvJfQ
 ﻿Rok Strani]Smashing Pumpkins}Behold! The Night Mare=http://www.youtube.com/watch?v=6XNztn6wxzo
 ﻿Rok Strani]Smashing Pumpkins}Being Beige (World's On Fire)=http://www.youtube.com/watch?v=FA8CrVJFXmk
@@ -17362,7 +17360,7 @@
 ﻿Rok Strani]B. B. King}Blind Love=http://www.youtube.com/watch?v=7d-CULINzbo
 ﻿Rok Strani]B. B. King}Blue Decorations=http://www.youtube.com/watch?v=QR6a4-xctr8
 ﻿Rok Strani]B. B. King}Blue Shadows=http://www.youtube.com/watch?v=HwgpZ_7Rvs4
-﻿Rok Strani]B. B. King}Blues At Midnight=http://www.youtube.com/watch?v=mi5LV_9v4Ok
+﻿Rok Strani]B. B. King}Blues At Midnight=http://www.youtube.com/watch?v=XSOud8cxzaM
 ﻿Rok Strani]B. B. King}Blues Before Sunrise=http://www.youtube.com/watch?v=qg1iYstqYxw
 ﻿Rok Strani]B. B. King}Blues Stay Away From Me=http://www.youtube.com/watch?v=0WMMjla3V6o
 ﻿Rok Strani]B. B. King}Bluesman=http://www.youtube.com/watch?v=gke3u-OI118
@@ -17377,7 +17375,7 @@
 ﻿Rok Strani]B. B. King}Can't Get Enough=http://www.youtube.com/watch?v=sq6aE385CWU
 ﻿Rok Strani]B. B. King}Catfish Blues=http://www.youtube.com/watch?v=HoLN7eemkqc
 ﻿Rok Strani]B. B. King}Chains And Things=http://www.youtube.com/watch?v=7cPw959KBwc
-﻿Rok Strani]B. B. King}Chains Of Love=http://www.youtube.com/watch?v=LZ4P-YQqtOE
+﻿Rok Strani]B. B. King}Chains Of Love=http://www.youtube.com/watch?v=kpX2TveNKZI
 ﻿Rok Strani]B. B. King}Change In Your Lovin'=http://www.youtube.com/watch?v=WYSFzC3PWJU
 ﻿Rok Strani]B. B. King}Choo Choo Ch'boogie=http://www.youtube.com/watch?v=kdoG7jndiCE
 ﻿Rok Strani]B. B. King}Christmas Celebration=http://www.youtube.com/watch?v=__C96HwB8zc
@@ -17444,7 +17442,6 @@
 ﻿Rok Strani]B. B. King}Hold That Train=http://www.youtube.com/watch?v=vPudO9QEVb8
 ﻿Rok Strani]B. B. King}Hummingbird=http://www.youtube.com/watch?v=fERk1AVu2CM
 ﻿Rok Strani]B. B. King}I Can Hear My Name=http://www.youtube.com/watch?v=RTvCnUikPPY
-﻿Rok Strani]B. B. King}I Can't Explain=http://www.youtube.com/watch?v=QN0O9htPVcI
 ﻿Rok Strani]B. B. King}I Can't Let You Go=http://www.youtube.com/watch?v=FWuXkUQovDs
 ﻿Rok Strani]B. B. King}I Don't Want You Cuttin' Off Your Hair=http://www.youtube.com/watch?v=Dg43S8Wbr7A
 ﻿Rok Strani]B. B. King}I Done Got Wise=http://www.youtube.com/watch?v=WatYhI51Zb8
@@ -17476,7 +17473,7 @@
 ﻿Rok Strani]B. B. King}I'm A King=http://www.youtube.com/watch?v=2vuLBCQ4CTE
 ﻿Rok Strani]B. B. King}I'm Cracking Up Over You=http://www.youtube.com/watch?v=TOmh4HSEQsg
 ﻿Rok Strani]B. B. King}I'm Gonna Do What They Do To Me=http://www.youtube.com/watch?v=NFc17CwARb4
-﻿Rok Strani]B. B. King}I'm Gonna Sit In 'til You Give In=http://www.youtube.com/watch?v=RFCwpv2IzXM
+﻿Rok Strani]B. B. King}I'm Gonna Sit In 'til You Give In=http://www.youtube.com/watch?v=aN69w9I1gY4
 ﻿Rok Strani]B. B. King}I'm In The Wrong Business=http://www.youtube.com/watch?v=OI0EVcAEr7E
 ﻿Rok Strani]B. B. King}I'm King=http://www.youtube.com/watch?v=2vuLBCQ4CTE
 ﻿Rok Strani]B. B. King}I'm Moving On=http://www.youtube.com/watch?v=B6dhVqHr-oc
@@ -17524,7 +17521,7 @@
 ﻿Rok Strani]B. B. King}Mother Fuyer=http://www.youtube.com/watch?v=ay29hJlfxWI
 ﻿Rok Strani]B. B. King}Mr. Pawnbroker=http://www.youtube.com/watch?v=AbVUXdFKv3I
 ﻿Rok Strani]B. B. King}My Baby Is Gone=http://www.youtube.com/watch?v=8AoC4MGGayw
-﻿Rok Strani]B. B. King}My Baby's Comin' Home=http://www.youtube.com/watch?v=Oru3lH4hVng
+﻿Rok Strani]B. B. King}My Baby's Comin' Home=http://www.youtube.com/watch?v=_Gko6NL_ONw
 ﻿Rok Strani]B. B. King}My Baby's Gone=http://www.youtube.com/watch?v=8AoC4MGGayw
 ﻿Rok Strani]B. B. King}My Guitar Sings The Blues=http://www.youtube.com/watch?v=Ln3dLjyXEM0
 ﻿Rok Strani]B. B. King}My Lucille=http://www.youtube.com/watch?v=qUtefyM0mJE
@@ -17542,7 +17539,7 @@
 ﻿Rok Strani]B. B. King}One Of Those Nights=http://www.youtube.com/watch?v=-T0OPVZedFc
 ﻿Rok Strani]B. B. King}Part-Time Love=http://www.youtube.com/watch?v=8aj_TqJRmtc
 ﻿Rok Strani]B. B. King}Partin' Time=http://www.youtube.com/watch?v=PhPKcgIrR4o
-﻿Rok Strani]B. B. King}Past Day=http://www.youtube.com/watch?v=GVSsNpar0Pk
+﻿Rok Strani]B. B. King}Past Day=http://www.youtube.com/watch?v=2Gft-zYe2Dk
 ﻿Rok Strani]B. B. King}Paying The Cost To Be The Boss=http://www.youtube.com/watch?v=G1FxRpo62Mk
 ﻿Rok Strani]B. B. King}Peace Of Mind=http://www.youtube.com/watch?v=XUp8vqK_j3M
 ﻿Rok Strani]B. B. King}Playin' With My Friends=http://www.youtube.com/watch?v=MPgr5rJVFcU
@@ -17594,7 +17591,6 @@
 ﻿Rok Strani]B. B. King}Something You Got=http://www.youtube.com/watch?v=XJIzXZfrPlc
 ﻿Rok Strani]B. B. King}Stop Leading Me On=http://www.youtube.com/watch?v=kXLFCpY1j3U
 ﻿Rok Strani]B. B. King}Stop Putting The Hurt On Me=http://www.youtube.com/watch?v=T2kuUZKZ4kE
-﻿Rok Strani]B. B. King}Strange Things=http://www.youtube.com/watch?v=yuS28lOwNDU
 ﻿Rok Strani]B. B. King}Street Life=http://www.youtube.com/watch?v=B1c7t-35Fuo
 ﻿Rok Strani]B. B. King}Sugar Mama=http://www.youtube.com/watch?v=WtvcVx8ZSuQ
 ﻿Rok Strani]B. B. King}Summer In The City=http://www.youtube.com/watch?v=3zdadhmFIps
@@ -17606,7 +17602,7 @@
 ﻿Rok Strani]B. B. King}Take Off Your Shoes=http://www.youtube.com/watch?v=NgSWrNa-AI4
 ﻿Rok Strani]B. B. King}Teardrops From My Eyes=http://www.youtube.com/watch?v=FHbS4Z0u3qQ
 ﻿Rok Strani]B. B. King}Ten Long Years=http://www.youtube.com/watch?v=0DCsmkTZ_BU
-﻿Rok Strani]B. B. King}That Ain't The Way To Do It=http://www.youtube.com/watch?v=T4scHe_1kTU
+﻿Rok Strani]B. B. King}That Ain't The Way To Do It=http://www.youtube.com/watch?v=nqDLSw6vpvY
 ﻿Rok Strani]B. B. King}That Evil Child=http://www.youtube.com/watch?v=46pKocTlssQ
 ﻿Rok Strani]B. B. King}That's How Much You Mean To Me=http://www.youtube.com/watch?v=H99Fd8v0kqE
 ﻿Rok Strani]B. B. King}That's The Way Love Is=http://www.youtube.com/watch?v=v7jMfmWwEWg
@@ -17634,7 +17630,7 @@
 ﻿Rok Strani]B. B. King}Time To Say Goodbye=http://www.youtube.com/watch?v=Yno8fcEWfxY
 ﻿Rok Strani]B. B. King}Tired Of Your Jive=http://www.youtube.com/watch?v=4rKgfHYqAoc
 ﻿Rok Strani]B. B. King}Tomorrow Is Another Day=http://www.youtube.com/watch?v=0kjNonXQw4s
-﻿Rok Strani]B. B. King}Tomorrow Night=http://www.youtube.com/watch?v=1Xr5Lb8NQQo
+﻿Rok Strani]B. B. King}Tomorrow Night=http://www.youtube.com/watch?v=fiHAgdUT1xU
 ﻿Rok Strani]B. B. King}Tonight I'm Gonna Make You A Star=http://www.youtube.com/watch?v=YVk1e3i_9tM
 ﻿Rok Strani]B. B. King}Treat Me Right=http://www.youtube.com/watch?v=kvfRSrILr1k
 ﻿Rok Strani]B. B. King}Trouble In Mind=http://www.youtube.com/watch?v=RL4y3q9QcE8
@@ -17672,7 +17668,6 @@
 ﻿Rok Strani]B. B. King}Worried Dream=http://www.youtube.com/watch?v=sBN_LXdsGsA
 ﻿Rok Strani]B. B. King}Worried Life=http://www.youtube.com/watch?v=PheMp-EQfYk
 ﻿Rok Strani]B. B. King}Worst Thing In My Life=http://www.youtube.com/watch?v=pjH9sd5u5QY
-﻿Rok Strani]B. B. King}Wrong Road=http://www.youtube.com/watch?v=jM9IGGqwq2k
 ﻿Rok Strani]B. B. King}You And Me, Me And You=http://www.youtube.com/watch?v=2CmES9idsGI
 ﻿Rok Strani]B. B. King}You Don't Know=http://www.youtube.com/watch?v=E4IgdoCsHYQ
 ﻿Rok Strani]B. B. King}You Don't Know Nothin' About Love=http://www.youtube.com/watch?v=U9OYPzedsVw
