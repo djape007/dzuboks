@@ -167,7 +167,7 @@
 ﻿Narodna]Aca Lukas}Blamiraš me=http://www.youtube.com/watch?v=bs4l9ODrdtI
 ﻿Narodna]Aca Lukas}Burbon=http://www.youtube.com/watch?v=QtGv_szq75o
 ﻿Narodna]Aca Lukas}By pass=http://www.youtube.com/watch?v=H7cgl3XlhzM
-﻿Narodna]Aca Lukas}Čivas=http://www.youtube.com/watch?v=MEGPfK3YSuY
+﻿Narodna]Aca Lukas}Chivas=http://www.youtube.com/watch?v=89xh6wxE0Xs
 ﻿Narodna]Aca Lukas}Crni zid=http://www.youtube.com/watch?v=IWeL15VMCL4
 ﻿Narodna]Aca Lukas}Da me je ona volela=--start-time=5 http://www.youtube.com/watch?v=sISE_oNaOIA
 ﻿Narodna]Aca Lukas}Da mi je bolja sudbina=http://www.youtube.com/watch?v=7t7hLhB5pPU
@@ -189,7 +189,7 @@
 ﻿Narodna]Aca Lukas}Ja ne mogu bez tebe=http://www.youtube.com/watch?v=9x-maSZ3O-8
 ﻿Narodna]Aca Lukas}Ja živim sam=http://www.youtube.com/watch?v=U8ml7qcVb00
 ﻿Narodna]Aca Lukas}Jagnje moje=http://www.youtube.com/watch?v=i0xLRai6Vjw
-﻿Narodna]Aca Lukas}Još pomišljam na najgore=http://www.youtube.com/watch?v=7Il-SyPOpvE
+﻿Narodna]Aca Lukas}Još pomišljam na najgore=http://www.youtube.com/watch?v=Sik8VLeoJII
 ﻿Narodna]Aca Lukas}Kada odu svatovi=http://www.youtube.com/watch?v=owd0eNYIt3U
 ﻿Narodna]Aca Lukas}Kafana na Balkanu=http://www.youtube.com/watch?v=z6dH9EsbTdc
 ﻿Narodna]Aca Lukas}Koma=http://www.youtube.com/watch?v=P1q65uMKdY0
@@ -243,7 +243,7 @@
 ﻿Narodna]Aca Lukas}Tuđa si odavno=http://www.youtube.com/watch?v=-DzRhnz54K8
 ﻿Narodna]Aca Lukas}Udari prva=http://www.youtube.com/watch?v=EKiaUbU8xKY
 ﻿Narodna]Aca Lukas}Umri u samoći=http://www.youtube.com/watch?v=DsftoGr-0EQ
-﻿Narodna]Aca Lukas}Upali svetlo=http://www.youtube.com/watch?v=CCbSBp9MsRw
+﻿Narodna]Aca Lukas}Upali svetlo=http://www.youtube.com/watch?v=ohez_5EgNVs
 ﻿Narodna]Aca Lukas}Usluga za uslugu=http://www.youtube.com/watch?v=OO4JDfkE1NE
 ﻿Narodna]Aca Lukas}Voliš li me=--start-time=7 http://www.youtube.com/watch?v=qF0fiNqQuDQ
 ﻿Narodna]Aca Lukas}Voljena=http://www.youtube.com/watch?v=lplNkjbRYOs
@@ -375,7 +375,6 @@
 ﻿Zabavna]Adil Maksutović}Verni sluga=http://www.youtube.com/watch?v=gPnFZbJQysQ
 ﻿Zabavna]Adil Maksutović}Veruj u nas=--start-time=13 http://www.youtube.com/watch?v=MfFypDwsAig
 ﻿Zabavna]Adil Maksutović}Vidim nas=http://www.youtube.com/watch?v=0BJLyg8zFJ0
-﻿Zabavna]Adil Maksutović}Zadnji sic=http://www.youtube.com/watch?v=d5ZbLJks4xE
 ﻿Zabavna]Adil Maksutović}Zagrli me=http://www.youtube.com/watch?v=lDZI-FQsabk
 ﻿Zabavna]Adil Maksutović}Zajedno smo mnogo toga prošli=http://www.youtube.com/watch?v=LnmoU0BNOXE
 ﻿Zabavna]Adil Maksutović}Zamalo=http://www.youtube.com/watch?v=Vqq4IPlw3DA
@@ -2305,6 +2304,7 @@
 ﻿Zabavna]Boban Rajović}Tuga prođe, ljubav nikad=http://www.youtube.com/watch?v=oBocTK1HKbM
 ﻿Zabavna]Boban Rajović}Ubi me ti=http://www.youtube.com/watch?v=3wq1WS1UcUU
 ﻿Zabavna]Boban Rajović}Usne boje vina=http://www.youtube.com/watch?v=8LHK5XEe1ZE
+﻿Zabavna]Boban Rajović}Uvenuće srce=--start-time=14 https://www.youtube.com/watch?v=BwJfu9GC5t8
 ﻿Zabavna]Boban Rajović}Vojnik zabluda=http://www.youtube.com/watch?v=fPKHsNUMqjY
 ﻿Zabavna]Boban Rajović}Vratiću se ja=http://www.youtube.com/watch?v=0x8RU4lTmJI
 ﻿Zabavna]Boban Rajović}Yugoslavio=http://www.youtube.com/watch?v=nZPLY8Sh7XE
@@ -2771,7 +2771,7 @@
 ﻿Narodna]Ćana}Zdravo svima=http://www.youtube.com/watch?v=Q6TJJ5qgDRY
 ﻿Narodna]Ćana}Zločin bez kazne=http://www.youtube.com/watch?v=NT31INYvoO4
 ﻿Narodna]Ćana}Žrtva=http://www.youtube.com/watch?v=ERxUGD89rig
-﻿Narodna]Ceca}39,2=http://www.youtube.com/watch?v=gggBDv_mpJ8
+﻿Narodna]Ceca}39,2=http://www.youtube.com/watch?v=i_RjVOFwDeQ
 ﻿Narodna]Ceca}5 minuta=http://www.youtube.com/watch?v=gcdn-Yalixc
 ﻿Narodna]Ceca}Ako te ona odbije=http://www.youtube.com/watch?v=gO9f8K85gdc
 ﻿Narodna]Ceca}Anđeo drugog reda=http://www.youtube.com/watch?v=h3IYbijG6a8
@@ -2782,7 +2782,7 @@
 ﻿Narodna]Ceca}Bivši=http://www.youtube.com/watch?v=cfxM6cZZIC8
 ﻿Narodna]Ceca}Brat i sestra=http://www.youtube.com/watch?v=wH13EbDxyhU
 ﻿Narodna]Ceca}Brat=http://www.youtube.com/watch?v=4dWRMoeK5ko
-﻿Narodna]Ceca}Bruka=http://www.youtube.com/watch?v=cxZCsn9WxH0
+﻿Narodna]Ceca}Bruka=http://www.youtube.com/watch?v=jG1V4qOIVS0
 ﻿Narodna]Ceca}Brže, brže=http://www.youtube.com/watch?v=TQ_568xaBwU
 ﻿Narodna]Ceca}Budi dečko moj=http://www.youtube.com/watch?v=FftIpFphHzA
 ﻿Narodna]Ceca}Cipelice=http://www.youtube.com/watch?v=DwImzRQet2A
@@ -11845,7 +11845,6 @@
 ﻿Rok Strani]Aerosmith}You See Me Crying=http://www.youtube.com/watch?v=szWVgukqi78
 ﻿Rok Strani]Aerosmith}Young Lust=http://www.youtube.com/watch?v=rkr040eHti4
 ﻿Rok Strani]Alice Cooper}(In Touch With) Your Feminine Side=http://www.youtube.com/watch?v=CbEB-qztbYk
-﻿Rok Strani]Alice Cooper}(No More) Love At Your Convenience=http://www.youtube.com/watch?v=htopU3UnGi0
 ﻿Rok Strani]Alice Cooper}10 Minutes Before The Worm=http://www.youtube.com/watch?v=cq-YsnO_CDc
 ﻿Rok Strani]Alice Cooper}A Bad Situation=http://www.youtube.com/watch?v=7bTp0awpDz0
 ﻿Rok Strani]Alice Cooper}Ain't That Just Like A Woman=http://www.youtube.com/watch?v=i24aSax_uTw
@@ -11952,7 +11951,6 @@
 ﻿Rok Strani]Alice Cooper}Serious=http://www.youtube.com/watch?v=ue8R0PdvL2s
 ﻿Rok Strani]Alice Cooper}Seven & Seven Is=http://www.youtube.com/watch?v=ejjRB-WIKTA
 ﻿Rok Strani]Alice Cooper}Sex, Death And Money=http://www.youtube.com/watch?v=SA5I0or9wEo
-﻿Rok Strani]Alice Cooper}Shoe Salesman=http://www.youtube.com/watch?v=3PdHEGlK3hs
 ﻿Rok Strani]Alice Cooper}Sick Things=http://www.youtube.com/watch?v=uep1pgOUyr0
 ﻿Rok Strani]Alice Cooper}Sideshow=http://www.youtube.com/watch?v=AUETfQPJIZ8
 ﻿Rok Strani]Alice Cooper}Sing Low, Sweet Cheerio=http://www.youtube.com/watch?v=uZITQuE-_aI
@@ -12535,7 +12533,7 @@
 ﻿Rok Strani]Black Sabbath}Shadow Of The Wind=http://www.youtube.com/watch?v=cG8YCWr9GGo
 ﻿Rok Strani]Black Sabbath}Shaking Off The Chains=http://www.youtube.com/watch?v=f9XDy1Oa7CY
 ﻿Rok Strani]Black Sabbath}She's Gone=http://www.youtube.com/watch?v=F7lRBM2U3nc
-﻿Rok Strani]Black Sabbath}Shock Wave=http://www.youtube.com/watch?v=O31_t2JVY9s
+﻿Rok Strani]Black Sabbath}Shock Wave=http://www.youtube.com/watch?v=f2p6fBdCnY0
 ﻿Rok Strani]Black Sabbath}Sick And Tired=http://www.youtube.com/watch?v=xC1czkFKglI
 ﻿Rok Strani]Black Sabbath}Sins Of The Father=http://www.youtube.com/watch?v=xODnaNBov88
 ﻿Rok Strani]Black Sabbath}Slipping Away=http://www.youtube.com/watch?v=Wd8j3A1oxIE
@@ -13557,8 +13555,8 @@
 ﻿Rok Strani]Def Leppard}Paper Sun=http://www.youtube.com/watch?v=82GweuYqUlo
 ﻿Rok Strani]Def Leppard}Pearl Of Euphoria=http://www.youtube.com/watch?v=-iHZveLDBsw
 ﻿Rok Strani]Def Leppard}Personal Property=http://www.youtube.com/watch?v=d5PGoLDXcPk
-﻿Rok Strani]Def Leppard}Photograph=http://www.youtube.com/watch?v=VZ5bS3_BCDs
-﻿Rok Strani]Def Leppard}Pour Some Sugar On Me=http://www.youtube.com/watch?v=AQ4xwmZ6zi4
+﻿Rok Strani]Def Leppard}Photograph=http://www.youtube.com/watch?v=NWsSSJ5skx4
+﻿Rok Strani]Def Leppard}Pour Some Sugar On Me=http://www.youtube.com/watch?v=C5dUWw_lSMs
 ﻿Rok Strani]Def Leppard}Promises=http://www.youtube.com/watch?v=vGTNEnOcGX0
 ﻿Rok Strani]Def Leppard}Rock Brigade=http://www.youtube.com/watch?v=f7SaQNIx5Nc
 ﻿Rok Strani]Def Leppard}Rock On=http://www.youtube.com/watch?v=mXJU64esj6M
@@ -13990,7 +13988,7 @@
 ﻿Rok Strani]Foo Fighters}All My Life=--start-time=6 http://www.youtube.com/watch?v=xQ04WbgI9rg
 ﻿Rok Strani]Foo Fighters}Alone + Easy Target=http://www.youtube.com/watch?v=ZyxjLW2n7W8
 ﻿Rok Strani]Foo Fighters}Another Round=http://www.youtube.com/watch?v=KY0C7rZeUew
-﻿Rok Strani]Foo Fighters}Arlandria=http://www.youtube.com/watch?v=QkHp_JLtxck
+﻿Rok Strani]Foo Fighters}Arlandria=http://www.youtube.com/watch?v=Qx4X5ZtMG9M
 ﻿Rok Strani]Foo Fighters}Arrows=http://www.youtube.com/watch?v=hN8FxZ-G0c0
 ﻿Rok Strani]Foo Fighters}Aurora=http://www.youtube.com/watch?v=CVGQB4QWTxI
 ﻿Rok Strani]Foo Fighters}Back & Forth=http://www.youtube.com/watch?v=0J-4uLwkoBA
@@ -16147,7 +16145,6 @@
 ﻿Rok Strani]Lenny Kravitz}Let's Get High=http://www.youtube.com/watch?v=w14rWDD-BsI
 ﻿Rok Strani]Lenny Kravitz}Life Ain't Ever Been Better Than It Is Now=http://www.youtube.com/watch?v=lWQFBtjT9v0
 ﻿Rok Strani]Lenny Kravitz}Liquid Jesus=http://www.youtube.com/watch?v=2QUeAf-xfVY
-﻿Rok Strani]Lenny Kravitz}Live=http://www.youtube.com/watch?v=itiHF3xX3DE
 ﻿Rok Strani]Lenny Kravitz}Looking Back On Love=http://www.youtube.com/watch?v=lT4G59Gmiio
 ﻿Rok Strani]Lenny Kravitz}Love Love Love=http://www.youtube.com/watch?v=ICcac0C6Esk
 ﻿Rok Strani]Lenny Kravitz}Love Revolution=http://www.youtube.com/watch?v=K5RWshQvqlc

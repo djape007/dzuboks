@@ -1708,7 +1708,7 @@
 ﻿Zabavna]Milica Pavlović}Alibi=http://www.youtube.com/watch?v=R1Wc4w1XbE0
 ﻿Zabavna]Milica Pavlović}Alter ego=http://www.youtube.com/watch?v=NQfvfMnoY5E
 ﻿Zabavna]Milica Pavlović}Boginja=http://www.youtube.com/watch?v=0jYDPWUNd_U
-﻿Zabavna]Milica Pavlović}Čili, čili=http://www.youtube.com/watch?v=mzI2cqw59rg
+﻿Zabavna]Milica Pavlović}Čili, čili=https://www.youtube.com/watch?v=irAjMWzoXVI
 ﻿Zabavna]Milica Pavlović}Demantujem=http://www.youtube.com/watch?v=XIcmdCfXkGM
 ﻿Zabavna]Milica Pavlović}Dođi=http://www.youtube.com/watch?v=1sXEoAp3Wp0
 ﻿Zabavna]Milica Pavlović}Dominacija=http://www.youtube.com/watch?v=vR9a30Kh6ns
@@ -2863,6 +2863,7 @@
 ﻿Rok]Neverne Bebe}Balkan - južno od sreće=http://www.youtube.com/watch?v=IV3J11bmj5E
 ﻿Rok]Neverne Bebe}Da ima nas=http://www.youtube.com/watch?v=RoGeSrlQtkQ
 ﻿Rok]Neverne Bebe}Da sanjamo (feat. Bane MVP)=http://www.youtube.com/watch?v=VR0uIxCOLd0
+﻿Rok]Neverne Bebe}Doria=https://www.youtube.com/watch?v=PBHurUthd9E
 ﻿Rok]Neverne Bebe}Dvoje=http://www.youtube.com/watch?v=9zLRqazg0Gk
 ﻿Rok]Neverne Bebe}Gde smo=http://www.youtube.com/watch?v=dedeykiiFBE
 ﻿Rok]Neverne Bebe}Gotovo=http://www.youtube.com/watch?v=hRKydW1pZgw
@@ -3179,7 +3180,6 @@
 ﻿Narodna]Nino}Vatra i vino=http://www.youtube.com/watch?v=Spflc3reG58
 ﻿Narodna]Nino}Veličanstvena=http://www.youtube.com/watch?v=Q4POe5RBgVE
 ﻿Narodna]Nino}Vino i suze=http://www.youtube.com/watch?v=3rKHyOr4Jsc
-﻿Narodna]Nino}Vraćam ti se=http://www.youtube.com/watch?v=zaTkF0OBN6M
 ﻿Narodna]Nino}Za oči zelene=http://www.youtube.com/watch?v=eAR7AwmhU1c
 ﻿Narodna]Nino}Za prošlu ljubav=http://www.youtube.com/watch?v=gTfJfReHdFA
 ﻿Narodna]Nino}Za tebe=http://www.youtube.com/watch?v=HCGz30fpusU
@@ -4757,19 +4757,19 @@
 ﻿Rep]Prti Bee Gee}Na pointu=http://www.youtube.com/watch?v=25Fmy1Xc9Hk
 ﻿Rep]Prti Bee Gee}Ne seri, jee=http://www.youtube.com/watch?v=qaHYiYdzfB0
 ﻿Rep]Prti Bee Gee}Original gangster=http://www.youtube.com/watch?v=D0A_spyeCiM
-﻿Rep]Prti Bee Gee}Pa malo fanke=http://www.youtube.com/watch?v=nXt2OCMJsWE
+﻿Rep]Prti Bee Gee}Pa malo fanke=--start-time=5 http://www.youtube.com/watch?v=3i3Xpq9pNd8
 ﻿Rep]Prti Bee Gee}Pajdo koma=http://www.youtube.com/watch?v=LmH85mBWvR0
 ﻿Rep]Prti Bee Gee}Pajp=http://www.youtube.com/watch?v=fVfb2H08nNg
 ﻿Rep]Prti Bee Gee}Paranoja=http://www.youtube.com/watch?v=sA6eXJzOEP0
 ﻿Rep]Prti Bee Gee}Prti u skoli=http://www.youtube.com/watch?v=aU67Kq1BJqE
-﻿Rep]Prti Bee Gee}Sex, gudra, Prti BG=http://www.youtube.com/watch?v=l6BVDYZFFQk
+﻿Rep]Prti Bee Gee}Sex, gudra, Prti BG=--start-time=5 http://www.youtube.com/watch?v=Po7gYjv7wiU
 ﻿Rep]Prti Bee Gee}Slatki krek=http://www.youtube.com/watch?v=2VvxZqAdrvk
 ﻿Rep]Prti Bee Gee}Str8 no more=http://www.youtube.com/watch?v=WejEovotduI
 ﻿Rep]Prti Bee Gee}Sve je pod kontrolom=http://www.youtube.com/watch?v=eQaAAojqawY
 ﻿Rep]Prti Bee Gee}Tebra=http://www.youtube.com/watch?v=yzrKeRtWMYk
-﻿Rep]Prti Bee Gee}The Riddler=http://www.youtube.com/watch?v=eZXFBxWcVsY
+﻿Rep]Prti Bee Gee}The Riddler=http://www.youtube.com/watch?v=hPxCUBEyU6Q
 ﻿Rep]Prti Bee Gee}Ti i ja=http://www.youtube.com/watch?v=34gyVjhwBFc
-﻿Rep]Prti Bee Gee}Uno linea=http://www.youtube.com/watch?v=GBXX2TiTUc0
+﻿Rep]Prti Bee Gee}Uno linea=--start-time=5 http://www.youtube.com/watch?v=KMuXCJACDP4
 ﻿Narodna]Rade Jorović}Al' je lepo biti seljak=http://www.youtube.com/watch?v=sf0_jUNtK00
 ﻿Narodna]Rade Jorović}Bil se mala smilovala=http://www.youtube.com/watch?v=cY6cw8t5o-g
 ﻿Narodna]Rade Jorović}Bomba=http://www.youtube.com/watch?v=_QH12x0bN5M
@@ -5057,6 +5057,7 @@
 ﻿Rep~Zabavna]Rasta}Moja stvar=http://www.youtube.com/watch?v=cSENwIYyibM
 ﻿Rep~Zabavna]Rasta}Noći nemirne=http://www.youtube.com/watch?v=LY262S4eyBo
 ﻿Rep~Zabavna]Rasta}Rulet=--start-time=9 https://www.youtube.com/watch?v=nqSWTSJdTJY
+﻿Rep~Zabavna]Rasta}Sex i grad=--start-time=10 https://www.youtube.com/watch?v=CJrwCcgHrG8
 ﻿Rep~Zabavna]Rasta}Sreća=http://www.youtube.com/watch?v=iT-NFyCxB_4
 ﻿Rep~Zabavna]Rasta}Vedro nebo=--start-time=27 http://www.youtube.com/watch?v=6B7RUXra1Jg
 ﻿Zabavna]Regina}A tebe nema=http://www.youtube.com/watch?v=XmTR7nPaOOI
@@ -10122,7 +10123,7 @@
 ﻿Zabavna]Zdravko Čolić}April u Beogradu=http://www.youtube.com/watch?v=9BiZQnvcNsM
 ﻿Zabavna]Zdravko Čolić}Čija je ono zvezda=http://www.youtube.com/watch?v=15_AyZYDCIg
 ﻿Zabavna]Zdravko Čolić}Prije nego te izgubim=https://www.youtube.com/watch?v=jMPvhzEmFdg
-﻿Zabavna]Zdravko Čolić}Tebe čuvam za kraj=https://www.youtube.com/watch?v=mRxU3JjmcaI
+﻿Zabavna]Zdravko Čolić}Tebe čuvam za kraj=http://www.youtube.com/watch?v=dXzGboF2rps
 ﻿Zabavna]Zdravko Čolić}Ne štucaj=https://www.youtube.com/watch?v=WlDwbSoinE0
 ﻿Zabavna]Zdravko Čolić}Igraj srce=https://www.youtube.com/watch?v=NHEukXaUAqc
 ﻿Zabavna]Zdravko Čolić}Lijepa moja=https://www.youtube.com/watch?v=Hu2uNK42TT4
@@ -10167,7 +10168,6 @@
 ﻿Zabavna]Zdravko Čolić}Stanica podlugovi=http://www.youtube.com/watch?v=orGaEqTh3yI
 ﻿Zabavna]Zdravko Čolić}Što ti dadoh=http://www.youtube.com/watch?v=1KWiXI8HcNo
 ﻿Zabavna]Zdravko Čolić}Svadbarskim sokakom=http://www.youtube.com/watch?v=2l4rKPk4lqU
-﻿Zabavna]Zdravko Čolić}Tebe čuvam za kraj=https://www.youtube.com/watch?v=dXzGboF2rps
 ﻿Zabavna]Zdravko Čolić}Ti možeš sve=http://www.youtube.com/watch?v=6NhDR7Ssm4M
 ﻿Zabavna]Zdravko Čolić}Ti si mi u krvi=http://www.youtube.com/watch?v=9nBnRu6o4sM
 ﻿Zabavna]Zdravko Čolić}Tvoje oči=http://www.youtube.com/watch?v=DJ62aTjnexM
@@ -10450,7 +10450,7 @@
 ﻿Narodna]Zoran Kalezić}Šta će meni vino=http://www.youtube.com/watch?v=yEeHmAWUTow
 ﻿Narodna]Zoran Kalezić}Stan Mladosti stani stani=http://www.youtube.com/watch?v=IgCwNfzgCOQ
 ﻿Narodna]Zoran Kalezić}Tebe voli srce moje=http://www.youtube.com/watch?v=gTjuIoFo9Lo
-﻿Narodna]Zoran Kalezić}Ti nikad nećeš znati=http://www.youtube.com/watch?v=5HLiSy79qEE
+﻿Narodna]Zoran Kalezić}Ti nikad nećeš znati=http://www.youtube.com/watch?v=63UhLmXwabo
 ﻿Narodna]Zoran Kalezić}Tvoj bi miris prepoznao među ruža trista=http://www.youtube.com/watch?v=JqnP9cgMk8g
 ﻿Narodna]Zoran Kalezić}Uzalud te tražim=http://www.youtube.com/watch?v=5rgrqjVjO8g
 ﻿Narodna]Zoran Kalezić}Vratiću se majko=http://www.youtube.com/watch?v=Lyn3ssdyu-0
@@ -10761,7 +10761,7 @@
 ﻿Narodna]Zorica Brunclik}Trebaš mi=https://www.youtube.com/watch?v=8vk0YzfWt5E
 ﻿Narodna]Zorica Brunclik}U mojoj duši tvoji tragovi=http://www.youtube.com/watch?v=-T2cvfegDHs
 ﻿Narodna]Zorica Brunclik}Ubile me oči zelene=http://www.youtube.com/watch?v=YGLWUxCbnuE
-﻿Narodna]Zorica Brunclik}Učini nešto za nas=http://www.youtube.com/watch?v=oqa40DOxivw
+﻿Narodna]Zorica Brunclik}Učini nešto za nas=http://www.youtube.com/watch?v=ucLssdwwE9U
 ﻿Narodna]Zorica Brunclik}Umorila se moja duša=http://www.youtube.com/watch?v=2UZ2R98segI
 ﻿Narodna]Zorica Brunclik}Uteši me=http://www.youtube.com/watch?v=qqT9Sb-_8ZE
 ﻿Narodna]Zorica Brunclik}Uvek sam na tvojoj strani=http://www.youtube.com/watch?v=-AE2kFhKT9k
@@ -15173,7 +15173,6 @@
 ﻿Rok Strani]The Beatles}Cry Baby Cry=http://www.youtube.com/watch?v=LEqKb-I_tnk
 ﻿Rok Strani]The Beatles}Crying, Waiting, Hoping=http://www.youtube.com/watch?v=El6Rnvj_f3w
 ﻿Rok Strani]The Beatles}Day Tripper=http://www.youtube.com/watch?v=yyPCKgzoiVk
-﻿Rok Strani]The Beatles}Dear Prudence=http://www.youtube.com/watch?v=UQmznZFi8Ho
 ﻿Rok Strani]The Beatles}Devil In Her Heart=http://www.youtube.com/watch?v=BdRKHY_02UY
 ﻿Rok Strani]The Beatles}Dig A Pony=http://www.youtube.com/watch?v=VyCZeCXGXYw
 ﻿Rok Strani]The Beatles}Dig It=http://www.youtube.com/watch?v=A5Kg_c_A-yU
@@ -17128,7 +17127,7 @@
 ﻿Rok Strani]Yes}To Ascend=http://www.youtube.com/watch?v=SwG7nnhpyVg
 ﻿Rok Strani]Yes}To Be Alive (Hep Yadda)=http://www.youtube.com/watch?v=S5BjaJcB4LE
 ﻿Rok Strani]Yes}Total Mass Retain=http://www.youtube.com/watch?v=O3Z3IKLl3cE
-﻿Rok Strani]Yes}Universal Garden=http://www.youtube.com/watch?v=Cxnp6WyOHDQ
+﻿Rok Strani]Yes}Universal Garden=http://www.youtube.com/watch?v=c8M0x4uLuc4
 ﻿Rok Strani]Yes}Walls=http://www.youtube.com/watch?v=VO59MarfyBE
 ﻿Rok Strani]Yes}We Agree=http://www.youtube.com/watch?v=Bfj6bdBB9go
 ﻿Rok Strani]Yes}We Have Heaven=http://www.youtube.com/watch?v=-0Y7IjTUq5I
