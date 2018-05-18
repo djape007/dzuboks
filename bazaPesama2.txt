@@ -508,7 +508,6 @@
 ﻿Zabavna]MC Yankoo}Ožiljak=http://www.youtube.com/watch?v=jxF0zs5MJWA
 ﻿Zabavna]MC Yankoo}Palim klub=http://www.youtube.com/watch?v=83AiRpRZwMc
 ﻿Zabavna]MC Yankoo}Slatka mala=http://www.youtube.com/watch?v=Zpqkf6_0f6E
-﻿Zabavna]MC Yankoo}Zvuk=http://www.youtube.com/watch?v=g95sXh6HuWk
 ﻿Zabavna]MVP}Celu noć i celi dan=http://www.youtube.com/watch?v=_6-0Ujr8oyM
 ﻿Zabavna]MVP}Hajde polako=--start-time=23 https://www.youtube.com/watch?v=XV9kHvDVpiU
 ﻿Zabavna]MVP}Idemo gore=http://www.youtube.com/watch?v=Q5WQUlBGulU
@@ -1808,6 +1807,7 @@
 ﻿Narodna]Miloš Radovanović}Pukni zoro=http://www.youtube.com/watch?v=iRT9dKULN8I
 ﻿Rep]Mimi Mercedez}Bakšiš=--start-time=2 http://www.youtube.com/watch?v=N581C5MXr4M
 ﻿Rep]Mimi Mercedez}Bez Sažaljenja=http://www.youtube.com/watch?v=7dX0vfw9vPE
+﻿Rep]Mimi Mercedez}Gangsta boo (Who Run It remix)=https://www.youtube.com/watch?v=tbaKLO8hFTs
 ﻿Rep]Mimi Mercedez}Diafra Sakho (Feat. Daki BD)=http://www.youtube.com/watch?v=cdFphcOWWsI
 ﻿Rep]Mimi Mercedez}Džungla (Lacku Remix)=http://www.youtube.com/watch?v=osJmk1FGXRs
 ﻿Rep]Mimi Mercedez}Džungla=http://www.youtube.com/watch?v=aFP77rwH_hA
@@ -5707,12 +5707,12 @@
 ﻿Narodna]Šaban Šaulić}Hajde mala da pravimo lom=http://www.youtube.com/watch?v=o5Lkaod6Ydw
 ﻿Narodna]Šaban Šaulić}Hajde moja vilo=http://www.youtube.com/watch?v=ShQIMNSiNnk
 ﻿Narodna]Šaban Šaulić}Hajde srećo moja=http://www.youtube.com/watch?v=sSC9J0c8GzY
-﻿Narodna]Šaban Šaulić}Hajdemo nekud iz ovog grada=http://www.youtube.com/watch?v=LyJ9L7P5CEM
+﻿Narodna]Šaban Šaulić}Hajdemo nekud iz ovog grada=http://www.youtube.com/watch?v=HGXDN36GkW8
 ﻿Narodna]Šaban Šaulić}Hej Munira gde ti je Muharem=http://www.youtube.com/watch?v=NGeZ0D3Atbw
 ﻿Narodna]Šaban Šaulić}Hej Srbija (duet Snežana Đurišić)=http://www.youtube.com/watch?v=EzUaH5nwgqw
 ﻿Narodna]Šaban Šaulić}Hej Jano, Jano=http://www.youtube.com/watch?v=1Vjwco3TuoY
 ﻿Narodna]Šaban Šaulić}Hej ljubavi nesebična=http://www.youtube.com/watch?v=x63RkhxVm8g
-﻿Narodna]Šaban Šaulić}Hej živote umoran sam=http://www.youtube.com/watch?v=AjEWsYpP1vM
+﻿Narodna]Šaban Šaulić}Hej živote umoran sam=http://www.youtube.com/watch?v=vCWcBhArrnI
 ﻿Narodna]Šaban Šaulić}Hej živote, moja reko=http://www.youtube.com/watch?v=49wdFrINqMc
 ﻿Narodna]Šaban Šaulić}Hilda i Ahmet=http://www.youtube.com/watch?v=OHJdsBjFY90
 ﻿Narodna]Šaban Šaulić}Hoćemo li u Šabac na vašar=http://www.youtube.com/watch?v=AADKlwmkaaU
@@ -5856,7 +5856,7 @@
 ﻿Narodna]Šaban Šaulić}Plave kose=http://www.youtube.com/watch?v=b9LlD0Mnbwc
 ﻿Narodna]Šaban Šaulić}Pomozi mi druže, pomozi mi brate=http://www.youtube.com/watch?v=nPA2rAn3fpg
 ﻿Narodna]Šaban Šaulić}Ponovo smo na početku sreće=http://www.youtube.com/watch?v=Tk0FnjCElpE
-﻿Narodna]Šaban Šaulić}Postelja=http://www.youtube.com/watch?v=r5ryjUpD8N8
+﻿Narodna]Šaban Šaulić}Postelja=http://www.youtube.com/watch?v=XHx56ciQmWY
 ﻿Narodna]Šaban Šaulić}Pozno bih te među hiljadu žena=http://www.youtube.com/watch?v=_8Jpmgy_4Ng
 ﻿Narodna]Šaban Šaulić}Prestaću da verujem u ljubav=http://www.youtube.com/watch?v=Fu2vahEPFy4
 ﻿Narodna]Šaban Šaulić}Prevarih se, izgubih te=http://www.youtube.com/watch?v=dNnkE8IojK0
@@ -5879,8 +5879,8 @@
 ﻿Narodna]Šaban Šaulić}Sa njom sve=http://www.youtube.com/watch?v=12yh22sfdNs
 ﻿Narodna]Šaban Šaulić}Sad je svemu kraj=http://www.youtube.com/watch?v=w7YF43eLsFQ
 ﻿Narodna]Šaban Šaulić}Sadrvani=http://www.youtube.com/watch?v=VXj21bhjggk
-﻿Narodna]Šaban Šaulić}Sam za stolom jedan čovek sedi=http://www.youtube.com/watch?v=GO-KJwz-DuI
-﻿Narodna]Šaban Šaulić}Samo mene volela si lažno=http://www.youtube.com/watch?v=zUQcwj8xZ_I
+﻿Narodna]Šaban Šaulić}Sam za stolom jedan čovek sedi=http://www.youtube.com/watch?v=bGBhvFzommE
+﻿Narodna]Šaban Šaulić}Samo mene volela si lažno=http://www.youtube.com/watch?v=PNO6LOhBFEk
 ﻿Narodna]Šaban Šaulić}Samo neka Ćira svira=http://www.youtube.com/watch?v=9gat-a1UMAk
 ﻿Narodna]Šaban Šaulić}Samo za nju=http://www.youtube.com/watch?v=U7Wh44xnEMM
 ﻿Narodna]Šaban Šaulić}Sanela, Sanela=http://www.youtube.com/watch?v=ygoGVLpugik
@@ -5962,7 +5962,7 @@
 ﻿Narodna]Šaban Šaulić}Volim s društvom da popijem=http://www.youtube.com/watch?v=E8e0a2BdRw0
 ﻿Narodna]Šaban Šaulić}Volim te ja=http://www.youtube.com/watch?v=Y_UWR2srNIE
 ﻿Narodna]Šaban Šaulić}Volim te više od sebe=http://www.youtube.com/watch?v=ZBS8DVNxbAE
-﻿Narodna]Šaban Šaulić}Vrati se kući piše babo stari=http://www.youtube.com/watch?v=dpxC22nzoSI
+﻿Narodna]Šaban Šaulić}Vrati se kući piše babo stari=http://www.youtube.com/watch?v=gUcELBxSrhg
 ﻿Narodna]Šaban Šaulić}Vreme za zaljubljene=http://www.youtube.com/watch?v=o1z9ZjA44NA
 ﻿Narodna]Šaban Šaulić}Žal=http://www.youtube.com/watch?v=At_VVI7qOR4
 ﻿Narodna]Šaban Šaulić}Zanele me oči njene=http://www.youtube.com/watch?v=RFJZXk9E3fM
@@ -8733,6 +8733,7 @@
 ﻿Narodna]Tanja Savić}Porok=http://www.youtube.com/watch?v=gh4iwSHR3PI
 ﻿Narodna]Tanja Savić}Potpis moj=http://www.youtube.com/watch?v=-5BCr0kQ8uQ
 ﻿Narodna]Tanja Savić}Prostakuša=--start-time=39 http://www.youtube.com/watch?v=lm0i-HrrnvM
+﻿Narodna]Tanja Savić}Soba zablude=--start-time=6 https://www.youtube.com/watch?v=PzqCBKO1QZY
 ﻿Narodna]Tanja Savić}Stani, tugo=http://www.youtube.com/watch?v=guHHs36HML0
 ﻿Narodna]Tanja Savić}Suknjica=http://www.youtube.com/watch?v=brP7UGMFY48
 ﻿Narodna]Tanja Savić}Tako mi i treba=http://www.youtube.com/watch?v=VVXT0gS3uQI
@@ -10251,6 +10252,7 @@
 ﻿Zabavna]Željko Joksimović}Pesma sirena=http://www.youtube.com/watch?v=5uLs0rPRUMU
 ﻿Zabavna]Željko Joksimović}Petak na subotu=http://www.youtube.com/watch?v=za-t396P_X0
 ﻿Zabavna]Željko Joksimović}Pola srca=http://www.youtube.com/watch?v=7vpe_WQ_V_k
+﻿Zabavna]Željko Joksimović}Ponelo me=https://www.youtube.com/watch?v=yIXf00-2tTA
 ﻿Zabavna]Željko Joksimović}Ranjena zver=http://www.youtube.com/watch?v=NVzQN6H4R3M
 ﻿Zabavna]Željko Joksimović}Rintam=http://www.youtube.com/watch?v=Zq5GdXipXk4
 ﻿Zabavna]Željko Joksimović}Samo ti=http://www.youtube.com/watch?v=eM68A8_x-hA
@@ -12026,7 +12028,7 @@
 ﻿Rok Strani]Motörhead}Boogeyman=http://www.youtube.com/watch?v=vLBHkg-8hII
 ﻿Rok Strani]Motörhead}Born To Lose=http://www.youtube.com/watch?v=Lj0uF4ChTrA
 ﻿Rok Strani]Motörhead}Born To Raise Hell=http://www.youtube.com/watch?v=NbOCF9zYgHc
-﻿Rok Strani]Motörhead}Brave New World=http://www.youtube.com/watch?v=RzaSH0M2wHM
+﻿Rok Strani]Motörhead}Brave New World=http://www.youtube.com/watch?v=sGR5I-rnVyo
 ﻿Rok Strani]Motörhead}Broken=http://www.youtube.com/watch?v=mjFkrbBGX2s
 ﻿Rok Strani]Motörhead}Brotherhood Of Man=http://www.youtube.com/watch?v=pQn-j1SpyKI
 ﻿Rok Strani]Motörhead}Built For Speed=http://www.youtube.com/watch?v=8a1m9jUNJsk
@@ -12169,7 +12171,7 @@
 ﻿Rok Strani]Motörhead}Rock 'n' Roll Music=http://www.youtube.com/watch?v=-gGNCYit3so
 ﻿Rok Strani]Motörhead}Rock 'n' Roll=http://www.youtube.com/watch?v=wMXHHuEGuO8
 ﻿Rok Strani]Motörhead}Rock It=http://www.youtube.com/watch?v=wFBGhZrv_io
-﻿Rok Strani]Motörhead}Rock Out=http://www.youtube.com/watch?v=v4b3MBkOx5k
+﻿Rok Strani]Motörhead}Rock Out=http://www.youtube.com/watch?v=txg2mRHkNdM
 ﻿Rok Strani]Motörhead}Runaround Man=http://www.youtube.com/watch?v=SjQIu7J-58A
 ﻿Rok Strani]Motörhead}Sacrifice=http://www.youtube.com/watch?v=asWm4NpVCtM
 ﻿Rok Strani]Motörhead}See Me Burning=http://www.youtube.com/watch?v=zSu665ZO-Ns
@@ -12630,7 +12632,6 @@
 ﻿Rok Strani]Pat Benatar}Brave=http://www.youtube.com/watch?v=vMg6WFpgm3A
 ﻿Rok Strani]Pat Benatar}Cerebral Man=http://www.youtube.com/watch?v=1J7ikLH-e44
 ﻿Rok Strani]Pat Benatar}Christmas In America=http://www.youtube.com/watch?v=b1IUsTUuNLU
-﻿Rok Strani]Pat Benatar}Cool Zero=http://www.youtube.com/watch?v=cwTlwBSMV8k
 ﻿Rok Strani]Pat Benatar}Dirty Little Secrets=http://www.youtube.com/watch?v=rGShl0z1gvg
 ﻿Rok Strani]Pat Benatar}Don't Let It Show=http://www.youtube.com/watch?v=NPhsGNQq3Qg
 ﻿Rok Strani]Pat Benatar}Don't Walk Away=http://www.youtube.com/watch?v=bQTtfdyvSbA
@@ -12682,7 +12683,6 @@
 ﻿Rok Strani]Pat Benatar}Prisoner Of Love=http://www.youtube.com/watch?v=9YNtkMvmqAk
 ﻿Rok Strani]Pat Benatar}Promises In The Dark=http://www.youtube.com/watch?v=KuPFhDQRKzw
 ﻿Rok Strani]Pat Benatar}Rated X=http://www.youtube.com/watch?v=TEdDXPqU83Q
-﻿Rok Strani]Pat Benatar}Red Vision=http://www.youtube.com/watch?v=HNcJTitwZWk
 ﻿Rok Strani]Pat Benatar}Run Between The Raindrops=http://www.youtube.com/watch?v=H8ZSRGJENBk
 ﻿Rok Strani]Pat Benatar}Sanctuary=http://www.youtube.com/watch?v=slUqClwNwb4
 ﻿Rok Strani]Pat Benatar}Sex As A Weapon=http://www.youtube.com/watch?v=RMyQQ9cvN2k
@@ -13806,14 +13806,14 @@
 ﻿Rok Strani]Rolling Stones}Just My Imagination (Running Away With Me)=http://www.youtube.com/watch?v=7RIRul-cKoc
 ﻿Rok Strani]Rolling Stones}Just Your Fool=http://www.youtube.com/watch?v=PacX2YgdLOo
 ﻿Rok Strani]Rolling Stones}Keys To Your Love=http://www.youtube.com/watch?v=W6ZVgDksUhk
-﻿Rok Strani]Rolling Stones}Lady Jane=http://www.youtube.com/watch?v=2yd8X2EnajU
+﻿Rok Strani]Rolling Stones}Lady Jane=http://www.youtube.com/watch?v=6Y59GYxTs6g
 ﻿Rok Strani]Rolling Stones}Laugh, I Nearly Died=http://www.youtube.com/watch?v=gnDuUpu1Puo
 ﻿Rok Strani]Rolling Stones}Let It Bleed=http://www.youtube.com/watch?v=3GxoSr3CHdI
 ﻿Rok Strani]Rolling Stones}Let It Loose=http://www.youtube.com/watch?v=j2k_KfvxBW8
 ﻿Rok Strani]Rolling Stones}Let It Rock=http://www.youtube.com/watch?v=lqFoLwKOznQ
 ﻿Rok Strani]Rolling Stones}Let Me Down Slow=http://www.youtube.com/watch?v=_2iMrlgq9ZQ
 ﻿Rok Strani]Rolling Stones}Let Me Go=http://www.youtube.com/watch?v=A61hGdI0m3Q
-﻿Rok Strani]Rolling Stones}Let's Spend The Night Together=http://www.youtube.com/watch?v=pAOQkSFTKMw
+﻿Rok Strani]Rolling Stones}Let's Spend The Night Together=http://www.youtube.com/watch?v=LrCR1CUSp2U
 ﻿Rok Strani]Rolling Stones}Lies=http://www.youtube.com/watch?v=KvDJyVbOQt8
 ﻿Rok Strani]Rolling Stones}Like A Rolling Stone=http://www.youtube.com/watch?v=Edy8dNu66P4
 ﻿Rok Strani]Rolling Stones}Little Baby=http://www.youtube.com/watch?v=VNgGxwYp8u8
@@ -13870,7 +13870,7 @@
 ﻿Rok Strani]Rolling Stones}Please Go Home=http://www.youtube.com/watch?v=akVW78_QD9U
 ﻿Rok Strani]Rolling Stones}Plundered My Soul=http://www.youtube.com/watch?v=u6ZnmXrRUIQ
 ﻿Rok Strani]Rolling Stones}Pretty Beat Up=http://www.youtube.com/watch?v=g9Dl0-mWQME
-﻿Rok Strani]Rolling Stones}Prodigal Son=http://www.youtube.com/watch?v=luK1dQx5GR4
+﻿Rok Strani]Rolling Stones}Prodigal Son=http://www.youtube.com/watch?v=U8xwobwKyNU
 ﻿Rok Strani]Rolling Stones}Rain Fall Down=http://www.youtube.com/watch?v=2mHHq7zcim8
 ﻿Rok Strani]Rolling Stones}Respectable=http://www.youtube.com/watch?v=LNVyu6M89p8
 ﻿Rok Strani]Rolling Stones}Ride 'em On Down=--start-time=27 http://www.youtube.com/watch?v=qEuV82GqQnE

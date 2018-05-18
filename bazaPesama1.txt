@@ -371,7 +371,6 @@
 ﻿Zabavna]Adil Maksutović}Sinovi tuge=http://www.youtube.com/watch?v=4TSpUUw9FGE
 ﻿Zabavna]Adil Maksutović}Srećo jedina=http://www.youtube.com/watch?v=26OYsW2-rD8
 ﻿Zabavna]Adil Maksutović}Sve je sada prošlost=http://www.youtube.com/watch?v=RdINkots2-A
-﻿Zabavna]Adil Maksutović}Svirajte cigani=http://www.youtube.com/watch?v=sGNwWKm21KM
 ﻿Zabavna]Adil Maksutović}Trebaš mi=http://www.youtube.com/watch?v=QUctmSdtAnk
 ﻿Zabavna]Adil Maksutović}Verni sluga=http://www.youtube.com/watch?v=gPnFZbJQysQ
 ﻿Zabavna]Adil Maksutović}Veruj u nas=--start-time=13 http://www.youtube.com/watch?v=MfFypDwsAig
@@ -4180,7 +4179,7 @@
 ﻿Zabavna]Dino Merlin}Mjesečina=http://www.youtube.com/watch?v=5thBGR1C64c
 ﻿Zabavna]Dino Merlin}Moj je život Švicarska=http://www.youtube.com/watch?v=10sL4OGcUe4
 ﻿Zabavna]Dino Merlin}Na te mislim, dušo, bez prestanka=http://www.youtube.com/watch?v=yDQe3Vc3-40
-﻿Zabavna]Dino Merlin}Ne zovi me na grijeh=http://www.youtube.com/watch?v=m0Hflfu-n_8
+﻿Zabavna]Dino Merlin}Ne zovi me na grijeh=https://www.youtube.com/watch?v=H8McRJ0gjWo
 ﻿Zabavna]Dino Merlin}Nedostaješ=--start-time=9 https://www.youtube.com/watch?v=O0QWDMOp70E
 ﻿Zabavna]Dino Merlin}Nek padaju ćuskije=http://www.youtube.com/watch?v=o0Az3D7ZwKQ
 ﻿Zabavna]Dino Merlin}Neka me ne bude=http://www.youtube.com/watch?v=nTO85x1QhS0
@@ -4289,6 +4288,7 @@
 ﻿Rok]Divlje Jagode}Zauvijek tvoj=http://www.youtube.com/watch?v=6DQRcMAXjdc
 ﻿Rok]Divlje Jagode}Zbog tebe draga=http://www.youtube.com/watch?v=riDBa0VisMU
 ﻿Rok]Divlje Jagode}Želim da te imam=http://www.youtube.com/watch?v=841hhwCbh8w
+﻿Rok]Divlje Jagode}Znamo da je kraj=https://www.youtube.com/watch?v=D_j9GdTf4HM
 ﻿Rok]Divlje Jagode}Zvijezda sjevera=http://www.youtube.com/watch?v=6mmy-iz-KLQ
 ﻿DJ]Dj Krmak}Amerika=http://www.youtube.com/watch?v=QIL00J5KyDI
 ﻿DJ]Dj Krmak}Armani=http://www.youtube.com/watch?v=mjI9XeDkn38
@@ -4442,6 +4442,7 @@
 ﻿Narodna]Đani}Zapali, zapali=http://www.youtube.com/watch?v=5VkgNqhYYK8
 ﻿Narodna]Đani}Zašto sam ti verovao=http://www.youtube.com/watch?v=TazmMyyAKdI
 ﻿Narodna]Đani}Zavede me i nestade=http://www.youtube.com/watch?v=VW1z-IyxLdw
+﻿Narodna]Đani}Žali Bože lepote=--start-time=6 https://www.youtube.com/watch?v=zXQkZFTXT0I
 ﻿Narodna]Đani}Žene (ft. Dado Polumenta)=--start-time=5 https://www.youtube.com/watch?v=xKkjOBs3VAU
 ﻿Zabavna]Đogani}92=http://www.youtube.com/watch?v=RIMCc-Za6lY
 ﻿Zabavna]Đogani}Ajmo sad u provod=http://www.youtube.com/watch?v=x9DDJ5Zk5Ls
@@ -6481,6 +6482,7 @@
 ﻿Zabavna]Galija}Trava=http://www.youtube.com/watch?v=mQNWojLRQtI
 ﻿Zabavna]Galija}Trube=http://www.youtube.com/watch?v=qrwZtk-jsJ0
 ﻿Zabavna]Galija}U suton=http://www.youtube.com/watch?v=d-AuvNcBhxk
+﻿Zabavna]Galija}U raju iznad oblaka=https://www.youtube.com/watch?v=ngXedPDFuoI
 ﻿Zabavna]Galija}Uzalud se trudiš=http://www.youtube.com/watch?v=uAvElYlzv1k
 ﻿Zabavna]Galija}Vera=http://www.youtube.com/watch?v=5QC5baQW0I0
 ﻿Zabavna]Galija}Zar baš moram nešto mudro da kažem=http://www.youtube.com/watch?v=30zO6-e3wxI
@@ -9488,6 +9490,7 @@
 ﻿Zabavna]Karolina Gočeva}Volela sam te=http://www.youtube.com/watch?v=SLt9_CrVKCw
 ﻿Zabavna]Karolina Gočeva}Želim samo tebe=http://www.youtube.com/watch?v=NUwQx-dMgZg
 ﻿Zabavna]Karolina Gočeva}Znam koliko vredim=http://www.youtube.com/watch?v=ZpcA9EdoRgA
+﻿Narodna]Katarina Grujić}Dok mirno spavaš=--start-time=8 https://www.youtube.com/watch?v=5EO5QRT12-0
 ﻿Narodna]Katarina Grujić}Emotivno dno=--start-time=7 https://www.youtube.com/watch?v=F3E1x20q3k8
 ﻿Narodna]Katarina Grujić}Greška=--start-time=23 http://www.youtube.com/watch?v=O3m7jGKz1hc
 ﻿Narodna]Katarina Grujić}Jedno đubre obično=http://www.youtube.com/watch?v=AV_ftDkpzqE
@@ -11208,8 +11211,8 @@
 ﻿Rok Strani]Whitesnake}Gambler=https://www.youtube.com/watch?v=bQW235_hnbE
 ﻿Rok Strani]Whitesnake}Love ain't no stranger=https://www.youtube.com/watch?v=oDpsGbz_nP4
 ﻿Rok Strani]Whitesnake}If you want me=https://www.youtube.com/watch?v=Rt0opufDm0Y
-﻿Rok Strani]Whitesnake}Lay down your love=https://www.youtube.com/watch?v=qp_uV83bwuQ
-﻿Rok Strani]Whitesnake}Ready to rock=--start-time=4 https://www.youtube.com/watch?v=YmkBoRcKATI
+﻿Rok Strani]Whitesnake}Lay down your love=http://www.youtube.com/watch?v=5bz93YcpuX4
+﻿Rok Strani]Whitesnake}Ready to rock=http://www.youtube.com/watch?v=90QWyV46ko4
 ﻿Rok Strani]Whitesnake}Showdown=https://www.youtube.com/watch?v=bsWQEdJhNsM
 ﻿Rok Strani]Whitesnake}Help me thro' the day=https://www.youtube.com/watch?v=M8GFtJDsAfY
 ﻿Rok Strani]Whitesnake}Child of Babylon=--start-time=19 https://www.youtube.com/watch?v=kOcEzkXYgaE
@@ -12325,7 +12328,6 @@
 ﻿Rok Strani]Bad Company}Young Blood=http://www.youtube.com/watch?v=ShlIDGPVQzs
 ﻿Rok Strani]Black Crowes}(Only) Halfway To Everywhere=http://www.youtube.com/watch?v=n096yu0Y8mI
 ﻿Rok Strani]Black Crowes}99 lbs.=http://www.youtube.com/watch?v=qcp_cdSreoA
-﻿Rok Strani]Black Crowes}A Conspiracy=http://www.youtube.com/watch?v=m3UQUzzUuTA
 ﻿Rok Strani]Black Crowes}A Train Still Makes A Lonely Sound=http://www.youtube.com/watch?v=PRTft0Lx2Ow
 ﻿Rok Strani]Black Crowes}Aimless Peacock=http://www.youtube.com/watch?v=xc2h9dYdyAw
 ﻿Rok Strani]Black Crowes}And The Band Played On...=http://www.youtube.com/watch?v=0_PrbkTVCAw
@@ -12408,7 +12410,6 @@
 ﻿Rok Strani]Black Crowes}Thick N' Thin=http://www.youtube.com/watch?v=QoeBHS81pa8
 ﻿Rok Strani]Black Crowes}Tied Up And Swallowed=http://www.youtube.com/watch?v=Dt1tSFQsD6w
 ﻿Rok Strani]Black Crowes}Time Will Tell=http://www.youtube.com/watch?v=W3yS1p6Z8kc
-﻿Rok Strani]Black Crowes}Twice As Hard=http://www.youtube.com/watch?v=x8Oob6vffhw
 ﻿Rok Strani]Black Crowes}Under A Mountain=http://www.youtube.com/watch?v=fqHPqrLN9_8
 ﻿Rok Strani]Black Crowes}Virtue And Vice=http://www.youtube.com/watch?v=V4m5V-VpMF4
 ﻿Rok Strani]Black Crowes}Walk Believer Walk=http://www.youtube.com/watch?v=Us73ROY8WFI
@@ -13176,7 +13177,7 @@
 ﻿Rok Strani]Cream}Four Until Late=http://www.youtube.com/watch?v=W1WZqt6pgLQ
 ﻿Rok Strani]Cream}I Feel Free=http://www.youtube.com/watch?v=l1QihWLLKGY
 ﻿Rok Strani]Cream}I'm So Glad=http://www.youtube.com/watch?v=L3GIQ86eu6c
-﻿Rok Strani]Cream}Lawdy Mama=http://www.youtube.com/watch?v=qIMY-162-Gk
+﻿Rok Strani]Cream}Lawdy Mama=http://www.youtube.com/watch?v=cj0_D5IGtfM
 ﻿Rok Strani]Cream}Mother's Lament=http://www.youtube.com/watch?v=mDE1ZvvHVVg
 ﻿Rok Strani]Cream}N.S.U=http://www.youtube.com/watch?v=y8WYMkTP5_s
 ﻿Rok Strani]Cream}Outside Woman Blues=http://www.youtube.com/watch?v=4ig4IJgRjGU
@@ -13426,7 +13427,7 @@
 ﻿Rok Strani]Deep Purple}The Surprising=http://www.youtube.com/watch?v=gArsKEtR5Tw
 ﻿Rok Strani]Deep Purple}The Unwritten Law=http://www.youtube.com/watch?v=VAUo7aGrO-k
 ﻿Rok Strani]Deep Purple}This Time Around=http://www.youtube.com/watch?v=zy25yFANt1k
-﻿Rok Strani]Deep Purple}Time For Bedlam=http://www.youtube.com/watch?v=23qcdRrAYNg
+﻿Rok Strani]Deep Purple}Time For Bedlam=http://www.youtube.com/watch?v=HQS_WCwX2Wk
 ﻿Rok Strani]Deep Purple}Time To Kill=http://www.youtube.com/watch?v=Q4eVh4FSgj8
 ﻿Rok Strani]Deep Purple}Too Much Is Not Enough=http://www.youtube.com/watch?v=xPvadhQr44g
 ﻿Rok Strani]Deep Purple}Truth Hurts=http://www.youtube.com/watch?v=pB7IKeiTRMA
@@ -14795,7 +14796,7 @@
 ﻿Rok Strani]Heart}Devil Delight=http://www.youtube.com/watch?v=e9dikg4HtxY
 ﻿Rok Strani]Heart}Dog And Butterfly=http://www.youtube.com/watch?v=UpoP4YSFKGA
 ﻿Rok Strani]Heart}Down On Me=http://www.youtube.com/watch?v=wfrznjQCvso
-﻿Rok Strani]Heart}Down The Nile=http://www.youtube.com/watch?v=vnsfCxEhZJE
+﻿Rok Strani]Heart}Down The Nile=http://www.youtube.com/watch?v=oVW0jhJBlzQ
 ﻿Rok Strani]Heart}Dream Of The Archer=http://www.youtube.com/watch?v=UsnBT3NofiQ
 ﻿Rok Strani]Heart}Dreamboat Annie (Reprise)=http://www.youtube.com/watch?v=SVLHqB7x5KE
 ﻿Rok Strani]Heart}Dreamboat Annie=http://www.youtube.com/watch?v=eLoMej34zvA
@@ -14810,7 +14811,7 @@
 ﻿Rok Strani]Heart}Heartless=http://www.youtube.com/watch?v=aLmSRt1MMrw
 ﻿Rok Strani]Heart}Heaven=http://www.youtube.com/watch?v=h0ZPS6EDjmk
 ﻿Rok Strani]Heart}Heavy Heart=http://www.youtube.com/watch?v=vwQmCMGREy4
-﻿Rok Strani]Heart}Hello Moonglow=http://www.youtube.com/watch?v=XPMzUqblOpg
+﻿Rok Strani]Heart}Hello Moonglow=http://www.youtube.com/watch?v=yWHAyJq0xXs
 ﻿Rok Strani]Heart}Here Song=http://www.youtube.com/watch?v=K3bmqaTGhtI
 ﻿Rok Strani]Heart}Hey Darlin' Darlin'=http://www.youtube.com/watch?v=bg7v3XpKW9U
 ﻿Rok Strani]Heart}Hey You=http://www.youtube.com/watch?v=KhrD28pxSuQ
@@ -15447,7 +15448,6 @@
 ﻿Rok Strani]Jethro Tull}Dangerous Veils=http://www.youtube.com/watch?v=LbQDudV4ndA
 ﻿Rok Strani]Jethro Tull}Dharma For One=http://www.youtube.com/watch?v=x-lU1IPjRbk
 ﻿Rok Strani]Jethro Tull}Doctor To My Disease=http://www.youtube.com/watch?v=Qy7DBqFmcls
-﻿Rok Strani]Jethro Tull}Dogs In The Midwinter=http://www.youtube.com/watch?v=UJQBZeN4dEA
 ﻿Rok Strani]Jethro Tull}Dot Com=http://www.youtube.com/watch?v=VnTyCC9IzcM
 ﻿Rok Strani]Jethro Tull}Dr. Bogenbroom=http://www.youtube.com/watch?v=t0oH3DK9scw
 ﻿Rok Strani]Jethro Tull}Drive On The Young Side Of Life=http://www.youtube.com/watch?v=7Fc-R1DTwlI
@@ -15505,7 +15505,6 @@
 ﻿Rok Strani]Jethro Tull}Mayhem Maybe=http://www.youtube.com/watch?v=9RzWE3SXqmQ
 ﻿Rok Strani]Jethro Tull}Mother Goose=http://www.youtube.com/watch?v=gNayAdfuWU0
 ﻿Rok Strani]Jethro Tull}Moths=http://www.youtube.com/watch?v=EESgk34o19o
-﻿Rok Strani]Jethro Tull}Mountain Men=http://www.youtube.com/watch?v=IzR6XjLw020
 ﻿Rok Strani]Jethro Tull}Move On Alone=http://www.youtube.com/watch?v=T8_z0hZLt-w
 ﻿Rok Strani]Jethro Tull}My God=http://www.youtube.com/watch?v=XG-r7YvcN9I
 ﻿Rok Strani]Jethro Tull}My Sunday Feeling=http://www.youtube.com/watch?v=2shXfsqOXwM
@@ -15579,7 +15578,6 @@
 ﻿Rok Strani]Jethro Tull}The Dog-Ear Years=http://www.youtube.com/watch?v=UI0eJzgh8CA
 ﻿Rok Strani]Jethro Tull}The Rattlesnake Trail=http://www.youtube.com/watch?v=2qE3arxhhcw
 ﻿Rok Strani]Jethro Tull}The Third Hoorah=http://www.youtube.com/watch?v=gmWNAi5RFyk
-﻿Rok Strani]Jethro Tull}The Waking Edge=http://www.youtube.com/watch?v=S9J-r7QyisU
 ﻿Rok Strani]Jethro Tull}The Whistler=http://www.youtube.com/watch?v=yprLKFEn3NM
 ﻿Rok Strani]Jethro Tull}Thick As A Brick (Part 2)=http://www.youtube.com/watch?v=_Fb2uvX1GMY
 ﻿Rok Strani]Jethro Tull}Thinking Round Corners=http://www.youtube.com/watch?v=jiMwoh3olP4
@@ -15617,7 +15615,7 @@
 ﻿Rok Strani]Jimi Hendrix}Astro Man=http://www.youtube.com/watch?v=tE_bPrwRmbk
 ﻿Rok Strani]Jimi Hendrix}Belly Button Window=http://www.youtube.com/watch?v=rcLUZxGfQAk
 ﻿Rok Strani]Jimi Hendrix}Bleeding Heart=--start-time=13 http://www.youtube.com/watch?v=COsVgbAJ8B8
-﻿Rok Strani]Jimi Hendrix}Blue Suede Shoes=http://www.youtube.com/watch?v=-LPPXfxEjrA
+﻿Rok Strani]Jimi Hendrix}Blue Suede Shoes=http://www.youtube.com/watch?v=aKAbXaLzisY
 ﻿Rok Strani]Jimi Hendrix}Bold As Love=http://www.youtube.com/watch?v=sXjJhm7KBII
 ﻿Rok Strani]Jimi Hendrix}Born Under A Bad Sign=http://www.youtube.com/watch?v=NZm4baDM-8w
 ﻿Rok Strani]Jimi Hendrix}Burning Of The Midnight Lamp=http://www.youtube.com/watch?v=kbRlgEK27Jg
@@ -16187,12 +16185,10 @@
 ﻿Rok Strani]Lenny Kravitz}You're My Flavor=http://www.youtube.com/watch?v=eSE_YG4-bf8
 ﻿Rok Strani]Lita Ford}A Song To Slit Your Wrists By=http://www.youtube.com/watch?v=nK_rEtuWpwI
 ﻿Rok Strani]Lita Ford}Aces & Eights=http://www.youtube.com/watch?v=Psk5lYjrHmo
-﻿Rok Strani]Lita Ford}Any Way That You Want Me=http://www.youtube.com/watch?v=5EWJwIxR9dw
-﻿Rok Strani]Lita Ford}Asylum=http://www.youtube.com/watch?v=p5efUU_iZFw
+﻿Rok Strani]Lita Ford}Any Way That You Want Me=http://www.youtube.com/watch?v=Mo_MoQCLrpE
 ﻿Rok Strani]Lita Ford}Back To The Cave=http://www.youtube.com/watch?v=FMy1iI87MPc
 ﻿Rok Strani]Lita Ford}Bad Boy=http://www.youtube.com/watch?v=Ohr4rnD7H_c
 ﻿Rok Strani]Lita Ford}Bad Love=http://www.youtube.com/watch?v=KdD0Uq2y3hA
-﻿Rok Strani]Lita Ford}Bed=http://www.youtube.com/watch?v=3xEGXu0e-jQ
 ﻿Rok Strani]Lita Ford}Betrayal=http://www.youtube.com/watch?v=LWTPhzUuA9A
 ﻿Rok Strani]Lita Ford}Big Gun=http://www.youtube.com/watch?v=9y08Jrp9tUE
 ﻿Rok Strani]Lita Ford}Black Widow=http://www.youtube.com/watch?v=03-iM53A_ws
@@ -16204,68 +16200,38 @@
 ﻿Rok Strani]Lita Ford}Can't Catch Me=http://www.youtube.com/watch?v=BjeAOJftYxE
 ﻿Rok Strani]Lita Ford}Cherry Red=http://www.youtube.com/watch?v=LhzuTT278ug
 ﻿Rok Strani]Lita Ford}Close My Eyes Forever=http://www.youtube.com/watch?v=Zy3fJ8Nmzyw
-﻿Rok Strani]Lita Ford}Crave=http://www.youtube.com/watch?v=a0MwGfxn5t0
 ﻿Rok Strani]Lita Ford}Dancin' On The Edge=http://www.youtube.com/watch?v=Mi_4C5d27M0
 ﻿Rok Strani]Lita Ford}Dedication=http://www.youtube.com/watch?v=neg8Rjr4uso
 ﻿Rok Strani]Lita Ford}Devil In My Head=http://www.youtube.com/watch?v=bUmm65-RAj4
 ﻿Rok Strani]Lita Ford}Die For Me Only (Black Widow)=http://www.youtube.com/watch?v=R49lIP83-B4
 ﻿Rok Strani]Lita Ford}Don't Let Me Down Tonight=http://www.youtube.com/watch?v=cRWTkfvcSM0
 ﻿Rok Strani]Lita Ford}Dressed To Kill=http://www.youtube.com/watch?v=wf2DQKZMSLk
-﻿Rok Strani]Lita Ford}Everything=http://www.youtube.com/watch?v=rp9KdJbHNm4
-﻿Rok Strani]Lita Ford}Fall=http://www.youtube.com/watch?v=2h9N64uwGkI
 ﻿Rok Strani]Lita Ford}Falling In And Out Of Love=http://www.youtube.com/watch?v=1z-cwfHxl0g
-﻿Rok Strani]Lita Ford}Fire In My Heart=http://www.youtube.com/watch?v=TiuAa7HLBTs
-﻿Rok Strani]Lita Ford}Garden=http://www.youtube.com/watch?v=noJAv2o2wZk
 ﻿Rok Strani]Lita Ford}Gotta Let Go=http://www.youtube.com/watch?v=L0bkMDbebxc
-﻿Rok Strani]Lita Ford}Hammerhead=http://www.youtube.com/watch?v=ccDHDrV_WBM
-﻿Rok Strani]Lita Ford}Hate=http://www.youtube.com/watch?v=6Kr5e4zP1hg
 ﻿Rok Strani]Lita Ford}Hellbound Train=http://www.youtube.com/watch?v=Hbfbo0SMIiY
-﻿Rok Strani]Lita Ford}Hit N' Run=http://www.youtube.com/watch?v=QmTng00Z-Xg
 ﻿Rok Strani]Lita Ford}Holy Man=http://www.youtube.com/watch?v=4v4wQ8djqHI
 ﻿Rok Strani]Lita Ford}Hungry=--start-time=18 http://www.youtube.com/watch?v=NTeJK_SyPXg
-﻿Rok Strani]Lita Ford}I Can't Stand It=http://www.youtube.com/watch?v=rGs8rUfGPoE
-﻿Rok Strani]Lita Ford}Indulge=http://www.youtube.com/watch?v=kE_zVNUxt58
-﻿Rok Strani]Lita Ford}Inside=http://www.youtube.com/watch?v=nmu437_LLU4
-﻿Rok Strani]Lita Ford}Joe=http://www.youtube.com/watch?v=5D_7aSU8H4M
 ﻿Rok Strani]Lita Ford}Just A Feeling=http://www.youtube.com/watch?v=3jaFSth9xNY
-﻿Rok Strani]Lita Ford}Killin' Kind=http://www.youtube.com/watch?v=2hfF9wmywH8
 ﻿Rok Strani]Lita Ford}Kiss Me Deadly=http://www.youtube.com/watch?v=kIt3OGra3Lo
-﻿Rok Strani]Lita Ford}Lady Killer=http://www.youtube.com/watch?v=XTu9ezRDMgU
 ﻿Rok Strani]Lita Ford}Larger Than Life=http://www.youtube.com/watch?v=lMnse76H840
 ﻿Rok Strani]Lita Ford}Lisa=http://www.youtube.com/watch?v=rPX-JiTvDeY
 ﻿Rok Strani]Lita Ford}Little Too Early=http://www.youtube.com/watch?v=UoonOhtsyJk
 ﻿Rok Strani]Lita Ford}Living Like A Runaway=http://www.youtube.com/watch?v=I6vNPkUNNkA
-﻿Rok Strani]Lita Ford}Love=http://www.youtube.com/watch?v=VdGMOde0VH8
-﻿Rok Strani]Lita Ford}Loverman=http://www.youtube.com/watch?v=_YFiwhqbUS8
-﻿Rok Strani]Lita Ford}Mother=http://www.youtube.com/watch?v=GtlGH0_MkYc
 ﻿Rok Strani]Lita Ford}Nobody's Child=http://www.youtube.com/watch?v=52VdlfoEVZQ
 ﻿Rok Strani]Lita Ford}On The Run=http://www.youtube.com/watch?v=hjKsEa45tjo
-﻿Rok Strani]Lita Ford}Only Women Bleed=http://www.youtube.com/watch?v=qzdku4HH3As
 ﻿Rok Strani]Lita Ford}Out For Blood=http://www.youtube.com/watch?v=jchhHNh0QrA
-﻿Rok Strani]Lita Ford}Patriotic Snob=http://www.youtube.com/watch?v=SnAKc-118d4
 ﻿Rok Strani]Lita Ford}Piece=http://www.youtube.com/watch?v=NGL7j_U78lo
 ﻿Rok Strani]Lita Ford}Playin' With Fire=http://www.youtube.com/watch?v=RZ0APOqORYA
-﻿Rok Strani]Lita Ford}Push=http://www.youtube.com/watch?v=CPqZMzf7gFg
 ﻿Rok Strani]Lita Ford}Ready, Willing & Able=http://www.youtube.com/watch?v=ase7VLiLB1g
-﻿Rok Strani]Lita Ford}Relentless=http://www.youtube.com/watch?v=KD2Pi1Zmrr0
 ﻿Rok Strani]Lita Ford}Rock N Roll Made Me What I Am Today=http://www.youtube.com/watch?v=d3ioEaLiad4
 ﻿Rok Strani]Lita Ford}Run With The $=http://www.youtube.com/watch?v=ulzqgXVdSQY
-﻿Rok Strani]Lita Ford}Sacred=http://www.youtube.com/watch?v=mYsemrLXb_k
-﻿Rok Strani]Lita Ford}Scream=http://www.youtube.com/watch?v=rG27m4ZnyOk
 ﻿Rok Strani]Lita Ford}Shot Of Poison=http://www.youtube.com/watch?v=UqQ0R7OXYVY
-﻿Rok Strani]Lita Ford}Spider Monkeys=http://www.youtube.com/watch?v=t6zKZ1JyCWE
 ﻿Rok Strani]Lita Ford}Stay With Me Baby=http://www.youtube.com/watch?v=aZeWvp_rGcs
 ﻿Rok Strani]Lita Ford}Stiletto=http://www.youtube.com/watch?v=TgiQ7P8AOV4
-﻿Rok Strani]Lita Ford}Still Waitin'=http://www.youtube.com/watch?v=TFzyIfi-tzU
 ﻿Rok Strani]Lita Ford}Tamborine Dream=http://www.youtube.com/watch?v=Og5ps4oxR3E
-﻿Rok Strani]Lita Ford}The Mask=http://www.youtube.com/watch?v=eN9_QnqO4q0
 ﻿Rok Strani]Lita Ford}The Ripper=http://www.youtube.com/watch?v=elFjqdYTvnc
-﻿Rok Strani]Lita Ford}Truth=http://www.youtube.com/watch?v=Id4Rk2NqSGM
 ﻿Rok Strani]Lita Ford}Under The Gun=http://www.youtube.com/watch?v=ZcDF8o1y3eo
-﻿Rok Strani]Lita Ford}War Of The Angels=http://www.youtube.com/watch?v=QqEzkHgtwKU
 ﻿Rok Strani]Lita Ford}What Do Ya Know About Love=http://www.youtube.com/watch?v=_FqFZYeCy6s
-﻿Rok Strani]Lita Ford}Where Will I Find My Heart Tonight=http://www.youtube.com/watch?v=QR4NZAZ3UP0
-﻿Rok Strani]Lita Ford}White Lightnin'=http://www.youtube.com/watch?v=5JDRvEC430U
 ﻿Rok Strani]Lita Ford}Wicked Wonderland=http://www.youtube.com/watch?v=MIY1jD1wYmw
 ﻿Rok Strani]Living Colour}A ? Of When=http://www.youtube.com/watch?v=d9YiwNPS6gI
 ﻿Rok Strani]Living Colour}Asshole=http://www.youtube.com/watch?v=pZzqcEDvoMU
