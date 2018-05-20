@@ -1804,7 +1804,7 @@
 ﻿Narodna]Miloš Milošević}Ti si moje sunce=http://www.youtube.com/watch?v=xUUbFBM5tZQ
 ﻿Narodna]Miloš Milošević}Za ljubav živim=http://www.youtube.com/watch?v=NByfDsH5CkQ
 ﻿Narodna]Miloš Milošević}Zašto si otišla draga=http://www.youtube.com/watch?v=ERp0wY9pI0Q
-﻿Narodna]Miloš Radovanović}Pukni zoro=http://www.youtube.com/watch?v=iRT9dKULN8I
+﻿Narodna]Miloš Radovanović}Pukni zoro=http://www.youtube.com/watch?v=_luexJT5B7Y
 ﻿Rep]Mimi Mercedez}Bakšiš=--start-time=2 http://www.youtube.com/watch?v=N581C5MXr4M
 ﻿Rep]Mimi Mercedez}Bez Sažaljenja=http://www.youtube.com/watch?v=7dX0vfw9vPE
 ﻿Rep]Mimi Mercedez}Gangsta boo (Who Run It remix)=https://www.youtube.com/watch?v=tbaKLO8hFTs
@@ -3144,7 +3144,6 @@
 ﻿Narodna]Nino}Ostani u mojim pesmama=http://www.youtube.com/watch?v=HeGVGi8eTc4
 ﻿Narodna]Nino}Otrov i med=http://www.youtube.com/watch?v=y-ibcTVAYm4
 ﻿Narodna]Nino}Otrovana grehom=http://www.youtube.com/watch?v=Qbu5ULDqWz8
-﻿Narodna]Nino}Pesma prijatelju=http://www.youtube.com/watch?v=gQ8sVY9Tz6o
 ﻿Narodna]Nino}Pevaj, pevaj, srce moje=http://www.youtube.com/watch?v=axDf7MRqS5Q
 ﻿Narodna]Nino}Pijem i pevam=http://www.youtube.com/watch?v=t_w7uakAEd8
 ﻿Narodna]Nino}Plači noćas=http://www.youtube.com/watch?v=ZaKTwWr_Fpc
@@ -5651,7 +5650,6 @@
 ﻿Narodna]Šaban Bajramović}Parno Gras=https://www.youtube.com/watch?v=_GB2vApXdsQ
 ﻿Narodna]Šaban Bajramović}Maruška=https://www.youtube.com/watch?v=bLtK9ab-Vac
 ﻿Narodna]Šaban Šaulić}A gde smo sada=http://www.youtube.com/watch?v=bmL-Bm__PEM
-﻿Narodna]Šaban Šaulić}A ja kao prosijak u starom odjelu=http://www.youtube.com/watch?v=XFFqih7RQ8A
 ﻿Narodna]Šaban Šaulić}Ah Meraka u večeri rane=http://www.youtube.com/watch?v=5YQ7rMjfN8M
 ﻿Narodna]Šaban Šaulić}Ako imam pravo=http://www.youtube.com/watch?v=iN_KWndxJAg
 ﻿Narodna]Šaban Šaulić}Ako me tražiš=http://www.youtube.com/watch?v=JOairr1muXw
@@ -5683,7 +5681,7 @@
 ﻿Narodna]Šaban Šaulić}Devojčice moja=http://www.youtube.com/watch?v=oL52rkc8OTc
 ﻿Narodna]Šaban Šaulić}Dođi da ostarimo zajedno=http://www.youtube.com/watch?v=ZKD900AsQP8
 ﻿Narodna]Šaban Šaulić}Dođi nam sine u goste=http://www.youtube.com/watch?v=pB9Tdr_mLuU
-﻿Narodna]Šaban Šaulić}Dođi za bolje sutra=http://www.youtube.com/watch?v=k1LRZUfy0ng
+﻿Narodna]Šaban Šaulić}Dođi za bolje sutra=http://www.youtube.com/watch?v=9VGn1P3E7bk
 ﻿Narodna]Šaban Šaulić}Dok mogu očima da gledam=http://www.youtube.com/watch?v=VhiU5vMdX7o
 ﻿Narodna]Šaban Šaulić}Donesi Kato još jedno piće=http://www.youtube.com/watch?v=pPnFAEGqUCQ
 ﻿Narodna]Šaban Šaulić}Draga moja=http://www.youtube.com/watch?v=HCxzMX6QsPY
@@ -5911,7 +5909,6 @@
 ﻿Narodna]Šaban Šaulić}Što dalje od mene=http://www.youtube.com/watch?v=3SL4E_PeFps
 ﻿Narodna]Šaban Šaulić}Što me mučiš prokleti živote=http://www.youtube.com/watch?v=asm3VUuX5PY
 ﻿Narodna]Šaban Šaulić}Sudbina je moja u rukama njenim=http://www.youtube.com/watch?v=it08yjs4eRU
-﻿Narodna]Šaban Šaulić}Šumadijski čaj=http://www.youtube.com/watch?v=4STMjnsmdl8
 ﻿Narodna]Šaban Šaulić}Sutra nek dođe kraj=http://www.youtube.com/watch?v=Ey8CDdv1VIw
 ﻿Narodna]Šaban Šaulić}Svadbarska pesma=http://www.youtube.com/watch?v=hT9eFLzA1gM
 ﻿Narodna]Šaban Šaulić}Svadbe biti neće=http://www.youtube.com/watch?v=r4iejyF-uRY
@@ -6725,7 +6722,6 @@
 ﻿Narodna]Sejo Kalać}Daj daj dodaj=http://www.youtube.com/watch?v=1aAllyA5W9c
 ﻿Narodna]Sejo Kalać}Daj mi, daj=http://www.youtube.com/watch?v=Rpjig1lx2Z8
 ﻿Narodna]Sejo Kalać}Decembar je bio=http://www.youtube.com/watch?v=xSvzrUc1uGo
-﻿Narodna]Sejo Kalać}Digni glavu prijatelju moj=http://www.youtube.com/watch?v=rXxOulyzlmY
 ﻿Narodna]Sejo Kalać}Đulo Đulzija=http://www.youtube.com/watch?v=3lA4OiezxSU
 ﻿Narodna]Sejo Kalać}Dobro djelo učini=http://www.youtube.com/watch?v=iFoZoOTYWpE
 ﻿Narodna]Sejo Kalać}Dobro sam živ=http://www.youtube.com/watch?v=8bjiJ4eTIi4
@@ -6733,7 +6729,6 @@
 ﻿Narodna]Sejo Kalać}Eh što nemam dva života=http://www.youtube.com/watch?v=gu56QFNhu4w
 ﻿Narodna]Sejo Kalać}Emina=http://www.youtube.com/watch?v=TH0DE22SwEY
 ﻿Narodna]Sejo Kalać}Fajront=http://www.youtube.com/watch?v=HcVB3besw9Y
-﻿Narodna]Sejo Kalać}Glave lude=http://www.youtube.com/watch?v=o4W3um_tTGc
 ﻿Narodna]Sejo Kalać}Gost=http://www.youtube.com/watch?v=qYDaUSTFCuw
 ﻿Narodna]Sejo Kalać}Gradski momak=http://www.youtube.com/watch?v=-3l-hB_Ulxc
 ﻿Narodna]Sejo Kalać}Idi ženo iz života moga=http://www.youtube.com/watch?v=_1M9KxeA0Lk
@@ -6755,7 +6750,6 @@
 ﻿Narodna]Sejo Kalać}Lele, lele=http://www.youtube.com/watch?v=6CJb_Qpjhic
 ﻿Narodna]Sejo Kalać}Ljubav i kocka=http://www.youtube.com/watch?v=wbUY57EyPvk
 ﻿Narodna]Sejo Kalać}Ljuta na mene=http://www.youtube.com/watch?v=y2e0sb_CWUQ
-﻿Narodna]Sejo Kalać}Majko utjesi me=http://www.youtube.com/watch?v=bDDaiQli81Y
 ﻿Narodna]Sejo Kalać}Mani mani=http://www.youtube.com/watch?v=vbEFFhAAdyM
 ﻿Narodna]Sejo Kalać}Mani, mani=http://www.youtube.com/watch?v=vbEFFhAAdyM
 ﻿Narodna]Sejo Kalać}Mogu bez tebe=http://www.youtube.com/watch?v=d_NOjtw2r0Y
@@ -6769,14 +6763,13 @@
 ﻿Narodna]Sejo Kalać}Ovo je pjesma za tebe, ljubavi moja=http://www.youtube.com/watch?v=JT5psCtkZ0s
 ﻿Narodna]Sejo Kalać}Pero, ja i naše žene=http://www.youtube.com/watch?v=IrZbJzulDLI
 ﻿Narodna]Sejo Kalać}Pobjegla je sreća=http://www.youtube.com/watch?v=uNOgJ6aUITs
-﻿Narodna]Sejo Kalać}Poletimo, poletimo=http://www.youtube.com/watch?v=flL10EVDZsA
+﻿Narodna]Sejo Kalać}Poletimo, poletimo=--start-time=5 http://www.youtube.com/watch?v=6x2O_BLPVDc
 ﻿Narodna]Sejo Kalać}Polomiću sve što je od stakla=http://www.youtube.com/watch?v=gDb-NwHAKOw
 ﻿Narodna]Sejo Kalać}Potraži me=http://www.youtube.com/watch?v=vAm9A2e0MEk
 ﻿Narodna]Sejo Kalać}Prevariću život=http://www.youtube.com/watch?v=nyAegEaWXtY
 ﻿Narodna]Sejo Kalać}Promocija tuge=http://www.youtube.com/watch?v=B38VwBkqdMg
 ﻿Narodna]Sejo Kalać}Propio sam ženino prstenje=http://www.youtube.com/watch?v=bsWM90Zqx0M
 ﻿Narodna]Sejo Kalać}Pustite me da se napijem=http://www.youtube.com/watch?v=86bl-nNGz9c
-﻿Narodna]Sejo Kalać}Seila kćeri mila=http://www.youtube.com/watch?v=jLYL3o27Llk
 ﻿Narodna]Sejo Kalać}Seila=http://www.youtube.com/watch?v=49nyVP1xpqk
 ﻿Narodna]Sejo Kalać}Sirotinjo=http://www.youtube.com/watch?v=p7-y4Qdjksc
 ﻿Narodna]Sejo Kalać}Sretan ti rođendan=http://www.youtube.com/watch?v=gbyn03ilEeE
@@ -6788,7 +6781,6 @@
 ﻿Narodna]Sejo Kalać}To nije fer=http://www.youtube.com/watch?v=RG5_5tnK5zA
 ﻿Narodna]Sejo Kalać}Uvijek dobro činio sam svima=http://www.youtube.com/watch?v=fwILtJTMagU
 ﻿Narodna]Sejo Kalać}Voda, vazduh i sloboda=http://www.youtube.com/watch?v=o21U5lQXlCQ
-﻿Narodna]Sejo Kalać}Volim da kockam=http://www.youtube.com/watch?v=vNhyMIZOqQE
 ﻿Narodna]Sejo Kalać}Volim te=http://www.youtube.com/watch?v=yyVei82lNlo
 ﻿Narodna]Sejo Kalać}Zaigraj=http://www.youtube.com/watch?v=3Qo5DNzyn-s
 ﻿Narodna]Sejo Kalać}Život mi je uništila=http://www.youtube.com/watch?v=TtRaxZ47DYw
@@ -7541,7 +7533,6 @@
 ﻿Narodna]Sinan Sakić}Da sam ja neka vlast=http://www.youtube.com/watch?v=aw77o-XBME0
 ﻿Narodna]Sinan Sakić}Da sam voleo=http://www.youtube.com/watch?v=Sst3hB_1VMw
 ﻿Narodna]Sinan Sakić}Da se opet rodim=http://www.youtube.com/watch?v=TSaxqYssfQI
-﻿Narodna]Sinan Sakić}Danas smo rekli da=http://www.youtube.com/watch?v=Fv18zt5QqHI
 ﻿Narodna]Sinan Sakić}Dodirni me=http://www.youtube.com/watch?v=0tRuaW4Zock
 ﻿Narodna]Sinan Sakić}Dođe mi da plačem kao dete=http://www.youtube.com/watch?v=1uACfQf9t6Y
 ﻿Narodna]Sinan Sakić}Dođoh da te vidim=http://www.youtube.com/watch?v=Y9OIS8wTsYE
@@ -8414,7 +8405,6 @@
 ﻿Narodna]Stoja}Idi=http://www.youtube.com/watch?v=nQEx6ox-ka8
 ﻿Narodna]Stoja}Iza lažnog osmeha=http://www.youtube.com/watch?v=zS2R3VJTcHg
 ﻿Narodna]Stoja}Jača nego pre=http://www.youtube.com/watch?v=WH1RGZ-Cx9E
-﻿Narodna]Stoja}Kako ću bez tebe=http://www.youtube.com/watch?v=XRKxG_2iMOI
 ﻿Narodna]Stoja}Kako je meni sada=http://www.youtube.com/watch?v=JAmSvQlMapk
 ﻿Narodna]Stoja}Kakva sam, takva sam=http://www.youtube.com/watch?v=M6mks3dCuqg
 ﻿Narodna]Stoja}Kao ovde nigde nije=http://www.youtube.com/watch?v=RHsC83dwoQ8
@@ -8434,7 +8424,6 @@
 ﻿Narodna]Stoja}Ne volim te više=http://www.youtube.com/watch?v=4w3Ary4eIn4
 ﻿Narodna]Stoja}Ne vraćam se ja na staro=http://www.youtube.com/watch?v=FghZV38sYpY
 ﻿Narodna]Stoja}Neću proći jeftino=http://www.youtube.com/watch?v=nhUhdzGCNsk
-﻿Narodna]Stoja}Nek te vetar nosi=http://www.youtube.com/watch?v=UoO7VYj0sZE
 ﻿Narodna]Stoja}Nek ti se plače danima=http://www.youtube.com/watch?v=5kv6wJ3atik
 ﻿Narodna]Stoja}Neka pati, sve nek plati=http://www.youtube.com/watch?v=WcAsdeFYBNY
 ﻿Narodna]Stoja}Nešto mi govori=http://www.youtube.com/watch?v=wYCbG_80lRU
@@ -10026,7 +10015,7 @@
 ﻿Rok]Zabranjeno Pušenje}Izvini, jaro, guzim=http://www.youtube.com/watch?v=cjulRAk_cQw
 ﻿Rok]Zabranjeno Pušenje}Ja imam kuhinju=http://www.youtube.com/watch?v=RU1zJ8D4msI
 ﻿Rok]Zabranjeno Pušenje}Ja nisam odavle=http://www.youtube.com/watch?v=KVf-zP8vB1s
-﻿Rok]Zabranjeno Pušenje}Javi mi=http://www.youtube.com/watch?v=REBick_UkF8
+﻿Rok]Zabranjeno Pušenje}Javi mi=http://www.youtube.com/watch?v=uvoSvQ_uW3Q
 ﻿Rok]Zabranjeno Pušenje}Jugo 45=http://www.youtube.com/watch?v=0IofpvkGJPM
 ﻿Rok]Zabranjeno Pušenje}Kad Sena pleše=http://www.youtube.com/watch?v=qrMDEargILI
 ﻿Rok]Zabranjeno Pušenje}Kad procvatu behari=http://www.youtube.com/watch?v=x4jPjuZs6JY
@@ -10042,7 +10031,7 @@
 ﻿Rok]Zabranjeno Pušenje}Lutka sa naslovne strane=http://www.youtube.com/watch?v=u147LwSzR7g
 ﻿Rok]Zabranjeno Pušenje}Mali motač jointa=http://www.youtube.com/watch?v=8P8pghfOhHk
 ﻿Rok]Zabranjeno Pušenje}Manijak=http://www.youtube.com/watch?v=kNTCVszdEfM
-﻿Rok]Zabranjeno Pušenje}Mejtaš=http://www.youtube.com/watch?v=4DETeStDLSs
+﻿Rok]Zabranjeno Pušenje}Mejtaš=http://www.youtube.com/watch?v=JJJ93QN95hw
 ﻿Rok]Zabranjeno Pušenje}Meteor=http://www.youtube.com/watch?v=Q2JhPFlRwaU
 ﻿Rok]Zabranjeno Pušenje}Možeš imat' moje tijelo=http://www.youtube.com/watch?v=GqiCKuxPT0A
 ﻿Rok]Zabranjeno Pušenje}Murga drot=http://www.youtube.com/watch?v=s_WXwK30Axs
@@ -10073,7 +10062,7 @@
 ﻿Rok]Zabranjeno Pušenje}Selena, vrati se Selena=http://www.youtube.com/watch?v=RQ_ibEDzCVg
 ﻿Rok]Zabranjeno Pušenje}Sigurna vremena=http://www.youtube.com/watch?v=enC5d4RnXW4
 ﻿Rok]Zabranjeno Pušenje}Splitska princeza=http://www.youtube.com/watch?v=-S1VPrENEeQ
-﻿Rok]Zabranjeno Pušenje}Srce, ruke i lopata=http://www.youtube.com/watch?v=9gqZj4IVOVs
+﻿Rok]Zabranjeno Pušenje}Srce, ruke i lopata=http://www.youtube.com/watch?v=zg9obVyMpkw
 ﻿Rok]Zabranjeno Pušenje}Stanje šoka=http://www.youtube.com/watch?v=4Ud-lDQk16E
 ﻿Rok]Zabranjeno Pušenje}Sto načina=http://www.youtube.com/watch?v=Y3LRLLm6FTg
 ﻿Rok]Zabranjeno Pušenje}Straža pored Prizrena=http://www.youtube.com/watch?v=wHzFr-hOVE8
