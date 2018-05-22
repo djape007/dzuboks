@@ -484,6 +484,7 @@
 ﻿Narodna]Aleksandar Olujić}Party harmonica=http://www.youtube.com/watch?v=aPnYOkozRMY
 ﻿Narodna]Aleksandar Olujić}Sipaj da ubije=http://www.youtube.com/watch?v=ZPj4tmcz_Y8
 ﻿Narodna]Aleksandar Olujić}Ustani rajo=http://www.youtube.com/watch?v=5pSUSmRdq_s
+﻿Narodna]Aleksandra Bursać}Čini mi se da sam se zaljubila=--start-time=7 https://www.youtube.com/watch?v=hky7PMIfbTo
 ﻿Narodna]Aleksandra Bursać}Dobri momci ne postoje=http://www.youtube.com/watch?v=6Fao_vbpyhs
 ﻿Narodna]Aleksandra Bursać}Grom=--start-time=10 http://www.youtube.com/watch?v=5ugVxEQSjik
 ﻿Narodna]Aleksandra Bursać}Izdajica=http://www.youtube.com/watch?v=J0thQot3BBk
@@ -2260,6 +2261,7 @@
 ﻿Zabavna]Boban Rajović}Koga foliraš=http://www.youtube.com/watch?v=Sy2MSyPeZ7Q
 ﻿Zabavna]Boban Rajović}Kosači=--start-time=34 http://www.youtube.com/watch?v=572I2hRq1g8
 ﻿Zabavna]Boban Rajović}Kraljica i kralj=http://www.youtube.com/watch?v=zRr8ur64Af8
+﻿Zabavna]Boban Rajović}Kreten=https://www.youtube.com/watch?v=7tUxVOCgplw
 ﻿Zabavna]Boban Rajović}Kumovi=http://www.youtube.com/watch?v=ZzfcP9QyiNQ
 ﻿Zabavna]Boban Rajović}Latice od ruža=http://www.youtube.com/watch?v=7q47fNOpMQs
 ﻿Zabavna]Boban Rajović}Lijepa kao grijeh=http://www.youtube.com/watch?v=OLGDR531WBQ
@@ -6528,6 +6530,7 @@
 ﻿Rok]Garavi Sokak}Život se igra sa nama=http://www.youtube.com/watch?v=PfjoiNQe8tM
 ﻿Rok]Garavi Sokak}Žuti buldozer=http://www.youtube.com/watch?v=bl3EZI_2RUg
 ﻿Rok]Garavi Sokak}Zvao sam samo da te pozdravim=http://www.youtube.com/watch?v=1mC6_dG986E
+﻿Rep]Gazda Paja}1000 evra (ft. DJ A.S. ONE)=--start-time=8 https://www.youtube.com/watch?v=M3Elvd-UVQI
 ﻿Rep]Gazda Paja}Bani na to (feat. Ivana Vukmirović)=http://www.youtube.com/watch?v=ra35QufQHwI
 ﻿Rep]Gazda Paja}Čke Beogradske=--start-time=17 http://www.youtube.com/watch?v=XnbVuMKW3mE
 ﻿Rep]Gazda Paja}Da se opustiš=http://www.youtube.com/watch?v=8qYfvmC7QrU
@@ -9489,6 +9492,7 @@
 ﻿Narodna]Katarina Grujić}Jedno đubre obično=http://www.youtube.com/watch?v=AV_ftDkpzqE
 ﻿Narodna]Katarina Grujić}Lutka=--start-time=6 http://www.youtube.com/watch?v=X7Vjkn2bD1E
 ﻿Narodna]Katarina Grujić}Paranoičan=--start-time=9 http://www.youtube.com/watch?v=_lr4PZUmf3o
+﻿Narodna]Katarina Grujić}Rođena za bol=https://www.youtube.com/watch?v=4oZj0z8isK0
 ﻿Narodna]Katarina Grujić}Nisam kao druge=--start-time=5 https://www.youtube.com/watch?v=iAiNjGmFV6E
 ﻿Narodna]Katarina Grujić}Ti i ja=https://www.youtube.com/watch?v=h8tUHv32h9Y
 ﻿Zabavna]Katarina Kovačević}Hajde, nazdravi bivšoj ljubavi=http://www.youtube.com/watch?v=npOj5nwiOhw
