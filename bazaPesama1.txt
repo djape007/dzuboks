@@ -4644,7 +4644,6 @@
 ﻿Kantautori]Đorđe Balašević}Ratnik paorskog srca=http://www.youtube.com/watch?v=EsIBws6rumg
 ﻿Kantautori]Đorđe Balašević}Regruteska=http://www.youtube.com/watch?v=X5YPu8sfl8E
 ﻿Kantautori]Đorđe Balašević}Ringispil=http://www.youtube.com/watch?v=gNL7mgL7VF0
-﻿Kantautori]Đorđe Balašević}Sedam osmina=http://www.youtube.com/watch?v=7n1WKOYVHas
 ﻿Kantautori]Đorđe Balašević}Sin jedinac=http://www.youtube.com/watch?v=TMD2s5SbHng
 ﻿Kantautori]Đorđe Balašević}Slovenska=http://www.youtube.com/watch?v=Hee8aNgoibQ
 ﻿Kantautori]Đorđe Balašević}Stih na asfaltu=http://www.youtube.com/watch?v=spOwun40Qig
@@ -6543,6 +6542,7 @@
 ﻿Rep]Gazda Paja}Iz inata=http://www.youtube.com/watch?v=FjdOTNlhOhs
 ﻿Rep]Gazda Paja}Karanje=http://www.youtube.com/watch?v=PR6E-jTf63A
 ﻿Rep]Gazda Paja}Kash dosh (feat. Raki, Vojke, Young Palk, Đexon, Đokaton)=http://www.youtube.com/watch?v=LzM1tyq2MgU
+﻿Rep]Gazda Paja}Kisela bombona (feat. Ami G, Pop, Kon)=--start-time=31 https://www.youtube.com/watch?v=2Lh7ElX6K7s
 ﻿Rep]Gazda Paja}Ludilo=http://www.youtube.com/watch?v=Qe_90W-czNU
 ﻿Rep]Gazda Paja}Mašina=http://www.youtube.com/watch?v=HwdgJmbBPB8
 ﻿Rep]Gazda Paja}Ol' school=http://www.youtube.com/watch?v=H72-MCvZdZw
@@ -8773,7 +8773,7 @@
 ﻿Narodna]Jana}Ja nisam ona=http://www.youtube.com/watch?v=Pb-HFcR1MqQ
 ﻿Narodna]Jana}Ja sam tvoja=http://www.youtube.com/watch?v=aQPKZTdRbio
 ﻿Narodna]Jana}Ja te samo ljubim=http://www.youtube.com/watch?v=tD88ZmAIg3Q
-﻿Narodna]Jana}Jana dva=http://www.youtube.com/watch?v=sBK93AmiYZM
+﻿Narodna]Jana}Jana dva=http://www.youtube.com/watch?v=Hw21vQ2hlMw
 ﻿Narodna]Jana}Jasno je=http://www.youtube.com/watch?v=cnq18qlLZZU
 ﻿Narodna]Jana}Jutro posle=http://www.youtube.com/watch?v=gXTa251vjuc
 ﻿Narodna]Jana}Kad slavuji zapevaju=http://www.youtube.com/watch?v=vFgh-3Z4jIA
@@ -10601,7 +10601,7 @@
 ﻿Rok Strani]Joe Cocker}Space captain=https://www.youtube.com/watch?v=m8IbRIfcyIc
 ﻿Rok Strani]Joe Cocker}Something=https://www.youtube.com/watch?v=8OueiRjJSuw
 ﻿Rok Strani]Joe Cocker}Different roads=https://www.youtube.com/watch?v=C_uE8ZKa0Bg
-﻿Rok Strani]Joe Cocker}Woman to woman=http://www.youtube.com/watch?v=p7EUZ5t4N88
+﻿Rok Strani]Joe Cocker}Woman to woman=http://www.youtube.com/watch?v=pt-S5XMc91U
 ﻿Rok Strani]Joe Cocker}Cry me a river =--start-time=11 https://www.youtube.com/watch?v=gRDe0PIPqj0
 ﻿Rok Strani]Joe Cocker}Now that the magic has gone=--start-time=3 https://www.youtube.com/watch?v=MoiMUvOk7pA
 ﻿Rok Strani]Joe Cocker}A woman loves a man=https://www.youtube.com/watch?v=I015XjkI2tE
@@ -15017,7 +15017,6 @@
 ﻿Rok Strani]Iggy Pop}Don't Look Down=http://www.youtube.com/watch?v=HgkvUfpkRT8
 ﻿Rok Strani]Iggy Pop}Drink New Blood=http://www.youtube.com/watch?v=jP51ySsAFkM
 ﻿Rok Strani]Iggy Pop}Dum Dum Boys=http://www.youtube.com/watch?v=lXIfw7npiTU
-﻿Rok Strani]Iggy Pop}Eat Or Be Eaten=http://www.youtube.com/watch?v=-pd5e0ooZl8
 ﻿Rok Strani]Iggy Pop}Eggs On Plate=http://www.youtube.com/watch?v=yZbb34d100c
 ﻿Rok Strani]Iggy Pop}Espanol=http://www.youtube.com/watch?v=uBSijOY0sbM
 ﻿Rok Strani]Iggy Pop}Facade=http://www.youtube.com/watch?v=qAC3lUZMn5M
@@ -15087,7 +15086,6 @@
 ﻿Rok Strani]Iggy Pop}Neon Forest=http://www.youtube.com/watch?v=-HSHuXusJvQ
 ﻿Rok Strani]Iggy Pop}New Values=http://www.youtube.com/watch?v=vSpAJwv9iI8
 ﻿Rok Strani]Iggy Pop}Nightclubbing=http://www.youtube.com/watch?v=5F718vM1hHE
-﻿Rok Strani]Iggy Pop}Ordinary Bummer=http://www.youtube.com/watch?v=fn1RoMwX5vE
 ﻿Rok Strani]Iggy Pop}Outta My Head=http://www.youtube.com/watch?v=na3PBKwByZ4
 ﻿Rok Strani]Iggy Pop}Pain And Suffering=http://www.youtube.com/watch?v=2HkkvtTuHLs
 ﻿Rok Strani]Iggy Pop}Paraguay=http://www.youtube.com/watch?v=nLcUR7iBWqE
@@ -15123,7 +15121,7 @@
 ﻿Rok Strani]Iggy Pop}Spanish Coast=http://www.youtube.com/watch?v=HQyyljEBzh4
 ﻿Rok Strani]Iggy Pop}Squarehead=http://www.youtube.com/watch?v=Ax8YE4hseIk
 ﻿Rok Strani]Iggy Pop}Starry Night=http://www.youtube.com/watch?v=aZi_-5kzzMk
-﻿Rok Strani]Iggy Pop}Street Crazies=http://www.youtube.com/watch?v=0GlfC3kpfE0
+﻿Rok Strani]Iggy Pop}Street Crazies=http://www.youtube.com/watch?v=kL4UT-sVrCM
 ﻿Rok Strani]Iggy Pop}Strong Girl=http://www.youtube.com/watch?v=X1L7MTdLUJs
 ﻿Rok Strani]Iggy Pop}Success=http://www.youtube.com/watch?v=NGbw-cz35qo
 ﻿Rok Strani]Iggy Pop}Sunday=http://www.youtube.com/watch?v=tjSnrDikc4M
@@ -15146,7 +15144,7 @@
 ﻿Rok Strani]Iggy Pop}Turn Blue=http://www.youtube.com/watch?v=_6qVtNGkJkQ
 ﻿Rok Strani]Iggy Pop}Ugliness=http://www.youtube.com/watch?v=_kJHMsclyHw
 ﻿Rok Strani]Iggy Pop}Vulture=http://www.youtube.com/watch?v=VU2y9kUg4ME
-﻿Rok Strani]Iggy Pop}Watching The News=http://www.youtube.com/watch?v=l8nCheo4XZI
+﻿Rok Strani]Iggy Pop}Watching The News=http://www.youtube.com/watch?v=B1o7MWvjZC0
 ﻿Rok Strani]Iggy Pop}Well Did You Evah?=http://www.youtube.com/watch?v=vC_bFDPiqYA
 ﻿Rok Strani]Iggy Pop}Whatever=http://www.youtube.com/watch?v=-Je2qi2CtxI
 ﻿Rok Strani]Iggy Pop}Why Was I Born? (Freddy's Dead)=http://www.youtube.com/watch?v=WnW86tntk-8
