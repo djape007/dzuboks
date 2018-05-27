@@ -5877,7 +5877,6 @@
 ﻿Narodna]Šaban Šaulić}Sa njom sve=http://www.youtube.com/watch?v=12yh22sfdNs
 ﻿Narodna]Šaban Šaulić}Sad je svemu kraj=http://www.youtube.com/watch?v=w7YF43eLsFQ
 ﻿Narodna]Šaban Šaulić}Sadrvani=http://www.youtube.com/watch?v=VXj21bhjggk
-﻿Narodna]Šaban Šaulić}Sam za stolom jedan čovek sedi=http://www.youtube.com/watch?v=bGBhvFzommE
 ﻿Narodna]Šaban Šaulić}Samo mene volela si lažno=http://www.youtube.com/watch?v=PNO6LOhBFEk
 ﻿Narodna]Šaban Šaulić}Samo neka Ćira svira=http://www.youtube.com/watch?v=9gat-a1UMAk
 ﻿Narodna]Šaban Šaulić}Samo za nju=http://www.youtube.com/watch?v=U7Wh44xnEMM
@@ -5896,7 +5895,7 @@
 ﻿Narodna]Šaban Šaulić}Slaži da me voliš=http://www.youtube.com/watch?v=-JOJFxb9MtA
 ﻿Narodna]Šaban Šaulić}Slaži da voliš me=http://www.youtube.com/watch?v=-JOJFxb9MtA
 ﻿Narodna]Šaban Šaulić}Sneg je opet Snežana=http://www.youtube.com/watch?v=F88bcq9xdcg
-Narodna]Šaban Šaulić}Šmeker=https://www.youtube.com/watch?v=vWgKvZ_KKPE
+﻿Narodna]Šaban Šaulić}Šmeker=https://www.youtube.com/watch?v=vWgKvZ_KKPE
 ﻿Narodna]Šaban Šaulić}Srce je moje tvrđava=http://www.youtube.com/watch?v=HPf5K2AQY3E
 ﻿Narodna]Šaban Šaulić}Srce si mi ukrala=http://www.youtube.com/watch?v=ugdkZLMeFtE
 ﻿Narodna]Šaban Šaulić}Srećno ti bilo=http://www.youtube.com/watch?v=pdwFDRiJ76E
@@ -8330,10 +8329,10 @@ Narodna]Šaban Šaulić}Šmeker=https://www.youtube.com/watch?v=vWgKvZ_KKPE
 ﻿Narodna]Snežana Savić}Zlatne kočije=http://www.youtube.com/watch?v=WPaZGnC1Dsc
 ﻿Zabavna]Srđan Milošević}Pile moje=http://www.youtube.com/watch?v=8mEguZ42398
 ﻿Zabavna]Srđan Milošević}Tebi moja mazo=https://www.youtube.com/watch?v=jJk9VPzhhIU
-Zabavna]Srđan Milošević}Jasmina=https://www.youtube.com/watch?v=7gxHlHwXhbI
-Zabavna]Srđan Milošević}Gde ti je ona lepota=https://www.youtube.com/watch?v=2tCX1ktKTYg
-Zabavna]Srđan Milošević}Evo ima godina=https://www.youtube.com/watch?v=TNYs2rrZJ24
-Zabavna]Srđan Milošević}Možda možda=https://www.youtube.com/watch?v=2XKCJTjOeYM
+﻿Zabavna]Srđan Milošević}Jasmina=https://www.youtube.com/watch?v=7gxHlHwXhbI
+﻿Zabavna]Srđan Milošević}Gde ti je ona lepota=https://www.youtube.com/watch?v=2tCX1ktKTYg
+﻿Zabavna]Srđan Milošević}Evo ima godina=https://www.youtube.com/watch?v=TNYs2rrZJ24
+﻿Zabavna]Srđan Milošević}Možda možda=https://www.youtube.com/watch?v=2XKCJTjOeYM
 ﻿Zabavna]Srećko Krečar}Amajlija=http://www.youtube.com/watch?v=4qbZSqozj6I
 ﻿Zabavna]Srećko Krečar}Daću ti sve što treba=http://www.youtube.com/watch?v=B8N8P7QPzeM
 ﻿Zabavna]Srećko Krečar}Došla maca na vratanca=http://www.youtube.com/watch?v=Y4q5nqas2qo
@@ -11033,8 +11032,8 @@ Zabavna]Srđan Milošević}Možda možda=https://www.youtube.com/watch?v=2XKCJTj
 ﻿Rok Strani]Red Hot Chili Peppers}Around the world=https://www.youtube.com/watch?v=a9eNQZbjpJk
 ﻿Rok Strani]Red Hot Chili Peppers}The Zephyr song=https://www.youtube.com/watch?v=0fcRa5Z6LmU
 ﻿Rok Strani]Red Hot Chili Peppers}Give it away=--start-time=5 https://www.youtube.com/watch?v=Mr_uHJPUlO8
-﻿Rok Strani]Red Hot Chili Peppers}Tell me baby=https://www.youtube.com/watch?v=BWyblTqAwp0
-﻿Rok Strani]Red Hot Chili Peppers}Go robot=https://www.youtube.com/watch?v=zmenL2rIxYQ
+﻿Rok Strani]Red Hot Chili Peppers}Tell me baby=http://www.youtube.com/watch?v=fuJReeVrO4g
+﻿Rok Strani]Red Hot Chili Peppers}Go robot=http://www.youtube.com/watch?v=Ezmb2fTYdn0
 ﻿Rok Strani]Red Hot Chili Peppers}Look around=https://www.youtube.com/watch?v=WnisBb2rVOg
 ﻿Rok Strani]Red Hot Chili Peppers}Hump de bump=http://www.youtube.com/watch?v=t44OR3TIiS0
 ﻿Rok Strani]Red Hot Chili Peppers}My friends=https://www.youtube.com/watch?v=0kT5w27YxyI
@@ -11152,10 +11151,10 @@ Zabavna]Srđan Milošević}Možda možda=https://www.youtube.com/watch?v=2XKCJTj
 ﻿Rok Strani]Red Hot Chili Peppers}Tearjerker=https://www.youtube.com/watch?v=Am-a7I5FkJY
 ﻿Rok Strani]Red Hot Chili Peppers}Tear=https://www.youtube.com/watch?v=dIdz5I0CNH0
 ﻿Rok Strani]Red Hot Chili Peppers}Don't forget me=http://www.youtube.com/watch?v=-2SeFnvs73A
-﻿Rok Strani]Red Hot Chili Peppers}She's only 18=https://www.youtube.com/watch?v=OnHBq1gMVg4
-﻿Rok Strani]Red Hot Chili Peppers}Slow cheetah=https://www.youtube.com/watch?v=lc0iAM0oVDk
-﻿Rok Strani]Red Hot Chili Peppers}Annie wants a baby=https://www.youtube.com/watch?v=se-O8TC0lvI
-﻿Rok Strani]Red Hot Chili Peppers}Throw away your television=https://www.youtube.com/watch?v=eRa5mGuHXyg
+﻿Rok Strani]Red Hot Chili Peppers}She's only 18=http://www.youtube.com/watch?v=3BE_6i6N5-g
+﻿Rok Strani]Red Hot Chili Peppers}Slow cheetah=http://www.youtube.com/watch?v=xmJ_TLMqOfk
+﻿Rok Strani]Red Hot Chili Peppers}Annie wants a baby=http://www.youtube.com/watch?v=r3atkaLPsGE
+﻿Rok Strani]Red Hot Chili Peppers}Throw away your television=http://www.youtube.com/watch?v=Xucn9AsD0SU
 ﻿Rok Strani]Red Hot Chili Peppers}Minor thing=https://www.youtube.com/watch?v=2dSekNF6pzA
 ﻿Rok Strani]Red Hot Chili Peppers}On Mercury=https://www.youtube.com/watch?v=QN33_NA1xnM
 ﻿Rok Strani]Red Hot Chili Peppers}Cabron=https://www.youtube.com/watch?v=PiksHYtxy88
@@ -13322,7 +13321,7 @@ Zabavna]Srđan Milošević}Možda možda=https://www.youtube.com/watch?v=2XKCJTj
 ﻿Rok Strani]Rainbow}Desperate Heart=http://www.youtube.com/watch?v=r5K2nAuRTCk
 ﻿Rok Strani]Rainbow}Do You Close Your Eyes=http://www.youtube.com/watch?v=K6KSx3QO2DU
 ﻿Rok Strani]Rainbow}Drinking With The Devil=http://www.youtube.com/watch?v=i6Ya_I3MWl8
-﻿Rok Strani]Rainbow}Emotional Crime=http://www.youtube.com/watch?v=Q7cN0bWt5Ws
+﻿Rok Strani]Rainbow}Emotional Crime=http://www.youtube.com/watch?v=iIGpTLMJM50
 ﻿Rok Strani]Rainbow}Eyes Of Fire=http://www.youtube.com/watch?v=RkHWx3y4poE
 ﻿Rok Strani]Rainbow}Eyes Of The World=http://www.youtube.com/watch?v=Ziuqk8dZwrM
 ﻿Rok Strani]Rainbow}Fire Dance=http://www.youtube.com/watch?v=X6er0wKcDCg
