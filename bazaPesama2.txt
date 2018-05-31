@@ -4576,6 +4576,7 @@
 ﻿Narodna]Amar Gile}Krv mi je popila=https://www.youtube.com/watch?v=C6UFCHd1CT4
 ﻿Narodna]Amar Gile}Koliko para toliko muzike=https://www.youtube.com/watch?v=k7x0LLBPTwo
 ﻿Narodna]Amar Gile}I ja sam nečije dete=https://www.youtube.com/watch?v=cz5iP6Zxifk
+﻿Narodna]Amar Gile}Za sve pare (ft. Barnimir Banjanin)=--start-time=6 https://www.youtube.com/watch?v=YtwvNpdfDYg
 ﻿Rok]Trigger}Ena=https://www.youtube.com/watch?v=JZTlGjdP0Lw
 ﻿Rok]Trigger}Kurvini sinovi=https://www.youtube.com/watch?v=pcIJKplh5wA
 ﻿Rok]Trigger}Ne veruj u idole=https://www.youtube.com/watch?v=Po5gnpXQY0E
@@ -5099,6 +5100,7 @@
 ﻿Zabavna]Relja Popović}Adrenalina=--start-time=20 https://www.youtube.com/watch?v=hHhPsxOL5sg
 ﻿Zabavna]Relja Popović}Beograd još živi=--start-time=56 http://www.youtube.com/watch?v=sRPQrL17nCo
 ﻿Zabavna]Relja Popović}Hoću da se napijem=--start-time=6 http://www.youtube.com/watch?v=c5OswAR5KW0
+﻿Zabavna]Relja Popović}Latino Evropa=--start-time=6 https://www.youtube.com/watch?v=cq8Lt0vRVRI
 ﻿Zabavna]Relja Popović}Lom=--start-time=7 http://www.youtube.com/watch?v=uZ6_c8PziJw
 ﻿Zabavna]Relja Popović}Opet te nema=--start-time=6 http://www.youtube.com/watch?v=qUIBHePWItg
 ﻿Zabavna]Relja Popović}Pakao od žene=--start-time=6 http://www.youtube.com/watch?v=dJNurMLwpmU
@@ -6428,6 +6430,7 @@
 ﻿Zabavna]Sanja Maletić}Velegradskim ulicama=http://www.youtube.com/watch?v=WI3hSurgnaI
 ﻿Zabavna]Sanja Maletić}Vode teku=http://www.youtube.com/watch?v=KdNTI3_Hu_Y
 ﻿Zabavna]Sara Jovanović}Ko je ovde ko=--start-time=19 http://www.youtube.com/watch?v=5W_QjSpFNBU
+﻿Zabavna]Sara Jovanović}Lava=--start-time=9 https://www.youtube.com/watch?v=UkpwZaydbxg
 ﻿Zabavna]Sara Jovanović}Mahovina=--start-time=9 http://www.youtube.com/watch?v=hKoo7VIRnNU
 ﻿Zabavna]Sara Jovanović}Molio sam anđele=--start-time=9 http://www.youtube.com/watch?v=wx92n19hcBE
 ﻿Zabavna]Sara Jovanović}Nemam vremena za to=http://www.youtube.com/watch?v=zQAS-ORcW1c
