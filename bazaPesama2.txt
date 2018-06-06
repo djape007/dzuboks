@@ -542,7 +542,7 @@
 ﻿Zabavna]Magazin}Ne vjerujem tebi, ne vjerujem sebi=http://www.youtube.com/watch?v=cEKKd3IzEZ8
 ﻿Zabavna]Magazin}Ne vjerujem tebi, ne vjerujem sebi (Radio remix)=https://www.youtube.com/watch?v=h_wVPGIkFNM
 ﻿Zabavna]Magazin}No, no, no=http://www.youtube.com/watch?v=DrPemQC0_So
-﻿Zabavna]Magazin}Oko moje sanjivo=http://www.youtube.com/watch?v=lLEyjjgkeLI
+﻿Zabavna]Magazin}Oko moje sanjivo=http://www.youtube.com/watch?v=7TduaKhFT1Y
 ﻿Zabavna]Magazin}Opijum=http://www.youtube.com/watch?v=nkYnUTambls
 ﻿Zabavna]Magazin}Parada=http://www.youtube.com/watch?v=0bDwLclE57I
 ﻿Zabavna]Magazin}Put putujem=https://www.youtube.com/watch?v=a-C5JRTiCFo
@@ -550,7 +550,7 @@
 ﻿Zabavna]Magazin}Sijamski blizanci=http://www.youtube.com/watch?v=MRNF6W3LpyU
 ﻿Zabavna]Magazin}Suze biserne=http://www.youtube.com/watch?v=6BrEM0VH6YY
 ﻿Zabavna]Magazin}Suze krijem, one padaju=http://www.youtube.com/watch?v=Dytb4Gb6V7Y
-﻿Zabavna]Magazin}Tamara=http://www.youtube.com/watch?v=5u311Kr1eWc
+﻿Zabavna]Magazin}Tamara=http://www.youtube.com/watch?v=u6J_PQ-h46Y
 ﻿Zabavna]Magazin}Ti si želja mog života=https://www.youtube.com/watch?v=K_mi4GKVtOA
 ﻿Zabavna]Magazin}Titanik=https://www.youtube.com/watch?v=pT9rfUe8uxo
 ﻿Zabavna]Magazin}Tri sam ti zime šaptala ime=http://www.youtube.com/watch?v=4UssfvzlANU
@@ -868,21 +868,16 @@
 ﻿Zabavna]Marina Tadić}Sve sam mogla ja=http://www.youtube.com/watch?v=nu8htPOTyhc
 ﻿Zabavna]Marina Tadić}Više me ne zovi=http://www.youtube.com/watch?v=u7SCxuBwTNA
 ﻿Zabavna]Marina Tadić}Ubica=http://www.youtube.com/watch?v=_Y1Bb1Q68to
-﻿Zabavna]Marina Visković}Alarmantno=--start-time=8 https://www.youtube.com/watch?v=vG5xL7CZ6IE
 ﻿Zabavna]Marina Visković}Alisa u zemlji čuda=http://www.youtube.com/watch?v=Tj34APongzE
 ﻿Zabavna]Marina Visković}Bensedini=--start-time=11 http://www.youtube.com/watch?v=YZgQng4a_Bc
-﻿Zabavna]Marina Visković}Dvostruki život=--start-time=6 https://www.youtube.com/watch?v=63VqjWiIDnA
 ﻿Zabavna]Marina Visković}Kavez=--start-time=6 http://www.youtube.com/watch?v=2IoiDfVF1g4
 ﻿Zabavna]Marina Visković}Ljubav za sva vremena=http://www.youtube.com/watch?v=xSssuiB88pM
-﻿Zabavna]Marina Visković}Ludara=--start-time=6 https://www.youtube.com/watch?v=cRiGeDQxR70
 ﻿Zabavna]Marina Visković}Moj pakao=http://www.youtube.com/watch?v=eSi2WqcoGJg
-﻿Zabavna]Marina Visković}Ona (ne) zna=--start-time=13 https://www.youtube.com/watch?v=ZypMrkzZboA
 ﻿Zabavna]Marina Visković}Pogrešan raj=http://www.youtube.com/watch?v=gp4LMJ0AESo
 ﻿Zabavna]Marina Visković}Pogrešna=http://www.youtube.com/watch?v=3oRiI6E3NYw
-﻿Zabavna]Marina Visković}Problemi bogataša=--start-time=5 https://www.youtube.com/watch?v=uiBR3_lrc7o
+﻿Zabavna]Marina Visković}Problemi bogataša=http://www.youtube.com/watch?v=pV6uIPBr6tY
 ﻿Zabavna]Marina Visković}Srce ledeno=--start-time=3 http://www.youtube.com/watch?v=0K5qLOyPZ9Y
 ﻿Zabavna]Marina Visković}Superheroj=http://www.youtube.com/watch?v=8nhwSRE2J1Q
-﻿Zabavna]Marina Visković}Voli me, ne voli me=--start-time=6 http://www.youtube.com/watch?v=E0pEUz-nzdQ
 ﻿Zabavna]Marina Visković}Zamalo=http://www.youtube.com/watch?v=q50rKADicPk
 ﻿Zabavna]Marina Visković}Žena=http://www.youtube.com/watch?v=78tGAGclFRI
 ﻿Narodna]Marina Živković}Bolujem u sebi=http://www.youtube.com/watch?v=x8LSER6uKMI
@@ -1844,6 +1839,7 @@
 ﻿Narodna]Mina Kostić}Ne diži ruku na mene=http://www.youtube.com/watch?v=39P9n1Yekj0
 ﻿Narodna]Mina Kostić}Ni u vatru, ni u vodu=http://www.youtube.com/watch?v=1Z6tXF1Rpww
 ﻿Narodna]Mina Kostić}Nisam ti ja mama=http://www.youtube.com/watch?v=f2YTlJLacHY
+﻿Narodna]Mina Kostić}Prosek (ft. Evolution Band)=https://www.youtube.com/watch?v=YYGebwhbJ9Q
 ﻿Narodna]Mina Kostić}Razvedi se od nje=http://www.youtube.com/watch?v=so_ihpb47og
 ﻿Narodna]Mina Kostić}Seksi robot=http://www.youtube.com/watch?v=Yb73LdFofTA
 ﻿Narodna]Mina Kostić}Stariji čovek=http://www.youtube.com/watch?v=h4XKK9Nwfp4
@@ -4015,6 +4011,7 @@
 ﻿Kantautori]Petar Grašo}Šta ti je svit=http://www.youtube.com/watch?v=ik-LH75uyBc
 ﻿Kantautori]Petar Grašo}Sve nas manje ima tu=http://www.youtube.com/watch?v=lNKu7EoDXDQ
 ﻿Kantautori]Petar Grašo}Trebam nekoga=http://www.youtube.com/watch?v=TnEkKUiT_Ic
+﻿Kantautori]Petar Grašo}Unaprijed gotovo (ft. Severina)=https://www.youtube.com/watch?v=yQG3qOljUsM
 ﻿Kantautori]Petar Grašo}Utorak=http://www.youtube.com/watch?v=uRG-HTu2B60
 ﻿Kantautori]Petar Grašo}Uvik isti=http://www.youtube.com/watch?v=HBAmvT-09yY
 ﻿Kantautori]Petar Grašo}Vera od suvog zlata=http://www.youtube.com/watch?v=hRIHZY2AsGI
@@ -7474,6 +7471,7 @@
 ﻿Zabavna]Severina}Mrtav bez mene=http://www.youtube.com/watch?v=UGiF2lxuz8o
 ﻿Zabavna]Severina}Otrove (ft. Jala Brat)=http://www.youtube.com/watch?v=cFpJwUiOM-o
 ﻿Zabavna]Severina}Tarapana=http://www.youtube.com/watch?v=Z91AN4vOtCA
+﻿Zabavna]Severina}Unaprijed gotovo (ft. Petar Grašo)=https://www.youtube.com/watch?v=yQG3qOljUsM
 ﻿Zabavna]Severina}Uno momento=--start-time=12 http://www.youtube.com/watch?v=Gvchbkh4jQY
 ﻿Zabavna]Severina}Uzbuna=http://www.youtube.com/watch?v=pdnDPKNoshk
 ﻿Narodna]Silvana Armenulić}A što ćemo ljubav kriti=http://www.youtube.com/watch?v=B1w7xCzxWlU
@@ -8905,7 +8903,7 @@
 ﻿Narodna]Toma Zdravković}Ej, Branka, Branka=http://www.youtube.com/watch?v=YkBGPD-xZ_Y
 ﻿Narodna]Toma Zdravković}Haj, zaigraj=http://www.youtube.com/watch?v=kARwj-wwF9g
 ﻿Narodna]Toma Zdravković}Idi zauvek=http://www.youtube.com/watch?v=jZnnxtpt9RE
-﻿Narodna]Toma Zdravković}Ispod palme na obali mora=http://www.youtube.com/watch?v=drqCkje-nWw
+﻿Narodna]Toma Zdravković}Ispod palme na obali mora=http://www.youtube.com/watch?v=01UuEqD4cvc
 ﻿Narodna]Toma Zdravković}Izgubljene ljubavi=http://www.youtube.com/watch?v=Q37nBH0bZHM
 ﻿Narodna]Toma Zdravković}Izgubljeni u životu=http://www.youtube.com/watch?v=-NSqRE2pjrA
 ﻿Narodna]Toma Zdravković}Ja nemam prava ni na kakvu sreću=http://www.youtube.com/watch?v=F9x_71EdjVs
@@ -10372,7 +10370,6 @@
 ﻿Narodna]Žica Marković}Moj živote pogaženi cvete=http://www.youtube.com/watch?v=7W2pX27TYvo
 ﻿Narodna]Žica Marković}Približimo godine=http://www.youtube.com/watch?v=UgRlbPp7dL8
 ﻿Narodna]Žica Marković}Rešio sam da više ne pijem=http://www.youtube.com/watch?v=Cwdxx9OWuP8
-﻿Narodna]Žica Marković}Što te nisam sreo dok sam momak bio=http://www.youtube.com/watch?v=9Az41Z347cM
 ﻿Narodna]Žica Marković}Ti sa Mlave ja sa Morave=http://www.youtube.com/watch?v=TJVKZTgpWQ0
 ﻿Narodna]Žica Marković}Tuđe bogatstvo=http://www.youtube.com/watch?v=GEE_XSt99fE
 ﻿Narodna]Žica Marković}Zbog mene si majko osedela rano=http://www.youtube.com/watch?v=uzOXCAjq81Q
@@ -16028,7 +16025,7 @@
 ﻿Rok Strani]The Kinks}Trust Your Heart=http://www.youtube.com/watch?v=i9KYPAqBAb0
 ﻿Rok Strani]The Kinks}Two Sisters=http://www.youtube.com/watch?v=zRzA12_zd8M
 ﻿Rok Strani]The Kinks}UK Jive=http://www.youtube.com/watch?v=SwV5gONK7c8
-﻿Rok Strani]The Kinks}Uncle Son=http://www.youtube.com/watch?v=dmqLu8sWjaA
+﻿Rok Strani]The Kinks}Uncle Son=http://www.youtube.com/watch?v=-6k_3zYDQX8
 ﻿Rok Strani]The Kinks}Underneath The Neon Sign=http://www.youtube.com/watch?v=YB6SVwy6YhQ
 ﻿Rok Strani]The Kinks}Victoria=http://www.youtube.com/watch?v=z2GHlcwlT1Y
 ﻿Rok Strani]The Kinks}Village Green=http://www.youtube.com/watch?v=320yV68ab5c
@@ -17060,7 +17057,7 @@
 ﻿Rok Strani]Yes}Hour Of Need (Full-Length Version)=http://www.youtube.com/watch?v=d84AHjPL9Bw
 ﻿Rok Strani]Yes}Hour Of Need=http://www.youtube.com/watch?v=eRHfplZM-Do
 ﻿Rok Strani]Yes}I See You=http://www.youtube.com/watch?v=LPKp4lLLMu4
-﻿Rok Strani]Yes}I Would Have Waited Forever=http://www.youtube.com/watch?v=pDlge6T4Cic
+﻿Rok Strani]Yes}I Would Have Waited Forever=http://www.youtube.com/watch?v=3ElaY7MfPF8
 ﻿Rok Strani]Yes}In A World Of Our Own=http://www.youtube.com/watch?v=ldKKCJRb_So
 ﻿Rok Strani]Yes}In The Tower=http://www.youtube.com/watch?v=9E2pRByv1ug
 ﻿Rok Strani]Yes}Into The Storm=http://www.youtube.com/watch?v=E296yocllc0
