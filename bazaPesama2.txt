@@ -822,7 +822,7 @@
 ﻿Zabavna]Marija Šerifović}Molitva=http://www.youtube.com/watch?v=qaiFlJVj30k
 ﻿Zabavna]Marija Šerifović}More pelina=http://www.youtube.com/watch?v=LUrtprjH6SY
 ﻿Zabavna]Marija Šerifović}Mrš=http://www.youtube.com/watch?v=Idz5rAX_z4U
-﻿Zabavna]Marija Šerifović}Ne voliš je znam=http://www.youtube.com/watch?v=qB7gUj_Z-7s
+﻿Zabavna]Marija Šerifović}Ne voliš je znam=http://www.youtube.com/watch?v=kVQVQaS9SOs
 ﻿Zabavna]Marija Šerifović}Nije mi prvi put=http://www.youtube.com/watch?v=ezFhQKE0pMs
 ﻿Zabavna]Marija Šerifović}Nisam anđeo=http://www.youtube.com/watch?v=XEf28Fwoqk4
 ﻿Zabavna]Marija Šerifović}Pametna i luda=http://www.youtube.com/watch?v=0zP1OHM0iuo
@@ -832,12 +832,12 @@
 ﻿Zabavna]Marija Šerifović}Sama i nervozna=http://www.youtube.com/watch?v=ZAsdfVu65XA
 ﻿Zabavna]Marija Šerifović}Samo tvoja=http://www.youtube.com/watch?v=bfuehHnkSEI
 ﻿Zabavna]Marija Šerifović}Šta da zaboravim=http://www.youtube.com/watch?v=3jNsE9sQ9s8
-﻿Zabavna]Marija Šerifović}Sve po starom=http://www.youtube.com/watch?v=xelwUrQaDC4
+﻿Zabavna]Marija Šerifović}Sve po starom=http://www.youtube.com/watch?v=k7yfBaBHNB0
 ﻿Zabavna]Marija Šerifović}U nedelju=http://www.youtube.com/watch?v=AWX0UYdbKuM
 ﻿Zabavna]Marija Šerifović}Vidim te svuda=http://www.youtube.com/watch?v=wvZhYOHM9zs
-﻿Zabavna]Marija Šerifović}Vreme je da krenem=http://www.youtube.com/watch?v=DTQyAQZHv1U
+﻿Zabavna]Marija Šerifović}Vreme je da krenem=http://www.youtube.com/watch?v=us8b9jZ4DPI
 ﻿Zabavna]Marija Šerifović}Za sreću nam malo treba=https://www.youtube.com/watch?v=pGV0kBGi1cM
-﻿Zabavna]Marija Šerifović}Zabranjena priča=http://www.youtube.com/watch?v=sPrIHWEvgMs
+﻿Zabavna]Marija Šerifović}Zabranjena priča=http://www.youtube.com/watch?v=ctHEzSbbBQM
 ﻿Zabavna]Marija Šerifović}Znaj da znam=http://www.youtube.com/watch?v=AkcQNvZkkDc
 ﻿Zabavna]Marina Perazić}Čaša u tvojim rukama=http://www.youtube.com/watch?v=oURhjfpOhZQ
 ﻿Zabavna]Marina Perazić}Htjela bih da umrem, al' neću bez tebe=http://www.youtube.com/watch?v=wDGIg5q2WOo
@@ -1370,6 +1370,7 @@
 ﻿Zabavna]Milan Stanković}Perje=http://www.youtube.com/watch?v=c5q_upIGd_4
 ﻿Zabavna]Milan Stanković}Solo=http://www.youtube.com/watch?v=sGml2d2DlnU
 ﻿Zabavna]Milan Stanković}Sve što ne smemo (ft. Ina Gardijan)=--start-time=8 https://www.youtube.com/watch?v=q2wynTUwr8k
+Zabavna]Milan Stanković}Trans=--start-time=18 https://www.youtube.com/watch?v=QFWfLAi2e6E
 ﻿Narodna]Milan Topalović}Čemu se to više nadam=http://www.youtube.com/watch?v=_ua36jYhlhI
 ﻿Narodna]Milan Topalović}Kao lav=http://www.youtube.com/watch?v=U12iEDsZd-E
 ﻿Narodna]Milan Topalović}Kapija=http://www.youtube.com/watch?v=9ZAEx3O--4Y
@@ -5722,7 +5723,6 @@
 ﻿Narodna]Šaban Šaulić}Idi idi oprostiću=http://www.youtube.com/watch?v=wG6c9-fjTyg
 ﻿Narodna]Šaban Šaulić}Ima pravde ima Boga 2=http://www.youtube.com/watch?v=XVZEkVn2t_8
 ﻿Narodna]Šaban Šaulić}Ima pravde ima Boga=http://www.youtube.com/watch?v=XVZEkVn2t_8
-﻿Narodna]Šaban Šaulić}Imao sam jednu dragu=http://www.youtube.com/watch?v=aZ7BtWVRt2M
 ﻿Narodna]Šaban Šaulić}Izdrži moj bol=http://www.youtube.com/watch?v=O8teqsvOuFc
 ﻿Narodna]Šaban Šaulić}Ja neću ništa podeljeno=http://www.youtube.com/watch?v=fVLkLmBOWrE
 ﻿Narodna]Šaban Šaulić}Ja nisam anđeo=http://www.youtube.com/watch?v=mu__TgGA9xk
@@ -5842,7 +5842,6 @@
 ﻿Narodna]Šaban Šaulić}Opasna si kao kobra=http://www.youtube.com/watch?v=uhQKJJBbS2Q
 ﻿Narodna]Šaban Šaulić}Oprosti mi ako možeš=http://www.youtube.com/watch?v=Upe9V0Z9PUU
 ﻿Narodna]Šaban Šaulić}Oprosti mi nano=http://www.youtube.com/watch?v=q4KuIMI5Ln4
-﻿Narodna]Šaban Šaulić}Otišla si draga=http://www.youtube.com/watch?v=aZ7BtWVRt2M
 ﻿Narodna]Šaban Šaulić}Otišla si tugo moja=http://www.youtube.com/watch?v=u4ahpQ_KC3w
 ﻿Narodna]Šaban Šaulić}Otkad tebe znam (ft. Tea Tairović)=--start-time=6 http://www.youtube.com/watch?v=XUqT9lL5vac
 ﻿Narodna]Šaban Šaulić}Ovde su svirali tiho=http://www.youtube.com/watch?v=i5HYDj-GNW8
@@ -6666,7 +6665,7 @@
 ﻿Narodna]Savo Radušinović}Tuga, samo tuga=http://www.youtube.com/watch?v=yZm-DvGZe7Q
 ﻿Narodna]Savo Radušinović}U zagrljaju mom=http://www.youtube.com/watch?v=zbRBB0wtQQo
 ﻿Narodna]Savo Radušinović}Uvek sam s' tobom na pola puta=http://www.youtube.com/watch?v=ATe8LOvx45Q
-﻿Narodna]Savo Radušinović}Vraćaš mi se u pogrešno vreme=http://www.youtube.com/watch?v=fv7ExPrOYSo
+﻿Narodna]Savo Radušinović}Vraćaš mi se u pogrešno vreme=http://www.youtube.com/watch?v=Ap9tI4GS0nY
 ﻿Narodna]Savo Radušinović}Zaboravi šta je bilo=http://www.youtube.com/watch?v=d4-yh0k48a4
 ﻿Narodna]Savo Radušinović}Zapevaj danas, majko=http://www.youtube.com/watch?v=DDDr8yc5kQ4
 ﻿Narodna]Savo Radušinović}Zar možeš=http://www.youtube.com/watch?v=VLIoFHs4iIs
@@ -6723,14 +6722,12 @@
 ﻿Narodna]Sejo Kalać}Dobro djelo učini=http://www.youtube.com/watch?v=iFoZoOTYWpE
 ﻿Narodna]Sejo Kalać}Dobro sam živ=http://www.youtube.com/watch?v=8bjiJ4eTIi4
 ﻿Narodna]Sejo Kalać}E moj ćale=http://www.youtube.com/watch?v=1-grOchmXrA
-﻿Narodna]Sejo Kalać}Eh što nemam dva života=http://www.youtube.com/watch?v=gu56QFNhu4w
 ﻿Narodna]Sejo Kalać}Emina=http://www.youtube.com/watch?v=TH0DE22SwEY
 ﻿Narodna]Sejo Kalać}Fajront=http://www.youtube.com/watch?v=HcVB3besw9Y
 ﻿Narodna]Sejo Kalać}Gost=http://www.youtube.com/watch?v=qYDaUSTFCuw
 ﻿Narodna]Sejo Kalać}Gradski momak=http://www.youtube.com/watch?v=-3l-hB_Ulxc
 ﻿Narodna]Sejo Kalać}Idi ženo iz života moga=http://www.youtube.com/watch?v=_1M9KxeA0Lk
 ﻿Narodna]Sejo Kalać}Imam brata=http://www.youtube.com/watch?v=tRstK2dpScA
-﻿Narodna]Sejo Kalać}Istanbul=http://www.youtube.com/watch?v=-ElvzQOlSR4
 ﻿Narodna]Sejo Kalać}Ja i ti na livadi=http://www.youtube.com/watch?v=o_Pr-cIMYrw
 ﻿Narodna]Sejo Kalać}Ja sam oženjen=http://www.youtube.com/watch?v=MUqM5xTd8N4
 ﻿Narodna]Sejo Kalać}Još do zore ima fore=http://www.youtube.com/watch?v=HQCeHcSh-D4
@@ -6740,10 +6737,8 @@
 ﻿Narodna]Sejo Kalać}Kafanska pjevačica=http://www.youtube.com/watch?v=BR6JjeGog7g
 ﻿Narodna]Sejo Kalać}Kafić=http://www.youtube.com/watch?v=B2XxMHSrhaY
 ﻿Narodna]Sejo Kalać}Kajundžijo baci prsten=http://www.youtube.com/watch?v=kmvUgHmSfzY
-﻿Narodna]Sejo Kalać}Kapi kiše=http://www.youtube.com/watch?v=yuRqiVR_yEg
 ﻿Narodna]Sejo Kalać}Kraljica=http://www.youtube.com/watch?v=Z-VyNjQN5eo
 ﻿Narodna]Sejo Kalać}Kupi mi Crnu Goru=http://www.youtube.com/watch?v=wJAHPg-7QvA
-﻿Narodna]Sejo Kalać}Lažu da je vino lijek=http://www.youtube.com/watch?v=gnwYYj58yg8
 ﻿Narodna]Sejo Kalać}Lele, lele=http://www.youtube.com/watch?v=6CJb_Qpjhic
 ﻿Narodna]Sejo Kalać}Ljubav i kocka=http://www.youtube.com/watch?v=wbUY57EyPvk
 ﻿Narodna]Sejo Kalać}Ljuta na mene=http://www.youtube.com/watch?v=y2e0sb_CWUQ
@@ -6769,14 +6764,11 @@
 ﻿Narodna]Sejo Kalać}Pustite me da se napijem=http://www.youtube.com/watch?v=86bl-nNGz9c
 ﻿Narodna]Sejo Kalać}Seila=http://www.youtube.com/watch?v=49nyVP1xpqk
 ﻿Narodna]Sejo Kalać}Sirotinjo=http://www.youtube.com/watch?v=p7-y4Qdjksc
-﻿Narodna]Sejo Kalać}Sretan ti rođendan=http://www.youtube.com/watch?v=gbyn03ilEeE
+﻿Narodna]Sejo Kalać}Sretan ti rođendan=http://www.youtube.com/watch?v=VV3mGQRHIeY
 ﻿Narodna]Sejo Kalać}Što me pitaš (duet Južni Vetar)=http://www.youtube.com/watch?v=xt4rvVs0Upo
 ﻿Narodna]Sejo Kalać}Sunce sjalo (duet Jana)=http://www.youtube.com/watch?v=_GeVJJk4VrU
-﻿Narodna]Sejo Kalać}Svatovska=http://www.youtube.com/watch?v=o6sSU7yVHSo
-﻿Narodna]Sejo Kalać}Teško je i meni, majko=http://www.youtube.com/watch?v=4vi-zGCvOG4
 ﻿Narodna]Sejo Kalać}Tika tak=http://www.youtube.com/watch?v=5m0Pr1kai6A
 ﻿Narodna]Sejo Kalać}To nije fer=http://www.youtube.com/watch?v=RG5_5tnK5zA
-﻿Narodna]Sejo Kalać}Uvijek dobro činio sam svima=http://www.youtube.com/watch?v=fwILtJTMagU
 ﻿Narodna]Sejo Kalać}Voda, vazduh i sloboda=http://www.youtube.com/watch?v=o21U5lQXlCQ
 ﻿Narodna]Sejo Kalać}Volim te=http://www.youtube.com/watch?v=yyVei82lNlo
 ﻿Narodna]Sejo Kalać}Zaigraj=http://www.youtube.com/watch?v=3Qo5DNzyn-s
@@ -7436,7 +7428,7 @@
 ﻿Narodna]Šerif Konjević}Zašto mi uvijek nanosiš bol=http://www.youtube.com/watch?v=k3kY2iJFkO4
 ﻿Narodna]Šerif Konjević}Zašto sam te volio=http://www.youtube.com/watch?v=XNByehwNbpg
 ﻿Narodna]Šerif Konjević}Zašto se život igra sa nama=http://www.youtube.com/watch?v=QkNE-Z22Kgw
-﻿Narodna]Šerif Konjević}Zašto, zašto lijepa Mejro=http://www.youtube.com/watch?v=3oOLcWmVtJQ
+﻿Narodna]Šerif Konjević}Zašto, zašto lijepa Mejro=http://www.youtube.com/watch?v=eSK60xTyOGU
 ﻿Narodna]Šerif Konjević}Zauvijek odlazim=http://www.youtube.com/watch?v=kNZQRglJQ4E
 ﻿Narodna]Šerif Konjević}Zauvijek si ostala u meni=http://www.youtube.com/watch?v=yX1SRxoSXBM
 ﻿Narodna]Šerif Konjević}Zbog tebe sam vino pio=http://www.youtube.com/watch?v=CV7VmE6mwTw
@@ -10322,6 +10314,7 @@
 ﻿Zabavna]Željko Šašić}Ti lutko moja=http://www.youtube.com/watch?v=Jt1ooRiReAk
 ﻿Zabavna]Željko Šašić}Venera=http://www.youtube.com/watch?v=BQI_0pc-D7U
 ﻿Zabavna]Željko Šašić}Vežite mi ruke=http://www.youtube.com/watch?v=fgmdFWTWr9E
+﻿Zabavna]Željko Vasić}Atina=https://www.youtube.com/watch?v=-WaHzy0iYII
 ﻿Zabavna]Željko Vasić}Australija i Amerika=http://www.youtube.com/watch?v=bDfPQIfE5FM
 ﻿Zabavna]Željko Vasić}Bez milosti=http://www.youtube.com/watch?v=Pw_-ODhgAjg
 ﻿Zabavna]Željko Vasić}Biću samo tvoj=http://www.youtube.com/watch?v=6AritA8-0Yo
@@ -12884,7 +12877,6 @@
 ﻿Rok Strani]Pink Floyd}Jugband Blues=http://www.youtube.com/watch?v=KiEd3D8uGR8
 ﻿Rok Strani]Pink Floyd}Julia Dream=http://www.youtube.com/watch?v=SPBfx4_WT-w
 ﻿Rok Strani]Pink Floyd}Keep Talking=http://www.youtube.com/watch?v=_qsPPIKjYRs
-﻿Rok Strani]Pink Floyd}Learning To Fly=http://www.youtube.com/watch?v=2mKDvp7MavQ
 ﻿Rok Strani]Pink Floyd}Let There Be More Light=http://www.youtube.com/watch?v=lw_G628sgzU
 ﻿Rok Strani]Pink Floyd}Lost For Words=http://www.youtube.com/watch?v=epjL4Y7P4xM
 ﻿Rok Strani]Pink Floyd}Louder Than Words=http://www.youtube.com/watch?v=memU2QMoMo0
@@ -13621,7 +13613,7 @@
 ﻿Rok Strani]Rolling Stones}(I Can't Get No) Satisfaction=http://www.youtube.com/watch?v=nrIPxlFzDi0
 ﻿Rok Strani]Rolling Stones}(Walkin' Thru The) Sleepy City=http://www.youtube.com/watch?v=DQnmC65mlSk
 ﻿Rok Strani]Rolling Stones}100 Years Ago=http://www.youtube.com/watch?v=CrciVFFw3iQ
-﻿Rok Strani]Rolling Stones}19th Nervous Breakdown=http://www.youtube.com/watch?v=yGnFsz8VP5g
+﻿Rok Strani]Rolling Stones}19th Nervous Breakdown=http://www.youtube.com/watch?v=yvpSsEKPZXw
 ﻿Rok Strani]Rolling Stones}2000 Light Years From Home=http://www.youtube.com/watch?v=lEq3ZXGoUN4
 ﻿Rok Strani]Rolling Stones}2000 Man=http://www.youtube.com/watch?v=AbsNSweLl1Q
 ﻿Rok Strani]Rolling Stones}Ain't Too Proud To Beg=http://www.youtube.com/watch?v=gOcEmvsLD0c
@@ -13653,7 +13645,7 @@
 ﻿Rok Strani]Rolling Stones}Blue And Lonesome=http://www.youtube.com/watch?v=YQvzvYD3K7U
 ﻿Rok Strani]Rolling Stones}Blue Turns To Grey=http://www.youtube.com/watch?v=UirracuXoUI
 ﻿Rok Strani]Rolling Stones}Brand New Car=http://www.youtube.com/watch?v=GYiMXDIL0pY
-﻿Rok Strani]Rolling Stones}Break The Spell=http://www.youtube.com/watch?v=vJOBM5uFh2U
+﻿Rok Strani]Rolling Stones}Break The Spell=http://www.youtube.com/watch?v=WGWmY-W_m2I
 ﻿Rok Strani]Rolling Stones}Brown Sugar=http://www.youtube.com/watch?v=59K2kF6o9Tk
 ﻿Rok Strani]Rolling Stones}Can I Get A Witness=http://www.youtube.com/watch?v=w5AyjnsDbTY
 ﻿Rok Strani]Rolling Stones}Can You Hear The Music?=http://www.youtube.com/watch?v=PUKWaLJnz0E
@@ -13682,7 +13674,7 @@
 ﻿Rok Strani]Rolling Stones}Dandelion=http://www.youtube.com/watch?v=Rlb23Vh8s_o
 ﻿Rok Strani]Rolling Stones}Dangerous Beauty=http://www.youtube.com/watch?v=XVXhLn0RdMU
 ﻿Rok Strani]Rolling Stones}Dead Flowers=http://www.youtube.com/watch?v=jzKG5WS1yMk
-﻿Rok Strani]Rolling Stones}Dear Doctor=http://www.youtube.com/watch?v=A4VpZkSM20A
+﻿Rok Strani]Rolling Stones}Dear Doctor=http://www.youtube.com/watch?v=Gh7n3uzluHo
 ﻿Rok Strani]Rolling Stones}Dirty Work=http://www.youtube.com/watch?v=wXtruXusMdU
 ﻿Rok Strani]Rolling Stones}Don't Lie To Me=http://www.youtube.com/watch?v=MmRbcLtfXRc
 ﻿Rok Strani]Rolling Stones}Don't Stop=http://www.youtube.com/watch?v=tAiVW2ZkSH4
@@ -13776,7 +13768,7 @@
 ﻿Rok Strani]Rolling Stones}Infamy=http://www.youtube.com/watch?v=gjCzVR_N7R0
 ﻿Rok Strani]Rolling Stones}It Must Be Hell=http://www.youtube.com/watch?v=orldCDC07gc
 ﻿Rok Strani]Rolling Stones}It Won't Take Long=http://www.youtube.com/watch?v=R7ZlHT-ApUg
-﻿Rok Strani]Rolling Stones}It's All Over Now=http://www.youtube.com/watch?v=7e4nU8ikBJM
+﻿Rok Strani]Rolling Stones}It's All Over Now=http://www.youtube.com/watch?v=8COoMdc0sLs
 ﻿Rok Strani]Rolling Stones}It's Not Easy=http://www.youtube.com/watch?v=uaugLrCKWhc
 ﻿Rok Strani]Rolling Stones}It's Only Rock 'N' Roll (But I Like It)=http://www.youtube.com/watch?v=JGaBlygm0UY
 ﻿Rok Strani]Rolling Stones}Jig-Saw Puzzle=http://www.youtube.com/watch?v=rWFxBqiZya0
@@ -13787,7 +13779,7 @@
 ﻿Rok Strani]Rolling Stones}Just My Imagination (Running Away With Me)=http://www.youtube.com/watch?v=7RIRul-cKoc
 ﻿Rok Strani]Rolling Stones}Just Your Fool=http://www.youtube.com/watch?v=PacX2YgdLOo
 ﻿Rok Strani]Rolling Stones}Keys To Your Love=http://www.youtube.com/watch?v=W6ZVgDksUhk
-﻿Rok Strani]Rolling Stones}Lady Jane=http://www.youtube.com/watch?v=6Y59GYxTs6g
+﻿Rok Strani]Rolling Stones}Lady Jane=http://www.youtube.com/watch?v=h5XrLa1UGOM
 ﻿Rok Strani]Rolling Stones}Laugh, I Nearly Died=http://www.youtube.com/watch?v=gnDuUpu1Puo
 ﻿Rok Strani]Rolling Stones}Let It Bleed=http://www.youtube.com/watch?v=3GxoSr3CHdI
 ﻿Rok Strani]Rolling Stones}Let It Loose=http://www.youtube.com/watch?v=j2k_KfvxBW8
@@ -13845,7 +13837,7 @@
 ﻿Rok Strani]Rolling Stones}Out Of Time=http://www.youtube.com/watch?v=--Qqidukssw
 ﻿Rok Strani]Rolling Stones}Pain In My Heart=http://www.youtube.com/watch?v=djGHvcTf7rQ
 ﻿Rok Strani]Rolling Stones}Paint It Black=--start-time=15 http://www.youtube.com/watch?v=5wCUlPNlQuA
-﻿Rok Strani]Rolling Stones}Parachute Woman=http://www.youtube.com/watch?v=4Fp1M0dpC7w
+﻿Rok Strani]Rolling Stones}Parachute Woman=http://www.youtube.com/watch?v=-lI3b-SbvUM
 ﻿Rok Strani]Rolling Stones}Pass The Wine (Sophia Loren)=http://www.youtube.com/watch?v=qgnG85U4q0k
 ﻿Rok Strani]Rolling Stones}Play With Fire=--start-time=3 http://www.youtube.com/watch?v=8gKmmaZrJpc
 ﻿Rok Strani]Rolling Stones}Please Go Home=http://www.youtube.com/watch?v=akVW78_QD9U
@@ -13891,8 +13883,8 @@
 ﻿Rok Strani]Rolling Stones}Start Me Up=http://www.youtube.com/watch?v=ZzlgJ-SfKYE
 ﻿Rok Strani]Rolling Stones}Stealing My Heart=http://www.youtube.com/watch?v=LS_Wraw3xbk
 ﻿Rok Strani]Rolling Stones}Stop Breaking Down=http://www.youtube.com/watch?v=-wfgukbENbQ
-﻿Rok Strani]Rolling Stones}Stray Cat Blues=http://www.youtube.com/watch?v=V2d2fb8G4rU
-﻿Rok Strani]Rolling Stones}Street Fighting Man=http://www.youtube.com/watch?v=muJCXvvdlBU
+﻿Rok Strani]Rolling Stones}Stray Cat Blues=http://www.youtube.com/watch?v=7sntzuP9H9U
+﻿Rok Strani]Rolling Stones}Street Fighting Man=http://www.youtube.com/watch?v=jvOfRa_N5AI
 ﻿Rok Strani]Rolling Stones}Streets Of Love=http://www.youtube.com/watch?v=wcRzyPil08U
 ﻿Rok Strani]Rolling Stones}Stupid Girl=http://www.youtube.com/watch?v=J25Q5zvjzoQ
 ﻿Rok Strani]Rolling Stones}Suck On The Jugular=http://www.youtube.com/watch?v=vwKPcTHuzZA
@@ -14945,7 +14937,7 @@
 ﻿Rok Strani]Steppenwolf}Rock 'N' Roll War=http://www.youtube.com/watch?v=9IxfndcZCiU
 ﻿Rok Strani]Steppenwolf}Rock Me=http://www.youtube.com/watch?v=ymhHVo39CVA
 ﻿Rok Strani]Steppenwolf}Round And Down=http://www.youtube.com/watch?v=gn0KpxvVTHA
-﻿Rok Strani]Steppenwolf}Shackles And Chains=http://www.youtube.com/watch?v=LIT9g0_z4MA
+﻿Rok Strani]Steppenwolf}Shackles And Chains=http://www.youtube.com/watch?v=r7l8CJKx-XI
 ﻿Rok Strani]Steppenwolf}She'll Be Better=http://www.youtube.com/watch?v=ukfw1fVoLdA
 ﻿Rok Strani]Steppenwolf}Sign On The Line=http://www.youtube.com/watch?v=gwV1SmZqoxk
 ﻿Rok Strani]Steppenwolf}Skullduggery=http://www.youtube.com/watch?v=hZZc5Gdgp1Y
@@ -15244,7 +15236,7 @@
 ﻿Rok Strani]The Beatles}Lady Madonna=http://www.youtube.com/watch?v=g6-pqbAOzg8
 ﻿Rok Strani]The Beatles}Leave My Kitten Alone=http://www.youtube.com/watch?v=H1WytU0yZwI
 ﻿Rok Strani]The Beatles}Lend Me Your Comb=http://www.youtube.com/watch?v=VMXythDOxTI
-﻿Rok Strani]The Beatles}Let It Be=http://www.youtube.com/watch?v=0D5JJZl6MB0
+﻿Rok Strani]The Beatles}Let It Be=http://www.youtube.com/watch?v=2xDzVZcqtYI
 ﻿Rok Strani]The Beatles}Like Dreamers Do=http://www.youtube.com/watch?v=Lekq_1B2SMk
 ﻿Rok Strani]The Beatles}Little Child=http://www.youtube.com/watch?v=VI5PoUtWuWk
 ﻿Rok Strani]The Beatles}Lonesome Tears In My Eyes=http://www.youtube.com/watch?v=bOYMy7QlxS4
@@ -15626,7 +15618,7 @@
 ﻿Rok Strani]The Doors}Gloria=http://www.youtube.com/watch?v=IMlJYp3JXQg
 ﻿Rok Strani]The Doors}Good Rockin'=http://www.youtube.com/watch?v=56BCzkrmdko
 ﻿Rok Strani]The Doors}Hang On To Your Life=http://www.youtube.com/watch?v=90_YnSgx28s
-﻿Rok Strani]The Doors}Hardwood Floor=http://www.youtube.com/watch?v=8Zqj9RWO6as
+﻿Rok Strani]The Doors}Hardwood Floor=http://www.youtube.com/watch?v=a5klCS2EA-o
 ﻿Rok Strani]The Doors}Hello, I Love You=http://www.youtube.com/watch?v=8f1z-nHvt3c
 ﻿Rok Strani]The Doors}Horse Latitudes=http://www.youtube.com/watch?v=bn4U4MMs2eM
 ﻿Rok Strani]The Doors}Hyacinth House=http://www.youtube.com/watch?v=PWlTlplbISY
