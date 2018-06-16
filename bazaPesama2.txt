@@ -871,14 +871,18 @@
 ﻿Zabavna]Marina Tadić}Ubica=http://www.youtube.com/watch?v=_Y1Bb1Q68to
 ﻿Zabavna]Marina Visković}Alisa u zemlji čuda=http://www.youtube.com/watch?v=Tj34APongzE
 ﻿Zabavna]Marina Visković}Bensedini=--start-time=11 http://www.youtube.com/watch?v=YZgQng4a_Bc
+﻿Zabavna]Marina Visković}Dijetalna kola=--start-time=7 https://www.youtube.com/watch?v=c3BzPGxHctE
+﻿Zabavna]Marina Visković}Jače jače=--start-time=7 https://www.youtube.com/watch?v=fBSz3uM7TWU
 ﻿Zabavna]Marina Visković}Kavez=--start-time=6 http://www.youtube.com/watch?v=2IoiDfVF1g4
 ﻿Zabavna]Marina Visković}Ljubav za sva vremena=http://www.youtube.com/watch?v=xSssuiB88pM
 ﻿Zabavna]Marina Visković}Moj pakao=http://www.youtube.com/watch?v=eSi2WqcoGJg
 ﻿Zabavna]Marina Visković}Pogrešan raj=http://www.youtube.com/watch?v=gp4LMJ0AESo
 ﻿Zabavna]Marina Visković}Pogrešna=http://www.youtube.com/watch?v=3oRiI6E3NYw
 ﻿Zabavna]Marina Visković}Problemi bogataša=http://www.youtube.com/watch?v=pV6uIPBr6tY
+﻿Zabavna]Marina Visković}Privatno obezbeđenje=--start-time=6 https://www.youtube.com/watch?v=CeO0CFuMONg
 ﻿Zabavna]Marina Visković}Srce ledeno=--start-time=3 http://www.youtube.com/watch?v=0K5qLOyPZ9Y
 ﻿Zabavna]Marina Visković}Superheroj=http://www.youtube.com/watch?v=8nhwSRE2J1Q
+﻿Zabavna]Marina Visković}Voodoo lutka=--start-time=6 https://www.youtube.com/watch?v=yJk3DopdGjM
 ﻿Zabavna]Marina Visković}Zamalo=http://www.youtube.com/watch?v=q50rKADicPk
 ﻿Zabavna]Marina Visković}Žena=http://www.youtube.com/watch?v=78tGAGclFRI
 ﻿Narodna]Marina Živković}Bolujem u sebi=http://www.youtube.com/watch?v=x8LSER6uKMI
@@ -1370,7 +1374,7 @@
 ﻿Zabavna]Milan Stanković}Perje=http://www.youtube.com/watch?v=c5q_upIGd_4
 ﻿Zabavna]Milan Stanković}Solo=http://www.youtube.com/watch?v=sGml2d2DlnU
 ﻿Zabavna]Milan Stanković}Sve što ne smemo (ft. Ina Gardijan)=--start-time=8 https://www.youtube.com/watch?v=q2wynTUwr8k
-Zabavna]Milan Stanković}Trans=--start-time=18 https://www.youtube.com/watch?v=QFWfLAi2e6E
+﻿Zabavna]Milan Stanković}Trans=--start-time=18 https://www.youtube.com/watch?v=QFWfLAi2e6E
 ﻿Narodna]Milan Topalović}Čemu se to više nadam=http://www.youtube.com/watch?v=_ua36jYhlhI
 ﻿Narodna]Milan Topalović}Kao lav=http://www.youtube.com/watch?v=U12iEDsZd-E
 ﻿Narodna]Milan Topalović}Kapija=http://www.youtube.com/watch?v=9ZAEx3O--4Y
@@ -1805,6 +1809,7 @@ Zabavna]Milan Stanković}Trans=--start-time=18 https://www.youtube.com/watch?v=Q
 ﻿Rep]Mimi Mercedez}Bakšiš=--start-time=2 http://www.youtube.com/watch?v=N581C5MXr4M
 ﻿Rep]Mimi Mercedez}Bez Sažaljenja=http://www.youtube.com/watch?v=7dX0vfw9vPE
 ﻿Rep]Mimi Mercedez}Gangsta boo (Who Run It remix)=https://www.youtube.com/watch?v=tbaKLO8hFTs
+﻿Rep]Mimi Mercedez}Gerila=https://www.youtube.com/watch?v=MZ8j4dvue4M
 ﻿Rep]Mimi Mercedez}Diafra Sakho (Feat. Daki BD)=http://www.youtube.com/watch?v=cdFphcOWWsI
 ﻿Rep]Mimi Mercedez}Džungla (Lacku Remix)=http://www.youtube.com/watch?v=osJmk1FGXRs
 ﻿Rep]Mimi Mercedez}Džungla=http://www.youtube.com/watch?v=aFP77rwH_hA
@@ -1849,7 +1854,7 @@ Zabavna]Milan Stanković}Trans=--start-time=18 https://www.youtube.com/watch?v=Q
 ﻿Narodna]Mina Kostić}Stariji čovek=http://www.youtube.com/watch?v=h4XKK9Nwfp4
 ﻿Zabavna]Ministarke}Boing 747=--start-time=13 http://www.youtube.com/watch?v=l1GgyzCyJ6Y
 ﻿Zabavna]Ministarke}Duni vetre=http://www.youtube.com/watch?v=Jrj9_lWFMtQ
-﻿Zabavna]Ministarke}Gram emocija=http://www.youtube.com/watch?v=WHOgWdaw_9Q
+﻿Zabavna]Ministarke}Gram emocija=http://www.youtube.com/watch?v=gmEN9wSTJSE
 ﻿Zabavna]Ministarke}Kiseonik=http://www.youtube.com/watch?v=CN15prcWAvY
 ﻿Zabavna]Ministarke}Moje jedino=--start-time=19 http://www.youtube.com/watch?v=4JQY1zWnMeg
 ﻿Zabavna]Ministarke}Mrtav ili živ=http://www.youtube.com/watch?v=0aUb_YgTwtM
@@ -3457,7 +3462,7 @@ Zabavna]Milan Stanković}Trans=--start-time=18 https://www.youtube.com/watch?v=Q
 ﻿Zabavna]Oliver Dragojević}Prije svitanja=http://www.youtube.com/watch?v=LyGzIhlan6g
 ﻿Zabavna]Oliver Dragojević}Prisjećam se noćas=http://www.youtube.com/watch?v=Sdc0THfRaRA
 ﻿Zabavna]Oliver Dragojević}Prva ljubav=http://www.youtube.com/watch?v=Tk0eP28inXU
-﻿Zabavna]Oliver Dragojević}Pupoljci i mraz=http://www.youtube.com/watch?v=DqZPMyntmb4
+﻿Zabavna]Oliver Dragojević}Pupoljci i mraz=http://www.youtube.com/watch?v=ISSCa10n7LM
 ﻿Zabavna]Oliver Dragojević}Romanca=http://www.youtube.com/watch?v=KnQC_RPngkY
 ﻿Zabavna]Oliver Dragojević}Sa dva zrna lažnog srebra=http://www.youtube.com/watch?v=x5ioaSd0snU
 ﻿Zabavna]Oliver Dragojević}Samo ti=http://www.youtube.com/watch?v=L5vOary-JsE
@@ -3809,7 +3814,6 @@ Zabavna]Milan Stanković}Trans=--start-time=18 https://www.youtube.com/watch?v=Q
 ﻿Rok]Parni Valjak}Ostani s njim=http://www.youtube.com/watch?v=GI4lud4UBF0
 ﻿Rok]Parni Valjak}Ostavljam trag=http://www.youtube.com/watch?v=joyTISsovCA
 ﻿Rok]Parni Valjak}Pariz=http://www.youtube.com/watch?v=uZYF9AP5I-8
-﻿Rok]Parni Valjak}Partneri za ples=http://www.youtube.com/watch?v=LbhhkFW4GAw
 ﻿Rok]Parni Valjak}Pjesma o starosti=http://www.youtube.com/watch?v=vD8JmxBx0YA
 ﻿Rok]Parni Valjak}Povratak ratnika=http://www.youtube.com/watch?v=nlYAjRbwQGE
 ﻿Rok]Parni Valjak}Prazno tijelo=http://www.youtube.com/watch?v=F2DGEjQrWi4
@@ -5825,7 +5829,6 @@ Zabavna]Milan Stanković}Trans=--start-time=18 https://www.youtube.com/watch?v=Q
 ﻿Narodna]Šaban Šaulić}Nikad robom=http://www.youtube.com/watch?v=0fKIpy5Kes8
 ﻿Narodna]Šaban Šaulić}Nikom te ne dam=http://www.youtube.com/watch?v=iPPdPKDj2Js
 ﻿Narodna]Šaban Šaulić}Nisi došla kad sam te zvao=http://www.youtube.com/watch?v=TlvFVaGEId0
-﻿Narodna]Šaban Šaulić}Niz mahalu jedan dečak prođe=http://www.youtube.com/watch?v=4mxmg6Ew8k4
 ﻿Narodna]Šaban Šaulić}Niz polje idu sejmeni=http://www.youtube.com/watch?v=GYi2-7ehyNI
 ﻿Narodna]Šaban Šaulić}Njeno veličanstvo žena=http://www.youtube.com/watch?v=0M-jPvXTRp4
 ﻿Narodna]Šaban Šaulić}Noćas mi se s tobom spava=http://www.youtube.com/watch?v=1uLc1FGznqE
@@ -7621,7 +7624,7 @@ Zabavna]Milan Stanković}Trans=--start-time=18 https://www.youtube.com/watch?v=Q
 ﻿Narodna]Sinan Sakić}Pitaš li se kako živim=http://www.youtube.com/watch?v=_FAF1rSJ-eE
 ﻿Narodna]Sinan Sakić}Pitaš li se šta je samnom=http://www.youtube.com/watch?v=uaeRGMiqOpE
 ﻿Narodna]Sinan Sakić}Pogledaj drugu stranu života=http://www.youtube.com/watch?v=rnFLwsloHL8
-﻿Narodna]Sinan Sakić}Pogledaj me=http://www.youtube.com/watch?v=cjzKZmYRtHk
+﻿Narodna]Sinan Sakić}Pogledaj me=http://www.youtube.com/watch?v=luIVs-FKkjs
 ﻿Narodna]Sinan Sakić}Pokloni poljubac=http://www.youtube.com/watch?v=gpX8xKDfhgs
 ﻿Narodna]Sinan Sakić}Poslednji aplauz=http://www.youtube.com/watch?v=g6Zqi42UyCA
 ﻿Narodna]Sinan Sakić}Poslednji imperator=http://www.youtube.com/watch?v=nifk1S4Mn9w
@@ -7637,7 +7640,7 @@ Zabavna]Milan Stanković}Trans=--start-time=18 https://www.youtube.com/watch?v=Q
 ﻿Narodna]Sinan Sakić}Reci mi Miko=http://www.youtube.com/watch?v=_v-NoAwj84M
 ﻿Narodna]Sinan Sakić}Reci mi sada=http://www.youtube.com/watch?v=PipmxqCKNew
 ﻿Narodna]Sinan Sakić}Reci sve želje=http://www.youtube.com/watch?v=ZQ6aW3EBzhU
-﻿Narodna]Sinan Sakić}Rekla si mi da me voliš=http://www.youtube.com/watch?v=_sr3Z7jeo6M
+﻿Narodna]Sinan Sakić}Rekla si mi da me voliš=http://www.youtube.com/watch?v=w02c9G2I2jQ
 ﻿Narodna]Sinan Sakić}Robinja=http://www.youtube.com/watch?v=tEVaFTzdmUk
 ﻿Narodna]Sinan Sakić}Ruku na srce=http://www.youtube.com/watch?v=FKuTXbbXbbE
 ﻿Narodna]Sinan Sakić}Ruža i trn=http://www.youtube.com/watch?v=jW94f5CU6Bc
@@ -8720,6 +8723,7 @@ Zabavna]Milan Stanković}Trans=--start-time=18 https://www.youtube.com/watch?v=Q
 ﻿Narodna]Tanja Savić}Za moje dobro=http://www.youtube.com/watch?v=LS5P2i5Ooz0
 ﻿Narodna]Tanja Savić}Zašto me u obraz ljubiš=http://www.youtube.com/watch?v=pMfS68aVWJU
 ﻿Narodna]Tanja Savić}Zlatnik=http://www.youtube.com/watch?v=_-OW9TGs5rU
+﻿Narodna]Tanja Savić}Zločin bez dokaza (ft. Corona, Rimski)=--start-time=31 https://www.youtube.com/watch?v=OhpMpKiUsfg
 ﻿Zabavna]Tap 011}Bunda=http://www.youtube.com/watch?v=OXTMoYTkY-4
 ﻿Zabavna]Tap 011}Dan po dan=http://www.youtube.com/watch?v=KtA8w_0vG9E
 ﻿Zabavna]Tap 011}Jegulja=http://www.youtube.com/watch?v=MawtHf-HMFs
@@ -10000,7 +10004,7 @@ Zabavna]Milan Stanković}Trans=--start-time=18 https://www.youtube.com/watch?v=Q
 ﻿Rok]Zabranjeno Pušenje}Izvini, jaro, guzim=http://www.youtube.com/watch?v=cjulRAk_cQw
 ﻿Rok]Zabranjeno Pušenje}Ja imam kuhinju=http://www.youtube.com/watch?v=RU1zJ8D4msI
 ﻿Rok]Zabranjeno Pušenje}Ja nisam odavle=http://www.youtube.com/watch?v=KVf-zP8vB1s
-﻿Rok]Zabranjeno Pušenje}Javi mi=http://www.youtube.com/watch?v=uvoSvQ_uW3Q
+﻿Rok]Zabranjeno Pušenje}Javi mi=http://www.youtube.com/watch?v=C3p4DTkkT6k
 ﻿Rok]Zabranjeno Pušenje}Jugo 45=http://www.youtube.com/watch?v=0IofpvkGJPM
 ﻿Rok]Zabranjeno Pušenje}Kad Sena pleše=http://www.youtube.com/watch?v=qrMDEargILI
 ﻿Rok]Zabranjeno Pušenje}Kad procvatu behari=http://www.youtube.com/watch?v=x4jPjuZs6JY
@@ -10019,7 +10023,7 @@ Zabavna]Milan Stanković}Trans=--start-time=18 https://www.youtube.com/watch?v=Q
 ﻿Rok]Zabranjeno Pušenje}Mejtaš=http://www.youtube.com/watch?v=JJJ93QN95hw
 ﻿Rok]Zabranjeno Pušenje}Meteor=http://www.youtube.com/watch?v=Q2JhPFlRwaU
 ﻿Rok]Zabranjeno Pušenje}Možeš imat' moje tijelo=http://www.youtube.com/watch?v=GqiCKuxPT0A
-﻿Rok]Zabranjeno Pušenje}Murga drot=http://www.youtube.com/watch?v=s_WXwK30Axs
+﻿Rok]Zabranjeno Pušenje}Murga drot=http://www.youtube.com/watch?v=5nme1XFaSKg
 ﻿Rok]Zabranjeno Pušenje}Neću da budem švabo u dotiranom filmu=http://www.youtube.com/watch?v=eH4zJ4WsGJk
 ﻿Rok]Zabranjeno Pušenje}Nedelja kad je otišao Hase=http://www.youtube.com/watch?v=S6kz1KD_V-o
 ﻿Rok]Zabranjeno Pušenje}Nema nigdje nikoga=http://www.youtube.com/watch?v=fh5hGvU3A6U
@@ -10032,7 +10036,7 @@ Zabavna]Milan Stanković}Trans=--start-time=18 https://www.youtube.com/watch?v=Q
 ﻿Rok]Zabranjeno Pušenje}Penzioneri=http://www.youtube.com/watch?v=jOLx_3DCfhA
 ﻿Rok]Zabranjeno Pušenje}Pismo Elvisu=http://www.youtube.com/watch?v=3aGG_eaw65s
 ﻿Rok]Zabranjeno Pušenje}Pismo=http://www.youtube.com/watch?v=eeZ0wB9a1Mc
-﻿Rok]Zabranjeno Pušenje}Pišonja i Žuga u paklu droge=http://www.youtube.com/watch?v=g1OvPtyQT9w
+﻿Rok]Zabranjeno Pušenje}Pišonja i Žuga u paklu droge=http://www.youtube.com/watch?v=jAMdYApRrAs
 ﻿Rok]Zabranjeno Pušenje}Počasna salva=http://www.youtube.com/watch?v=zU73yqxM7iU
 ﻿Rok]Zabranjeno Pušenje}Pos'o, kuća, birtija=http://www.youtube.com/watch?v=kQWtKp91Y7M
 ﻿Rok]Zabranjeno Pušenje}Pravo zajebani DJ iz Chicaga=http://www.youtube.com/watch?v=ULasPsX62AU
@@ -10047,7 +10051,7 @@ Zabavna]Milan Stanković}Trans=--start-time=18 https://www.youtube.com/watch?v=Q
 ﻿Rok]Zabranjeno Pušenje}Selena, vrati se Selena=http://www.youtube.com/watch?v=RQ_ibEDzCVg
 ﻿Rok]Zabranjeno Pušenje}Sigurna vremena=http://www.youtube.com/watch?v=enC5d4RnXW4
 ﻿Rok]Zabranjeno Pušenje}Splitska princeza=http://www.youtube.com/watch?v=-S1VPrENEeQ
-﻿Rok]Zabranjeno Pušenje}Srce, ruke i lopata=http://www.youtube.com/watch?v=zg9obVyMpkw
+﻿Rok]Zabranjeno Pušenje}Srce, ruke i lopata=http://www.youtube.com/watch?v=KNIq0KYrfIY
 ﻿Rok]Zabranjeno Pušenje}Stanje šoka=http://www.youtube.com/watch?v=4Ud-lDQk16E
 ﻿Rok]Zabranjeno Pušenje}Sto načina=http://www.youtube.com/watch?v=Y3LRLLm6FTg
 ﻿Rok]Zabranjeno Pušenje}Straža pored Prizrena=http://www.youtube.com/watch?v=Vh5OdBlbxig
@@ -11159,7 +11163,7 @@ Zabavna]Milan Stanković}Trans=--start-time=18 https://www.youtube.com/watch?v=Q
 ﻿Rok Strani]Oasis}Wonderwall=--start-time=15 https://www.youtube.com/watch?v=bx1Bh8ZvH84
 ﻿Rok Strani]Oasis}Stop crying your heart out=https://www.youtube.com/watch?v=dhZUsNJ-LQU
 ﻿Rok Strani]Oasis}Stand by me=https://www.youtube.com/watch?v=maTP315XZCQ
-﻿Rok Strani]Oasis}Don't look back in anger=https://www.youtube.com/watch?v=cmpRLQZkTb8
+﻿Rok Strani]Oasis}Don't look back in anger=http://www.youtube.com/watch?v=lCgZmSqEPA4
 ﻿Rok Strani]Oasis}Don't go away=https://www.youtube.com/watch?v=n9S5XKbIbCI
 ﻿Rok Strani]Oasis}Champagne supernova=--start-time=29 https://www.youtube.com/watch?v=tI-5uv4wryI
 ﻿Rok Strani]Oasis}Whatever=--start-time=2 https://www.youtube.com/watch?v=EHfx9LXzxpw
@@ -11176,19 +11180,19 @@ Zabavna]Milan Stanković}Trans=--start-time=18 https://www.youtube.com/watch?v=Q
 ﻿Rok Strani]Oasis}I'm outta time=https://www.youtube.com/watch?v=bPm6f1HNzgw
 ﻿Rok Strani]Oasis}Slide away=https://www.youtube.com/watch?v=3GCSUSwcDwg
 ﻿Rok Strani]Oasis}Lyla=https://www.youtube.com/watch?v=oHQL7BoeDbA
-﻿Rok Strani]Oasis}Some might say=https://www.youtube.com/watch?v=oxOjIj18I9E
+﻿Rok Strani]Oasis}Some might say=http://www.youtube.com/watch?v=ecoRhlaL3S0
 ﻿Rok Strani]Oasis}Go let it out=--start-time=15 https://www.youtube.com/watch?v=-6X0rOC32AA
 ﻿Rok Strani]Oasis}Acquisce=--start-time=18 https://www.youtube.com/watch?v=N7xdHY8HK9Y
 ﻿Rok Strani]Oasis}The shock of the lightning=https://www.youtube.com/watch?v=mPc2plEHrHA
 ﻿Rok Strani]Oasis}Roll with it=https://www.youtube.com/watch?v=DrARl0dzd-0
-﻿Rok Strani]Oasis}Songbird=--start-time=31 https://www.youtube.com/watch?v=9YU94V1q4c8
+﻿Rok Strani]Oasis}Songbird=http://www.youtube.com/watch?v=MglV7D_E1u0
 ﻿Rok Strani]Oasis}The Hindu times=https://www.youtube.com/watch?v=Wp5zZ5cdu98
 ﻿Rok Strani]Oasis}Falling down=https://www.youtube.com/watch?v=PJMOTbaVh44
 ﻿Rok Strani]Oasis}Shakermaker=https://www.youtube.com/watch?v=3FpNw3286y8
 ﻿Rok Strani]Oasis}Cast no shadow=https://www.youtube.com/watch?v=p28UH0fY-7Y
 ﻿Rok Strani]Oasis}Bring it on down=https://www.youtube.com/watch?v=GQbT1CqlLvo
 ﻿Rok Strani]Oasis}The importance of being idle=--start-time=19 https://www.youtube.com/watch?v=BU0t9gw4UDI
-﻿Rok Strani]Oasis}Let there be love=--start-time=55 https://www.youtube.com/watch?v=ZOty2yd7l3Y
+﻿Rok Strani]Oasis}Let there be love=http://www.youtube.com/watch?v=G9ZZIXDQkNA
 ﻿Rok Strani]Oasis}Married with children=--start-time=2 https://www.youtube.com/watch?v=EOoidN2s5qY
 ﻿Rok Strani]Oasis}Columbia=--start-time=13 https://www.youtube.com/watch?v=7QyF5UdhBJI
 ﻿Rok Strani]Oasis}Hello=https://www.youtube.com/watch?v=7HF1Sfos3v4
@@ -14230,11 +14234,11 @@ Zabavna]Milan Stanković}Trans=--start-time=18 https://www.youtube.com/watch?v=Q
 ﻿Rok Strani]Scorpions}Raised On Rock=http://www.youtube.com/watch?v=PstG9Td1U5k
 ﻿Rok Strani]Scorpions}Remember The Good Times=http://www.youtube.com/watch?v=ttmwjJF52gw
 ﻿Rok Strani]Scorpions}Restless Nights=http://www.youtube.com/watch?v=j8RKIyXzgdc
-﻿Rok Strani]Scorpions}Rhythm Of Love=http://www.youtube.com/watch?v=vFAf_29KYTs
+﻿Rok Strani]Scorpions}Rhythm Of Love=http://www.youtube.com/watch?v=RXDbCfJWrVE
 ﻿Rok Strani]Scorpions}Robot Man=http://www.youtube.com/watch?v=EohxqqKaYFc
 ﻿Rok Strani]Scorpions}Rock 'n' Roll Band=--start-time=2 http://www.youtube.com/watch?v=ygv_o4sgCJs
 ﻿Rok Strani]Scorpions}Rock My Car=http://www.youtube.com/watch?v=xMzxLAAX51Q
-﻿Rok Strani]Scorpions}Rock You Like A Hurricane=http://www.youtube.com/watch?v=6yP1tcy9a10
+﻿Rok Strani]Scorpions}Rock You Like A Hurricane=http://www.youtube.com/watch?v=CGfKi6kpdTQ
 ﻿Rok Strani]Scorpions}Rock Zone=http://www.youtube.com/watch?v=Jqiv5CUk3-8
 ﻿Rok Strani]Scorpions}Rollin' Home=http://www.youtube.com/watch?v=j9jiFEa6aWY
 ﻿Rok Strani]Scorpions}Ruby Tuesday=http://www.youtube.com/watch?v=iS_WTDYU8Qw
@@ -15112,255 +15116,150 @@ Zabavna]Milan Stanković}Trans=--start-time=18 https://www.youtube.com/watch?v=Q
 ﻿Rok Strani]Ted Nugent}Yank Me, Crank Me=http://www.youtube.com/watch?v=FrUt7B1P6XU
 ﻿Rok Strani]Ted Nugent}You Make Me Feel Right At Home=http://www.youtube.com/watch?v=DSdLEuYjHOE
 ﻿Rok Strani]The Beatles}A Day In The Life=http://www.youtube.com/watch?v=usNsCeOV4GM
-﻿Rok Strani]The Beatles}A Hard Day's Night=http://www.youtube.com/watch?v=70QfHtKdh_0
-﻿Rok Strani]The Beatles}A Shot Of Rhythm And Blues=http://www.youtube.com/watch?v=YOFc4Q1NJyg
-﻿Rok Strani]The Beatles}A Taste Of Honey=http://www.youtube.com/watch?v=CgZpgh4XNB8
-﻿Rok Strani]The Beatles}Across The Universe=http://www.youtube.com/watch?v=zC4poOpZG9w
-﻿Rok Strani]The Beatles}Act Naturally=http://www.youtube.com/watch?v=FeLLS1q7j8w
+﻿Rok Strani]The Beatles}A Taste Of Honey=http://www.youtube.com/watch?v=QOoqx49439c
+﻿Rok Strani]The Beatles}Across The Universe=http://www.youtube.com/watch?v=A-C1VRcGqes
 ﻿Rok Strani]The Beatles}Ain't She Sweet=http://www.youtube.com/watch?v=e1FSRMfNtLU
-﻿Rok Strani]The Beatles}All I've Got To Do=http://www.youtube.com/watch?v=6gdFeqW1H2E
-﻿Rok Strani]The Beatles}All My Loving=http://www.youtube.com/watch?v=twjKjcEO8qI
+﻿Rok Strani]The Beatles}All I've Got To Do=http://www.youtube.com/watch?v=BGqoZP7vehA
 ﻿Rok Strani]The Beatles}All You Need Is Love=http://www.youtube.com/watch?v=csyHN3LoRJ4
-﻿Rok Strani]The Beatles}And I Love Her=http://www.youtube.com/watch?v=96YQdiMV-Jc
-﻿Rok Strani]The Beatles}And Your Bird Can Sing=http://www.youtube.com/watch?v=hXl9g_lO4Ls
-﻿Rok Strani]The Beatles}Anna (Go To Him)=http://www.youtube.com/watch?v=rMIHYBktXeI
-﻿Rok Strani]The Beatles}Another Girl=http://www.youtube.com/watch?v=3h4AFd9Bz6I
-﻿Rok Strani]The Beatles}Any Time At All=http://www.youtube.com/watch?v=vjr9XOviDSw
-﻿Rok Strani]The Beatles}Ask Me Why=http://www.youtube.com/watch?v=WOFR6a2fngc
+﻿Rok Strani]The Beatles}And Your Bird Can Sing=http://www.youtube.com/watch?v=bj_aLijfFMs
+﻿Rok Strani]The Beatles}Anna (Go To Him)=http://www.youtube.com/watch?v=6r4gZeRQvZU
 ﻿Rok Strani]The Beatles}Baby It's You=http://www.youtube.com/watch?v=sYokfkt2dB0
 ﻿Rok Strani]The Beatles}Baby's In Black=http://www.youtube.com/watch?v=KKCuaoTmvro
-﻿Rok Strani]The Beatles}Baby, You're A Rich Man=http://www.youtube.com/watch?v=KI8zncyOCOI
+﻿Rok Strani]The Beatles}Baby, You're A Rich Man=http://www.youtube.com/watch?v=1auU4JM2NYM
 ﻿Rok Strani]The Beatles}Back In The U.S.S.R.=http://www.youtube.com/watch?v=gXKl9EjXfqk
-﻿Rok Strani]The Beatles}Bad Boy=http://www.youtube.com/watch?v=Sx6AAWFSsTs
 ﻿Rok Strani]The Beatles}Because=http://www.youtube.com/watch?v=AgVD_MHIKZk
-﻿Rok Strani]The Beatles}Being For The Benefit Of Mr. Kite!=http://www.youtube.com/watch?v=h9dq8nF5Psc
 ﻿Rok Strani]The Beatles}Besame Mucho=http://www.youtube.com/watch?v=QI7UbuhMTbY
-﻿Rok Strani]The Beatles}Birthday=http://www.youtube.com/watch?v=Hlw4B2Bj2og
+﻿Rok Strani]The Beatles}Birthday=http://www.youtube.com/watch?v=Cs5vUfddkT8
 ﻿Rok Strani]The Beatles}Blackbird=http://www.youtube.com/watch?v=9l5L34VqzlU
 ﻿Rok Strani]The Beatles}Blue Jay Way=http://www.youtube.com/watch?v=1Ugqw211EFg
-﻿Rok Strani]The Beatles}Boys=http://www.youtube.com/watch?v=pEi6Ahl6KGs
 ﻿Rok Strani]The Beatles}Can't Buy Me Love=http://www.youtube.com/watch?v=srwxJUXPHvE
-﻿Rok Strani]The Beatles}Carol=http://www.youtube.com/watch?v=2j4oXVgXJzc
-﻿Rok Strani]The Beatles}Chains=http://www.youtube.com/watch?v=ZYr-jagJzF4
-﻿Rok Strani]The Beatles}Clarabella=--start-time=6 http://www.youtube.com/watch?v=GcHSK35iILI
-﻿Rok Strani]The Beatles}Come And Get It=http://www.youtube.com/watch?v=rhSE0pJnSLU
+﻿Rok Strani]The Beatles}Come And Get It=http://www.youtube.com/watch?v=DOhy30Ks9Us
 ﻿Rok Strani]The Beatles}Come Together=http://www.youtube.com/watch?v=uSM5MpKSnqE
 ﻿Rok Strani]The Beatles}Cry Baby Cry=http://www.youtube.com/watch?v=LEqKb-I_tnk
 ﻿Rok Strani]The Beatles}Crying, Waiting, Hoping=http://www.youtube.com/watch?v=El6Rnvj_f3w
-﻿Rok Strani]The Beatles}Day Tripper=http://www.youtube.com/watch?v=yyPCKgzoiVk
-﻿Rok Strani]The Beatles}Devil In Her Heart=http://www.youtube.com/watch?v=BdRKHY_02UY
 ﻿Rok Strani]The Beatles}Dig A Pony=http://www.youtube.com/watch?v=VyCZeCXGXYw
 ﻿Rok Strani]The Beatles}Dig It=http://www.youtube.com/watch?v=A5Kg_c_A-yU
-﻿Rok Strani]The Beatles}Dizzy Miss Lizzy=http://www.youtube.com/watch?v=BdMRJcuwtvE
-﻿Rok Strani]The Beatles}Do You Want To Know A Secret=http://www.youtube.com/watch?v=BVQU6xH96k8
-﻿Rok Strani]The Beatles}Doctor Robert=http://www.youtube.com/watch?v=niuNlPo1q9M
+﻿Rok Strani]The Beatles}Dizzy Miss Lizzy=http://www.youtube.com/watch?v=CWXsOIcBcVg
 ﻿Rok Strani]The Beatles}Don't Bother Me=http://www.youtube.com/watch?v=gCxGFkEf2Y4
 ﻿Rok Strani]The Beatles}Don't Ever Change=http://www.youtube.com/watch?v=ou58vCDfTbo
 ﻿Rok Strani]The Beatles}Don't Let Me Down=http://www.youtube.com/watch?v=NCtzkaL2t_Y
-﻿Rok Strani]The Beatles}Don't Pass Me By=http://www.youtube.com/watch?v=RBqYK56mdXU
 ﻿Rok Strani]The Beatles}Drive My Car=http://www.youtube.com/watch?v=M7qNlocNIf8
-﻿Rok Strani]The Beatles}Eight Days A Week=http://www.youtube.com/watch?v=VadngOGKlP0
 ﻿Rok Strani]The Beatles}Eleanor Rigby=http://www.youtube.com/watch?v=VrwPwviIgjc
-﻿Rok Strani]The Beatles}Every Little Thing=http://www.youtube.com/watch?v=qdKXsYZFHS8
-﻿Rok Strani]The Beatles}Everybody's Got Something To Hide Except Me And My Monkey=http://www.youtube.com/watch?v=E6zVGE3myi4
-﻿Rok Strani]The Beatles}Everybody's Trying To Be My Baby=http://www.youtube.com/watch?v=b3vRT3Go6BY
-﻿Rok Strani]The Beatles}Fixing A Hole=http://www.youtube.com/watch?v=Q-EUwlV1bSE
-﻿Rok Strani]The Beatles}Flying=http://www.youtube.com/watch?v=pQL08yEKpfs
+﻿Rok Strani]The Beatles}Every Little Thing=http://www.youtube.com/watch?v=fmA61Y-9nD0
+﻿Rok Strani]The Beatles}Flying=http://www.youtube.com/watch?v=Qx-ofimgmoc
 ﻿Rok Strani]The Beatles}For No One=http://www.youtube.com/watch?v=fNahNa6qrNw
 ﻿Rok Strani]The Beatles}For You Blue=http://www.youtube.com/watch?v=CETOxrVDlWY
 ﻿Rok Strani]The Beatles}Free As A Bird=--start-time=23 http://www.youtube.com/watch?v=ODIvONHPqpk
-﻿Rok Strani]The Beatles}From Me To You=http://www.youtube.com/watch?v=cJmXKnttMMQ
-﻿Rok Strani]The Beatles}Get Back=http://www.youtube.com/watch?v=7BmVUxmVBKc
-﻿Rok Strani]The Beatles}Getting Better=http://www.youtube.com/watch?v=QvMQWte5pik
-﻿Rok Strani]The Beatles}Girl=http://www.youtube.com/watch?v=li7vYhYRlmg
 ﻿Rok Strani]The Beatles}Glad All Over=http://www.youtube.com/watch?v=AdaV91aJV4Q
-﻿Rok Strani]The Beatles}Glass Onion=http://www.youtube.com/watch?v=evxrVjW-aeg
 ﻿Rok Strani]The Beatles}Good Day Sunshine=http://www.youtube.com/watch?v=8YldH9Am68s
 ﻿Rok Strani]The Beatles}Good Night=http://www.youtube.com/watch?v=CFCRH-SxwB0
-﻿Rok Strani]The Beatles}Got To Get You Into My Life=http://www.youtube.com/watch?v=bxhhFOnXs2M
 ﻿Rok Strani]The Beatles}Happiness Is A Warm Gun=http://www.youtube.com/watch?v=8F805bMlWSA
-﻿Rok Strani]The Beatles}Have A Banana!=http://www.youtube.com/watch?v=Eu2D1wh7Y88
 ﻿Rok Strani]The Beatles}Hello Little Girl=http://www.youtube.com/watch?v=wucEZvFL2pM
 ﻿Rok Strani]The Beatles}Hello, Goodbye=http://www.youtube.com/watch?v=rblYSKz_VnI
-﻿Rok Strani]The Beatles}Help!=http://www.youtube.com/watch?v=8xqLfz_LPm4
 ﻿Rok Strani]The Beatles}Helter Skelter=http://www.youtube.com/watch?v=9p9UficlHnQ
 ﻿Rok Strani]The Beatles}Here Comes The Sun=--start-time=7 http://www.youtube.com/watch?v=U_O1QKQCsGs
 ﻿Rok Strani]The Beatles}Here, There And Everywhere=http://www.youtube.com/watch?v=7evp3eZJGGs
-﻿Rok Strani]The Beatles}Hey Bulldog=http://www.youtube.com/watch?v=6j7iXLUtigY
-﻿Rok Strani]The Beatles}Hold Me Tight=http://www.youtube.com/watch?v=afk72imrK60
-﻿Rok Strani]The Beatles}Honey Don't=http://www.youtube.com/watch?v=JKttZhDbw10
 ﻿Rok Strani]The Beatles}Honey Pie=http://www.youtube.com/watch?v=cGcm0I5moF8
-﻿Rok Strani]The Beatles}How Do You Do It=http://www.youtube.com/watch?v=3kHml65dS3g
+﻿Rok Strani]The Beatles}How Do You Do It=http://www.youtube.com/watch?v=_4kWFR91xOI
 ﻿Rok Strani]The Beatles}I Am The Walrus=http://www.youtube.com/watch?v=19sAewJH22I
-﻿Rok Strani]The Beatles}I Call Your Name=http://www.youtube.com/watch?v=UrA-mooV_8o
 ﻿Rok Strani]The Beatles}I Don't Want To Spoil The Party=http://www.youtube.com/watch?v=v_5fHBjlqN0
-﻿Rok Strani]The Beatles}I Feel Fine=http://www.youtube.com/watch?v=WWTC5nFgwUQ
-﻿Rok Strani]The Beatles}I Forgot To Remember To Forget=http://www.youtube.com/watch?v=ANxlTNTSY0s
 ﻿Rok Strani]The Beatles}I Got A Woman=http://www.youtube.com/watch?v=m1QBT_BL39Q
-﻿Rok Strani]The Beatles}I Got To Find My Baby=http://www.youtube.com/watch?v=LrkxvfeJsf4
-﻿Rok Strani]The Beatles}I Just Don't Understand=http://www.youtube.com/watch?v=ckw_-K6FAR0
-﻿Rok Strani]The Beatles}I Me Mine=http://www.youtube.com/watch?v=8pgAFBSkJik
-﻿Rok Strani]The Beatles}I Need You=http://www.youtube.com/watch?v=NZiEqhrIL_k
-﻿Rok Strani]The Beatles}I Saw Her Standing There=http://www.youtube.com/watch?v=oroSpLjkCvo
-﻿Rok Strani]The Beatles}I Should Have Known Better=http://www.youtube.com/watch?v=goX9dESxLnU
-﻿Rok Strani]The Beatles}I Wanna Be Your Man=http://www.youtube.com/watch?v=bOXIX4akKKs
-﻿Rok Strani]The Beatles}I Want To Hold Your Hand=http://www.youtube.com/watch?v=ipADNlW7yBM
+﻿Rok Strani]The Beatles}I Got To Find My Baby=http://www.youtube.com/watch?v=49hnGmoYsoE
+﻿Rok Strani]The Beatles}I Just Don't Understand=http://www.youtube.com/watch?v=uK3-ajXymfI
+﻿Rok Strani]The Beatles}I Me Mine=http://www.youtube.com/watch?v=Yylb91M_W6I
+﻿Rok Strani]The Beatles}I Wanna Be Your Man=http://www.youtube.com/watch?v=nz5ztrAoWks
 ﻿Rok Strani]The Beatles}I Want To Tell You=http://www.youtube.com/watch?v=1d2bBtC8kZg
-﻿Rok Strani]The Beatles}I Will=http://www.youtube.com/watch?v=IJ6bAHOvPH0
-﻿Rok Strani]The Beatles}I'll Be Back=http://www.youtube.com/watch?v=b-IuUQ8JD4g
-﻿Rok Strani]The Beatles}I'll Be On My Way=http://www.youtube.com/watch?v=9aGfRE8Fn48
-﻿Rok Strani]The Beatles}I'll Cry Instead=http://www.youtube.com/watch?v=0M6_6vfzR5A
-﻿Rok Strani]The Beatles}I'll Follow The Sun=http://www.youtube.com/watch?v=kmxGAzfQ6dc
+﻿Rok Strani]The Beatles}I'll Be Back=http://www.youtube.com/watch?v=gTQyBh33GT0
+﻿Rok Strani]The Beatles}I'll Cry Instead=http://www.youtube.com/watch?v=_0BB6XtSsXE
 ﻿Rok Strani]The Beatles}I'll Get You=http://www.youtube.com/watch?v=7VQFAr3EvkA
-﻿Rok Strani]The Beatles}I'm A Loser=http://www.youtube.com/watch?v=Zk9FvwfdDcg
-﻿Rok Strani]The Beatles}I'm Down=http://www.youtube.com/watch?v=X3rTprsWCp8
-﻿Rok Strani]The Beatles}I'm Gonna Sit Right Down And Cry (Over You)=http://www.youtube.com/watch?v=rHKe5FrtFzU
-﻿Rok Strani]The Beatles}I'm Happy Just To Dance With You=http://www.youtube.com/watch?v=44YitKiVZ8E
-﻿Rok Strani]The Beatles}I'm Looking Through You=http://www.youtube.com/watch?v=Ra5drgntKOI
-﻿Rok Strani]The Beatles}I'm Only Sleeping=http://www.youtube.com/watch?v=38wIuDAq2yg
+﻿Rok Strani]The Beatles}I'm Looking Through You=http://www.youtube.com/watch?v=sZoUwfjPYvo
 ﻿Rok Strani]The Beatles}I'm So Tired=http://www.youtube.com/watch?v=bFwEcRqHJnA
 ﻿Rok Strani]The Beatles}I've Got A Feeling=http://www.youtube.com/watch?v=ztIEogFr9j4
-﻿Rok Strani]The Beatles}I've Just Seen A Face=http://www.youtube.com/watch?v=SbKGsEK_T9g
-﻿Rok Strani]The Beatles}If I Fell=http://www.youtube.com/watch?v=4yjUuX-I0QE
-﻿Rok Strani]The Beatles}If You've Got Trouble=http://www.youtube.com/watch?v=i5mq9M6ozng
-﻿Rok Strani]The Beatles}In My Life=http://www.youtube.com/watch?v=UKQpRgxyyqo
+﻿Rok Strani]The Beatles}In My Life=http://www.youtube.com/watch?v=-eCh3y5VROM
 ﻿Rok Strani]The Beatles}In Spite Of All The Danger=http://www.youtube.com/watch?v=q2LcLrI6HUI
-﻿Rok Strani]The Beatles}It Won't Be Long=http://www.youtube.com/watch?v=JtpQfDeeBd0
+﻿Rok Strani]The Beatles}It Won't Be Long=http://www.youtube.com/watch?v=TUVqbh94nB8
 ﻿Rok Strani]The Beatles}It's All Too Much=http://www.youtube.com/watch?v=z2QKEXykBH0
 ﻿Rok Strani]The Beatles}It's Only Love=http://www.youtube.com/watch?v=TLvcXs_4QjM
 ﻿Rok Strani]The Beatles}Johnny B. Goode=http://www.youtube.com/watch?v=4-6TP8wvYTI
-﻿Rok Strani]The Beatles}Julia=http://www.youtube.com/watch?v=iiSb41sFNlI
+﻿Rok Strani]The Beatles}Julia=http://www.youtube.com/watch?v=NWjpgv57X1s
 ﻿Rok Strani]The Beatles}Junk=http://www.youtube.com/watch?v=xUsVtXFESUk
-﻿Rok Strani]The Beatles}Keep Your Hands Off My Baby=--start-time=11 http://www.youtube.com/watch?v=FbOXbUmIxEA
-﻿Rok Strani]The Beatles}Komm, Gib Mir Deine Hand=http://www.youtube.com/watch?v=C5lpAJiLCPs
+﻿Rok Strani]The Beatles}Keep Your Hands Off My Baby=http://www.youtube.com/watch?v=n74eJ4H0oy8
 ﻿Rok Strani]The Beatles}Lady Madonna=http://www.youtube.com/watch?v=g6-pqbAOzg8
-﻿Rok Strani]The Beatles}Leave My Kitten Alone=http://www.youtube.com/watch?v=H1WytU0yZwI
+﻿Rok Strani]The Beatles}Leave My Kitten Alone=http://www.youtube.com/watch?v=b7ho7yf1YWY
 ﻿Rok Strani]The Beatles}Lend Me Your Comb=http://www.youtube.com/watch?v=VMXythDOxTI
 ﻿Rok Strani]The Beatles}Let It Be=http://www.youtube.com/watch?v=2xDzVZcqtYI
-﻿Rok Strani]The Beatles}Like Dreamers Do=http://www.youtube.com/watch?v=Lekq_1B2SMk
-﻿Rok Strani]The Beatles}Little Child=http://www.youtube.com/watch?v=VI5PoUtWuWk
-﻿Rok Strani]The Beatles}Lonesome Tears In My Eyes=http://www.youtube.com/watch?v=bOYMy7QlxS4
-﻿Rok Strani]The Beatles}Long Tall Sally=http://www.youtube.com/watch?v=6ibeqQA2_Yw
-﻿Rok Strani]The Beatles}Love Me Do=http://www.youtube.com/watch?v=Jbt8oH5Lxto
-﻿Rok Strani]The Beatles}Lovely Rita=http://www.youtube.com/watch?v=5I5QtW0Th9s
+﻿Rok Strani]The Beatles}Little Child=http://www.youtube.com/watch?v=JdP2f_cVDIs
 ﻿Rok Strani]The Beatles}Lucille=http://www.youtube.com/watch?v=tzR2EeZBcSU
-﻿Rok Strani]The Beatles}Lucy In The Sky With Diamonds=http://www.youtube.com/watch?v=xxaOItEmu3U
 ﻿Rok Strani]The Beatles}Maggie Mae=http://www.youtube.com/watch?v=0EcUTedR5EI
 ﻿Rok Strani]The Beatles}Magical Mystery Tour=http://www.youtube.com/watch?v=K2xpbKBuTEw
-﻿Rok Strani]The Beatles}Mailman, Bring Me No More Blues=http://www.youtube.com/watch?v=vCU0l4uJpEs
-﻿Rok Strani]The Beatles}March Of The Meanies=http://www.youtube.com/watch?v=3bxStG2c1VY
 ﻿Rok Strani]The Beatles}Martha My Dear=http://www.youtube.com/watch?v=zH4Cjw_m8_s
 ﻿Rok Strani]The Beatles}Matchbox=http://www.youtube.com/watch?v=6_1ao_HzJKw
-﻿Rok Strani]The Beatles}Maxwell's Silver Hammer=http://www.youtube.com/watch?v=z3X0fJOxyFc
 ﻿Rok Strani]The Beatles}Memphis, Tennessee=--start-time=10 http://www.youtube.com/watch?v=obqNVzw8Sy4
-﻿Rok Strani]The Beatles}Michelle=http://www.youtube.com/watch?v=_64CVdkjLQU
-﻿Rok Strani]The Beatles}Misery=http://www.youtube.com/watch?v=jzxdApFBBGQ
-﻿Rok Strani]The Beatles}Money (That's What I Want)=http://www.youtube.com/watch?v=6vH3lBI5Arc
 ﻿Rok Strani]The Beatles}Mother Nature's Son=http://www.youtube.com/watch?v=HmeENEUM6G4
-﻿Rok Strani]The Beatles}Mr. Moonlight=http://www.youtube.com/watch?v=6STQwYCY2MA
+﻿Rok Strani]The Beatles}Mr. Moonlight=http://www.youtube.com/watch?v=o4SqbcsPb4Q
 ﻿Rok Strani]The Beatles}My Bonnie=http://www.youtube.com/watch?v=-GNrVb-HtZ4
-﻿Rok Strani]The Beatles}No Reply=http://www.youtube.com/watch?v=QOOf-kmdBYc
-﻿Rok Strani]The Beatles}Norwegian Wood (This Bird Has Flown)=http://www.youtube.com/watch?v=GGufQk9QOdM
 ﻿Rok Strani]The Beatles}Not A Second Time=http://www.youtube.com/watch?v=ptfa8EBFgbM
 ﻿Rok Strani]The Beatles}Not Guilty=http://www.youtube.com/watch?v=XjE4vi7z8m4
-﻿Rok Strani]The Beatles}Nothin' Shakin'=http://www.youtube.com/watch?v=jJxm9basO0c
-﻿Rok Strani]The Beatles}Nowhere Man=http://www.youtube.com/watch?v=TGGphnDMVDI
-﻿Rok Strani]The Beatles}Ob-La-Di, Ob-La-Da=http://www.youtube.com/watch?v=SwvtpdDld_g
 ﻿Rok Strani]The Beatles}Oh! Darling=http://www.youtube.com/watch?v=IGP2sy4mlFk
 ﻿Rok Strani]The Beatles}Old Brown Shoe=http://www.youtube.com/watch?v=hsvxJgSz5ho
 ﻿Rok Strani]The Beatles}One After 909=http://www.youtube.com/watch?v=FSlJ7PM33e4
-﻿Rok Strani]The Beatles}Only A Northern Song=http://www.youtube.com/watch?v=TK38J4bUb5A
-﻿Rok Strani]The Beatles}Ooh! My Soul=http://www.youtube.com/watch?v=qOl2YM5JCcM
 ﻿Rok Strani]The Beatles}P.S. I Love You=http://www.youtube.com/watch?v=6jLCDlHsVk4
 ﻿Rok Strani]The Beatles}Paperback Writer=http://www.youtube.com/watch?v=xmVwo2DxkGg
 ﻿Rok Strani]The Beatles}Penny Lane=http://www.youtube.com/watch?v=S-rB0pHI9fU
 ﻿Rok Strani]The Beatles}Pepperland=http://www.youtube.com/watch?v=mmik8BD9ymk
-﻿Rok Strani]The Beatles}Piggies=http://www.youtube.com/watch?v=AHmSSS8N7gk
 ﻿Rok Strani]The Beatles}Please Mister Postman=http://www.youtube.com/watch?v=Jzy4R8EbWJ4
-﻿Rok Strani]The Beatles}Please Please Me=http://www.youtube.com/watch?v=h43nuGSd1m4
 ﻿Rok Strani]The Beatles}Polythene Pam=http://www.youtube.com/watch?v=foFFyjhQcF0
-﻿Rok Strani]The Beatles}Rain=http://www.youtube.com/watch?v=liJbriVSn9o
 ﻿Rok Strani]The Beatles}Real Love=http://www.youtube.com/watch?v=ax7krBKzmVI
 ﻿Rok Strani]The Beatles}Revolution=http://www.youtube.com/watch?v=BGLGzRXY5Bw
-﻿Rok Strani]The Beatles}Rock And Roll Music=http://www.youtube.com/watch?v=tqmOefaMjvI
-﻿Rok Strani]The Beatles}Rocky Raccoon=http://www.youtube.com/watch?v=T6OHU30v24Q
-﻿Rok Strani]The Beatles}Roll Over Beethoven=http://www.youtube.com/watch?v=e4-16zxVMw0
-﻿Rok Strani]The Beatles}Run For Your Life=http://www.youtube.com/watch?v=Rj-XBCzDov0
-﻿Rok Strani]The Beatles}Searchin'=http://www.youtube.com/watch?v=lh9hMW1Tx8w
-﻿Rok Strani]The Beatles}Sexy Sadie=http://www.youtube.com/watch?v=FLJ8Md4yCXo
-﻿Rok Strani]The Beatles}Sgt. Pepper's Lonely Hearts Club Band=http://www.youtube.com/watch?v=guiNy0jSKkI
+﻿Rok Strani]The Beatles}Rock And Roll Music=http://www.youtube.com/watch?v=CXfF-UPgrpo
+﻿Rok Strani]The Beatles}Run For Your Life=http://www.youtube.com/watch?v=yIM0JzZP--w
+﻿Rok Strani]The Beatles}Sexy Sadie=http://www.youtube.com/watch?v=VA4EJYp24AY
 ﻿Rok Strani]The Beatles}She Came In Through The Bathroom Window=http://www.youtube.com/watch?v=o14wVjw3HfQ
-﻿Rok Strani]The Beatles}She Loves You=http://www.youtube.com/watch?v=Te5KoX3hQz4
 ﻿Rok Strani]The Beatles}She Said, She Said=http://www.youtube.com/watch?v=ix4zps8XG-k
-﻿Rok Strani]The Beatles}She's A Woman=http://www.youtube.com/watch?v=L9aLhEqfqLY
-﻿Rok Strani]The Beatles}She's Leaving Home=http://www.youtube.com/watch?v=oAYiuFBqyLE
 ﻿Rok Strani]The Beatles}Shout=http://www.youtube.com/watch?v=UPWfpESTp6w
-﻿Rok Strani]The Beatles}Sie Liebt Dich=http://www.youtube.com/watch?v=yOAPTOJjawQ
-﻿Rok Strani]The Beatles}Slow Down=http://www.youtube.com/watch?v=JHcs5GO3ovQ
 ﻿Rok Strani]The Beatles}So How Come (No One Loves Me)=http://www.youtube.com/watch?v=aIkie3G7bsc
 ﻿Rok Strani]The Beatles}Soldier Of Love=http://www.youtube.com/watch?v=P4zUYghWyJI
-﻿Rok Strani]The Beatles}Some Other Guy=http://www.youtube.com/watch?v=9i0ROP4f6P0
+﻿Rok Strani]The Beatles}Some Other Guy=http://www.youtube.com/watch?v=DcBH50YgqXI
 ﻿Rok Strani]The Beatles}Something=http://www.youtube.com/watch?v=UelDrZ1aFeY
 ﻿Rok Strani]The Beatles}Strawberry Fields Forever=http://www.youtube.com/watch?v=tdbTOaRh79U
 ﻿Rok Strani]The Beatles}Sure To Fall (In Love With You)=http://www.youtube.com/watch?v=e6v3F7vHvAg
 ﻿Rok Strani]The Beatles}Sweet Little Sixteen=http://www.youtube.com/watch?v=UpVDPwrE96I
 ﻿Rok Strani]The Beatles}Taxman=http://www.youtube.com/watch?v=h2_ZTtvA07w
 ﻿Rok Strani]The Beatles}Teddy Boy=http://www.youtube.com/watch?v=rcBpOFW_Fkg
-﻿Rok Strani]The Beatles}Tell Me What You See=http://www.youtube.com/watch?v=A4XxLanZeCU
-﻿Rok Strani]The Beatles}Tell Me Why=http://www.youtube.com/watch?v=B-W2mc5sWdU
-﻿Rok Strani]The Beatles}Thank You Girl=http://www.youtube.com/watch?v=2phLXqv6tyc
+﻿Rok Strani]The Beatles}Tell Me What You See=http://www.youtube.com/watch?v=4lQAaL_zppI
+﻿Rok Strani]The Beatles}Tell Me Why=http://www.youtube.com/watch?v=eCZ15mwWd8w
 ﻿Rok Strani]The Beatles}That Means A Lot=http://www.youtube.com/watch?v=24Iy2rsqE94
 ﻿Rok Strani]The Beatles}That'll Be The Day=http://www.youtube.com/watch?v=ltvM3Kwfc44
-﻿Rok Strani]The Beatles}The Ballad Of John And Yoko=http://www.youtube.com/watch?v=vgT4kC64694
-﻿Rok Strani]The Beatles}The Continuing Story Of Bungalow Bill=http://www.youtube.com/watch?v=6pFaFgYNNLY
-﻿Rok Strani]The Beatles}The End=http://www.youtube.com/watch?v=oV8PSj-hQvw
 ﻿Rok Strani]The Beatles}The Fool On The Hill=http://www.youtube.com/watch?v=_lo6k-fbnv0
 ﻿Rok Strani]The Beatles}The Hippy Hippy Shake=http://www.youtube.com/watch?v=JS8UqMOmEnM
-﻿Rok Strani]The Beatles}The Honeymoon Song=http://www.youtube.com/watch?v=yz4kAim4Y2E
-﻿Rok Strani]The Beatles}The Long And Winding Road=http://www.youtube.com/watch?v=3A19HSowZp0
-﻿Rok Strani]The Beatles}The Night Before=http://www.youtube.com/watch?v=SF3Tgsj-D0c
-﻿Rok Strani]The Beatles}The Sheik Of Araby=http://www.youtube.com/watch?v=2aGoD8ScM2g
-﻿Rok Strani]The Beatles}The Word=http://www.youtube.com/watch?v=qOv6ld7erSA
-﻿Rok Strani]The Beatles}There's A Place=http://www.youtube.com/watch?v=qj--x1Q2ENg
-﻿Rok Strani]The Beatles}Things We Said Today=http://www.youtube.com/watch?v=QPnTy0Ef2G0
-﻿Rok Strani]The Beatles}Think For Yourself=http://www.youtube.com/watch?v=-9H8zp72dxg
-﻿Rok Strani]The Beatles}This Boy=http://www.youtube.com/watch?v=20jzMqD-N2c
-﻿Rok Strani]The Beatles}Three Cool Cats=http://www.youtube.com/watch?v=b-R0FiSWLEQ
-﻿Rok Strani]The Beatles}Ticket To Ride=http://www.youtube.com/watch?v=0IaqRVrOXiY
-﻿Rok Strani]The Beatles}Till There Was You=http://www.youtube.com/watch?v=Mr5gCdUXJQY
+﻿Rok Strani]The Beatles}The Long And Winding Road=http://www.youtube.com/watch?v=Q3hHndHf9R0
+﻿Rok Strani]The Beatles}The Night Before=http://www.youtube.com/watch?v=SdUyuLStecg
+﻿Rok Strani]The Beatles}The Word=http://www.youtube.com/watch?v=WzLvsTwjyXs
+﻿Rok Strani]The Beatles}Think For Yourself=http://www.youtube.com/watch?v=VKhQ3YYW6Oo
+﻿Rok Strani]The Beatles}This Boy=http://www.youtube.com/watch?v=fZEWMerW2-Q
+﻿Rok Strani]The Beatles}Ticket To Ride=http://www.youtube.com/watch?v=SAN9esY8YTY
 ﻿Rok Strani]The Beatles}To Know Her Is To Love Her=--start-time=5 http://www.youtube.com/watch?v=YEoR-oNs4ow
-﻿Rok Strani]The Beatles}Tomorrow Never Knows=http://www.youtube.com/watch?v=Ah2ckzXgrx4
-﻿Rok Strani]The Beatles}Too Much Monkey Business=http://www.youtube.com/watch?v=uAXXy8EMEEM
-﻿Rok Strani]The Beatles}Twist And Shout=http://www.youtube.com/watch?v=z9ypq6_5bsg
+﻿Rok Strani]The Beatles}Tomorrow Never Knows=http://www.youtube.com/watch?v=eVs75TGBjPM
 ﻿Rok Strani]The Beatles}Two Of Us=http://www.youtube.com/watch?v=RLkBJzB43ww
 ﻿Rok Strani]The Beatles}Wait=http://www.youtube.com/watch?v=at_yR-LpLdE
 ﻿Rok Strani]The Beatles}We Can Work It Out=http://www.youtube.com/watch?v=Qyclqo_AV2M
-﻿Rok Strani]The Beatles}What Goes On=http://www.youtube.com/watch?v=s0yiCpEvGTQ
-﻿Rok Strani]The Beatles}What You're Doing=http://www.youtube.com/watch?v=2aVGzPno-iY
+﻿Rok Strani]The Beatles}What You're Doing=http://www.youtube.com/watch?v=ln7NY4_Ed2Y
 ﻿Rok Strani]The Beatles}What's The New Mary Jane=http://www.youtube.com/watch?v=TyGdDE8C9A0
-﻿Rok Strani]The Beatles}When I Get Home=http://www.youtube.com/watch?v=FLEJPdDn4E8
-﻿Rok Strani]The Beatles}When I'm Sixty Four=http://www.youtube.com/watch?v=vAzaOZfgf0M
+﻿Rok Strani]The Beatles}When I Get Home=http://www.youtube.com/watch?v=uSBoGFhR8Yw
 ﻿Rok Strani]The Beatles}While My Guitar Gently Weeps=--start-time=4 http://www.youtube.com/watch?v=VJDJs9dumZI
-﻿Rok Strani]The Beatles}Why Don't We Do It In The Road?=http://www.youtube.com/watch?v=IN4lb13oZyY
-﻿Rok Strani]The Beatles}With A Little Help From My Friends=http://www.youtube.com/watch?v=SkyqRP8S93Y
-﻿Rok Strani]The Beatles}Within You Without You=http://www.youtube.com/watch?v=y__Zs3e6BdA
-﻿Rok Strani]The Beatles}Words Of Love=--start-time=15 http://www.youtube.com/watch?v=r5nARZKS-AY
+﻿Rok Strani]The Beatles}Words Of Love=http://www.youtube.com/watch?v=2Nc2jt7k4GU
 ﻿Rok Strani]The Beatles}Yellow Submarine In Pepperland=http://www.youtube.com/watch?v=xt1gK830kC8
 ﻿Rok Strani]The Beatles}Yellow Submarine=http://www.youtube.com/watch?v=vefJAtG-ZKI
-﻿Rok Strani]The Beatles}Yer Blues=http://www.youtube.com/watch?v=F-PCq5duGQA
-﻿Rok Strani]The Beatles}Yes It Is=http://www.youtube.com/watch?v=-O-wmVqFD4w
+﻿Rok Strani]The Beatles}Yer Blues=http://www.youtube.com/watch?v=TKfEsKq5RoU
 ﻿Rok Strani]The Beatles}Yesterday=http://www.youtube.com/watch?v=jo505ZyaCbA
-﻿Rok Strani]The Beatles}You Can't Do That=http://www.youtube.com/watch?v=vUIcEGH1ICE
-﻿Rok Strani]The Beatles}You Know My Name (Look Up The Number)=http://www.youtube.com/watch?v=yWj7-TIb3cc
+﻿Rok Strani]The Beatles}You Can't Do That=http://www.youtube.com/watch?v=29eWPlKV53k
 ﻿Rok Strani]The Beatles}You Know What To Do=http://www.youtube.com/watch?v=4CdWJpu0t3Q
-﻿Rok Strani]The Beatles}You Like Me Too Much=http://www.youtube.com/watch?v=paZilSbbFJc
+﻿Rok Strani]The Beatles}You Like Me Too Much=http://www.youtube.com/watch?v=Y0lLpiEDHZU
 ﻿Rok Strani]The Beatles}You Never Give Me Your Money=http://www.youtube.com/watch?v=niLJ_kzDrGQ
-﻿Rok Strani]The Beatles}You Really Got A Hold On Me=http://www.youtube.com/watch?v=DOK-ZeySA1U
-﻿Rok Strani]The Beatles}You Won't See Me=http://www.youtube.com/watch?v=BsrQgIQSQSw
+﻿Rok Strani]The Beatles}You Really Got A Hold On Me=http://www.youtube.com/watch?v=N5fCdWK1SL4
+﻿Rok Strani]The Beatles}You Won't See Me=http://www.youtube.com/watch?v=Q-0korE74bY
 ﻿Rok Strani]The Beatles}You'll Be Mine=http://www.youtube.com/watch?v=wcCzclyUSG4
-﻿Rok Strani]The Beatles}You've Got To Hide Your Love Away=http://www.youtube.com/watch?v=IArfrd14scw
-﻿Rok Strani]The Beatles}Young Blood=--start-time=13 http://www.youtube.com/watch?v=753kMZd35Vc
-﻿Rok Strani]The Beatles}Your Mother Should Know=http://www.youtube.com/watch?v=5E2f237QKaA
+﻿Rok Strani]The Beatles}Your Mother Should Know=http://www.youtube.com/watch?v=zV_UsD-kdtI
 ﻿Rok Strani]The Clash}1-2 Crush On You=http://www.youtube.com/watch?v=o38FqvLXsgM
 ﻿Rok Strani]The Clash}1977=http://www.youtube.com/watch?v=KorwwAjKpaY
 ﻿Rok Strani]The Clash}48 Hours=http://www.youtube.com/watch?v=qBr6y3bhhCU
@@ -17091,7 +16990,7 @@ Zabavna]Milan Stanković}Trans=--start-time=18 https://www.youtube.com/watch?v=Q
 ﻿Rok Strani]Yes}Tango=http://www.youtube.com/watch?v=vUcy3YafWiM
 ﻿Rok Strani]Yes}Tempus Fugit=http://www.youtube.com/watch?v=BqdBmRAieAQ
 ﻿Rok Strani]Yes}The Calling=http://www.youtube.com/watch?v=rXdkCaw1UIY
-﻿Rok Strani]Yes}The Fish (Schindleria Praematurus)=http://www.youtube.com/watch?v=Fal0TuILkak
+﻿Rok Strani]Yes}The Fish (Schindleria Praematurus)=http://www.youtube.com/watch?v=NpI13BG8M_c
 ﻿Rok Strani]Yes}The Game=http://www.youtube.com/watch?v=tw7nJSW7XTU
 ﻿Rok Strani]Yes}The Man You Always Wanted Me To Be=http://www.youtube.com/watch?v=0luI8y6YeN8
 ﻿Rok Strani]Yes}The Prophet=http://www.youtube.com/watch?v=uK1vWn53oLo
@@ -17105,7 +17004,7 @@ Zabavna]Milan Stanković}Trans=--start-time=18 https://www.youtube.com/watch?v=Q
 ﻿Rok Strani]Yes}Universal Garden=http://www.youtube.com/watch?v=c8M0x4uLuc4
 ﻿Rok Strani]Yes}Walls=http://www.youtube.com/watch?v=VO59MarfyBE
 ﻿Rok Strani]Yes}We Agree=http://www.youtube.com/watch?v=Bfj6bdBB9go
-﻿Rok Strani]Yes}We Have Heaven=http://www.youtube.com/watch?v=-0Y7IjTUq5I
+﻿Rok Strani]Yes}We Have Heaven=http://www.youtube.com/watch?v=YfsZ9n42Qy4
 ﻿Rok Strani]Yes}Where Will You Be=http://www.youtube.com/watch?v=AJH0CiyDmGY
 ﻿Rok Strani]Yes}Without Hope You Cannot Start The Day=http://www.youtube.com/watch?v=Bj11nLb1Zko
 ﻿Rok Strani]Yes}Wonderlove=http://www.youtube.com/watch?v=SR9C3388TAU

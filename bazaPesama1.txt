@@ -343,7 +343,6 @@
 ﻿Zabavna]Adil Maksutović}Bolje moglo je=http://www.youtube.com/watch?v=IumR_XQQY4Q
 ﻿Zabavna]Adil Maksutović}Crnokosi anđele=http://www.youtube.com/watch?v=v7oB5nBxC7o
 ﻿Zabavna]Adil Maksutović}Da li je to ljubav=http://www.youtube.com/watch?v=HuOqa5L8VqI
-﻿Zabavna]Adil Maksutović}Daleko si Fato=http://www.youtube.com/watch?v=MdvDmpkotk8
 ﻿Zabavna]Adil Maksutović}Hitno=http://www.youtube.com/watch?v=7ItTjxa7tyc
 ﻿Zabavna]Adil Maksutović}Ista ja=http://www.youtube.com/watch?v=XXdC8oogTYs
 ﻿Zabavna]Adil Maksutović}Kafanac=http://www.youtube.com/watch?v=X6ysEIuGbDg
@@ -2243,6 +2242,7 @@
 ﻿Zabavna]Boban Rajović}Da pređemo na stvar=http://www.youtube.com/watch?v=dVta1C-_Dh0
 ﻿Zabavna]Boban Rajović}Darovi=--start-time=7 http://www.youtube.com/watch?v=2ksK_dgb1Jg
 ﻿Zabavna]Boban Rajović}Dijagnoza=--start-time=20 http://www.youtube.com/watch?v=IMFtMghTat0
+﻿Zabavna]Boban Rajović}Do neba=--start-time=9 https://www.youtube.com/watch?v=Ml6yud0LjWY
 ﻿Zabavna]Boban Rajović}Dukati=http://www.youtube.com/watch?v=bTIijR3bYEU
 ﻿Zabavna]Boban Rajović}Fatalna=--start-time=2 https://www.youtube.com/watch?v=beW-H1PcEm0
 ﻿Zabavna]Boban Rajović}Flaša=http://www.youtube.com/watch?v=FkimTS-cxOc
@@ -2260,6 +2260,7 @@
 ﻿Zabavna]Boban Rajović}Koga foliraš=http://www.youtube.com/watch?v=Sy2MSyPeZ7Q
 ﻿Zabavna]Boban Rajović}Kosači=--start-time=34 http://www.youtube.com/watch?v=572I2hRq1g8
 ﻿Zabavna]Boban Rajović}Kraljica i kralj=http://www.youtube.com/watch?v=zRr8ur64Af8
+﻿Zabavna]Boban Rajović}Kralj skitnica=https://www.youtube.com/watch?v=CCXzL8llvJ8
 ﻿Zabavna]Boban Rajović}Kreten=https://www.youtube.com/watch?v=7tUxVOCgplw
 ﻿Zabavna]Boban Rajović}Kumovi=http://www.youtube.com/watch?v=ZzfcP9QyiNQ
 ﻿Zabavna]Boban Rajović}Latice od ruža=http://www.youtube.com/watch?v=7q47fNOpMQs
@@ -2292,6 +2293,7 @@
 ﻿Zabavna]Boban Rajović}Ptica selica=http://www.youtube.com/watch?v=MqE4B7HDJfM
 ﻿Zabavna]Boban Rajović}Puklo srce=http://www.youtube.com/watch?v=mlvXL6vMVM4
 ﻿Zabavna]Boban Rajović}Pun ko brod=http://www.youtube.com/watch?v=AFOGLHYKMtU
+﻿Zabavna]Boban Rajović}Putuj ljubavi=--start-time=3 https://www.youtube.com/watch?v=cAvgtjOcD3E
 ﻿Zabavna]Boban Rajović}Ruže daješ u pelinu=http://www.youtube.com/watch?v=vvO2gvWL7Ow
 ﻿Zabavna]Boban Rajović}Ružno pače=http://www.youtube.com/watch?v=jhphZmaxU6o
 ﻿Zabavna]Boban Rajović}Sad si s njim=http://www.youtube.com/watch?v=vliCuNZuGFQ
@@ -5347,6 +5349,7 @@
 ﻿Narodna]Džej}Dah besa=http://www.youtube.com/watch?v=tCV2mChyPgQ
 ﻿Narodna]Džej}Dan bez svetla=http://www.youtube.com/watch?v=Xjho9jqOG_8
 ﻿Narodna]Džej}Dao bih ti brda i doline=http://www.youtube.com/watch?v=NHU--KcsynE
+﻿Narodna]Džej}Deca sreće=--start-time=21 https://www.youtube.com/watch?v=jr0K2wjgh2E
 ﻿Narodna]Džej}Dođi dok me vreme ne pregazi=http://www.youtube.com/watch?v=OPq2h4gRoEs
 ﻿Narodna]Džej}Dok muzika tiho svira=http://www.youtube.com/watch?v=0kInpeOxbi8
 ﻿Narodna]Džej}Dok u život žuriš=http://www.youtube.com/watch?v=1zLLwkIKSmc
@@ -11463,9 +11466,7 @@
 ﻿DJ Strani]Tiësto}Wasted (ft. Matthew Koma)=https://www.youtube.com/watch?v=AmEIemQfk34
 ﻿DJ Strani]Tiësto}Insomnia=https://www.youtube.com/watch?v=Omhml6Zt7ms
 ﻿DJ Strani]Tiësto}Escape me (ft. C.C. Sheffield)=https://www.youtube.com/watch?v=6ookgzRs67o
-﻿DJ Strani]Tiësto}Feel it in my bones (ft. Tegan, Sara)=https://www.youtube.com/watch?v=NNyvZv_r60I
 ﻿DJ Strani]Tiësto}Who wants to be alone (ft. Nelly Furtado)=https://www.youtube.com/watch?v=EqOBleo9Q9g
-﻿DJ Strani]Tiësto}Century (ft. Calvin Harris)=https://www.youtube.com/watch?v=0Hr7oC6yuXk
 ﻿DJ Strani]Tiësto}Love comes again (ft. BT)=--start-time=11 https://www.youtube.com/watch?v=yYwLLyy-hZQ
 ﻿DJ Strani]Tiësto}C'mon (Catch 'Em by surprise)(ft. Busta Rhymes, Diplo)=--start-time=4 https://www.youtube.com/watch?v=j6SSTMpIRFI
 ﻿DJ Strani]Tiësto}Pair of dice (ft. Allure)=https://www.youtube.com/watch?v=7ShYop9tuMs
@@ -11482,11 +11483,9 @@
 ﻿DJ Strani]Tiësto}In the dark (ft. Christian Burns)=https://www.youtube.com/watch?v=1pUE0p1fKpc
 ﻿DJ Strani]Tiësto}Ten seconds before sunrise=--start-time=40 https://www.youtube.com/watch?v=muNKZK5aSNQ
 ﻿DJ Strani]Tiësto}Papillon (Editors)=https://www.youtube.com/watch?v=FPJ0aldeNW0
-﻿DJ Strani]Tiësto}Knock you out (ft. Emily Haines)=https://www.youtube.com/watch?v=rTN-F0tG4EM
 ﻿DJ Strani]Tiësto}Work hard, play hard (ft. Kay)=https://www.youtube.com/watch?v=6paCBds-rKI
-﻿DJ Strani]Tiësto}You are my diamond (ft. Kianna)=https://www.youtube.com/watch?v=Rn9hQ0ltM7c
 ﻿DJ Strani]Tiësto}Work hard, play hard (ft. Kay)(AutoErotique remix)=https://www.youtube.com/watch?v=UnPuY6GMCgs
-﻿DJ Strani]Tiësto}Here on earth (ft. Cary Brothers)=https://www.youtube.com/watch?v=F2sxXbCtA3E
+﻿DJ Strani]Tiësto}Here on earth (ft. Cary Brothers)=http://www.youtube.com/watch?v=1FRheYzXhh4
 ﻿DJ Strani]Tiësto}Sounds of the night (ft. Melanie Iglesias)=https://www.youtube.com/watch?v=SkuNupgwQ7Q
 ﻿DJ Strani]Tiësto}Bad behaviour (ft. Dizze Rascal)=https://www.youtube.com/watch?v=AIOxjQC8PMI
 ﻿DJ Strani]Tiësto}Red lights (twoloud remix)=https://www.youtube.com/watch?v=ZvdgyppHp3w
@@ -11495,14 +11494,13 @@
 ﻿DJ Strani]Tiësto}Louder than boom (Tyrane remix)=https://www.youtube.com/watch?v=MWMIJuqw2ag
 ﻿DJ Strani]Tiësto}What can we do=https://www.youtube.com/watch?v=6Q06ujSUoXc
 ﻿DJ Strani]Tiësto}No memory from yesterday=https://www.youtube.com/watch?v=RB2gCAjDBFA
-﻿DJ Strani]Tiësto}Bend it like you don't care=https://www.youtube.com/watch?v=1wggGBmwTXI
+﻿DJ Strani]Tiësto}Bend it like you don't care=http://www.youtube.com/watch?v=n_LnFZxDrZo
 ﻿DJ Strani]Tiësto}It's not the things you say (ft. Kele Okereke)=https://www.youtube.com/watch?v=4jY1ag5ERfc
 ﻿DJ Strani]Tiësto}LA Ride=https://www.youtube.com/watch?v=Eze9hNJcEx4
 ﻿DJ Strani]Tiësto}Miss you=https://www.youtube.com/watch?v=p2ZkmVwN7Y8
 ﻿DJ Strani]Tiësto}Surrounded by light=https://www.youtube.com/watch?v=aJ-T1l0wYQM
 ﻿DJ Strani]Tiësto}Say something=https://www.youtube.com/watch?v=eDRj_h4TeFI
 ﻿DJ Strani]Tiësto}Bombage=https://www.youtube.com/watch?v=AkzmsN5Z5oo
-﻿DJ Strani]Tiësto}Always near=https://www.youtube.com/watch?v=cuk7QYBhd7o
 ﻿DJ Strani]Tiësto}Young lions=https://www.youtube.com/watch?v=m-6KIsLYDIQ
 ﻿DJ Strani]Tiësto}The only way is up (ft. Martin Garrix)=https://www.youtube.com/watch?v=AewNd29wRUM
 ﻿DJ Strani]Tiësto}Secrets (ft. Vassy, KSHMR)(Diplo remix)=https://www.youtube.com/watch?v=h6Kg56CPOJE
@@ -11707,7 +11705,7 @@
 ﻿Rok Strani]Aerosmith}Hollywood=http://www.youtube.com/watch?v=-PIoIvOI-Vc
 ﻿Rok Strani]Aerosmith}Home Tonight=http://www.youtube.com/watch?v=_KdwJIaUK54
 ﻿Rok Strani]Aerosmith}I Don't Want To Miss A Thing=http://www.youtube.com/watch?v=JkK8g6FMEXE
-﻿Rok Strani]Aerosmith}I Love Trash=http://www.youtube.com/watch?v=tPVqJzZznTg
+﻿Rok Strani]Aerosmith}I Love Trash=http://www.youtube.com/watch?v=FYzFqlE9D-4
 ﻿Rok Strani]Aerosmith}I Wanna Know Why=http://www.youtube.com/watch?v=QHjqRDFdii8
 ﻿Rok Strani]Aerosmith}I'm Down=http://www.youtube.com/watch?v=yeAqZELsweI
 ﻿Rok Strani]Aerosmith}I'm Not Talkin'=http://www.youtube.com/watch?v=MH8latXF1DM
@@ -12267,7 +12265,7 @@
 ﻿Rok Strani]Bad Company}Like Water=http://www.youtube.com/watch?v=9OxAZUg8e0w
 ﻿Rok Strani]Bad Company}Little Angel=http://www.youtube.com/watch?v=h_lTt7VEzaw
 ﻿Rok Strani]Bad Company}Little Miss Fortune=http://www.youtube.com/watch?v=Z_56zUocgoE
-﻿Rok Strani]Bad Company}Long Walk=http://www.youtube.com/watch?v=7j2MQjVFGXM
+﻿Rok Strani]Bad Company}Long Walk=http://www.youtube.com/watch?v=TlodALRUq7Q
 ﻿Rok Strani]Bad Company}Love Attack=http://www.youtube.com/watch?v=Z6A5KXa51Ww
 ﻿Rok Strani]Bad Company}Love Me Somebody=http://www.youtube.com/watch?v=KeQSrSh_7Q8
 ﻿Rok Strani]Bad Company}Love So Strong=http://www.youtube.com/watch?v=QJgyYHU1UPg
@@ -15845,7 +15843,7 @@
 ﻿Rok Strani]Judas Priest}Worth Fighting For=http://www.youtube.com/watch?v=DsuzrqgO0Gs
 ﻿Rok Strani]Judas Priest}You Don't Have To Be Old To Be Wise=http://www.youtube.com/watch?v=0y6Qev04QyQ
 ﻿Rok Strani]Judas Priest}You Say Yes=http://www.youtube.com/watch?v=lzG0gMmKJxk
-﻿Rok Strani]Judas Priest}You've Got Another Thing Comin'=http://www.youtube.com/watch?v=coA75uoMF40
+﻿Rok Strani]Judas Priest}You've Got Another Thing Comin'=http://www.youtube.com/watch?v=evqzZ9CLTqI
 ﻿Rok Strani]KISS}100,000 Years=http://www.youtube.com/watch?v=UGiruo6K238
 ﻿Rok Strani]KISS}2,000 Man=http://www.youtube.com/watch?v=rip_CoRVZto
 ﻿Rok Strani]KISS}A Million To One=http://www.youtube.com/watch?v=XnbjuLpOZPw
@@ -16098,7 +16096,6 @@
 ﻿Rok Strani]Lenny Kravitz}Everything=http://www.youtube.com/watch?v=7I0LKF6zPAY
 ﻿Rok Strani]Lenny Kravitz}Fields Of Joy=http://www.youtube.com/watch?v=aNFvM5XqF8g
 ﻿Rok Strani]Lenny Kravitz}Flash=http://www.youtube.com/watch?v=qTTonqEfvn4
-﻿Rok Strani]Lenny Kravitz}Flower Child=http://www.youtube.com/watch?v=ZFaV3I3pAfw
 ﻿Rok Strani]Lenny Kravitz}Flowers For Zoe=http://www.youtube.com/watch?v=dyv3T0CPmVU
 ﻿Rok Strani]Lenny Kravitz}Fly Away=--start-time=2 http://www.youtube.com/watch?v=EvuL5jyCHOw
 ﻿Rok Strani]Lenny Kravitz}Frankenstein=http://www.youtube.com/watch?v=ifUuu3kfgA4
@@ -16132,7 +16129,7 @@
 ﻿Rok Strani]Lenny Kravitz}Love Revolution=http://www.youtube.com/watch?v=K5RWshQvqlc
 ﻿Rok Strani]Lenny Kravitz}Magdalene=http://www.youtube.com/watch?v=RZUg6DU1gZ8
 ﻿Rok Strani]Lenny Kravitz}Minister Of Rock N' Roll=http://www.youtube.com/watch?v=fwUmG8zreYQ
-﻿Rok Strani]Lenny Kravitz}Mr. Cab Driver=http://www.youtube.com/watch?v=A0FSYJNzz_s
+﻿Rok Strani]Lenny Kravitz}Mr. Cab Driver=http://www.youtube.com/watch?v=MtLybtnOPZQ
 ﻿Rok Strani]Lenny Kravitz}My Love=http://www.youtube.com/watch?v=o2brOEgVu58
 ﻿Rok Strani]Lenny Kravitz}My Precious Love=http://www.youtube.com/watch?v=uX_t8sChEEs
 ﻿Rok Strani]Lenny Kravitz}New York City=--start-time=10 http://www.youtube.com/watch?v=WR3Mhe_1Eq8
@@ -16169,7 +16166,6 @@
 ﻿Rok Strani]Lenny Kravitz}What Do You Want From Me=http://www.youtube.com/watch?v=g5mosWCqq2w
 ﻿Rok Strani]Lenny Kravitz}What Goes Around Comes Around=http://www.youtube.com/watch?v=yh-aoxDLEdw
 ﻿Rok Strani]Lenny Kravitz}What The Fuck Are We Saying=http://www.youtube.com/watch?v=rln4CJ-mjSY
-﻿Rok Strani]Lenny Kravitz}When The Morning Turns To Night=http://www.youtube.com/watch?v=Km0A6wLN9H4
 ﻿Rok Strani]Lenny Kravitz}Where Are We Runnin'?=http://www.youtube.com/watch?v=ZDY6HIssmck
 ﻿Rok Strani]Lenny Kravitz}Will You Marry Me=http://www.youtube.com/watch?v=7CvsigOievI
 ﻿Rok Strani]Lenny Kravitz}You Were In My Heart=http://www.youtube.com/watch?v=oy9vHnNBEhQ
@@ -16379,7 +16375,7 @@
 ﻿Rok Strani]Lynyrd Skynyrd}O.R.R.=http://www.youtube.com/watch?v=aFYdxhI2u4s
 ﻿Rok Strani]Lynyrd Skynyrd}On The Hunt=http://www.youtube.com/watch?v=KND2HBQ5Nso
 ﻿Rok Strani]Lynyrd Skynyrd}One Day At A Time=http://www.youtube.com/watch?v=8mWJIzVZsRA
-﻿Rok Strani]Lynyrd Skynyrd}One In The Sun=http://www.youtube.com/watch?v=4eZZA6EBDwA
+﻿Rok Strani]Lynyrd Skynyrd}One In The Sun=http://www.youtube.com/watch?v=pqDMoUkj3CE
 ﻿Rok Strani]Lynyrd Skynyrd}One More Time=http://www.youtube.com/watch?v=k_vMqvXnr-M
 ﻿Rok Strani]Lynyrd Skynyrd}One Thing=http://www.youtube.com/watch?v=PAG90vTm87A
 ﻿Rok Strani]Lynyrd Skynyrd}Outta Hell In My Dodge=http://www.youtube.com/watch?v=RMtlkQgSQrA
