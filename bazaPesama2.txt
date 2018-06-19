@@ -8757,6 +8757,7 @@
 ﻿Rep]Tatula}U ovom gradu=http://www.youtube.com/watch?v=4PwMkocLkWo
 ﻿Rep]Tatula}Za moje ljude=http://www.youtube.com/watch?v=DsDFTGNrvww
 ﻿Rep]Tatula}Žene i alkohol=http://www.youtube.com/watch?v=utQKL4G3DpQ
+﻿Narodna]Tea Tairović}Brat na brata (ft. Ivana Krunić)=--start-time=3 https://www.youtube.com/watch?v=gASgfXk1hW8
 ﻿Narodna]Tea Tairović}Drama (ft. Menil Velioski)=--start-time=5 http://www.youtube.com/watch?v=bvTKfGHz7OU
 ﻿Narodna]Tea Tairović}Idu dani (ft. Rimski)=--start-time=11 http://www.youtube.com/watch?v=v6rxbvEe7CM
 ﻿Narodna]Tea Tairović}Igračica=--start-time=5 http://www.youtube.com/watch?v=vtO-8z9LGx8
@@ -15116,16 +15117,14 @@
 ﻿Rok Strani]Ted Nugent}Yank Me, Crank Me=http://www.youtube.com/watch?v=FrUt7B1P6XU
 ﻿Rok Strani]Ted Nugent}You Make Me Feel Right At Home=http://www.youtube.com/watch?v=DSdLEuYjHOE
 ﻿Rok Strani]The Beatles}A Day In The Life=http://www.youtube.com/watch?v=usNsCeOV4GM
-﻿Rok Strani]The Beatles}A Taste Of Honey=http://www.youtube.com/watch?v=QOoqx49439c
 ﻿Rok Strani]The Beatles}Across The Universe=http://www.youtube.com/watch?v=A-C1VRcGqes
 ﻿Rok Strani]The Beatles}Ain't She Sweet=http://www.youtube.com/watch?v=e1FSRMfNtLU
 ﻿Rok Strani]The Beatles}All I've Got To Do=http://www.youtube.com/watch?v=BGqoZP7vehA
 ﻿Rok Strani]The Beatles}All You Need Is Love=http://www.youtube.com/watch?v=csyHN3LoRJ4
-﻿Rok Strani]The Beatles}And Your Bird Can Sing=http://www.youtube.com/watch?v=bj_aLijfFMs
+﻿Rok Strani]The Beatles}And Your Bird Can Sing=http://www.youtube.com/watch?v=XAXVZKYu4q0
 ﻿Rok Strani]The Beatles}Anna (Go To Him)=http://www.youtube.com/watch?v=6r4gZeRQvZU
 ﻿Rok Strani]The Beatles}Baby It's You=http://www.youtube.com/watch?v=sYokfkt2dB0
 ﻿Rok Strani]The Beatles}Baby's In Black=http://www.youtube.com/watch?v=KKCuaoTmvro
-﻿Rok Strani]The Beatles}Baby, You're A Rich Man=http://www.youtube.com/watch?v=1auU4JM2NYM
 ﻿Rok Strani]The Beatles}Back In The U.S.S.R.=http://www.youtube.com/watch?v=gXKl9EjXfqk
 ﻿Rok Strani]The Beatles}Because=http://www.youtube.com/watch?v=AgVD_MHIKZk
 ﻿Rok Strani]The Beatles}Besame Mucho=http://www.youtube.com/watch?v=QI7UbuhMTbY
@@ -15139,13 +15138,11 @@
 ﻿Rok Strani]The Beatles}Crying, Waiting, Hoping=http://www.youtube.com/watch?v=El6Rnvj_f3w
 ﻿Rok Strani]The Beatles}Dig A Pony=http://www.youtube.com/watch?v=VyCZeCXGXYw
 ﻿Rok Strani]The Beatles}Dig It=http://www.youtube.com/watch?v=A5Kg_c_A-yU
-﻿Rok Strani]The Beatles}Dizzy Miss Lizzy=http://www.youtube.com/watch?v=CWXsOIcBcVg
 ﻿Rok Strani]The Beatles}Don't Bother Me=http://www.youtube.com/watch?v=gCxGFkEf2Y4
 ﻿Rok Strani]The Beatles}Don't Ever Change=http://www.youtube.com/watch?v=ou58vCDfTbo
 ﻿Rok Strani]The Beatles}Don't Let Me Down=http://www.youtube.com/watch?v=NCtzkaL2t_Y
 ﻿Rok Strani]The Beatles}Drive My Car=http://www.youtube.com/watch?v=M7qNlocNIf8
 ﻿Rok Strani]The Beatles}Eleanor Rigby=http://www.youtube.com/watch?v=VrwPwviIgjc
-﻿Rok Strani]The Beatles}Every Little Thing=http://www.youtube.com/watch?v=fmA61Y-9nD0
 ﻿Rok Strani]The Beatles}Flying=http://www.youtube.com/watch?v=Qx-ofimgmoc
 ﻿Rok Strani]The Beatles}For No One=http://www.youtube.com/watch?v=fNahNa6qrNw
 ﻿Rok Strani]The Beatles}For You Blue=http://www.youtube.com/watch?v=CETOxrVDlWY
@@ -15169,7 +15166,6 @@
 ﻿Rok Strani]The Beatles}I Me Mine=http://www.youtube.com/watch?v=Yylb91M_W6I
 ﻿Rok Strani]The Beatles}I Wanna Be Your Man=http://www.youtube.com/watch?v=nz5ztrAoWks
 ﻿Rok Strani]The Beatles}I Want To Tell You=http://www.youtube.com/watch?v=1d2bBtC8kZg
-﻿Rok Strani]The Beatles}I'll Be Back=http://www.youtube.com/watch?v=gTQyBh33GT0
 ﻿Rok Strani]The Beatles}I'll Cry Instead=http://www.youtube.com/watch?v=_0BB6XtSsXE
 ﻿Rok Strani]The Beatles}I'll Get You=http://www.youtube.com/watch?v=7VQFAr3EvkA
 ﻿Rok Strani]The Beatles}I'm Looking Through You=http://www.youtube.com/watch?v=sZoUwfjPYvo
@@ -15196,7 +15192,6 @@
 ﻿Rok Strani]The Beatles}Matchbox=http://www.youtube.com/watch?v=6_1ao_HzJKw
 ﻿Rok Strani]The Beatles}Memphis, Tennessee=--start-time=10 http://www.youtube.com/watch?v=obqNVzw8Sy4
 ﻿Rok Strani]The Beatles}Mother Nature's Son=http://www.youtube.com/watch?v=HmeENEUM6G4
-﻿Rok Strani]The Beatles}Mr. Moonlight=http://www.youtube.com/watch?v=o4SqbcsPb4Q
 ﻿Rok Strani]The Beatles}My Bonnie=http://www.youtube.com/watch?v=-GNrVb-HtZ4
 ﻿Rok Strani]The Beatles}Not A Second Time=http://www.youtube.com/watch?v=ptfa8EBFgbM
 ﻿Rok Strani]The Beatles}Not Guilty=http://www.youtube.com/watch?v=XjE4vi7z8m4
@@ -15211,9 +15206,6 @@
 ﻿Rok Strani]The Beatles}Polythene Pam=http://www.youtube.com/watch?v=foFFyjhQcF0
 ﻿Rok Strani]The Beatles}Real Love=http://www.youtube.com/watch?v=ax7krBKzmVI
 ﻿Rok Strani]The Beatles}Revolution=http://www.youtube.com/watch?v=BGLGzRXY5Bw
-﻿Rok Strani]The Beatles}Rock And Roll Music=http://www.youtube.com/watch?v=CXfF-UPgrpo
-﻿Rok Strani]The Beatles}Run For Your Life=http://www.youtube.com/watch?v=yIM0JzZP--w
-﻿Rok Strani]The Beatles}Sexy Sadie=http://www.youtube.com/watch?v=VA4EJYp24AY
 ﻿Rok Strani]The Beatles}She Came In Through The Bathroom Window=http://www.youtube.com/watch?v=o14wVjw3HfQ
 ﻿Rok Strani]The Beatles}She Said, She Said=http://www.youtube.com/watch?v=ix4zps8XG-k
 ﻿Rok Strani]The Beatles}Shout=http://www.youtube.com/watch?v=UPWfpESTp6w
@@ -15226,40 +15218,26 @@
 ﻿Rok Strani]The Beatles}Sweet Little Sixteen=http://www.youtube.com/watch?v=UpVDPwrE96I
 ﻿Rok Strani]The Beatles}Taxman=http://www.youtube.com/watch?v=h2_ZTtvA07w
 ﻿Rok Strani]The Beatles}Teddy Boy=http://www.youtube.com/watch?v=rcBpOFW_Fkg
-﻿Rok Strani]The Beatles}Tell Me What You See=http://www.youtube.com/watch?v=4lQAaL_zppI
 ﻿Rok Strani]The Beatles}Tell Me Why=http://www.youtube.com/watch?v=eCZ15mwWd8w
 ﻿Rok Strani]The Beatles}That Means A Lot=http://www.youtube.com/watch?v=24Iy2rsqE94
 ﻿Rok Strani]The Beatles}That'll Be The Day=http://www.youtube.com/watch?v=ltvM3Kwfc44
 ﻿Rok Strani]The Beatles}The Fool On The Hill=http://www.youtube.com/watch?v=_lo6k-fbnv0
 ﻿Rok Strani]The Beatles}The Hippy Hippy Shake=http://www.youtube.com/watch?v=JS8UqMOmEnM
 ﻿Rok Strani]The Beatles}The Long And Winding Road=http://www.youtube.com/watch?v=Q3hHndHf9R0
-﻿Rok Strani]The Beatles}The Night Before=http://www.youtube.com/watch?v=SdUyuLStecg
-﻿Rok Strani]The Beatles}The Word=http://www.youtube.com/watch?v=WzLvsTwjyXs
-﻿Rok Strani]The Beatles}Think For Yourself=http://www.youtube.com/watch?v=VKhQ3YYW6Oo
-﻿Rok Strani]The Beatles}This Boy=http://www.youtube.com/watch?v=fZEWMerW2-Q
-﻿Rok Strani]The Beatles}Ticket To Ride=http://www.youtube.com/watch?v=SAN9esY8YTY
 ﻿Rok Strani]The Beatles}To Know Her Is To Love Her=--start-time=5 http://www.youtube.com/watch?v=YEoR-oNs4ow
-﻿Rok Strani]The Beatles}Tomorrow Never Knows=http://www.youtube.com/watch?v=eVs75TGBjPM
 ﻿Rok Strani]The Beatles}Two Of Us=http://www.youtube.com/watch?v=RLkBJzB43ww
 ﻿Rok Strani]The Beatles}Wait=http://www.youtube.com/watch?v=at_yR-LpLdE
 ﻿Rok Strani]The Beatles}We Can Work It Out=http://www.youtube.com/watch?v=Qyclqo_AV2M
-﻿Rok Strani]The Beatles}What You're Doing=http://www.youtube.com/watch?v=ln7NY4_Ed2Y
 ﻿Rok Strani]The Beatles}What's The New Mary Jane=http://www.youtube.com/watch?v=TyGdDE8C9A0
-﻿Rok Strani]The Beatles}When I Get Home=http://www.youtube.com/watch?v=uSBoGFhR8Yw
 ﻿Rok Strani]The Beatles}While My Guitar Gently Weeps=--start-time=4 http://www.youtube.com/watch?v=VJDJs9dumZI
 ﻿Rok Strani]The Beatles}Words Of Love=http://www.youtube.com/watch?v=2Nc2jt7k4GU
 ﻿Rok Strani]The Beatles}Yellow Submarine In Pepperland=http://www.youtube.com/watch?v=xt1gK830kC8
 ﻿Rok Strani]The Beatles}Yellow Submarine=http://www.youtube.com/watch?v=vefJAtG-ZKI
-﻿Rok Strani]The Beatles}Yer Blues=http://www.youtube.com/watch?v=TKfEsKq5RoU
 ﻿Rok Strani]The Beatles}Yesterday=http://www.youtube.com/watch?v=jo505ZyaCbA
 ﻿Rok Strani]The Beatles}You Can't Do That=http://www.youtube.com/watch?v=29eWPlKV53k
 ﻿Rok Strani]The Beatles}You Know What To Do=http://www.youtube.com/watch?v=4CdWJpu0t3Q
-﻿Rok Strani]The Beatles}You Like Me Too Much=http://www.youtube.com/watch?v=Y0lLpiEDHZU
 ﻿Rok Strani]The Beatles}You Never Give Me Your Money=http://www.youtube.com/watch?v=niLJ_kzDrGQ
-﻿Rok Strani]The Beatles}You Really Got A Hold On Me=http://www.youtube.com/watch?v=N5fCdWK1SL4
-﻿Rok Strani]The Beatles}You Won't See Me=http://www.youtube.com/watch?v=Q-0korE74bY
 ﻿Rok Strani]The Beatles}You'll Be Mine=http://www.youtube.com/watch?v=wcCzclyUSG4
-﻿Rok Strani]The Beatles}Your Mother Should Know=http://www.youtube.com/watch?v=zV_UsD-kdtI
 ﻿Rok Strani]The Clash}1-2 Crush On You=http://www.youtube.com/watch?v=o38FqvLXsgM
 ﻿Rok Strani]The Clash}1977=http://www.youtube.com/watch?v=KorwwAjKpaY
 ﻿Rok Strani]The Clash}48 Hours=http://www.youtube.com/watch?v=qBr6y3bhhCU
