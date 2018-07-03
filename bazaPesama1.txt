@@ -64,7 +64,6 @@
 ﻿Rok]357}Dobro znaj (Pesme sa Severa)=https://www.youtube.com/watch?v=41d4iNas8pY
 ﻿Rok]357}Ciganin sam (Pesme sa Severa)=--start-time=5 https://www.youtube.com/watch?v=iHUD-WvLZhY
 ﻿Rok]357}Na oblacima slave (Pesme sa Severa)=https://www.youtube.com/watch?v=slygeCTABfE
-﻿Rok]357}Zvezda Srbija, nikad Jugoslavija (Pesme sa Severa)=https://www.youtube.com/watch?v=RGSmnzTjdEw
 ﻿Rok]357}Spremt' se, spremt' se, četnici=https://www.youtube.com/watch?v=tM3NsSGeTr8
 ﻿Rok]357}Devojka iz grada=https://www.youtube.com/watch?v=3tUNlDkpeN0
 ﻿Rok]357}Hvala ti=https://www.youtube.com/watch?v=uBe-SYbDeeg
@@ -318,6 +317,7 @@
 ﻿Narodna]Aco Pejović}Pet minuta=http://www.youtube.com/watch?v=fioAgRTn8-s
 ﻿Narodna]Aco Pejović}Poplava=--start-time=5 http://www.youtube.com/watch?v=p4gA8Ak8KHc
 ﻿Narodna]Aco Pejović}Poslednji fajront=http://www.youtube.com/watch?v=5WUBNHnAF1k
+﻿Narodna]Aco Pejović}Propalica=https://www.youtube.com/watch?v=0U0rX0382fY
 ﻿Narodna]Aco Pejović}Prolaze dani, prolaze noći=http://www.youtube.com/watch?v=gfCjVuABymY
 ﻿Narodna]Aco Pejović}Provincijalac=http://www.youtube.com/watch?v=GMFRcDqudnA
 ﻿Narodna]Aco Pejović}Ruševine=http://www.youtube.com/watch?v=WXdjL3CncwM
@@ -1241,7 +1241,7 @@
 ﻿Zabavna]Andreana Čekić}Kraljevi falša (ft. Mr. Sharan)=--start-time=8 https://www.youtube.com/watch?v=JGPSdPdUjCw
 ﻿Zabavna]Andreana Čekić}Zauvek ti pripadam=--start-time=37 https://www.youtube.com/watch?v=-UVvcLIJnDw
 ﻿Zabavna]Andrija Marković}Iskoristi me=http://www.youtube.com/watch?v=psGOCE1WO14
-﻿Zabavna]Andrija Marković}Mala=http://www.youtube.com/watch?v=SqOcFRsJW-s
+﻿Zabavna]Andrija Marković}Mala=http://www.youtube.com/watch?v=I-v8BvnoDcg
 ﻿Zabavna]Andrija Marković}Noći balkanske=http://www.youtube.com/watch?v=OuarfFWNCkI
 ﻿Zabavna]Andrija Marković}Ona mi fali=https://www.youtube.com/watch?v=rKWZzzyEWVc
 ﻿Zabavna]Andrija Marković}Popravi me=http://www.youtube.com/watch?v=fenMYsMU7vI
@@ -1812,7 +1812,7 @@
 ﻿Rok]Bajaga}Silikon=http://www.youtube.com/watch?v=3gI-aOYSzsE
 ﻿Rok]Bajaga}Šou počinje u ponoć=http://www.youtube.com/watch?v=pVu0c8O77uQ
 ﻿Rok]Bajaga}Stari put za Novi Sad=http://www.youtube.com/watch?v=k66aFMtBpCI
-﻿Rok]Bajaga}Što ne može niko, možeš ti=http://www.youtube.com/watch?v=GciIpp34Ml4
+﻿Rok]Bajaga}Što ne može niko, možeš ti=http://www.youtube.com/watch?v=2xG2j_EEPvY
 ﻿Rok]Bajaga}Strah od vozova=http://www.youtube.com/watch?v=JZEmXKQeVK0
 ﻿Rok]Bajaga}Suza=http://www.youtube.com/watch?v=elyCoXKZF7E
 ﻿Rok]Bajaga}Tamara=http://www.youtube.com/watch?v=HMBDtyyxsJw
@@ -3944,7 +3944,7 @@
 ﻿Narodna]Davor Badrov}Kaput srama=http://www.youtube.com/watch?v=tPYD77NZhXU
 ﻿Narodna]Davor Badrov}Kasmir=http://www.youtube.com/watch?v=rLO5M0GhaIw
 ﻿Narodna]Davor Badrov}Kraljica dobrog provoda=--start-time=7 http://www.youtube.com/watch?v=ePd_h_ymeMw
-﻿Narodna]Davor Badrov}Ljubavi=http://www.youtube.com/watch?v=R89wrqJl7Zw
+﻿Narodna]Davor Badrov}Ljubavi=http://www.youtube.com/watch?v=JagXZqWZIrc
 ﻿Narodna]Davor Badrov}Ludo ljeto=http://www.youtube.com/watch?v=jYgY8O6a4QE
 ﻿Narodna]Davor Badrov}Ludo srce=http://www.youtube.com/watch?v=8qOJu2hvqmg
 ﻿Narodna]Davor Badrov}Majka=http://www.youtube.com/watch?v=DxV8GNYWjC4
@@ -4074,7 +4074,7 @@
 ﻿Narodna]Deni Bonestaj}Nađu me=--start-time=24 http://www.youtube.com/watch?v=17jNVnguchw
 ﻿Narodna]Deni Bonestaj}Strijelac=http://www.youtube.com/watch?v=3rzMPzYvHV4
 ﻿Narodna]Deni Bonestaj}Teče alkohol=http://www.youtube.com/watch?v=0iSXhUKqfpU
-﻿Narodna]Deni Bonestaj}Voli me il' ne voli=http://www.youtube.com/watch?v=CDgUgtX-22o
+﻿Narodna]Deni Bonestaj}Voli me il' ne voli=http://www.youtube.com/watch?v=9gfWJp_GWjE
 ﻿Narodna]Deni Bonestaj}Volim te na kvadrat=http://www.youtube.com/watch?v=0PchJDcuPcU
 ﻿Narodna]Deni Bonestaj}Vozni red do pakla=http://www.youtube.com/watch?v=P_MB58gznME
 ﻿Zabavna]Denis & Denis}28 minuta do 5=http://www.youtube.com/watch?v=ybQPdN9sJjo
@@ -5072,7 +5072,7 @@
 ﻿Narodna]Dragana Mirković}Ne pada mi na pamet=http://www.youtube.com/watch?v=mow9D_iuVNQ
 ﻿Narodna]Dragana Mirković}Ne plače se za junakom=http://www.youtube.com/watch?v=PKjovVsI_yE
 ﻿Narodna]Dragana Mirković}Ne vraćam se starim ljubavima=http://www.youtube.com/watch?v=VGh7I6z6rOI
-﻿Narodna]Dragana Mirković}Neću da živim bez tebe=http://www.youtube.com/watch?v=YmZcctWy_rw
+﻿Narodna]Dragana Mirković}Neću da živim bez tebe=http://www.youtube.com/watch?v=k7PPO7KLIYQ
 ﻿Narodna]Dragana Mirković}Neću pokajanje=http://www.youtube.com/watch?v=ai-b5GKXVfE
 ﻿Narodna]Dragana Mirković}Nekad je valjalo=http://www.youtube.com/watch?v=LtDu7Y5eUc8
 ﻿Narodna]Dragana Mirković}Nema promene=http://www.youtube.com/watch?v=EAplG7KQFnw
@@ -5096,7 +5096,7 @@
 ﻿Narodna]Dragana Mirković}Oprosti što ti smetam=http://www.youtube.com/watch?v=HHqXoAOdWbg
 ﻿Narodna]Dragana Mirković}Oprosti za sve=http://www.youtube.com/watch?v=IAUppRlXqs8
 ﻿Narodna]Dragana Mirković}Oslobodi me=http://www.youtube.com/watch?v=QHj0HyqJVK4
-﻿Narodna]Dragana Mirković}Ostani=--start-time=4 http://www.youtube.com/watch?v=KacECTTsd9c
+﻿Narodna]Dragana Mirković}Ostani=http://www.youtube.com/watch?v=rXOFylYuo9s
 ﻿Narodna]Dragana Mirković}Ostavljeni, prevareni=http://www.youtube.com/watch?v=xgtzI_xfeYM
 ﻿Narodna]Dragana Mirković}Ostavljeni=http://www.youtube.com/watch?v=xgtzI_xfeYM
 ﻿Narodna]Dragana Mirković}Otrov i melem=http://www.youtube.com/watch?v=F4l0V6CoCNo
@@ -8277,6 +8277,7 @@
 ﻿Zabavna]In Vivo}Cuca=http://www.youtube.com/watch?v=gp9T1or-Rzw
 ﻿Zabavna]In Vivo}Da nema žena=http://www.youtube.com/watch?v=zUUT3vynCUM
 ﻿Zabavna]In Vivo}Derbi (ft. Cvija)=--start-time=9 https://www.youtube.com/watch?v=V5a9Wm0hZHU
+﻿Zabavna]In Vivo}Divlji snovi=--start-time=9 https://www.youtube.com/watch?v=8fctFp8zjss
 ﻿Zabavna]In Vivo}Devica=http://www.youtube.com/watch?v=WjBmjp9asNQ
 ﻿Zabavna]In Vivo}Ferari=--start-time=33 http://www.youtube.com/watch?v=GNMCT3sqYNY
 ﻿Zabavna]In Vivo}Gazda=http://www.youtube.com/watch?v=1v8em-oiU34
@@ -8730,6 +8731,7 @@
 ﻿Narodna]Jadranka Barjaktarović}Slika i ram=http://www.youtube.com/watch?v=YXEViO8mgtc
 ﻿Narodna]Jadranka Barjaktarović}Tvoja noć i moja zora=http://www.youtube.com/watch?v=VQiZWBz9y-w
 ﻿Narodna]Jadranka Barjaktarović}Vrijeme da se volimo=http://www.youtube.com/watch?v=3_lhzL5tmmo
+﻿Narodna]Jadranka Barjaktarović}Urgentni centar=--start-time=6 https://www.youtube.com/watch?v=PYS3lCV7vGQ
 ﻿Narodna]Jadranka Stojaković}Ako me ikada nađeš=http://www.youtube.com/watch?v=64Y3lk6tWhY
 ﻿Narodna]Jadranka Stojaković}Bistre vode Bosnom teku=http://www.youtube.com/watch?v=skj5G0ehD9U
 ﻿Narodna]Jadranka Stojaković}Čarobnjaci=http://www.youtube.com/watch?v=3kojD5L0nuI
@@ -9048,7 +9050,7 @@
 ﻿Zabavna]Jelena Karleuša}So=http://www.youtube.com/watch?v=tJf-C4DZrF4
 ﻿Zabavna]Jelena Karleuša}Sodoma i gomora=http://www.youtube.com/watch?v=Ivks4fq2sJw
 ﻿Zabavna]Jelena Karleuša}Sudbinu poreci=http://www.youtube.com/watch?v=XE7W5PSUTBQ
-﻿Zabavna]Jelena Karleuša}Suze devojačke=http://www.youtube.com/watch?v=j6AqTO_w6JU
+﻿Zabavna]Jelena Karleuša}Suze devojačke=http://www.youtube.com/watch?v=M170xC9n5Fc
 ﻿Zabavna]Jelena Karleuša}Sve je dozvoljeno=http://www.youtube.com/watch?v=RSytLCBAXfo
 ﻿Zabavna]Jelena Karleuša}Sve joj moje daj=http://www.youtube.com/watch?v=BTuhz-kxugY
 ﻿Zabavna]Jelena Karleuša}Testament=http://www.youtube.com/watch?v=nfa0dAiWDcA
@@ -9871,7 +9873,7 @@
 ﻿Rok]Kerber}Blagi Bože, podigni me=http://www.youtube.com/watch?v=coKGIGpBm6g
 ﻿Rok]Kerber}Bliznakinje=http://www.youtube.com/watch?v=sPVWaEBqJ4Y
 ﻿Rok]Kerber}Bolje da sam druge ljubio=http://www.youtube.com/watch?v=Fs4MtAadhbQ
-﻿Rok]Kerber}Čovek od meda=http://www.youtube.com/watch?v=DDPKcRbpamQ
+﻿Rok]Kerber}Čovek od meda=http://www.youtube.com/watch?v=Ls44Iy5DQHM
 ﻿Rok]Kerber}Čudna stvar=http://www.youtube.com/watch?v=BOTUkhFWRP0
 ﻿Rok]Kerber}Deda, pradeda=http://www.youtube.com/watch?v=Hldclp5NVto
 ﻿Rok]Kerber}Dođi=http://www.youtube.com/watch?v=BuAYxDr2b2Q
@@ -9882,7 +9884,7 @@
 ﻿Rok]Kerber}Između jave i sna=http://www.youtube.com/watch?v=2rhOvmcJO_s
 ﻿Rok]Kerber}Još samo ovu noć mi daj=http://www.youtube.com/watch?v=v3kNurIeudc
 ﻿Rok]Kerber}Kad ljubav izda=http://www.youtube.com/watch?v=mBc4S-T_9Ew
-﻿Rok]Kerber}Kad prođe sve=http://www.youtube.com/watch?v=huOeu-c--r4
+﻿Rok]Kerber}Kad prođe sve=http://www.youtube.com/watch?v=VDTTgVfEyRU
 ﻿Rok]Kerber}Kao tvoj Kerber=http://www.youtube.com/watch?v=uPdH0pwwWJk
 ﻿Rok]Kerber}Kod Amerikanca=http://www.youtube.com/watch?v=8ew5XBaxVTg
 ﻿Rok]Kerber}Laže šarene=http://www.youtube.com/watch?v=YrjDpmrxKi4
@@ -9897,14 +9899,14 @@
 ﻿Rok]Kerber}Ne igram ruski rulet=http://www.youtube.com/watch?v=y_zsffPCTTo
 ﻿Rok]Kerber}Nebo je malo za sve=http://www.youtube.com/watch?v=tys0ppkiStI
 ﻿Rok]Kerber}Nema ničega iznad oblaka=http://www.youtube.com/watch?v=qd3FcGhwCPI
-﻿Rok]Kerber}Nikad ponovo=http://www.youtube.com/watch?v=IzE7A6w5j6o
+﻿Rok]Kerber}Nikad ponovo=http://www.youtube.com/watch?v=EbUxGh-31Oo
 ﻿Rok]Kerber}Od srca daleko=http://www.youtube.com/watch?v=N5_8Tu8GBs0
 ﻿Rok]Kerber}Osvani=http://www.youtube.com/watch?v=YkKaIppdoYQ
 ﻿Rok]Kerber}Poslednja=http://www.youtube.com/watch?v=3ZahZQhTZEE
 ﻿Rok]Kerber}Pronađi mesto=http://www.youtube.com/watch?v=_-2XC8H0PTA
 ﻿Rok]Kerber}Ratne igre=http://www.youtube.com/watch?v=wgbQPxmJ-cY
 ﻿Rok]Kerber}Sa tobom ne mogu dalje=http://www.youtube.com/watch?v=yezFvuTzM3M
-﻿Rok]Kerber}Sam=http://www.youtube.com/watch?v=MweNIw1MuZU
+﻿Rok]Kerber}Sam=http://www.youtube.com/watch?v=DHt9Mj5tD9s
 ﻿Rok]Kerber}Samo ti=http://www.youtube.com/watch?v=OFh1BOeuDD8
 ﻿Rok]Kerber}Sanjam=http://www.youtube.com/watch?v=NNPL_XANlww
 ﻿Rok]Kerber}Seobe=http://www.youtube.com/watch?v=IOG28nPc5n0
@@ -9914,7 +9916,7 @@
 ﻿Rok]Kerber}Svet se brzo okreće=http://www.youtube.com/watch?v=jqjazxPg75Q
 ﻿Rok]Kerber}Sveti Nikola=http://www.youtube.com/watch?v=rCGpp2rfR-8
 ﻿Rok]Kerber}Tvoja pesma=http://www.youtube.com/watch?v=de2NzbOdLdY
-﻿Rok]Kerber}Vodi me=http://www.youtube.com/watch?v=fZ2ang7cZYU
+﻿Rok]Kerber}Vodi me=http://www.youtube.com/watch?v=lxOpaJSBDAc
 ﻿Rok]Kerber}Vreme za uspomene=http://www.youtube.com/watch?v=zzsqYTacito
 ﻿Rok]Kerber}Zauvek slobodna=http://www.youtube.com/watch?v=ul8JyV8bbpE
 ﻿Zabavna]Knez}Adio=http://www.youtube.com/watch?v=reCC0wxgqyM
@@ -10081,6 +10083,7 @@
 ﻿Zabavna]Kuguars}Javor=http://www.youtube.com/watch?v=FTQLSK6G44A
 ﻿Zabavna]Kuguars}Leptiriću, šareniću=http://www.youtube.com/watch?v=FZb3cGXPgic
 ﻿Zabavna]Kuguars}Zidareva ljubav=http://www.youtube.com/watch?v=UlISegjqn30
+﻿Zabavna]Lapsus Band}Barikade=--start-time=24 https://www.youtube.com/watch?v=S-zLOdENBTc
 ﻿Zabavna]Lapsus Band}Budalo=--start-time=9 http://www.youtube.com/watch?v=QOFfWA9VmC8
 ﻿Zabavna]Lapsus Band}Čekam te=http://www.youtube.com/watch?v=8ZeT4KDDoXM
 ﻿Zabavna]Lapsus Band}Hendikepiran=http://www.youtube.com/watch?v=o3lpZBmu7go
@@ -10537,7 +10540,7 @@
 ﻿Rok Strani]Guns 'n' Roses}Back off bitch=http://www.youtube.com/watch?v=lJPz3bo3Ek8
 ﻿Rok Strani]Guns 'n' Roses}Breakdown=http://www.youtube.com/watch?v=VRXpL8mdgpQ
 ﻿Rok Strani]Guns 'n' Roses}Pretty tied up=http://www.youtube.com/watch?v=N88idsfn5pU
-﻿Rok Strani]Guns 'n' Roses}14 years=http://www.youtube.com/watch?v=nH4QliI_y_A
+﻿Rok Strani]Guns 'n' Roses}14 years=http://www.youtube.com/watch?v=3Ah_IPQtXes
 ﻿Rok Strani]Guns 'n' Roses}Since i don't have you=https://www.youtube.com/watch?v=IYOYlqOitDA
 ﻿Rok Strani]Guns 'n' Roses}You're crazy=http://www.youtube.com/watch?v=gEM1EY6iJ0w
 ﻿Rok Strani]Guns 'n' Roses}Anything goes=http://www.youtube.com/watch?v=pniJ32qVKmA
@@ -10587,7 +10590,7 @@
 ﻿Rok Strani]Joe Cocker}Let it be=https://www.youtube.com/watch?v=Mzf5EBY8gCQ
 ﻿Rok Strani]Joe Cocker}Thankful=https://www.youtube.com/watch?v=QkjtBr2s5C8
 ﻿Rok Strani]Joe Cocker}When the night comes=https://www.youtube.com/watch?v=v5t_uHnvzsw
-﻿Rok Strani]Joe Cocker}Delta lady=--start-time=11 http://www.youtube.com/watch?v=Wt9vIWQ2Akg
+﻿Rok Strani]Joe Cocker}Delta lady=http://www.youtube.com/watch?v=UYmKWXawC1c
 ﻿Rok Strani]Joe Cocker}Guilty=https://www.youtube.com/watch?v=o_rpiO1AwCk
 ﻿Rok Strani]Joe Cocker}Marjorine=https://www.youtube.com/watch?v=ZPEwOupGe_I
 ﻿Rok Strani]Joe Cocker}Hitchcock railway=https://www.youtube.com/watch?v=TW2y0MiH1hE
@@ -11363,11 +11366,11 @@
 ﻿Rok Strani]Rammstein}Ohne dich=--start-time=10 https://www.youtube.com/watch?v=LIPc1cfS-oQ
 ﻿Rok Strani]Rammstein}Pet sematary (live)=--start-time=15 https://www.youtube.com/watch?v=e8IBjUSng5g
 ﻿Rok Strani]Rammstein}Ramm4=http://www.youtube.com/watch?v=TdWJ5z7EN-I
-﻿Rok Strani]Rammstein}Rammlied=--start-time=10 https://www.youtube.com/watch?v=8C3YWv9PIvc
+﻿Rok Strani]Rammstein}Rammlied=http://www.youtube.com/watch?v=F-37IhwrtqM
 ﻿Rok Strani]Rammstein}Rammstein=https://www.youtube.com/watch?v=_sM2sKk4DPM
 ﻿Rok Strani]Rammstein}Reise, reise=--start-time=13 https://www.youtube.com/watch?v=N0e3ARhJIsg
 ﻿Rok Strani]Rammstein}Rosenrot=https://www.youtube.com/watch?v=af59U2BRRAU
-﻿Rok Strani]Rammstein}Roter sand=--start-time=15 https://www.youtube.com/watch?v=O_KsZb9HFjA
+﻿Rok Strani]Rammstein}Roter sand=http://www.youtube.com/watch?v=TVogrVWR5wQ
 ﻿Rok Strani]Rammstein}Schtiel=--start-time=4 https://www.youtube.com/watch?v=J4Q87FwJMpU
 ﻿Rok Strani]Rammstein}Schwarzes glas=https://www.youtube.com/watch?v=HSmgVoxbAxo
 ﻿Rok Strani]Rammstein}Seemann=--start-time=7 https://www.youtube.com/watch?v=srN1GsnBui8
@@ -11718,7 +11721,7 @@
 ﻿Rok Strani]Aerosmith}Lick And A Promise=http://www.youtube.com/watch?v=IU4ua5fyxDw
 ﻿Rok Strani]Aerosmith}Light Inside=http://www.youtube.com/watch?v=tHPL2WhqXkU
 ﻿Rok Strani]Aerosmith}Lightning Strikes=--start-time=4 http://www.youtube.com/watch?v=C-TSvxZ40RQ
-﻿Rok Strani]Aerosmith}Line Up=http://www.youtube.com/watch?v=tyWSqYxz8R4
+﻿Rok Strani]Aerosmith}Line Up=http://www.youtube.com/watch?v=Z_YpYdoNZwQ
 ﻿Rok Strani]Aerosmith}Livin' On The Edge=--start-time=17 http://www.youtube.com/watch?v=7nqcL0mjMjw
 ﻿Rok Strani]Aerosmith}Lizard Love=http://www.youtube.com/watch?v=6zv-esVNurU
 ﻿Rok Strani]Aerosmith}Lord Of The Thighs=http://www.youtube.com/watch?v=zNu0VIoY9nY
@@ -14088,7 +14091,7 @@
 ﻿Rok Strani]Foo Fighters}The Neverending Sigh=http://www.youtube.com/watch?v=0pH2d1OEqo8
 ﻿Rok Strani]Foo Fighters}The One=http://www.youtube.com/watch?v=kHkZJ0bGGwE
 ﻿Rok Strani]Foo Fighters}The Pretender=http://www.youtube.com/watch?v=SBjQ9tuuTJQ
-﻿Rok Strani]Foo Fighters}The Sign=http://www.youtube.com/watch?v=m7JAL0-AniM
+﻿Rok Strani]Foo Fighters}The Sign=http://www.youtube.com/watch?v=eyA5yu-fOqQ
 ﻿Rok Strani]Foo Fighters}The Sky Is A Neighborhood=--start-time=3 http://www.youtube.com/watch?v=TRqiFPpw2fY
 ﻿Rok Strani]Foo Fighters}These Days=--start-time=16 http://www.youtube.com/watch?v=YDVAQI-4lto
 ﻿Rok Strani]Foo Fighters}This Is A Call=http://www.youtube.com/watch?v=imxAeQZjBeI
