@@ -243,7 +243,7 @@
 ﻿Narodna]Aca Lukas}Tuđa si odavno=http://www.youtube.com/watch?v=-DzRhnz54K8
 ﻿Narodna]Aca Lukas}Udari prva=http://www.youtube.com/watch?v=EKiaUbU8xKY
 ﻿Narodna]Aca Lukas}Umri u samoći=http://www.youtube.com/watch?v=DsftoGr-0EQ
-﻿Narodna]Aca Lukas}Upali svetlo=http://www.youtube.com/watch?v=ohez_5EgNVs
+﻿Narodna]Aca Lukas}Upali svetlo=http://www.youtube.com/watch?v=g11SWstMDHI
 ﻿Narodna]Aca Lukas}Usluga za uslugu=http://www.youtube.com/watch?v=OO4JDfkE1NE
 ﻿Narodna]Aca Lukas}Voliš li me=--start-time=7 http://www.youtube.com/watch?v=qF0fiNqQuDQ
 ﻿Narodna]Aca Lukas}Voljena=http://www.youtube.com/watch?v=lplNkjbRYOs
@@ -1110,6 +1110,7 @@
 ﻿Zabavna]Ana Kokić}Jednom nedeljno=http://www.youtube.com/watch?v=ZQQirl33EiY
 ﻿Zabavna]Ana Kokić}Još sam živa=http://www.youtube.com/watch?v=H54xZeuoP7Y
 ﻿Zabavna]Ana Kokić}Još te sanjam=http://www.youtube.com/watch?v=EHCjTTv7fDg
+﻿Zabavna]Ana Kokić}Karmin (ft. Rimski, Corona)=--start-time=6 https://www.youtube.com/watch?v=X3kD7UHoeFI
 ﻿Zabavna]Ana Kokić}Letnja sema=http://www.youtube.com/watch?v=wFm6xETOswY
 ﻿Zabavna]Ana Kokić}Ljubav na papiru=http://www.youtube.com/watch?v=uG6k2IXgORM
 ﻿Zabavna]Ana Kokić}Mojne, mala=http://www.youtube.com/watch?v=zS_pIymx5aY
@@ -1758,7 +1759,6 @@
 ﻿Rok]Bajaga}Januar=http://www.youtube.com/watch?v=bKRI0kvmWdw
 ﻿Rok]Bajaga}Jedino to se zove ljubav=http://www.youtube.com/watch?v=V5IAQBeMsM0
 ﻿Rok]Bajaga}Još jednom=http://www.youtube.com/watch?v=FF3dOJ228HU
-﻿Rok]Bajaga}Još te volim=http://www.youtube.com/watch?v=_-HnHZtu090
 ﻿Rok]Bajaga}Kad hodaš=http://www.youtube.com/watch?v=ReADeIssoK8
 ﻿Rok]Bajaga}Kao ne zna da je gotivim=http://www.youtube.com/watch?v=7X56j3-bpn8
 ﻿Rok]Bajaga}Kap po kap=http://www.youtube.com/watch?v=0Ap90jGlRYk
@@ -2965,6 +2965,7 @@
 ﻿Narodna]Ćira}Zumba=http://www.youtube.com/watch?v=xOBEfENbTsk
 ﻿Zabavna]Colonia}Maskenbal=--start-time=3 https://www.youtube.com/watch?v=cDcTD7L-sGs
 ﻿Zabavna]Colonia}1001 noć=http://www.youtube.com/watch?v=NlhrCtWekHA
+﻿Zabavna]Colonia}Alarmantno=https://www.youtube.com/watch?v=jhB7v3M4k8I
 ﻿Zabavna]Colonia}Ale ale=http://www.youtube.com/watch?v=A6yYzl2i7Ng
 ﻿Zabavna]Colonia}Anđele=http://www.youtube.com/watch?v=ibPhqRPqzqs
 ﻿Zabavna]Colonia}Avantura zove me=http://www.youtube.com/watch?v=RovISgtjIKA
@@ -5424,7 +5425,7 @@
 ﻿Narodna]Džej}Zapevajmo svi=http://www.youtube.com/watch?v=anVFn2yX53M
 ﻿Narodna]Džej}Zar ja da ti brišem suze=http://www.youtube.com/watch?v=RUHP597s9eE
 ﻿Narodna]Džej}Zašto praviš majmuna od mene=http://www.youtube.com/watch?v=1EgjbDgTlMM
-﻿Narodna]Džej}Zato=http://www.youtube.com/watch?v=tu10azy3idQ
+﻿Narodna]Džej}Zato=http://www.youtube.com/watch?v=olzkmj_8n88
 ﻿Narodna]Džej}Živim život koji moram=http://www.youtube.com/watch?v=5Lb0h8SCVYA
 ﻿Narodna]Džej}Život kratko traje=http://www.youtube.com/watch?v=aouy9wTskQw
 ﻿Narodna]Džej}Živote, ženo bez morala=--start-time=6 http://www.youtube.com/watch?v=HseUQh5MAW8
@@ -7441,6 +7442,7 @@
 ﻿Narodna]Halid Bešlić}Sviće zora=http://www.youtube.com/watch?v=vfIr_8OnlQQ
 ﻿Narodna]Halid Bešlić}Sviraj nešto narodno=http://www.youtube.com/watch?v=FP8KYjjFdWU
 ﻿Narodna]Halid Bešlić}Ta je žena varala me=http://www.youtube.com/watch?v=RYZKb-cCOJ0
+Narodna]Halid Bešlić}Taman je=https://www.youtube.com/watch?v=5yBZX6xMX2E
 ﻿Narodna]Halid Bešlić}Ti si bila moja želja=http://www.youtube.com/watch?v=F-EZpN8Tq38
 ﻿Narodna]Halid Bešlić}Tri ruže=http://www.youtube.com/watch?v=ST-Wqsu3vLw
 ﻿Narodna]Halid Bešlić}U ime ljubavi=http://www.youtube.com/watch?v=QsfnciyzLDw
@@ -9050,7 +9052,7 @@
 ﻿Zabavna]Jelena Karleuša}So=http://www.youtube.com/watch?v=tJf-C4DZrF4
 ﻿Zabavna]Jelena Karleuša}Sodoma i gomora=http://www.youtube.com/watch?v=Ivks4fq2sJw
 ﻿Zabavna]Jelena Karleuša}Sudbinu poreci=http://www.youtube.com/watch?v=XE7W5PSUTBQ
-﻿Zabavna]Jelena Karleuša}Suze devojačke=http://www.youtube.com/watch?v=M170xC9n5Fc
+﻿Zabavna]Jelena Karleuša}Suze devojačke=http://www.youtube.com/watch?v=6PmeIGsjwJU
 ﻿Zabavna]Jelena Karleuša}Sve je dozvoljeno=http://www.youtube.com/watch?v=RSytLCBAXfo
 ﻿Zabavna]Jelena Karleuša}Sve joj moje daj=http://www.youtube.com/watch?v=BTuhz-kxugY
 ﻿Zabavna]Jelena Karleuša}Testament=http://www.youtube.com/watch?v=nfa0dAiWDcA
@@ -9134,7 +9136,7 @@
 ﻿Zabavna]Jelena Tomašević}Da mi je da mi se vrati=http://www.youtube.com/watch?v=-SnUYfnOf5o
 ﻿Zabavna]Jelena Tomašević}Gde da odem da te ne volim=http://www.youtube.com/watch?v=qCfmwkA7zNw
 ﻿Zabavna]Jelena Tomašević}Ime moje=http://www.youtube.com/watch?v=WKoQlMZEe3A
-﻿Zabavna]Jelena Tomašević}Jutro=http://www.youtube.com/watch?v=ehAQWFT6TqM
+﻿Zabavna]Jelena Tomašević}Jutro=http://www.youtube.com/watch?v=jguAOapo_3E
 ﻿Zabavna]Jelena Tomašević}Kad ne bude tvoje ljubavi=http://www.youtube.com/watch?v=6Og90RuwsEs
 ﻿Zabavna]Jelena Tomašević}Košava=http://www.youtube.com/watch?v=RT2jHPL5y48
 ﻿Zabavna]Jelena Tomašević}Ludo zabludo=http://www.youtube.com/watch?v=Bub_Ea3tyt0
@@ -9522,6 +9524,7 @@
 ﻿Zabavna]Katarina Živković}Noćno ludilo=http://www.youtube.com/watch?v=95nF9Xt_lxk
 ﻿Zabavna]Katarina Živković}Ovo je zemlja Srbija=http://www.youtube.com/watch?v=tUzF_mT_VkI
 ﻿Zabavna]Katarina Živković}Porok=--start-time=31 https://www.youtube.com/watch?v=M9Uu394r3EM
+﻿Zabavna]Katarina Živković}Radi me bol=--start-time=7 https://www.youtube.com/watch?v=7e8f6cmjLow
 ﻿Zabavna]Katarina Živković}Ruku na srce=http://www.youtube.com/watch?v=wFBcqtmV3qE
 ﻿Zabavna]Katarina Živković}Totalno=http://www.youtube.com/watch?v=WnfLN-FsZb4
 ﻿Zabavna]Katarina Živković}Verujem u ljubav=http://www.youtube.com/watch?v=zEq6tXufmms
@@ -11330,10 +11333,10 @@
 ﻿Rok Strani]Rammstein}Alter mann (live)=https://www.youtube.com/watch?v=o-l7TBG3MY8
 ﻿Rok Strani]Rammstein}Amerika=https://www.youtube.com/watch?v=Rr8ljRgcJNM
 ﻿Rok Strani]Rammstein}Amour=--start-time=9 https://www.youtube.com/watch?v=DXwha3NvM6w
-﻿Rok Strani]Rammstein}Bück dich=http://www.youtube.com/watch?v=j1buLlbTx64
+﻿Rok Strani]Rammstein}Bück dich=http://www.youtube.com/watch?v=lt0hHnP7550
 ﻿Rok Strani]Rammstein}Benzin=https://www.youtube.com/watch?v=z0wK6s-6cbo
 ﻿Rok Strani]Rammstein}Bestrafe mich=http://www.youtube.com/watch?v=QBlkD1NjtxE
-﻿Rok Strani]Rammstein}Buckstabu=https://www.youtube.com/watch?v=ri0kmuyec1Q
+﻿Rok Strani]Rammstein}Buckstabu=http://www.youtube.com/watch?v=9KI4SoDDjIc
 ﻿Rok Strani]Rammstein}Donaukinder=https://www.youtube.com/watch?v=Oi-ixUoWAOU
 ﻿Rok Strani]Rammstein}Du hast=https://www.youtube.com/watch?v=W3q8Od5qJio
 ﻿Rok Strani]Rammstein}Du riechst so gut=https://www.youtube.com/watch?v=rrmsJhf89MY
@@ -11379,7 +11382,7 @@
 ﻿Rok Strani]Rammstein}Stripped=http://www.youtube.com/watch?v=xqo_v5jDgMo
 ﻿Rok Strani]Rammstein}Te quiero puta=http://www.youtube.com/watch?v=1s2LuyOJLK8
 ﻿Rok Strani]Rammstein}Vergiss uns nicht=--start-time=4 https://www.youtube.com/watch?v=ChBRdvbPAZ8
-﻿Rok Strani]Rammstein}Waidmanns heil=http://www.youtube.com/watch?v=oVWL1AEAP94
+﻿Rok Strani]Rammstein}Waidmanns heil=http://www.youtube.com/watch?v=N5JAp544u9M
 ﻿Rok Strani]Rammstein}Weisses fleisch=--start-time=5 http://www.youtube.com/watch?v=koAzM8lHi-k
 ﻿Rok Strani]Rammstein}Wilder wein=https://www.youtube.com/watch?v=RFxAxmo7EIU
 ﻿Rok Strani]Rammstein}Wut will nicht sterben=--start-time=10 https://www.youtube.com/watch?v=o08sl72zxFU
@@ -11964,7 +11967,6 @@
 ﻿Rok Strani]Alice Cooper}Welcome To My Nightmare=--start-time=13 http://www.youtube.com/watch?v=TQK5TbgopKw
 ﻿Rok Strani]Alice Cooper}What Baby Wants=http://www.youtube.com/watch?v=pGfCHTGePac
 ﻿Rok Strani]Alice Cooper}What Do You Want From Me=http://www.youtube.com/watch?v=f1nPeebSbFs
-﻿Rok Strani]Alice Cooper}When Hell Comes Home=http://www.youtube.com/watch?v=Tm_7e83toV8
 ﻿Rok Strani]Alice Cooper}Who Do You Think We Are=http://www.youtube.com/watch?v=fr-tuEfc2ko
 ﻿Rok Strani]Alice Cooper}Wicked Young Man=http://www.youtube.com/watch?v=7i2ZNi27NWU
 ﻿Rok Strani]Alice Cooper}Wish I Were Born In Beverly Hills=http://www.youtube.com/watch?v=KNuj8h-1XtE
@@ -14074,7 +14076,7 @@
 ﻿Rok Strani]Foo Fighters}See You=http://www.youtube.com/watch?v=AM52_Q3enjU
 ﻿Rok Strani]Foo Fighters}Sister Europe=http://www.youtube.com/watch?v=1pmmqJcu8G8
 ﻿Rok Strani]Foo Fighters}Skin And Bones=--start-time=5 http://www.youtube.com/watch?v=zW3Yez2VJTU
-﻿Rok Strani]Foo Fighters}Soldier=http://www.youtube.com/watch?v=s2wqjXspcio
+﻿Rok Strani]Foo Fighters}Soldier=http://www.youtube.com/watch?v=FtwXIAMVg2c
 ﻿Rok Strani]Foo Fighters}Something From Nothing=http://www.youtube.com/watch?v=V_YlZ1JdcVk
 ﻿Rok Strani]Foo Fighters}Spill=http://www.youtube.com/watch?v=_rrnmgGZ53M
 ﻿Rok Strani]Foo Fighters}Stacked Actors=http://www.youtube.com/watch?v=qj91k4Omyfo
@@ -15398,7 +15400,7 @@
 ﻿Rok Strani]Jethro Tull}And Further On=http://www.youtube.com/watch?v=y3uFrCszW7w
 ﻿Rok Strani]Jethro Tull}Another Christmas Song=http://www.youtube.com/watch?v=bPwVGGIJgtE
 ﻿Rok Strani]Jethro Tull}Another Harry's Bar=http://www.youtube.com/watch?v=e28vgwelPr8
-﻿Rok Strani]Jethro Tull}Apogee=http://www.youtube.com/watch?v=x2WkQV2RQDo
+﻿Rok Strani]Jethro Tull}Apogee=http://www.youtube.com/watch?v=m8aIM20gZks
 ﻿Rok Strani]Jethro Tull}Aqualung=http://www.youtube.com/watch?v=B0jMPI_pUec
 ﻿Rok Strani]Jethro Tull}Audition=http://www.youtube.com/watch?v=ZC7GXolKjdg
 ﻿Rok Strani]Jethro Tull}Automotive Engineering=http://www.youtube.com/watch?v=U8lFbPCPOvQ
@@ -15602,7 +15604,6 @@
 ﻿Rok Strani]Jimi Hendrix}Blue Suede Shoes=http://www.youtube.com/watch?v=aKAbXaLzisY
 ﻿Rok Strani]Jimi Hendrix}Bold As Love=http://www.youtube.com/watch?v=sXjJhm7KBII
 ﻿Rok Strani]Jimi Hendrix}Born Under A Bad Sign=http://www.youtube.com/watch?v=NZm4baDM-8w
-﻿Rok Strani]Jimi Hendrix}Burning Of The Midnight Lamp=http://www.youtube.com/watch?v=kbRlgEK27Jg
 ﻿Rok Strani]Jimi Hendrix}Can You See Me?=http://www.youtube.com/watch?v=Zc5NncvSQNk
 ﻿Rok Strani]Jimi Hendrix}Castles Made Of Sand=http://www.youtube.com/watch?v=HUd8xxWcy4k
 ﻿Rok Strani]Jimi Hendrix}Come On (Part One)=http://www.youtube.com/watch?v=1_p5guB7dis
@@ -15617,7 +15618,7 @@
 ﻿Rok Strani]Jimi Hendrix}Fire=--start-time=50 http://www.youtube.com/watch?v=IWAUeF00Vf0
 ﻿Rok Strani]Jimi Hendrix}Foxey Lady=http://www.youtube.com/watch?v=1Z3g8DJK-qU
 ﻿Rok Strani]Jimi Hendrix}Freedom=--start-time=3 http://www.youtube.com/watch?v=wDvlErh5zcc
-﻿Rok Strani]Jimi Hendrix}Gypsy Eyes=http://www.youtube.com/watch?v=LCHHK66AymY
+﻿Rok Strani]Jimi Hendrix}Gypsy Eyes=http://www.youtube.com/watch?v=pEVwdKfcn24
 ﻿Rok Strani]Jimi Hendrix}Have You Ever Been (To Electric Ladyland)=http://www.youtube.com/watch?v=EZ-GpFoHwO8
 ﻿Rok Strani]Jimi Hendrix}Hear My Train A Comin'=http://www.youtube.com/watch?v=ElQBzA91dTU
 ﻿Rok Strani]Jimi Hendrix}Here He Comes (Lover Man)=http://www.youtube.com/watch?v=rxQIf_g-1vE
@@ -15631,7 +15632,7 @@
 ﻿Rok Strani]Jimi Hendrix}Little Miss Strange=http://www.youtube.com/watch?v=h_dPsz18xhY
 ﻿Rok Strani]Jimi Hendrix}Little Wing=http://www.youtube.com/watch?v=U5Vki76x-EU
 ﻿Rok Strani]Jimi Hendrix}Long Hot Summer Night=http://www.youtube.com/watch?v=1YBLHXezvBA
-﻿Rok Strani]Jimi Hendrix}Love Or Confusion=http://www.youtube.com/watch?v=yrriKuo_iFY
+﻿Rok Strani]Jimi Hendrix}Love Or Confusion=http://www.youtube.com/watch?v=rB43Du67KmA
 ﻿Rok Strani]Jimi Hendrix}Manic Depression=http://www.youtube.com/watch?v=Sk3nVvqISlc
 ﻿Rok Strani]Jimi Hendrix}Mannish Boy=http://www.youtube.com/watch?v=Hcnro9bUS3E
 ﻿Rok Strani]Jimi Hendrix}Message To Love=--start-time=44 http://www.youtube.com/watch?v=4Vsl6w9Nw6w
@@ -16106,7 +16107,7 @@
 ﻿Rok Strani]Lenny Kravitz}If I Could Fall In Love=http://www.youtube.com/watch?v=I_u93kfu6gU
 ﻿Rok Strani]Lenny Kravitz}If You Can't Say No=http://www.youtube.com/watch?v=R_HTlJOy9YA
 ﻿Rok Strani]Lenny Kravitz}If You Want It=http://www.youtube.com/watch?v=E1_YOXU9FoM
-﻿Rok Strani]Lenny Kravitz}In My Life Today=http://www.youtube.com/watch?v=mft9x7yvViU
+﻿Rok Strani]Lenny Kravitz}In My Life Today=http://www.youtube.com/watch?v=1DHJG6PWv7I
 ﻿Rok Strani]Lenny Kravitz}In The Black=http://www.youtube.com/watch?v=nsMO3ocr5oA
 ﻿Rok Strani]Lenny Kravitz}Is There Any Love In Your Heart=http://www.youtube.com/watch?v=iTlepKDyS_0
 ﻿Rok Strani]Lenny Kravitz}It Ain't Over 'Til It's Over=http://www.youtube.com/watch?v=mOSwWko-gIY
