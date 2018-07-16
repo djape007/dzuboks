@@ -1077,7 +1077,7 @@
 ﻿Narodna]Maya Berović}Čime me drogiraš=http://www.youtube.com/watch?v=uCKloN0yCIk
 ﻿Narodna]Maya Berović}Crno zlato=http://www.youtube.com/watch?v=xXPwtN_Yb5A
 ﻿Narodna]Maya Berović}Dečko za provod=http://www.youtube.com/watch?v=W-ShJ4D2olc
-Narodna]Maya Berović}Dilajla=https://www.youtube.com/watch?v=gF-J88WRPws
+﻿Narodna]Maya Berović}Dilajla=https://www.youtube.com/watch?v=gF-J88WRPws
 ﻿Narodna]Maya Berović}Djevojački san=http://www.youtube.com/watch?v=DbHXmYRVxAU
 ﻿Narodna]Maya Berović}Djevojačko prezime=http://www.youtube.com/watch?v=0SHFxksroHs
 ﻿Narodna]Maya Berović}Djevojka sa juga=http://www.youtube.com/watch?v=MCeDrDqTEoM
@@ -1281,7 +1281,6 @@ Narodna]Maya Berović}Dilajla=https://www.youtube.com/watch?v=gF-J88WRPws
 ﻿Zabavna]Mia Borisavljević}Sudbino moja sudbino=http://www.youtube.com/watch?v=P4zoNSANIpw
 ﻿Zabavna]Mia Borisavljević}Ženskaroš=http://www.youtube.com/watch?v=LHWppQrTSTk
 ﻿Zabavna]Mia Borisavljević}Zveri (ft. Bojan Grujić)=--start-time=5 http://www.youtube.com/watch?v=oeDRPhltkq0
-﻿Narodna]Mića Stanojević Piromanac}Daj mi samo dan života=http://www.youtube.com/watch?v=lKzBioqHSMI
 ﻿Narodna]Mića Stanojević Piromanac}Hajde Jovo, hajde Jovane=http://www.youtube.com/watch?v=CdQylCpeItU
 ﻿Narodna]Mića Stanojević Piromanac}I za senkom njenom patim=http://www.youtube.com/watch?v=PT-wlPLtkx0
 ﻿Narodna]Mića Stanojević Piromanac}Idem kući, već je kasno=http://www.youtube.com/watch?v=hUDi5Q97hgM
@@ -2116,7 +2115,7 @@ Narodna]Maya Berović}Dilajla=https://www.youtube.com/watch?v=gF-J88WRPws
 ﻿Zabavna]Mišo Kovač}Vrelo mog života=http://www.youtube.com/watch?v=SQQ-u2yKpls
 ﻿Zabavna]Mišo Kovač}Zali to cveće suzama=http://www.youtube.com/watch?v=3uYUfR8lccM
 ﻿Narodna]Miško Pavić}Osamnaest karanfila za tvoj rođendan=http://www.youtube.com/watch?v=Q5iqOtbIHPg
-﻿Narodna]Miško Pavić}Ustaj sine, ustaj, rano moja=http://www.youtube.com/watch?v=_KaSCw97yG8
+﻿Narodna]Miško Pavić}Ustaj sine, ustaj, rano moja=http://www.youtube.com/watch?v=iruY7yOT054
 ﻿Narodna]Miško Pavić}Selo moje zemljo obećana=http://www.youtube.com/watch?v=KKuaYTfNrHk
 ﻿Narodna]Miško Pavić}Nemoj da me ostaviš=http://www.youtube.com/watch?v=gbml05wwWLY
 ﻿Narodna]Miško Pavić}Dođi kad ostaneš sama=http://www.youtube.com/watch?v=07uwQFwRfNQ
@@ -5076,8 +5075,7 @@ Narodna]Maya Berović}Dilajla=https://www.youtube.com/watch?v=gF-J88WRPws
 ﻿Rep~Zabavna]Rasta}Mama=--start-time=6 https://www.youtube.com/watch?v=IHlEsRilD3U
 ﻿Rep~Zabavna]Rasta}Matematika=--start-time=12 https://www.youtube.com/watch?v=1kHwMPKjDe0
 ﻿Rep~Zabavna]Rasta}Moj muškarac (ft. Katarina Didanović)=--start-time=11 https://www.youtube.com/watch?v=YBjatq1hwA8
-﻿Rep~Zabavna]Rasta}Moja stvar=http://www.youtube.com/watch?v=JtQbN1sEBBk
-﻿Rep~Zabavna]Rasta}Noći nemirne=http://www.youtube.com/watch?v=LY262S4eyBo
+﻿Rep~Zabavna]Rasta}Noći nemirne=http://www.youtube.com/watch?v=Z2Mk_yeeRUM
 ﻿Rep~Zabavna]Rasta}Pucam pucam=--start-time=5 http://www.youtube.com/watch?v=-Pk_kvh9ttc
 ﻿Rep~Zabavna]Rasta}Rulet=--start-time=9 https://www.youtube.com/watch?v=nqSWTSJdTJY
 ﻿Rep~Zabavna]Rasta}Sex i grad=--start-time=10 https://www.youtube.com/watch?v=CJrwCcgHrG8
@@ -5761,7 +5759,6 @@ Narodna]Maya Berović}Dilajla=https://www.youtube.com/watch?v=gF-J88WRPws
 ﻿Narodna]Šaban Šaulić}Kad vreme učini svoje=http://www.youtube.com/watch?v=AMKD6f79NnE
 ﻿Narodna]Šaban Šaulić}Kafanac=http://www.youtube.com/watch?v=ZVUfvsQ9hOQ
 ﻿Narodna]Šaban Šaulić}Kafanska noć=http://www.youtube.com/watch?v=HNd7GFSS9pw
-﻿Narodna]Šaban Šaulić}Kajaćeš se jednog dana=http://www.youtube.com/watch?v=ufDw9xtnCp4
 ﻿Narodna]Šaban Šaulić}Kako majko da ti kažem=http://www.youtube.com/watch?v=tyJjBFbyiiI
 ﻿Narodna]Šaban Šaulić}Kako si majko, kako si oče=http://www.youtube.com/watch?v=FFaGjzb5pgA
 ﻿Narodna]Šaban Šaulić}Kazni Bože jednu ženu=http://www.youtube.com/watch?v=Nz8WHuquupY
@@ -5876,7 +5873,6 @@ Narodna]Maya Berović}Dilajla=https://www.youtube.com/watch?v=gF-J88WRPws
 ﻿Narodna]Šaban Šaulić}Pozno bih te među hiljadu žena=http://www.youtube.com/watch?v=_8Jpmgy_4Ng
 ﻿Narodna]Šaban Šaulić}Prestaću da verujem u ljubav=http://www.youtube.com/watch?v=Fu2vahEPFy4
 ﻿Narodna]Šaban Šaulić}Prevarih se, izgubih te=http://www.youtube.com/watch?v=dNnkE8IojK0
-﻿Narodna]Šaban Šaulić}Pričaj mi majko o ocu mome=http://www.youtube.com/watch?v=b9X74k3SVtw
 ﻿Narodna]Šaban Šaulić}Pričuvaj se mala=http://www.youtube.com/watch?v=2DzdeV9Yjno
 ﻿Narodna]Šaban Šaulić}Prikrašću se tebi pod prozore=http://www.youtube.com/watch?v=3exjXUvJNg4
 ﻿Narodna]Šaban Šaulić}Princ na belom konju=http://www.youtube.com/watch?v=5vkcUjYLxLo
@@ -7448,7 +7444,7 @@ Narodna]Maya Berović}Dilajla=https://www.youtube.com/watch?v=gF-J88WRPws
 ﻿Narodna]Šerif Konjević}Zašto se život igra sa nama=http://www.youtube.com/watch?v=QkNE-Z22Kgw
 ﻿Narodna]Šerif Konjević}Zašto, zašto lijepa Mejro=http://www.youtube.com/watch?v=eSK60xTyOGU
 ﻿Narodna]Šerif Konjević}Zauvijek odlazim=http://www.youtube.com/watch?v=kNZQRglJQ4E
-﻿Narodna]Šerif Konjević}Zauvijek si ostala u meni=http://www.youtube.com/watch?v=yX1SRxoSXBM
+﻿Narodna]Šerif Konjević}Zauvijek si ostala u meni=http://www.youtube.com/watch?v=N20ayU-QV3E
 ﻿Narodna]Šerif Konjević}Zbog tebe sam vino pio=http://www.youtube.com/watch?v=CV7VmE6mwTw
 ﻿Narodna]Šerif Konjević}Zemljo, majko=http://www.youtube.com/watch?v=NljRzgiBdtQ
 ﻿Narodna]Šerif Konjević}Živote moj=http://www.youtube.com/watch?v=WfmBP3zNzYA
@@ -10311,29 +10307,27 @@ Narodna]Maya Berović}Dilajla=https://www.youtube.com/watch?v=gF-J88WRPws
 ﻿Zabavna]Željko Šašić}A tebe nema=http://www.youtube.com/watch?v=DXytoOV4XY8
 ﻿Zabavna]Željko Šašić}Crna ženo=http://www.youtube.com/watch?v=SvEgGa1h5kU
 ﻿Zabavna]Željko Šašić}Doviđenja=http://www.youtube.com/watch?v=U9eOG1nu2es
-﻿Zabavna]Željko Šašić}Dve rane=http://www.youtube.com/watch?v=4sZsTfZ-Lro
-﻿Zabavna]Željko Šašić}Gori more=http://www.youtube.com/watch?v=r47DKW4863U
+﻿Zabavna]Željko Šašić}Dve rane=http://www.youtube.com/watch?v=nNDDIk4_tIE
+﻿Zabavna]Željko Šašić}Gori more=http://www.youtube.com/watch?v=o1YjzqTP5H0
 ﻿Zabavna]Željko Šašić}Idi, idi, srećo mala=http://www.youtube.com/watch?v=oDSVnLMTCPY
-﻿Zabavna]Željko Šašić}Ima dana i kafana=http://www.youtube.com/watch?v=CaKyHwDImW0
+﻿Zabavna]Željko Šašić}Ima dana i kafana=http://www.youtube.com/watch?v=7FrxYIQ4t2Y
 ﻿Zabavna]Željko Šašić}Još kunem se u nas=http://www.youtube.com/watch?v=Jq5RaLQkwPs
 ﻿Zabavna]Željko Šašić}Kafanska=http://www.youtube.com/watch?v=dKTCgiTjFJI
 ﻿Zabavna]Željko Šašić}Ko na grani jabuka (duet Ceca)=http://www.youtube.com/watch?v=NF4J9Q_rgGE
-﻿Zabavna]Željko Šašić}Metak=http://www.youtube.com/watch?v=tAS-ahBk-0U
+﻿Zabavna]Željko Šašić}Metak=http://www.youtube.com/watch?v=UyPhsVDi4-E
 ﻿Zabavna]Željko Šašić}Nasamo=http://www.youtube.com/watch?v=5xtGJtbwoOY
-﻿Zabavna]Željko Šašić}Ne bacaj ruže majko=http://www.youtube.com/watch?v=0189wAkF76w
 ﻿Zabavna]Željko Šašić}Neko drugi=http://www.youtube.com/watch?v=M9sOZfqKYFk
-﻿Zabavna]Željko Šašić}Nevernica=http://www.youtube.com/watch?v=9CZmq7iSnyo
 ﻿Zabavna]Željko Šašić}Oči pune tuge (duet Dragana Mirković)=http://www.youtube.com/watch?v=RfV97BzU50E
 ﻿Zabavna]Željko Šašić}Ona je priča života moga=http://www.youtube.com/watch?v=00oiasM7A6I
 ﻿Zabavna]Željko Šašić}Osmi dan u nedelji=http://www.youtube.com/watch?v=RaC1Y0LEJuI
 ﻿Zabavna]Željko Šašić}Paklena je noć=http://www.youtube.com/watch?v=78kp40HL_ao
 ﻿Zabavna]Željko Šašić}Podočnjaci=http://www.youtube.com/watch?v=sAmaOuD7iY0
-﻿Zabavna]Željko Šašić}Poješće me i rđa i crvi=http://www.youtube.com/watch?v=g51ZkQ0lgwc
+﻿Zabavna]Željko Šašić}Poješće me i rđa i crvi=http://www.youtube.com/watch?v=2UKz72anOaM
 ﻿Zabavna]Željko Šašić}Reci Srbijo=http://www.youtube.com/watch?v=WT4w-5vvCuw
 ﻿Zabavna]Željko Šašić}Svaki drugi treći dan=http://www.youtube.com/watch?v=_ulnszY_VA8
-﻿Zabavna]Željko Šašić}Talasna dužina=http://www.youtube.com/watch?v=pFd81DcH0Qw
+﻿Zabavna]Željko Šašić}Talasna dužina=http://www.youtube.com/watch?v=QfOI3jcZ6i0
 ﻿Zabavna]Željko Šašić}Ti lutko moja=http://www.youtube.com/watch?v=Jt1ooRiReAk
-﻿Zabavna]Željko Šašić}Venera=http://www.youtube.com/watch?v=BQI_0pc-D7U
+﻿Zabavna]Željko Šašić}Venera=http://www.youtube.com/watch?v=ekh2oge__Sg
 ﻿Zabavna]Željko Šašić}Vežite mi ruke=http://www.youtube.com/watch?v=fgmdFWTWr9E
 ﻿Zabavna]Željko Vasić}Atina=https://www.youtube.com/watch?v=-WaHzy0iYII
 ﻿Zabavna]Željko Vasić}Australija i Amerika=http://www.youtube.com/watch?v=bDfPQIfE5FM
@@ -10946,7 +10940,6 @@ Narodna]Maya Berović}Dilajla=https://www.youtube.com/watch?v=gF-J88WRPws
 ﻿Rok Strani]AC-DC}If you want blood=https://www.youtube.com/watch?v=6EWqTym2cQU
 ﻿Rok Strani]AC-DC}Moneytalks=https://www.youtube.com/watch?v=2lqdErI9uss
 ﻿Rok Strani]AC-DC}Hard as a rock=https://www.youtube.com/watch?v=X9s_CQx4ylU
-﻿Rok Strani]AC-DC}Stiff upper lip=https://www.youtube.com/watch?v=S5bCPpfYvOw
 ﻿Rok Strani]AC-DC}Walk all over you=https://www.youtube.com/watch?v=_bP6aVG6L1w
 ﻿Rok Strani]AC-DC}Rock the blues away=https://www.youtube.com/watch?v=ss7xyoiNCic
 ﻿Rok Strani]AC-DC}Rock 'n' Roll train=https://www.youtube.com/watch?v=LdRxXID_b28
@@ -13118,7 +13111,7 @@ Narodna]Maya Berović}Dilajla=https://www.youtube.com/watch?v=gF-J88WRPws
 ﻿Rok Strani]Primus}Oompa Veruca=http://www.youtube.com/watch?v=urVCF0AAhPY
 ﻿Rok Strani]Primus}Oompa Violet=http://www.youtube.com/watch?v=CN0E1FX9s4g
 ﻿Rok Strani]Primus}Over The Electric Grapevine=http://www.youtube.com/watch?v=Z3IDWmr4nLY
-﻿Rok Strani]Primus}Over The Falls=http://www.youtube.com/watch?v=RAKxOw6qtRA
+﻿Rok Strani]Primus}Over The Falls=http://www.youtube.com/watch?v=IlI0ktIqZiU
 ﻿Rok Strani]Primus}Pilcher's Squad=http://www.youtube.com/watch?v=qt4A9iTetA0
 ﻿Rok Strani]Primus}Power Mad=http://www.youtube.com/watch?v=1vXleoEBDho
 ﻿Rok Strani]Primus}Puddin' Taine=http://www.youtube.com/watch?v=w7tlsdj8CAQ
@@ -15161,7 +15154,7 @@ Narodna]Maya Berović}Dilajla=https://www.youtube.com/watch?v=gF-J88WRPws
 ﻿Rok Strani]The Beatles}For No One=http://www.youtube.com/watch?v=fNahNa6qrNw
 ﻿Rok Strani]The Beatles}For You Blue=http://www.youtube.com/watch?v=CETOxrVDlWY
 ﻿Rok Strani]The Beatles}Free As A Bird=--start-time=23 http://www.youtube.com/watch?v=ODIvONHPqpk
-﻿Rok Strani]The Beatles}Glad All Over=http://www.youtube.com/watch?v=LO_A-6l16Jk
+﻿Rok Strani]The Beatles}Glad All Over=http://www.youtube.com/watch?v=M-dpilev5pc
 ﻿Rok Strani]The Beatles}Good Day Sunshine=http://www.youtube.com/watch?v=8YldH9Am68s
 ﻿Rok Strani]The Beatles}Good Night=http://www.youtube.com/watch?v=CFCRH-SxwB0
 ﻿Rok Strani]The Beatles}Happiness Is A Warm Gun=http://www.youtube.com/watch?v=8F805bMlWSA
@@ -15564,7 +15557,7 @@ Narodna]Maya Berović}Dilajla=https://www.youtube.com/watch?v=gF-J88WRPws
 ﻿Rok Strani]The Doors}Waiting For The Sun=http://www.youtube.com/watch?v=A0kypyGSKsE
 ﻿Rok Strani]The Doors}Wake Up=http://www.youtube.com/watch?v=h06O02t3s4U
 ﻿Rok Strani]The Doors}Wandering Musician=http://www.youtube.com/watch?v=nQ7Gt6QjXNw
-﻿Rok Strani]The Doors}We Could Be So Good Together=http://www.youtube.com/watch?v=TncVYenbR4c
+﻿Rok Strani]The Doors}We Could Be So Good Together=http://www.youtube.com/watch?v=HrEq2Y8GCsQ
 ﻿Rok Strani]The Doors}Whiskey, Mystics And Men=http://www.youtube.com/watch?v=SOxLCL-9RO8
 ﻿Rok Strani]The Doors}Who Do You Love?=http://www.youtube.com/watch?v=9EmD32AQzaQ
 ﻿Rok Strani]The Doors}Wild Child=http://www.youtube.com/watch?v=c1WuQ50WdKc
@@ -15959,7 +15952,6 @@ Narodna]Maya Berović}Dilajla=https://www.youtube.com/watch?v=gF-J88WRPws
 ﻿Rok Strani]The Offspring}Demons=http://www.youtube.com/watch?v=nFEqbEzaXk8
 ﻿Rok Strani]The Offspring}Denial, Revisited=http://www.youtube.com/watch?v=TRoJLuNAKd4
 ﻿Rok Strani]The Offspring}Dirty Magic=http://www.youtube.com/watch?v=9ZX7cWu8Npo
-﻿Rok Strani]The Offspring}Dividing By Zero=http://www.youtube.com/watch?v=nmLAXHF1LJ8
 ﻿Rok Strani]The Offspring}Don't Pick It Up=http://www.youtube.com/watch?v=AzDMwFUe02w
 ﻿Rok Strani]The Offspring}Elders=http://www.youtube.com/watch?v=-oXkbP4KD8E
 ﻿Rok Strani]The Offspring}Feelings=http://www.youtube.com/watch?v=XnhoIf8dDVE
@@ -15978,7 +15970,7 @@ Narodna]Maya Berović}Dilajla=https://www.youtube.com/watch?v=gF-J88WRPws
 ﻿Rok Strani]The Offspring}Hypodermic=http://www.youtube.com/watch?v=R3HL29jkIyg
 ﻿Rok Strani]The Offspring}I Choose=--start-time=5 http://www.youtube.com/watch?v=7yxbXsQ5yCc
 ﻿Rok Strani]The Offspring}I Wanna Be Sedated=http://www.youtube.com/watch?v=_A7I7cq72qg
-﻿Rok Strani]The Offspring}I Wanna Secret Family (With You)=http://www.youtube.com/watch?v=detQUxiXKUQ
+﻿Rok Strani]The Offspring}I Wanna Secret Family (With You)=http://www.youtube.com/watch?v=K_4DP9Syj0I
 ﻿Rok Strani]The Offspring}I'll Be Waiting=http://www.youtube.com/watch?v=RcExJ39RFeQ
 ﻿Rok Strani]The Offspring}It'll Be A Long Time=http://www.youtube.com/watch?v=Z11PvigNtwY
 ﻿Rok Strani]The Offspring}Jennifer Lost The War=http://www.youtube.com/watch?v=UVqNe_ZlEuk
@@ -16419,7 +16411,7 @@ Narodna]Maya Berović}Dilajla=https://www.youtube.com/watch?v=gF-J88WRPws
 ﻿Rok Strani]Twisted Sister}The Beast=http://www.youtube.com/watch?v=kdLpM1Ph7c0
 ﻿Rok Strani]Twisted Sister}The Christmas Song (Chestnuts Roasting On An Open Fire)=http://www.youtube.com/watch?v=KQQLo1Fb7To
 ﻿Rok Strani]Twisted Sister}The Fire Still Burns=http://www.youtube.com/watch?v=dJd39u-5ygg
-﻿Rok Strani]Twisted Sister}The Kids Are Back=http://www.youtube.com/watch?v=pa2xduJMvzw
+﻿Rok Strani]Twisted Sister}The Kids Are Back=http://www.youtube.com/watch?v=PJvR5dZKYZg
 ﻿Rok Strani]Twisted Sister}The Power And The Glory=http://www.youtube.com/watch?v=hAkuFdg9m0Y
 ﻿Rok Strani]Twisted Sister}The Price=http://www.youtube.com/watch?v=j11aHNnidOQ
 ﻿Rok Strani]Twisted Sister}Tonight=http://www.youtube.com/watch?v=RwRiZHR1DwM
@@ -16431,7 +16423,7 @@ Narodna]Maya Berović}Dilajla=https://www.youtube.com/watch?v=gF-J88WRPws
 ﻿Rok Strani]Twisted Sister}White Christmas=http://www.youtube.com/watch?v=o5AlV3BZ2h4
 ﻿Rok Strani]Twisted Sister}Yeah Right!=http://www.youtube.com/watch?v=EEUkpBJ0UaU
 ﻿Rok Strani]Twisted Sister}You Are All That I Need=http://www.youtube.com/watch?v=XDtaFkVUE6w
-﻿Rok Strani]Twisted Sister}You Can't Stop Rock 'N' Roll=http://www.youtube.com/watch?v=GaehBH7DtR4
+﻿Rok Strani]Twisted Sister}You Can't Stop Rock 'N' Roll=http://www.youtube.com/watch?v=B0BnZuYHkbE
 ﻿Rok Strani]Twisted Sister}You Know I Cry=http://www.youtube.com/watch?v=BlVsZKOIfuU
 ﻿Rok Strani]Twisted Sister}You Want What We Got=http://www.youtube.com/watch?v=iH7ksaBL_h8
 ﻿Rok Strani]Twisted Sister}You're Not Alone (Suzette's Song)=http://www.youtube.com/watch?v=CCu-kbxC-i4
