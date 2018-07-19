@@ -811,7 +811,6 @@
 ﻿Rep]Marchelo}Takav da mirno spava=http://www.youtube.com/watch?v=5arMpk3OM8M
 ﻿Rep]Marchelo}Tunel=http://www.youtube.com/watch?v=04ZbSYCIqGQ
 ﻿Zabavna]Marija Šerifović}11=http://www.youtube.com/watch?v=5e35I07VT3E
-﻿Zabavna]Marija Šerifović}Bez tebe=http://www.youtube.com/watch?v=WfQgd2e-SR8
 ﻿Zabavna]Marija Šerifović}Deo prošlosti=--start-time=7 http://www.youtube.com/watch?v=gl-tAJleiE4
 ﻿Zabavna]Marija Šerifović}Istinu prećuti=http://www.youtube.com/watch?v=nWTAEs-xaBw
 ﻿Zabavna]Marija Šerifović}Ja volim svoj greh=http://www.youtube.com/watch?v=PpInnf0TmFg
@@ -1708,9 +1707,8 @@
 ﻿Zabavna]Milena Ćeranić}Više od života=http://www.youtube.com/watch?v=vEI3DCNF9RM
 ﻿Zabavna]Milena Ćeranić}Zbog tebe mi prete=http://www.youtube.com/watch?v=-oyVuNHWfX8
 ﻿Zabavna]Milena Vučić}Gotova stvar=http://www.youtube.com/watch?v=dO44-0tNZvY
-﻿Zabavna]Milena Vučić}Indijana=http://www.youtube.com/watch?v=frK7mLDBcOk
+﻿Zabavna]Milena Vučić}Indijana=http://www.youtube.com/watch?v=PRE0mWIsWtk
 ﻿Zabavna]Milena Vučić}Lagala sam=http://www.youtube.com/watch?v=YcyzQQibmR4
-﻿Zabavna]Milena Vučić}Luče=http://www.youtube.com/watch?v=J6AUtlG08BA
 ﻿Zabavna]Milena Vučić}Noćas sam luda=http://www.youtube.com/watch?v=-Vocoyvqv9I
 ﻿Zabavna]Milena Vučić}Samo moj=http://www.youtube.com/watch?v=4N3hYmbNGWg
 ﻿Zabavna]Milena Vučić}Zovi svoje drugove=http://www.youtube.com/watch?v=JbVbVA9DfiQ
@@ -2624,7 +2622,7 @@
 ﻿Narodna]Nedeljko Bajić Baja}Noćni taxi=http://www.youtube.com/watch?v=tYwCF6oe2JU
 ﻿Narodna]Nedeljko Bajić Baja}Od ljubavi jače=http://www.youtube.com/watch?v=drwbuf90zww
 ﻿Narodna]Nedeljko Bajić Baja}Oficir s ružom=http://www.youtube.com/watch?v=oIgi8cd2mrQ
-Narodna]Nedeljko Bajić Baja}Ogledalo sreće=https://www.youtube.com/watch?v=mIf0WgKhxoE
+﻿Narodna]Nedeljko Bajić Baja}Ogledalo sreće=https://www.youtube.com/watch?v=mIf0WgKhxoE
 ﻿Narodna]Nedeljko Bajić Baja}Ključ=http://www.youtube.com/watch?v=VkYXor2ncW0
 ﻿Narodna]Nedeljko Bajić Baja}Rođen spreman=--start-time=31 http://www.youtube.com/watch?v=XfSjsBKNVWM
 ﻿Narodna]Nedeljko Bajić Baja}Romansa=http://www.youtube.com/watch?v=Hf9f_SbkpKg
@@ -2732,9 +2730,8 @@ Narodna]Nedeljko Bajić Baja}Ogledalo sreće=https://www.youtube.com/watch?v=mIf
 ﻿Rok]Negative}Bez promene=http://www.youtube.com/watch?v=XKdUrTh_-3A
 ﻿Rok]Negative}Bez straha=http://www.youtube.com/watch?v=uuU5wPMvuD0
 ﻿Rok]Negative}Čarobni napitak=http://www.youtube.com/watch?v=3JRz7C-aUqw
-﻿Rok]Negative}Daj mi ritam=http://www.youtube.com/watch?v=kz-19xwyWM8
-﻿Rok]Negative}Dame biraju=http://www.youtube.com/watch?v=8BQSlCEDmwU
-﻿Rok]Negative}Iznenadi me=http://www.youtube.com/watch?v=E8V2_ke0E6s
+﻿Rok]Negative}Dame biraju=http://www.youtube.com/watch?v=_1ipymvaMNQ
+﻿Rok]Negative}Iznenadi me=http://www.youtube.com/watch?v=fmx-DkIobgc
 ﻿Rok]Negative}Ja bih te sanjala=http://www.youtube.com/watch?v=Y_2f4D6vdRU
 ﻿Rok]Negative}Još čekam ljubav=http://www.youtube.com/watch?v=Hc1c4S2tHns
 ﻿Rok]Negative}Julija=http://www.youtube.com/watch?v=BhqX1J3qyE4
@@ -2760,7 +2757,6 @@ Narodna]Nedeljko Bajić Baja}Ogledalo sreće=https://www.youtube.com/watch?v=mIf
 ﻿Rok]Negative}Spusti me na zemlju=http://www.youtube.com/watch?v=y4OAbhTXYmg
 ﻿Rok]Negative}Šta kažeš sad?=http://www.youtube.com/watch?v=t4LNk2EIDtc
 ﻿Rok]Negative}Svet tuge=http://www.youtube.com/watch?v=-GPvpA6L3sY
-﻿Rok]Negative}Tango=http://www.youtube.com/watch?v=XXlkTQjIq5U
 ﻿Rok]Negative}Ti me ne voliš=http://www.youtube.com/watch?v=H4oVEoaEpHQ
 ﻿Rok]Negative}Ti si laž=http://www.youtube.com/watch?v=6Z8Chcj4zp8
 ﻿Rok]Negative}Tuga nema kraj=http://www.youtube.com/watch?v=GauDEy7AkeQ
@@ -4544,21 +4540,21 @@ Narodna]Nedeljko Bajić Baja}Ogledalo sreće=https://www.youtube.com/watch?v=mIf
 ﻿Zabavna]Ok Band}Samo noćas budi tu=https://www.youtube.com/watch?v=2L_9m45uAwo
 ﻿Zabavna]Ok Band}Ne mogu ti to oprostiti=http://www.youtube.com/watch?v=SQWZL-Dbx48
 ﻿Zabavna]Ok Band}Gde ti je sada on=https://www.youtube.com/watch?v=zkzqll1VjYM
-﻿Zabavna]Ok Band}Volele il ne volele=https://www.youtube.com/watch?v=EDu3F1fgD4U
+﻿Zabavna]Ok Band}Volele il ne volele=http://www.youtube.com/watch?v=8n1Q_75SzQ8
 ﻿Zabavna]Ok Band}Kraljevo Valjevo=http://www.youtube.com/watch?v=1HunAF-UKtg
 ﻿Zabavna]Ok Band}Oko mene lete svi=--start-time=4 https://www.youtube.com/watch?v=xFQntQ9UdT8
 ﻿Zabavna]Ok Band}A u međuvremenu=https://www.youtube.com/watch?v=6wtwUu56G_s
 ﻿Zabavna]Ok Band}Najbolje žene=https://www.youtube.com/watch?v=7t9nnCWkncQ
 ﻿Zabavna]Ok Band}Tri flaše=https://www.youtube.com/watch?v=pgwQcjcCsnY
 ﻿Zabavna]Ok Band}Dobra si mi ti=https://www.youtube.com/watch?v=0jXYLC2miew
-﻿Zabavna]Ok Band}Ne mogu da podnesem=https://www.youtube.com/watch?v=e2oC0oaaLf0
+﻿Zabavna]Ok Band}Ne mogu da podnesem=http://www.youtube.com/watch?v=pFSY4PM6u4o
 ﻿Zabavna]Ok Band}Moja rano=https://www.youtube.com/watch?v=y85MqRTB0b8
 ﻿Zabavna]Ok Band}Zaplakao bih noćas=--start-time=7 https://www.youtube.com/watch?v=pQGY3Uw7JI4
 ﻿Zabavna]Ok Band}Ne gledaj me tako molim te=https://www.youtube.com/watch?v=hnobE0Jg35Q
 ﻿Zabavna]Ok Band}Zapevaj druže=https://www.youtube.com/watch?v=w4bGa6kKL60
 ﻿Zabavna]Ok Band}Lična greška=https://www.youtube.com/watch?v=5BWh4m00MLw
 ﻿Zabavna]Ok Band}Zabranjeni gost=https://www.youtube.com/watch?v=cEIEyPMe7y4
-﻿Zabavna]Ok Band}Emotivno razoren=https://www.youtube.com/watch?v=kXOrBFPHq5A
+﻿Zabavna]Ok Band}Emotivno razoren=http://www.youtube.com/watch?v=Lyw8POUHcIY
 ﻿Zabavna]Ok Band}A kad postanem pepeo=https://www.youtube.com/watch?v=BCXmVw1fGrU
 ﻿Zabavna]Ok Band}Bez milosti=https://www.youtube.com/watch?v=1oAYr-YO2Q4
 ﻿Zabavna]Ok Band}Dnevnik jedne ljubavi=https://www.youtube.com/watch?v=9g4vLGWIOeg
@@ -5071,7 +5067,7 @@ Narodna]Nedeljko Bajić Baja}Ogledalo sreće=https://www.youtube.com/watch?v=mIf
 ﻿Rep~Zabavna]Rasta}Indigo=http://www.youtube.com/watch?v=O4QaUX7zN0Y
 ﻿Rep~Zabavna]Rasta}Kavali=http://www.youtube.com/watch?v=47uIZgIfK10
 ﻿Rep~Zabavna]Rasta}Kavasaki=--start-time=17 http://www.youtube.com/watch?v=Zo8S1ErnnTE
-﻿Rep~Zabavna]Rasta}Kilo kilo=http://www.youtube.com/watch?v=j0Ofvvmleu8
+﻿Rep~Zabavna]Rasta}Kilo kilo=http://www.youtube.com/watch?v=Jrc4Zg4g2bQ
 ﻿Rep~Zabavna]Rasta}Mahinalno (ft. G.I)=--start-time=7 https://www.youtube.com/watch?v=ksIk8Eh895I
 ﻿Rep~Zabavna]Rasta}Mama=--start-time=6 https://www.youtube.com/watch?v=IHlEsRilD3U
 ﻿Rep~Zabavna]Rasta}Matematika=--start-time=12 https://www.youtube.com/watch?v=1kHwMPKjDe0
@@ -5563,7 +5559,7 @@ Narodna]Nedeljko Bajić Baja}Ogledalo sreće=https://www.youtube.com/watch?v=mIf
 ﻿Zabavna]Romana}Krećem od nule=http://www.youtube.com/watch?v=FAFDDUJ4xAA
 ﻿Zabavna]Romana}Lažem=http://www.youtube.com/watch?v=v8ekGfWdHsI
 ﻿Zabavna]Romana}Ljubi mi se=http://www.youtube.com/watch?v=o_B0HcNfz6k
-﻿Zabavna]Romana}Ljubomora=http://www.youtube.com/watch?v=T1nWIDiaC_w
+﻿Zabavna]Romana}Ljubomora=http://www.youtube.com/watch?v=8LEkw4GY7Ao
 ﻿Zabavna]Romana}Med i mleko=--start-time=9 http://www.youtube.com/watch?v=l1qZXa0Zd3g
 ﻿Zabavna]Romana}Mene ti=http://www.youtube.com/watch?v=WNZTTms5wvs
 ﻿Zabavna]Romana}Metar od mene=http://www.youtube.com/watch?v=LKQcuDRZYZ8
@@ -5572,9 +5568,9 @@ Narodna]Nedeljko Bajić Baja}Ogledalo sreće=https://www.youtube.com/watch?v=mIf
 ﻿Zabavna]Romana}Ne kuni se=http://www.youtube.com/watch?v=VDQ8Zo9UNGQ
 ﻿Zabavna]Romana}Ne vjeruj mi=http://www.youtube.com/watch?v=eDDsGb4hajw
 ﻿Zabavna]Romana}Neka ide život=http://www.youtube.com/watch?v=zZ3P7GMZU5Q
-﻿Zabavna]Romana}Nikad i zauvijek=http://www.youtube.com/watch?v=0A-6Hk-RlfU
+﻿Zabavna]Romana}Nikad i zauvijek=http://www.youtube.com/watch?v=sieV9lx0Qhw
 ﻿Zabavna]Romana}Odlazim krišom=http://www.youtube.com/watch?v=-prrldXIKY8
-﻿Zabavna]Romana}Ovjeren=http://www.youtube.com/watch?v=Di8XAmgfGiw
+﻿Zabavna]Romana}Ovjeren=http://www.youtube.com/watch?v=HcZ41MzvtV0
 ﻿Zabavna]Romana}Pas=http://www.youtube.com/watch?v=RSI8gJtyBG8
 ﻿Zabavna]Romana}Praštam ti sve=http://www.youtube.com/watch?v=F3HgBcgvkSs
 ﻿Zabavna]Romana}Prava žena=http://www.youtube.com/watch?v=3sYy0XpP2l4
@@ -5584,9 +5580,9 @@ Narodna]Nedeljko Bajić Baja}Ogledalo sreće=https://www.youtube.com/watch?v=mIf
 ﻿Zabavna]Romana}Šta bi bilo=http://www.youtube.com/watch?v=CtLsRgcBMSg
 ﻿Zabavna]Romana}Staza srama=http://www.youtube.com/watch?v=iozZ0yO0snw
 ﻿Zabavna]Romana}Suđena=http://www.youtube.com/watch?v=cHLgAtpLFf4
-﻿Zabavna]Romana}Ti ipak svojoj djeci=http://www.youtube.com/watch?v=5B3lYhbpI-A
+﻿Zabavna]Romana}Ti ipak svojoj djeci=http://www.youtube.com/watch?v=nGt-iFMlhy8
 ﻿Zabavna]Romana}Titula=http://www.youtube.com/watch?v=wK69-QHbiFc
-﻿Zabavna]Romana}To nije moja priča=http://www.youtube.com/watch?v=3z-bh3g_pOc
+﻿Zabavna]Romana}To nije moja priča=http://www.youtube.com/watch?v=5ozF9W25-2U
 ﻿Zabavna]Romana}Ubjedio si me=http://www.youtube.com/watch?v=KZI-7nbD_Vc
 ﻿Zabavna]Romana}Venera=http://www.youtube.com/watch?v=sWKWL_fBrlA
 ﻿Zabavna]Romana}Za ljepšu Srpsku=http://www.youtube.com/watch?v=LA0rANFKO2s
@@ -9081,7 +9077,7 @@ Narodna]Nedeljko Bajić Baja}Ogledalo sreće=https://www.youtube.com/watch?v=mIf
 ﻿Zabavna]Toše Proeski}Čini=http://www.youtube.com/watch?v=U5CQZoOx9JE
 ﻿Zabavna]Toše Proeski}Cresa=http://www.youtube.com/watch?v=QpUxS04hnT4
 ﻿Zabavna]Toše Proeski}Čuješ li=http://www.youtube.com/watch?v=enG87bsHGsU
-﻿Zabavna]Toše Proeski}Da l' si sretnija=http://www.youtube.com/watch?v=_n3eUKdZFPM
+﻿Zabavna]Toše Proeski}Da l' si sretnija=http://www.youtube.com/watch?v=EjhTpyHygsE
 ﻿Zabavna]Toše Proeski}Hej plavooka, hej bosonoga=http://www.youtube.com/watch?v=hyjkUUbDjus
 ﻿Zabavna]Toše Proeski}Hold me tight=http://www.youtube.com/watch?v=lmeB1zH4e38
 ﻿Zabavna]Toše Proeski}Igra bez granica=http://www.youtube.com/watch?v=VMT50KhLlRw
@@ -9109,7 +9105,7 @@ Narodna]Nedeljko Bajić Baja}Ogledalo sreće=https://www.youtube.com/watch?v=mIf
 ﻿Zabavna]Toše Proeski}Na mjesto zločina=http://www.youtube.com/watch?v=-gxD7mdbXOA
 ﻿Zabavna]Toše Proeski}Naj, naj=http://www.youtube.com/watch?v=LzdRa2CnOQ0
 ﻿Zabavna]Toše Proeski}Najljepše moje=http://www.youtube.com/watch?v=mntRqsoqnYU
-﻿Zabavna]Toše Proeski}Nesanica=http://www.youtube.com/watch?v=MtRkxrIFPSM
+﻿Zabavna]Toše Proeski}Nesanica=http://www.youtube.com/watch?v=oVFy1VOgTLM
 ﻿Zabavna]Toše Proeski}Nikada=http://www.youtube.com/watch?v=3CXE_od95As
 ﻿Zabavna]Toše Proeski}Oj, devojče, devojče=http://www.youtube.com/watch?v=wigpz8WGkLc
 ﻿Zabavna]Toše Proeski}Oprosti=http://www.youtube.com/watch?v=v0Xc5UQOAg4
@@ -9131,7 +9127,7 @@ Narodna]Nedeljko Bajić Baja}Ogledalo sreće=https://www.youtube.com/watch?v=mIf
 ﻿Zabavna]Toše Proeski}The hardest thing=http://www.youtube.com/watch?v=RXqa7TVXTpg
 ﻿Zabavna]Toše Proeski}This world=http://www.youtube.com/watch?v=bIJFO752FXI
 ﻿Zabavna]Toše Proeski}Ubijaš me usnama=http://www.youtube.com/watch?v=I-xDqPsz6gk
-﻿Zabavna]Toše Proeski}Vezi me za sebe=http://www.youtube.com/watch?v=qeZHwO0gM-o
+﻿Zabavna]Toše Proeski}Vezi me za sebe=http://www.youtube.com/watch?v=qlSNh8gAreU
 ﻿Zabavna]Toše Proeski}Volim osmijeh tvoj=http://www.youtube.com/watch?v=6u2wfHqmq24
 ﻿Zabavna]Toše Proeski}Za ovoj svet=http://www.youtube.com/watch?v=weH-t-JMsqA
 ﻿Zabavna]Toše Proeski}Žao mi je=http://www.youtube.com/watch?v=FFWw3MweRBI
@@ -10281,7 +10277,7 @@ Narodna]Nedeljko Bajić Baja}Ogledalo sreće=https://www.youtube.com/watch?v=mIf
 ﻿Zabavna]Željko Samardžić}Ljubav je sudbina=http://www.youtube.com/watch?v=LTkBStHwJ_U
 ﻿Zabavna]Željko Samardžić}Ljubav na papiru=http://www.youtube.com/watch?v=N1IaiQfrxzA
 ﻿Zabavna]Željko Samardžić}Ljubavna adresa=http://www.youtube.com/watch?v=O8DHadThdtw
-﻿Zabavna]Željko Samardžić}Ljubavnik=http://www.youtube.com/watch?v=WRn5YDYWwM4
+﻿Zabavna]Željko Samardžić}Ljubavnik=http://www.youtube.com/watch?v=apBbsA1c0vI
 ﻿Zabavna]Željko Samardžić}Mesec u vodi=http://www.youtube.com/watch?v=UEU_V8OlLtg
 ﻿Zabavna]Željko Samardžić}Mila=--start-time=4 http://www.youtube.com/watch?v=1BQy6etAN5s
 ﻿Zabavna]Željko Samardžić}Mogu još da poludim=http://www.youtube.com/watch?v=lOUECIKkO_s
@@ -10298,7 +10294,7 @@ Narodna]Nedeljko Bajić Baja}Ogledalo sreće=https://www.youtube.com/watch?v=mIf
 ﻿Zabavna]Željko Samardžić}Posle duge veze=http://www.youtube.com/watch?v=q9DQif31k5o
 ﻿Zabavna]Željko Samardžić}Prava ljubav godine ne broji=http://www.youtube.com/watch?v=EDQqLp6aFAM
 ﻿Zabavna]Željko Samardžić}Slutim=http://www.youtube.com/watch?v=Nm_B6IiV77M
-﻿Zabavna]Željko Samardžić}Stani mi na crtu=http://www.youtube.com/watch?v=DLAP_gErCJM
+﻿Zabavna]Željko Samardžić}Stani mi na crtu=http://www.youtube.com/watch?v=igcjahioSFw
 ﻿Zabavna]Željko Samardžić}Stari lav=http://www.youtube.com/watch?v=Yf-NHfajgGs
 ﻿Zabavna]Željko Samardžić}Sve je surovo=http://www.youtube.com/watch?v=IjG7z7qeaoI
 ﻿Zabavna]Željko Samardžić}Sve si mi naplatila=http://www.youtube.com/watch?v=JTZYpgQQitc
@@ -13205,7 +13201,6 @@ Narodna]Nedeljko Bajić Baja}Ogledalo sreće=https://www.youtube.com/watch?v=mIf
 ﻿Rok Strani]Queensryche}Got It Bad=http://www.youtube.com/watch?v=x1vqZEZsPgg
 ﻿Rok Strani]Queensryche}Hand On Heart=http://www.youtube.com/watch?v=NIy4c_Rsw0s
 ﻿Rok Strani]Queensryche}Hard Times=http://www.youtube.com/watch?v=JxtxdOt3P0w
-﻿Rok Strani]Queensryche}Heaven On Their Minds=http://www.youtube.com/watch?v=uGG8ER2OAe8
 ﻿Rok Strani]Queensryche}Hellfire=http://www.youtube.com/watch?v=MU6582h7aPk
 ﻿Rok Strani]Queensryche}Hero=http://www.youtube.com/watch?v=NFm8yRnTr4Q
 ﻿Rok Strani]Queensryche}Higher=http://www.youtube.com/watch?v=kWGxtJTkPP0
@@ -15532,7 +15527,7 @@ Narodna]Nedeljko Bajić Baja}Ogledalo sreće=https://www.youtube.com/watch?v=mIf
 ﻿Rok Strani]The Doors}Ship Of Fools=http://www.youtube.com/watch?v=Y8Q9YcOEhgM
 ﻿Rok Strani]The Doors}Someday Soon=http://www.youtube.com/watch?v=f3NP_FCKvBc
 ﻿Rok Strani]The Doors}Soul Kitchen=http://www.youtube.com/watch?v=2W7TfJRj7fI
-﻿Rok Strani]The Doors}Spanish Caravan=http://www.youtube.com/watch?v=eszNKHrXxgY
+﻿Rok Strani]The Doors}Spanish Caravan=http://www.youtube.com/watch?v=-IBoisJ6h3Q
 ﻿Rok Strani]The Doors}Stoned Immaculate=http://www.youtube.com/watch?v=_D5DIEbT-es
 ﻿Rok Strani]The Doors}Strange Days=http://www.youtube.com/watch?v=DI76mRtSD9g
 ﻿Rok Strani]The Doors}Summer's Almost Gone=http://www.youtube.com/watch?v=4ZQWr7cF0eY
@@ -15546,7 +15541,7 @@ Narodna]Nedeljko Bajić Baja}Ogledalo sreće=https://www.youtube.com/watch?v=mIf
 ﻿Rok Strani]The Doors}The Peking King And The New York Queen=http://www.youtube.com/watch?v=rJlZ2nCcFkc
 ﻿Rok Strani]The Doors}The Piano Bird=http://www.youtube.com/watch?v=Yv11B26WeK0
 ﻿Rok Strani]The Doors}The Spy=http://www.youtube.com/watch?v=F7SQpjhbcws
-﻿Rok Strani]The Doors}The Unknown Soldier=http://www.youtube.com/watch?v=6LSCoBk8hgU
+﻿Rok Strani]The Doors}The Unknown Soldier=http://www.youtube.com/watch?v=qZPIlO7jLmw
 ﻿Rok Strani]The Doors}The Wasp (Texas Radio And The Big Beat)=http://www.youtube.com/watch?v=yXoL712heHI
 ﻿Rok Strani]The Doors}Tightrope Ride=http://www.youtube.com/watch?v=E7llRmYTJts
 ﻿Rok Strani]The Doors}Touch Me=http://www.youtube.com/watch?v=y7GKblttlMY
@@ -16306,7 +16301,7 @@ Narodna]Nedeljko Bajić Baja}Ogledalo sreće=https://www.youtube.com/watch?v=mIf
 ﻿Rok Strani]Thin Lizzy}This Is The One=http://www.youtube.com/watch?v=n7I8w1E-vNo
 ﻿Rok Strani]Thin Lizzy}Toughest Street In Town=http://www.youtube.com/watch?v=gMp632tBE64
 ﻿Rok Strani]Thin Lizzy}Vagabond Of The Western World=http://www.youtube.com/watch?v=TCgVEA6Qr5Y
-﻿Rok Strani]Thin Lizzy}Waiting For An Alibi=http://www.youtube.com/watch?v=gJZDyqR4JuE
+﻿Rok Strani]Thin Lizzy}Waiting For An Alibi=http://www.youtube.com/watch?v=Bh_0_Kb7hJY
 ﻿Rok Strani]Thin Lizzy}Warriors=http://www.youtube.com/watch?v=zU8XsFKEE7I
 ﻿Rok Strani]Thin Lizzy}We Will Be Strong=http://www.youtube.com/watch?v=d9fG7oxOzYw
 ﻿Rok Strani]Thin Lizzy}Whiskey In The Jar=http://www.youtube.com/watch?v=_j4OC7-g_84
@@ -16413,7 +16408,7 @@ Narodna]Nedeljko Bajić Baja}Ogledalo sreće=https://www.youtube.com/watch?v=mIf
 ﻿Rok Strani]Twisted Sister}The Christmas Song (Chestnuts Roasting On An Open Fire)=http://www.youtube.com/watch?v=KQQLo1Fb7To
 ﻿Rok Strani]Twisted Sister}The Fire Still Burns=http://www.youtube.com/watch?v=dJd39u-5ygg
 ﻿Rok Strani]Twisted Sister}The Kids Are Back=http://www.youtube.com/watch?v=PJvR5dZKYZg
-﻿Rok Strani]Twisted Sister}The Power And The Glory=http://www.youtube.com/watch?v=hAkuFdg9m0Y
+﻿Rok Strani]Twisted Sister}The Power And The Glory=http://www.youtube.com/watch?v=S1TX-h2k8ts
 ﻿Rok Strani]Twisted Sister}The Price=http://www.youtube.com/watch?v=j11aHNnidOQ
 ﻿Rok Strani]Twisted Sister}Tonight=http://www.youtube.com/watch?v=RwRiZHR1DwM
 ﻿Rok Strani]Twisted Sister}Under The Blade=http://www.youtube.com/watch?v=0pPjmOjcDeE
@@ -16666,7 +16661,7 @@ Narodna]Nedeljko Bajić Baja}Ogledalo sreće=https://www.youtube.com/watch?v=mIf
 ﻿Rok Strani]Van Halen}Everybody Wants Some!!=http://www.youtube.com/watch?v=z9Hr2dARH-E
 ﻿Rok Strani]Van Halen}Feel Your Love Tonight=http://www.youtube.com/watch?v=VnsTnN8mBuo
 ﻿Rok Strani]Van Halen}Feelin'=http://www.youtube.com/watch?v=9aSoXogBhgI
-﻿Rok Strani]Van Halen}Feels So Good=http://www.youtube.com/watch?v=8bOp8TqPq7c
+﻿Rok Strani]Van Halen}Feels So Good=http://www.youtube.com/watch?v=H2nPkDFpXfM
 ﻿Rok Strani]Van Halen}Finish What Ya Started=http://www.youtube.com/watch?v=nqyZMjFqFf0
 ﻿Rok Strani]Van Halen}Fire In The Hole=http://www.youtube.com/watch?v=QToAzhRYmTA
 ﻿Rok Strani]Van Halen}Fools=http://www.youtube.com/watch?v=r9lnp7SRi9A
@@ -16788,7 +16783,7 @@ Narodna]Nedeljko Bajić Baja}Ogledalo sreće=https://www.youtube.com/watch?v=mIf
 ﻿Rok Strani]White Zombie}Shack Of Hate=http://www.youtube.com/watch?v=6Sz0lUp9-Vs
 ﻿Rok Strani]White Zombie}Skin=http://www.youtube.com/watch?v=whVR2lzML_M
 ﻿Rok Strani]White Zombie}Slaughter The Gray=http://www.youtube.com/watch?v=HDLrvsAcGRE
-﻿Rok Strani]White Zombie}Soul-Crusher=http://www.youtube.com/watch?v=F3U_WrLLUkU
+﻿Rok Strani]White Zombie}Soul-Crusher=http://www.youtube.com/watch?v=os7B_X5AGr8
 ﻿Rok Strani]White Zombie}Spiderbaby (Yeah-Yeah-Yeah)=http://www.youtube.com/watch?v=vGOrqsPDsj0
 ﻿Rok Strani]White Zombie}Starface=http://www.youtube.com/watch?v=kAPochpYGdY
 ﻿Rok Strani]White Zombie}Super-Charger Heaven=http://www.youtube.com/watch?v=SRshPCM9lhk
