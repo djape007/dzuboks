@@ -1707,7 +1707,6 @@
 ﻿Zabavna]Milena Ćeranić}Sve pred sobom gazim=http://www.youtube.com/watch?v=NBrDRwMXP_Y
 ﻿Zabavna]Milena Ćeranić}Više od života=http://www.youtube.com/watch?v=vEI3DCNF9RM
 ﻿Zabavna]Milena Ćeranić}Zbog tebe mi prete=http://www.youtube.com/watch?v=-oyVuNHWfX8
-﻿Zabavna]Milena Vučić}Lagala sam=http://www.youtube.com/watch?v=kwGSCLsEqxs
 ﻿Zabavna]Milena Vučić}Noćas sam luda=http://www.youtube.com/watch?v=-Vocoyvqv9I
 ﻿Zabavna]Milena Vučić}Samo moj=http://www.youtube.com/watch?v=4N3hYmbNGWg
 ﻿Zabavna]Milena Vučić}Zovi svoje drugove=http://www.youtube.com/watch?v=JbVbVA9DfiQ
@@ -3536,7 +3535,7 @@
 ﻿Zabavna]Oliver Mandić}Osloni se na mene=http://www.youtube.com/watch?v=NAQWH-euT_o
 ﻿Zabavna]Oliver Mandić}Pitaju me, pitaju=http://www.youtube.com/watch?v=fPUU51yloHg
 ﻿Zabavna]Oliver Mandić}Poludeću=http://www.youtube.com/watch?v=vUuDvbNDbxk
-﻿Zabavna]Oliver Mandić}Pomagajte drugovi=http://www.youtube.com/watch?v=7yfiV1U323I
+﻿Zabavna]Oliver Mandić}Pomagajte drugovi=http://www.youtube.com/watch?v=TZxWsK40ZyU
 ﻿Zabavna]Oliver Mandić}Probaj me=http://www.youtube.com/watch?v=nGSdhXaGTf8
 ﻿Zabavna]Oliver Mandić}Probudi se na čas=http://www.youtube.com/watch?v=xRirChyPECk
 ﻿Zabavna]Oliver Mandić}Smejem se, a plakao bih=http://www.youtube.com/watch?v=vbIDRf6Zyh4
@@ -5546,7 +5545,7 @@
 ﻿Zabavna]Romana}Duga=http://www.youtube.com/watch?v=hzGD37RppNo
 ﻿Zabavna]Romana}Još te koštam=http://www.youtube.com/watch?v=cSbAON3PNNk
 ﻿Zabavna]Romana}Još uvijek=http://www.youtube.com/watch?v=qby7fuXvr54
-﻿Zabavna]Romana}Kad mi gore obrazi=http://www.youtube.com/watch?v=o7I1KvAZhy4
+﻿Zabavna]Romana}Kad mi gore obrazi=http://www.youtube.com/watch?v=19WNDqHpvE4
 ﻿Zabavna]Romana}Kap po kap=http://www.youtube.com/watch?v=C0JkOCyeHQg
 ﻿Zabavna]Romana}Krećem od nule=http://www.youtube.com/watch?v=FAFDDUJ4xAA
 ﻿Zabavna]Romana}Lažem=http://www.youtube.com/watch?v=v8ekGfWdHsI
@@ -5565,7 +5564,6 @@
 ﻿Zabavna]Romana}Ovjeren=http://www.youtube.com/watch?v=HcZ41MzvtV0
 ﻿Zabavna]Romana}Pas=http://www.youtube.com/watch?v=RSI8gJtyBG8
 ﻿Zabavna]Romana}Praštam ti sve=http://www.youtube.com/watch?v=F3HgBcgvkSs
-﻿Zabavna]Romana}Prava žena=http://www.youtube.com/watch?v=3sYy0XpP2l4
 ﻿Zabavna]Romana}Rani me=http://www.youtube.com/watch?v=Mu-HVnGtLyA
 ﻿Zabavna]Romana}Samoodbrana=http://www.youtube.com/watch?v=yFpYCjFhTzA
 ﻿Zabavna]Romana}Slatko, najslađe=http://www.youtube.com/watch?v=GwJcxDTRnYQ
@@ -9101,7 +9099,7 @@
 ﻿Zabavna]Toše Proeski}Oprosti=http://www.youtube.com/watch?v=v0Xc5UQOAg4
 ﻿Zabavna]Toše Proeski}Ostala si uvijek ista=http://www.youtube.com/watch?v=hJGnCcJkvtA
 ﻿Zabavna]Toše Proeski}Pogledaj u mene=http://www.youtube.com/watch?v=MIUAmtMT1As
-﻿Zabavna]Toše Proeski}Pola duše, pola srca=http://www.youtube.com/watch?v=XD6ZYevPokE
+﻿Zabavna]Toše Proeski}Pola duše, pola srca=http://www.youtube.com/watch?v=MNfyMeroU3M
 ﻿Zabavna]Toše Proeski}Poljsko cvijeće=http://www.youtube.com/watch?v=tXxIWWwgwdA
 ﻿Zabavna]Toše Proeski}Pomozi mi=http://www.youtube.com/watch?v=euk3HW-cjZs
 ﻿Zabavna]Toše Proeski}Pratim te=http://www.youtube.com/watch?v=d8Nmf0R5t_w
@@ -9116,7 +9114,7 @@
 ﻿Zabavna]Toše Proeski}Tajno moja=http://www.youtube.com/watch?v=UbzMvMURwHE
 ﻿Zabavna]Toše Proeski}The hardest thing=http://www.youtube.com/watch?v=RXqa7TVXTpg
 ﻿Zabavna]Toše Proeski}This world=http://www.youtube.com/watch?v=bIJFO752FXI
-﻿Zabavna]Toše Proeski}Ubijaš me usnama=http://www.youtube.com/watch?v=I-xDqPsz6gk
+﻿Zabavna]Toše Proeski}Ubijaš me usnama=http://www.youtube.com/watch?v=WYfIxFWNy9M
 ﻿Zabavna]Toše Proeski}Vezi me za sebe=http://www.youtube.com/watch?v=qlSNh8gAreU
 ﻿Zabavna]Toše Proeski}Volim osmijeh tvoj=http://www.youtube.com/watch?v=yWFFUETxdjI
 ﻿Zabavna]Toše Proeski}Za ovoj svet=http://www.youtube.com/watch?v=weH-t-JMsqA
@@ -10403,17 +10401,14 @@
 ﻿Narodna]Zoka Bosanac}Kristina=http://www.youtube.com/watch?v=EMrnfSFaTnE
 ﻿Narodna]Zoka Bosanac}Moja žena ima svalera=http://www.youtube.com/watch?v=GpDRxrzOy4I
 ﻿Narodna]Zoka Bosanac}Pistolj i Bosanac=http://www.youtube.com/watch?v=SpKVTuavvwo
-﻿Narodna]Zoran Džiknić Džile}100 ljubavi=http://www.youtube.com/watch?v=6nWpylENbE8
+﻿Narodna]Zoran Džiknić Džile}100 ljubavi=http://www.youtube.com/watch?v=mz3zh_hjCYo
 ﻿Narodna]Zoran Džiknić Džile}Malena=http://www.youtube.com/watch?v=BpZOMaGvYv4
-﻿Narodna]Zoran Džiknić Džile}Momačko veče=http://www.youtube.com/watch?v=y19vnea1VYk
-﻿Narodna]Zoran Džiknić Džile}Oči plave=http://www.youtube.com/watch?v=lfMiXNhXvuY
-﻿Narodna]Zoran Džiknić Džile}Ostani=http://www.youtube.com/watch?v=9Eray1-_rmk
-﻿Narodna]Zoran Džiknić Džile}Pozovi=http://www.youtube.com/watch?v=cSbxUdAM75c
-﻿Narodna]Zoran Džiknić Džile}Ranjeno srce=http://www.youtube.com/watch?v=3lpd0BAbmLU
-﻿Narodna]Zoran Džiknić Džile}Što je bilo, to je bilo=http://www.youtube.com/watch?v=Ps-U56lJD3M
-﻿Narodna]Zoran Džiknić Džile}Tekila=http://www.youtube.com/watch?v=lA8xhiMY5vE
-﻿Narodna]Zoran Džiknić Džile}Vremeplov=http://www.youtube.com/watch?v=B3lyw9q3kQA
-﻿Narodna]Zoran Džiknić Džile}Za ljubav našu=http://www.youtube.com/watch?v=n7carB52rX0
+﻿Narodna]Zoran Džiknić Džile}Momačko veče=http://www.youtube.com/watch?v=lc1qW_pAEA8
+﻿Narodna]Zoran Džiknić Džile}Oči plave=http://www.youtube.com/watch?v=j61_Qj5uxa4
+﻿Narodna]Zoran Džiknić Džile}Pozovi=http://www.youtube.com/watch?v=WuAcVRV4Vvs
+﻿Narodna]Zoran Džiknić Džile}Ranjeno srce=http://www.youtube.com/watch?v=Vp3IVG7oyCc
+﻿Narodna]Zoran Džiknić Džile}Vremeplov=http://www.youtube.com/watch?v=1UMEVplgF0E
+﻿Narodna]Zoran Džiknić Džile}Za ljubav našu=http://www.youtube.com/watch?v=FfmUyzCdfsY
 ﻿Narodna]Zoran Gajić}Kruševljanka=http://www.youtube.com/watch?v=D8iNfLsPEwg
 ﻿Narodna]Zoran Gajić}Nisam te se nagledao=http://www.youtube.com/watch?v=dq4TzNlVmXw
 ﻿Narodna]Zoran Gajić}Oj Dunave=http://www.youtube.com/watch?v=5e7kqRNm_I8
@@ -12936,7 +12931,7 @@
 ﻿Rok Strani]Pink Floyd}Wot's...Uh The Deal?=http://www.youtube.com/watch?v=H30MOeV0KLQ
 ﻿Rok Strani]Pink Floyd}Young Lust=http://www.youtube.com/watch?v=thBohH1dJrg
 ﻿Rok Strani]Pink Floyd}Your Possible Pasts=http://www.youtube.com/watch?v=a-K7cmO-igk
-﻿Rok Strani]Pixies}Alec Eiffel=http://www.youtube.com/watch?v=xf20Effo6ds
+﻿Rok Strani]Pixies}Alec Eiffel=http://www.youtube.com/watch?v=rsMLjaloyvI
 ﻿Rok Strani]Pixies}All I Think About Now=http://www.youtube.com/watch?v=7Nf8o-qhO2g
 ﻿Rok Strani]Pixies}All Over The World=http://www.youtube.com/watch?v=yin0i3q46_Y
 ﻿Rok Strani]Pixies}All The Saints=http://www.youtube.com/watch?v=loG0HjEjWMU
@@ -12957,7 +12952,7 @@
 ﻿Rok Strani]Pixies}Cactus=http://www.youtube.com/watch?v=Ex272jpUOSg
 ﻿Rok Strani]Pixies}Caribou=http://www.youtube.com/watch?v=HPLCAVknATk
 ﻿Rok Strani]Pixies}Classic Masher=http://www.youtube.com/watch?v=ZZk91Kibu8U
-﻿Rok Strani]Pixies}Dancing The Manta Ray=http://www.youtube.com/watch?v=_tKGk17LUtE
+﻿Rok Strani]Pixies}Dancing The Manta Ray=http://www.youtube.com/watch?v=128hG7lMosI
 ﻿Rok Strani]Pixies}Dead=http://www.youtube.com/watch?v=J_mWAYOdXGo
 ﻿Rok Strani]Pixies}Debaser=http://www.youtube.com/watch?v=GZRpANN4NF8
 ﻿Rok Strani]Pixies}Dig For Fire=http://www.youtube.com/watch?v=3Ep8X38tjTg
@@ -17165,7 +17160,6 @@
 ﻿Rok Strani]B. B. King}Any Other Way=http://www.youtube.com/watch?v=ETjaZd6hC6s
 ﻿Rok Strani]B. B. King}Army Of The Lord=http://www.youtube.com/watch?v=9BlYjxVKBKY
 ﻿Rok Strani]B. B. King}Ask Me No Questions=http://www.youtube.com/watch?v=bBaD1ACSvL0
-﻿Rok Strani]B. B. King}B.B.'s Blues=http://www.youtube.com/watch?v=8TEOecabSXI
 ﻿Rok Strani]B. B. King}B.B.'s Boogie=http://www.youtube.com/watch?v=2R6tx7Ex1lQ
 ﻿Rok Strani]B. B. King}Baby Get Lost=http://www.youtube.com/watch?v=NxDQamZ5kbc
 ﻿Rok Strani]B. B. King}Baby, Look At You=http://www.youtube.com/watch?v=W5kfl8V5atw
