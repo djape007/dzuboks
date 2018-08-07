@@ -425,7 +425,7 @@
 ﻿Narodna]Louis}Crni oblak=http://www.youtube.com/watch?v=Ec_fTWUC_KM
 ﻿Narodna]Louis}Drumovi=http://www.youtube.com/watch?v=kIjC3IqLeIY
 ﻿Narodna]Louis}Dudo=http://www.youtube.com/watch?v=hUqAc6Nzapc
-﻿Narodna]Louis}Dug samoći=--start-time=5 http://www.youtube.com/watch?v=GsBWpYFfIs8
+﻿Narodna]Louis}Dug samoći=http://www.youtube.com/watch?v=w2zUw4EJ_R8
 ﻿Narodna]Louis}Dunjo moja=http://www.youtube.com/watch?v=SQLiQqZzM0M
 ﻿Narodna]Louis}Evo me opet=http://www.youtube.com/watch?v=AILdH3i84iA
 ﻿Narodna]Louis}Garava=http://www.youtube.com/watch?v=xC4cpn5ZOd8
@@ -3307,7 +3307,7 @@
 ﻿Narodna]Novica Urošević}Stali smo na pola puta=http://www.youtube.com/watch?v=7VXp271ODwQ
 ﻿Narodna]Novica Urošević}Ti u sebi imaš nešto=http://www.youtube.com/watch?v=U_LLuxqfkN8
 ﻿Narodna]Novica Urošević}Ulicom glumim srećnika=http://www.youtube.com/watch?v=XvueCsJ445A
-﻿Narodna]Novica Urošević}Umoran je stari ciga=http://www.youtube.com/watch?v=FltBykGReT4
+﻿Narodna]Novica Urošević}Umoran je stari ciga=http://www.youtube.com/watch?v=9QPA991TR-E
 ﻿Narodna]Novica Urošević}Umorni su i svirači=http://www.youtube.com/watch?v=5WQFiap0S_I
 ﻿Narodna]Novica Urošević}Ustaj sine, majka zove=http://www.youtube.com/watch?v=9-1aeP7M9qA
 ﻿Narodna]Novica Urošević}Ustaj, sine, zora je=http://www.youtube.com/watch?v=FxNKqKMvxEE
@@ -4571,6 +4571,7 @@
 ﻿Narodna]Amar Gile}Prekasno=--start-time=3 https://www.youtube.com/watch?v=okgAbR3YlH4
 ﻿Narodna]Amar Gile}Spreman na sve=--start-time=5 https://www.youtube.com/watch?v=PR9CIBfw_gs
 ﻿Narodna]Amar Gile}Pijano=--start-time=19 https://www.youtube.com/watch?v=9m8uUoUR3qU
+Narodna]Amar Gile}Ponekad (ft. Jelena Kostov)=---start-time=6 https://www.youtube.com/watch?v=IQvkxlfG3Qg
 ﻿Narodna]Amar Gile}Imam samo jednu želju=--start-time=60 https://www.youtube.com/watch?v=LXGQ4rWfN8A
 ﻿Narodna]Amar Gile}Čovjek tvoga sna=https://www.youtube.com/watch?v=O6XRRBmaFT8
 ﻿Narodna]Amar Gile}Nije kraj=https://www.youtube.com/watch?v=EkH4NJHcffU
@@ -6130,63 +6131,63 @@
 ﻿Narodna]Safet Isović}Žena očiju plavih=http://www.youtube.com/watch?v=B8cqyIP_QLY
 ﻿Narodna]Safet Isović}Ženo bola mog=http://www.youtube.com/watch?v=WETorw19TAc
 ﻿Narodna]Safet Isović}Zmaj od Bosne=http://www.youtube.com/watch?v=I1UxKJgqVSo
-﻿Rep]Sajsi MC}Nadrkano hodanje=--start-time=4 https://www.youtube.com/watch?v=6BU_Kz6eonA
-﻿Rep]Sajsi MC}Lokal beogradizam=https://www.youtube.com/watch?v=PqJ90XaKCN0
-﻿Rep]Sajsi MC}PAPA (ft. RIOT 87)=https://www.youtube.com/watch?v=TfXTBSL90Y0
-﻿Rep]Sajsi MC}Dobacuju na ulici=https://www.youtube.com/watch?v=rAm80D4Vj18
-﻿Rep]Sajsi MC}BOT (ft. BKO)=--start-time=16 https://www.youtube.com/watch?v=H25V5zSBnLg
-﻿Rep]Sajsi MC}Pomozi Bože=https://www.youtube.com/watch?v=WT0uXndTE28
-﻿Rep]Sajsi MC}Znam šta ste hteli (ft. BKO)=--start-time=14 https://www.youtube.com/watch?v=5tqs5EkbZHY
-﻿Rep]Sajsi MC}Sa devojkom u shopping mall=--start-time=23 https://www.youtube.com/watch?v=RdNzi3HCBCM
-﻿Rep]Sajsi MC}Antidepresivi (ft. BKO)=https://www.youtube.com/watch?v=BAyzz54ga78
-﻿Rep]Sajsi MC}Pidžama vinjak party (ft. Krankšvester)=https://www.youtube.com/watch?v=WQqmT3xzOYs
-﻿Rep]Sajsi MC}Roze tašnica=https://www.youtube.com/watch?v=Zqto8OAe6Nw
-﻿Rep]Sajsi MC}Haj ez fak (ft. BKO)=https://www.youtube.com/watch?v=8nqAO1hYDqs
-﻿Rep]Sajsi MC}Denserke (ft. BKO)=https://www.youtube.com/watch?v=fLNFt7iahuE
-﻿Rep]Sajsi MC}Mališa=https://www.youtube.com/watch?v=Cz36NHSMHQY
-﻿Rep]Sajsi MC}Nesanica (ft. BKO)=https://www.youtube.com/watch?v=Q27lzhLTw5Y
-﻿Rep]Sajsi MC}Pornoza=https://www.youtube.com/watch?v=g4mv3d_oHCM
-﻿Rep]Sajsi MC}Kučka=https://www.youtube.com/watch?v=Hy-h96RNg04
-﻿Rep]Sajsi MC}Dance floor plače=https://www.youtube.com/watch?v=l5jOmi-k148
-﻿Rep]Sajsi MC}Sedativ=https://www.youtube.com/watch?v=p7cGl69x6RY
-﻿Rep]Sajsi MC}Srpska Doroti ide u Oz=https://www.youtube.com/watch?v=4i42swl56cY
-﻿Rep]Sajsi MC}Nana me je naučila bonton=https://www.youtube.com/watch?v=xTMuNhTf-k0
-﻿Rep]Sajsi MC}Wu Tange=https://www.youtube.com/watch?v=htR5S1Yfbjw
-﻿Rep]Sajsi MC}Kod tvoje devojke=https://www.youtube.com/watch?v=id86vZx2Gfo
-﻿Rep]Sajsi MC}Torima (ft. Rosske)=https://www.youtube.com/watch?v=QGU-XUYO8Yw
-﻿Rep]Sajsi MC}Ti si moj (ft. BKO)=https://www.youtube.com/watch?v=b4B7hn5U0uQ
-﻿Rep]Sajsi MC}Pokvarenica (ft. BKO)=https://www.youtube.com/watch?v=EQa6fZ9mv04
-﻿Rep]Sajsi MC}POP POP (ft. BKO)=https://www.youtube.com/watch?v=YDECnhZlmB4
 ﻿Rep]Sajsi MC}Žileti (ft. BKO)=https://www.youtube.com/watch?v=yxUuaD7nbBw
-﻿Rep]Sajsi MC}Daleko je Dizni=https://www.youtube.com/watch?v=XrdYuJZyVTU
-﻿Rep]Sajsi MC}Horor klabing=https://www.youtube.com/watch?v=MXrFzNotr0k
-﻿Rep]Sajsi MC}U hudu sam zmaj (ft. BKO)=https://www.youtube.com/watch?v=mp5-_IPeJ-o
-﻿Rep]Sajsi MC}Krofna=https://www.youtube.com/watch?v=Yh6R58Tm3QY
-﻿Rep]Sajsi MC}Gledaj (ft. BKO)=https://www.youtube.com/watch?v=q80hAaHC064
-﻿Rep]Sajsi MC}Mančester Junajted (ft. SirKris)=https://www.youtube.com/watch?v=2yvr7aeoHSg
-﻿Rep]Sajsi MC}Bunda na plaži (ft. BKO)=https://www.youtube.com/watch?v=kh0I62lMVRE
-﻿Rep]Sajsi MC}8 ujutru=https://www.youtube.com/watch?v=RcDfMxD6RAc
-﻿Rep]Sajsi MC}Domino carujem=https://www.youtube.com/watch?v=SDpNQ7PghAc
-﻿Rep]Sajsi MC}Period neljubavnih orgija=https://www.youtube.com/watch?v=cH--xoM8zWI
-﻿Rep]Sajsi MC}To su srca dva=--start-time=2 https://www.youtube.com/watch?v=05u50B0yIAQ
-﻿Rep]Sajsi MC}Vanja=https://www.youtube.com/watch?v=SUoBBInXoqk
-﻿Rep]Sajsi MC}Dva puta dve=https://www.youtube.com/watch?v=CJ4lTHa4H5U
-﻿Rep]Sajsi MC}I Bogati riču=https://www.youtube.com/watch?v=lG2o2eJmxlA
-﻿Rep]Sajsi MC}Minimal=https://www.youtube.com/watch?v=hROFYLz1Bis
-﻿Rep]Sajsi MC}Taj fazon=https://www.youtube.com/watch?v=43Z2BgCCpmA
-﻿Rep]Sajsi MC}Mafia=https://www.youtube.com/watch?v=4J61Ob4XOjs
-﻿Rep]Sajsi MC}Pokloni se Hegemonu=https://www.youtube.com/watch?v=FOpSJd0o4Jo
-﻿Rep]Sajsi MC}Još uvek nemam crne kožne čizme=https://www.youtube.com/watch?v=dfX4qGywSME
-﻿Rep]Sajsi MC}Stefan=https://www.youtube.com/watch?v=TfR0ufI2GJM
-﻿Rep]Sajsi MC}BMX=https://www.youtube.com/watch?v=TPnzllEJnhQ
-﻿Rep]Sajsi MC}Umri sa J=https://www.youtube.com/watch?v=78mfUPi9jLU
-﻿Rep]Sajsi MC}Overi me=https://www.youtube.com/watch?v=h4yCxnrXSQg
-﻿Rep]Sajsi MC}Stari duks=https://www.youtube.com/watch?v=H6ESmhomohY
-﻿Rep]Sajsi MC}Smoki=--start-time=5 https://www.youtube.com/watch?v=ICOmHYdh1j8
 ﻿Rep]Sajsi MC}7,9,11=https://www.youtube.com/watch?v=N3JL570Ow-w
+﻿Rep]Sajsi MC}8 ujutru=https://www.youtube.com/watch?v=RcDfMxD6RAc
+﻿Rep]Sajsi MC}Antidepresivi (ft. BKO)=https://www.youtube.com/watch?v=BAyzz54ga78
+﻿Rep]Sajsi MC}BMX=https://www.youtube.com/watch?v=TPnzllEJnhQ
+﻿Rep]Sajsi MC}BOT (ft. BKO)=--start-time=16 https://www.youtube.com/watch?v=H25V5zSBnLg
+﻿Rep]Sajsi MC}Bunda na plaži (ft. BKO)=https://www.youtube.com/watch?v=kh0I62lMVRE
+﻿Rep]Sajsi MC}Daleko je Dizni=https://www.youtube.com/watch?v=XrdYuJZyVTU
+﻿Rep]Sajsi MC}Dance floor plače=https://www.youtube.com/watch?v=l5jOmi-k148
+﻿Rep]Sajsi MC}Denserke (ft. BKO)=https://www.youtube.com/watch?v=fLNFt7iahuE
+﻿Rep]Sajsi MC}Dobacuju na ulici=https://www.youtube.com/watch?v=rAm80D4Vj18
+﻿Rep]Sajsi MC}Domino carujem=https://www.youtube.com/watch?v=SDpNQ7PghAc
+﻿Rep]Sajsi MC}Dva puta dve=https://www.youtube.com/watch?v=CJ4lTHa4H5U
+﻿Rep]Sajsi MC}Gledaj (ft. BKO)=https://www.youtube.com/watch?v=q80hAaHC064
+﻿Rep]Sajsi MC}Haj ez fak (ft. BKO)=https://www.youtube.com/watch?v=8nqAO1hYDqs
+﻿Rep]Sajsi MC}Horor klabing=https://www.youtube.com/watch?v=MXrFzNotr0k
+﻿Rep]Sajsi MC}I Bogati riču=https://www.youtube.com/watch?v=lG2o2eJmxlA
+﻿Rep]Sajsi MC}Još uvek nemam crne kožne čizme=https://www.youtube.com/watch?v=dfX4qGywSME
+﻿Rep]Sajsi MC}Kod tvoje devojke=https://www.youtube.com/watch?v=id86vZx2Gfo
+﻿Rep]Sajsi MC}Krofna=https://www.youtube.com/watch?v=Yh6R58Tm3QY
+﻿Rep]Sajsi MC}Kučka=https://www.youtube.com/watch?v=Hy-h96RNg04
+﻿Rep]Sajsi MC}Lokal beogradizam=https://www.youtube.com/watch?v=PqJ90XaKCN0
+﻿Rep]Sajsi MC}Mafia=https://www.youtube.com/watch?v=4J61Ob4XOjs
+﻿Rep]Sajsi MC}Mališa=https://www.youtube.com/watch?v=Cz36NHSMHQY
+﻿Rep]Sajsi MC}Mančester Junajted (ft. SirKris)=https://www.youtube.com/watch?v=2yvr7aeoHSg
+﻿Rep]Sajsi MC}Minimal=https://www.youtube.com/watch?v=hROFYLz1Bis
+﻿Rep]Sajsi MC}Nadrkano hodanje=--start-time=4 https://www.youtube.com/watch?v=6BU_Kz6eonA
+﻿Rep]Sajsi MC}Nana me je naučila bonton=https://www.youtube.com/watch?v=xTMuNhTf-k0
+﻿Rep]Sajsi MC}Nesanica (ft. BKO)=https://www.youtube.com/watch?v=Q27lzhLTw5Y
+﻿Rep]Sajsi MC}Overi me=https://www.youtube.com/watch?v=h4yCxnrXSQg
+﻿Rep]Sajsi MC}PAPA (ft. RIOT 87)=https://www.youtube.com/watch?v=TfXTBSL90Y0
 ﻿Rep]Sajsi MC}Patike=https://www.youtube.com/watch?v=YWuIPHOPLps
+﻿Rep]Sajsi MC}Period neljubavnih orgija=https://www.youtube.com/watch?v=cH--xoM8zWI
+﻿Rep]Sajsi MC}Pidžama vinjak party (ft. Krankšvester)=https://www.youtube.com/watch?v=WQqmT3xzOYs
+﻿Rep]Sajsi MC}Pokloni se Hegemonu=https://www.youtube.com/watch?v=FOpSJd0o4Jo
+﻿Rep]Sajsi MC}Pokvarenica (ft. BKO)=https://www.youtube.com/watch?v=EQa6fZ9mv04
+﻿Rep]Sajsi MC}Pomozi Bože=https://www.youtube.com/watch?v=WT0uXndTE28
+﻿Rep]Sajsi MC}POP POP (ft. BKO)=https://www.youtube.com/watch?v=YDECnhZlmB4
+﻿Rep]Sajsi MC}Pornoza=https://www.youtube.com/watch?v=g4mv3d_oHCM
 ﻿Rep]Sajsi MC}Pospana=https://www.youtube.com/watch?v=4KFlK2_XqCE
-﻿Narodna]Šako Polumenta}Aman, aman=http://www.youtube.com/watch?v=8dacqpvNBBM
+﻿Rep]Sajsi MC}Roze tašnica=https://www.youtube.com/watch?v=Zqto8OAe6Nw
+﻿Rep]Sajsi MC}Sa devojkom u shopping mall=--start-time=23 https://www.youtube.com/watch?v=RdNzi3HCBCM
+﻿Rep]Sajsi MC}Sedativ=https://www.youtube.com/watch?v=p7cGl69x6RY
+﻿Rep]Sajsi MC}Smoki=--start-time=5 https://www.youtube.com/watch?v=ICOmHYdh1j8
+﻿Rep]Sajsi MC}Srpska Doroti ide u Oz=https://www.youtube.com/watch?v=4i42swl56cY
+﻿Rep]Sajsi MC}Stari duks=https://www.youtube.com/watch?v=H6ESmhomohY
+﻿Rep]Sajsi MC}Stefan=https://www.youtube.com/watch?v=TfR0ufI2GJM
+﻿Rep]Sajsi MC}Taj fazon=https://www.youtube.com/watch?v=43Z2BgCCpmA
+﻿Rep]Sajsi MC}Ti si moj (ft. BKO)=https://www.youtube.com/watch?v=b4B7hn5U0uQ
+﻿Rep]Sajsi MC}To su srca dva=--start-time=2 https://www.youtube.com/watch?v=05u50B0yIAQ
+﻿Rep]Sajsi MC}Torima (ft. Rosske)=https://www.youtube.com/watch?v=QGU-XUYO8Yw
+﻿Rep]Sajsi MC}U hudu sam zmaj (ft. BKO)=https://www.youtube.com/watch?v=mp5-_IPeJ-o
+﻿Rep]Sajsi MC}Umri sa J=https://www.youtube.com/watch?v=78mfUPi9jLU
+﻿Rep]Sajsi MC}Vanja=https://www.youtube.com/watch?v=SUoBBInXoqk
+﻿Rep]Sajsi MC}Valjam se (ft. BKO)=https://www.youtube.com/watch?v=GG1bFMLpVog
+﻿Rep]Sajsi MC}Wu Tange=https://www.youtube.com/watch?v=htR5S1Yfbjw
+﻿Rep]Sajsi MC}Znam šta ste hteli (ft. BKO)=--start-time=14 https://www.youtube.com/watch?v=5tqs5EkbZHY﻿Narodna]Šako Polumenta}Aman, aman=http://www.youtube.com/watch?v=8dacqpvNBBM
 ﻿Narodna]Šako Polumenta}Anđeo=http://www.youtube.com/watch?v=sAwtLh6Le3g
 ﻿Narodna]Šako Polumenta}Bezobrazna=http://www.youtube.com/watch?v=3U933UXPlmI
 ﻿Narodna]Šako Polumenta}Bosiljak=http://www.youtube.com/watch?v=1VymxVzcC6w
@@ -7055,7 +7056,7 @@
 ﻿Narodna]Sekib Mujanović}Skloni se od nje=http://www.youtube.com/watch?v=WwsPqXJatBs
 ﻿Narodna]Sekib Mujanović}Šta ću ti ja=http://www.youtube.com/watch?v=baqLmn1EnnU
 ﻿Narodna]Sekib Mujanović}Što me nisi upucala mala=http://www.youtube.com/watch?v=fut7mYH74WU
-﻿Narodna]Sekib Mujanović}Sunce svanulo=http://www.youtube.com/watch?v=ATCkKmzewnM
+﻿Narodna]Sekib Mujanović}Sunce svanulo=http://www.youtube.com/watch?v=1HFnOaNC0BI
 ﻿Narodna]Sekib Mujanović}Sve je bila laž=http://www.youtube.com/watch?v=chO14k5z2Co
 ﻿Narodna]Sekib Mujanović}Tamna strana mjeseca=http://www.youtube.com/watch?v=O-iQEkX9n4E
 ﻿Narodna]Sekib Mujanović}Ti nisi ta=http://www.youtube.com/watch?v=46SR46PC_EY
@@ -7122,7 +7123,7 @@
 ﻿Narodna]Šemsa Suljaković}Ne laži=http://www.youtube.com/watch?v=OiaMl1vHQXk
 ﻿Narodna]Šemsa Suljaković}Ne slušaj tuđe priče=http://www.youtube.com/watch?v=eksGTzSe20k
 ﻿Narodna]Šemsa Suljaković}Nek sve ljubav bude=http://www.youtube.com/watch?v=-pRSwrVDyyM
-﻿Narodna]Šemsa Suljaković}Nemoj srećo=http://www.youtube.com/watch?v=SBGelcp-m6I
+﻿Narodna]Šemsa Suljaković}Nemoj srećo=http://www.youtube.com/watch?v=qar2ECZdjMs
 ﻿Narodna]Šemsa Suljaković}Ni soli, ni hleba=http://www.youtube.com/watch?v=A2B-vkkcvGs
 ﻿Narodna]Šemsa Suljaković}Nikad više=http://www.youtube.com/watch?v=tc5yOSKwaEY
 ﻿Narodna]Šemsa Suljaković}Niko nema takve oči=http://www.youtube.com/watch?v=A5kmM6MTCn0
@@ -7366,7 +7367,7 @@
 ﻿Narodna]Šerif Konjević}Poludeću za tobom=http://www.youtube.com/watch?v=leRSjow75fo
 ﻿Narodna]Šerif Konjević}Pošao sam da nađem sreću=http://www.youtube.com/watch?v=1CISghD7QRM
 ﻿Narodna]Šerif Konjević}Potraži me=http://www.youtube.com/watch?v=doKAtY3fKGs
-﻿Narodna]Šerif Konjević}Pozdravljam te na rastanku=http://www.youtube.com/watch?v=_xEZJ-gzzp0
+﻿Narodna]Šerif Konjević}Pozdravljam te na rastanku=http://www.youtube.com/watch?v=Vb22FLqWpJo
 ﻿Narodna]Šerif Konjević}Pozivnicu za vjenčanje=http://www.youtube.com/watch?v=kMRjMP0CqcU
 ﻿Narodna]Šerif Konjević}Prah=http://www.youtube.com/watch?v=e0qi_bJamKY
 ﻿Narodna]Šerif Konjević}Pravda stiže ali kasno=http://www.youtube.com/watch?v=y_3_MbnzJHw
@@ -8032,7 +8033,7 @@
 ﻿Narodna]Sneki}Harmoniko sviraj sama=http://www.youtube.com/watch?v=Dx1OhtOHiP4
 ﻿Narodna]Sneki}Hej majko, mati=http://www.youtube.com/watch?v=Bbn07Tp_IDY
 ﻿Narodna]Sneki}Hej željo=http://www.youtube.com/watch?v=dIPkEwLKhtI
-﻿Narodna]Sneki}Hoćeš, nećeš=http://www.youtube.com/watch?v=7m-OIwThaGs
+﻿Narodna]Sneki}Hoćeš, nećeš=http://www.youtube.com/watch?v=czlYQ3Y3ku0
 ﻿Narodna]Sneki}Hopa cupa=http://www.youtube.com/watch?v=v0UWJXB36Es
 ﻿Narodna]Sneki}I ja sam ti bolna bila=http://www.youtube.com/watch?v=NgEvGZeGM5g
 ﻿Narodna]Sneki}I meni bi danas igrali svatovi=http://www.youtube.com/watch?v=FthG7mVd8E0
@@ -11898,9 +11899,9 @@
 ﻿Rok Strani]Mötley Crüe}Looks That Kill (Demo)=http://www.youtube.com/watch?v=tz4PbizRyJQ
 ﻿Rok Strani]Mötley Crüe}Looks That Kill=http://www.youtube.com/watch?v=JUtWHPZk7Es
 ﻿Rok Strani]Mötley Crüe}Louder Than Hell=http://www.youtube.com/watch?v=fARS62XTDTo
-﻿Rok Strani]Mötley Crüe}Loveshine=http://www.youtube.com/watch?v=aujQbeZbRB0
+﻿Rok Strani]Mötley Crüe}Loveshine=http://www.youtube.com/watch?v=aIx_XTTh9BM
 ﻿Rok Strani]Mötley Crüe}Merry-Go-Round=http://www.youtube.com/watch?v=vkKaDeetRaI
-﻿Rok Strani]Mötley Crüe}Misunderstood=http://www.youtube.com/watch?v=Ea3nPSqK11U
+﻿Rok Strani]Mötley Crüe}Misunderstood=http://www.youtube.com/watch?v=lSs1s6T9uAk
 ﻿Rok Strani]Mötley Crüe}Mutherfucker Of The Year=http://www.youtube.com/watch?v=7LJdtSmmLNc
 ﻿Rok Strani]Mötley Crüe}New Tattoo=http://www.youtube.com/watch?v=tNkTradIX0w
 ﻿Rok Strani]Mötley Crüe}On With The Show=http://www.youtube.com/watch?v=JXVTax5JAZI
@@ -11923,7 +11924,7 @@
 ﻿Rok Strani]Mötley Crüe}Save Our Souls=http://www.youtube.com/watch?v=pBgLELkYo2I
 ﻿Rok Strani]Mötley Crüe}Sex=http://www.youtube.com/watch?v=XjhLOSaGnPg
 ﻿Rok Strani]Mötley Crüe}She Goes Down=http://www.youtube.com/watch?v=6AyMjtDyf1g
-﻿Rok Strani]Mötley Crüe}She Needs Rock & Roll=http://www.youtube.com/watch?v=wYW9pN-yhOM
+﻿Rok Strani]Mötley Crüe}She Needs Rock & Roll=http://www.youtube.com/watch?v=NRXOWqBGLVg
 ﻿Rok Strani]Mötley Crüe}Shout At The Devil '97=http://www.youtube.com/watch?v=x3CNZ7iod9s
 ﻿Rok Strani]Mötley Crüe}Shout At The Devil (Demo)=http://www.youtube.com/watch?v=c3lrsHPfOu8
 ﻿Rok Strani]Mötley Crüe}Shout At The Devil=http://www.youtube.com/watch?v=2Dq-k_jzEtI
@@ -11936,9 +11937,9 @@
 ﻿Rok Strani]Mötley Crüe}So Good, So Bad=http://www.youtube.com/watch?v=qw_aFc35YMo
 ﻿Rok Strani]Mötley Crüe}Starry Eyes=http://www.youtube.com/watch?v=KhNqL6rmqWE
 ﻿Rok Strani]Mötley Crüe}Stick To Your Guns=http://www.youtube.com/watch?v=c_tVhBmzLlQ
-﻿Rok Strani]Mötley Crüe}Sticky Sweet=http://www.youtube.com/watch?v=AxbNzL95LME
+﻿Rok Strani]Mötley Crüe}Sticky Sweet=http://www.youtube.com/watch?v=T1Q2BR8gdBY
 ﻿Rok Strani]Mötley Crüe}Street Fighting Man=http://www.youtube.com/watch?v=bAZ-N0a9pYA
-﻿Rok Strani]Mötley Crüe}Sumthin' For Nothin'=http://www.youtube.com/watch?v=liCPFLEc0pQ
+﻿Rok Strani]Mötley Crüe}Sumthin' For Nothin'=http://www.youtube.com/watch?v=7UX8sXT51jE
 ﻿Rok Strani]Mötley Crüe}Take Me To The Top=http://www.youtube.com/watch?v=ckkWFyfr1H8
 ﻿Rok Strani]Mötley Crüe}Teaser=http://www.youtube.com/watch?v=FGos7FvoJ0Q
 ﻿Rok Strani]Mötley Crüe}Ten Seconds To Love=http://www.youtube.com/watch?v=3RlAO7Ns6rE
@@ -11951,11 +11952,11 @@
 ﻿Rok Strani]Mötley Crüe}Too Fast For Love=http://www.youtube.com/watch?v=zPJnGCV6634
 ﻿Rok Strani]Mötley Crüe}Too Young To Fall In Love=http://www.youtube.com/watch?v=3SNESASrKyQ
 ﻿Rok Strani]Mötley Crüe}Treat Me Like The Dog That I Am=http://www.youtube.com/watch?v=A8_2m8hGyy0
-﻿Rok Strani]Mötley Crüe}Uncle Jack=http://www.youtube.com/watch?v=YX4wFiJs0M0
+﻿Rok Strani]Mötley Crüe}Uncle Jack=http://www.youtube.com/watch?v=zY90ftF5s4Q
 ﻿Rok Strani]Mötley Crüe}Use It Or Lose It=http://www.youtube.com/watch?v=DVeLGS9j5X4
 ﻿Rok Strani]Mötley Crüe}Welcome To The Machine=http://www.youtube.com/watch?v=k8V8Lgxh18A
 ﻿Rok Strani]Mötley Crüe}Welcome To The Numb=http://www.youtube.com/watch?v=rtCxbgL30LI
-﻿Rok Strani]Mötley Crüe}What's It Gonna Take=http://www.youtube.com/watch?v=fcGttylHg-E
+﻿Rok Strani]Mötley Crüe}What's It Gonna Take=http://www.youtube.com/watch?v=PP9Uyoj_MDY
 ﻿Rok Strani]Mötley Crüe}White Punks On Dope=http://www.youtube.com/watch?v=nQrkBBjS7cs
 ﻿Rok Strani]Mötley Crüe}White Trash Circus=http://www.youtube.com/watch?v=vOFGMZr8QT8
 ﻿Rok Strani]Mötley Crüe}Wild Side=http://www.youtube.com/watch?v=OglaGA-UiLc
@@ -13033,8 +13034,8 @@
 ﻿Rok Strani]Primus}Coattails Of A Dead Man=http://www.youtube.com/watch?v=dxiLXiWRqQs
 ﻿Rok Strani]Primus}Coddingtown=http://www.youtube.com/watch?v=zmKV7c2G30E
 ﻿Rok Strani]Primus}DMV=http://www.youtube.com/watch?v=5M_jh4CA8a8
-﻿Rok Strani]Primus}De Anza Jig=http://www.youtube.com/watch?v=QSPzV146t-o
-﻿Rok Strani]Primus}Del Davis Tree Farm=http://www.youtube.com/watch?v=iSHk7azwrL8
+﻿Rok Strani]Primus}De Anza Jig=http://www.youtube.com/watch?v=h97DxDFk5PA
+﻿Rok Strani]Primus}Del Davis Tree Farm=http://www.youtube.com/watch?v=ZqYxVN4APdA
 ﻿Rok Strani]Primus}Dirty Drowning Man=http://www.youtube.com/watch?v=XkZSXnhldbs
 ﻿Rok Strani]Primus}Duchess And The Proverbial Mind Spread=http://www.youtube.com/watch?v=TyasMtYTOhk
 ﻿Rok Strani]Primus}Electric Uncle Sam=http://www.youtube.com/watch?v=LNHfFxP9SyM
@@ -13045,7 +13046,6 @@
 ﻿Rok Strani]Primus}Farewell Wonkites=http://www.youtube.com/watch?v=l9Y2T6jSuQU
 ﻿Rok Strani]Primus}Fisticuffs=http://www.youtube.com/watch?v=uZnz_FIe7kU
 ﻿Rok Strani]Primus}Frizzle Fry=http://www.youtube.com/watch?v=vTjAGIIO_-0
-﻿Rok Strani]Primus}Glass Sandwich=http://www.youtube.com/watch?v=tZWSrnPKBNE
 ﻿Rok Strani]Primus}Golden Boy=http://www.youtube.com/watch?v=bpLbudVcElM
 ﻿Rok Strani]Primus}Golden Ticket=http://www.youtube.com/watch?v=dMrXpwB9_V8
 ﻿Rok Strani]Primus}Green Ranger=http://www.youtube.com/watch?v=gS-1lPwz4oY
@@ -13068,21 +13068,20 @@
 ﻿Rok Strani]Primus}Lacquer Head=http://www.youtube.com/watch?v=kY7jSesdxl0
 ﻿Rok Strani]Primus}Last Salmon Man (Fisherman's Chronicles, Part IV)=http://www.youtube.com/watch?v=gzIeh7XFGXY
 ﻿Rok Strani]Primus}Lee Van Cleef=http://www.youtube.com/watch?v=khutvQ3qnz8
-﻿Rok Strani]Primus}Los Bastardos=http://www.youtube.com/watch?v=ksCGPKRuZkM
+﻿Rok Strani]Primus}Los Bastardos=http://www.youtube.com/watch?v=QA-f-144zLM
 ﻿Rok Strani]Primus}Making Plans For Nigel=http://www.youtube.com/watch?v=xzFgRPh6lVo
 ﻿Rok Strani]Primus}Mama Didn't Raise No Fool=http://www.youtube.com/watch?v=-140m-nJwmY
 ﻿Rok Strani]Primus}Mary The Ice Cube=http://www.youtube.com/watch?v=ZFj-VENsFM8
 ﻿Rok Strani]Primus}Moron TV=http://www.youtube.com/watch?v=mVoAK8yWANM
 ﻿Rok Strani]Primus}Mr. Knowitall=http://www.youtube.com/watch?v=RoNf2P5e-Vc
 ﻿Rok Strani]Primus}Mr. Krinkle=http://www.youtube.com/watch?v=TOdo7dhvSwg
-﻿Rok Strani]Primus}Mrs. Blaileen=http://www.youtube.com/watch?v=UQdIO6M5b5g
+﻿Rok Strani]Primus}Mrs. Blaileen=http://www.youtube.com/watch?v=F7M-Z3LdB_g
 ﻿Rok Strani]Primus}My Name Is Mud=http://www.youtube.com/watch?v=953PkxFNiko
 ﻿Rok Strani]Primus}Natural Joe=http://www.youtube.com/watch?v=XKJRu9xn-WM
 ﻿Rok Strani]Primus}Nature Boy=http://www.youtube.com/watch?v=0q3BQh81uLA
-﻿Rok Strani]Primus}On The Tweek Again=http://www.youtube.com/watch?v=rAXaKUyrl68
+﻿Rok Strani]Primus}On The Tweek Again=http://www.youtube.com/watch?v=ve6V3cCE5Q4
 ﻿Rok Strani]Primus}Oompa Augustus=http://www.youtube.com/watch?v=C8BIArdXfZ8
-﻿Rok Strani]Primus}Oompa TV=http://www.youtube.com/watch?v=T2zU0CfVyho
-﻿Rok Strani]Primus}Oompa Veruca=http://www.youtube.com/watch?v=urVCF0AAhPY
+﻿Rok Strani]Primus}Oompa TV=http://www.youtube.com/watch?v=U464z3eh4ko
 ﻿Rok Strani]Primus}Oompa Violet=http://www.youtube.com/watch?v=CN0E1FX9s4g
 ﻿Rok Strani]Primus}Over The Electric Grapevine=http://www.youtube.com/watch?v=Z3IDWmr4nLY
 ﻿Rok Strani]Primus}Over The Falls=http://www.youtube.com/watch?v=IlI0ktIqZiU
@@ -13095,21 +13094,20 @@
 ﻿Rok Strani]Primus}Scissor Man=http://www.youtube.com/watch?v=VcUE0v1HVtQ
 ﻿Rok Strani]Primus}Seas Of Cheese=http://www.youtube.com/watch?v=LsMadSgF3ks
 ﻿Rok Strani]Primus}Semi-Wondrous Boat Ride=http://www.youtube.com/watch?v=Rn6yABaSO8Y
-﻿Rok Strani]Primus}Sgt. Baker=http://www.youtube.com/watch?v=1L7oAMJvMWE
+﻿Rok Strani]Primus}Sgt. Baker=http://www.youtube.com/watch?v=RKBYWyA3ZVE
 ﻿Rok Strani]Primus}Shake Hands With Beef=http://www.youtube.com/watch?v=PHjpWo4edfw
 ﻿Rok Strani]Primus}Sinister Exaggerator=http://www.youtube.com/watch?v=DOyy501jsgc
 ﻿Rok Strani]Primus}Southbound Pachyderm=http://www.youtube.com/watch?v=6xb898sQtu8
 ﻿Rok Strani]Primus}Spaghetti Western=http://www.youtube.com/watch?v=1gEFnZP5X8Q
-﻿Rok Strani]Primus}The Air Is Getting Slippery=http://www.youtube.com/watch?v=cj4VNjrYL_U
+﻿Rok Strani]Primus}The Air Is Getting Slippery=http://www.youtube.com/watch?v=vYCMvFITJTI
 ﻿Rok Strani]Primus}The Antipop=http://www.youtube.com/watch?v=q3yoe73mrBc
 ﻿Rok Strani]Primus}The Carpenter And The Dainty Bride=http://www.youtube.com/watch?v=KbId_ynYM5k
-﻿Rok Strani]Primus}The Chastising Of Renegade=http://www.youtube.com/watch?v=l0edhxDsTE4
 ﻿Rok Strani]Primus}The Ends?=http://www.youtube.com/watch?v=JqIz6EfkhvI
 ﻿Rok Strani]Primus}The Family And The Fishing Net=http://www.youtube.com/watch?v=tSsBtuZpEA0
-﻿Rok Strani]Primus}The Final Voyage Of The Liquid Sky=http://www.youtube.com/watch?v=Ll9vpYo_-FY
+﻿Rok Strani]Primus}The Final Voyage Of The Liquid Sky=http://www.youtube.com/watch?v=boDQmJk9LEo
 ﻿Rok Strani]Primus}The Hecker=http://www.youtube.com/watch?v=CtNbuZI_zJg
 ﻿Rok Strani]Primus}The Ol' Diamond Back Sturgeon (Fisherman's Chronicles, Part 3)=http://www.youtube.com/watch?v=TYNsnEzfkXc
-﻿Rok Strani]Primus}The Pressman=http://www.youtube.com/watch?v=zfFYZjKwe8Q
+﻿Rok Strani]Primus}The Pressman=http://www.youtube.com/watch?v=rL3U67eyKc8
 ﻿Rok Strani]Primus}The Return Of Satington Willoughby=http://www.youtube.com/watch?v=3AOdIVJH7tE
 ﻿Rok Strani]Primus}The Scheme=http://www.youtube.com/watch?v=oF4DXdRWzY0
 ﻿Rok Strani]Primus}The Seven=http://www.youtube.com/watch?v=jw95wlggfYM
@@ -13122,7 +13120,7 @@
 ﻿Rok Strani]Primus}Tragedy's A' Comin'=http://www.youtube.com/watch?v=kQv8zNQX578
 ﻿Rok Strani]Primus}Welcome To This World=http://www.youtube.com/watch?v=vQf9N_pl9dE
 ﻿Rok Strani]Primus}Wynona's Big Brown Beaver=http://www.youtube.com/watch?v=aYDfwUJzYQg
-﻿Rok Strani]Primus}Year Of The Parrot=http://www.youtube.com/watch?v=ACGh6Q37WBc
+﻿Rok Strani]Primus}Year Of The Parrot=http://www.youtube.com/watch?v=hc2fcADc2nI
 ﻿Rok Strani]Queensryche}A Dead Man's Words=http://www.youtube.com/watch?v=kjKXQ4ckZ04
 ﻿Rok Strani]Queensryche}A Junkies Blues=http://www.youtube.com/watch?v=7yGKJSfhv3I
 ﻿Rok Strani]Queensryche}A Murderer?=http://www.youtube.com/watch?v=DNAs66KIg8Q
@@ -14099,13 +14097,13 @@
 ﻿Rok Strani]Scorpions}All Day And All Of The Night=http://www.youtube.com/watch?v=6g2rhKc4bVk
 ﻿Rok Strani]Scorpions}All For One=http://www.youtube.com/watch?v=BhqqZ2L_WjI
 ﻿Rok Strani]Scorpions}Always Somewhere=http://www.youtube.com/watch?v=AepjLbcLrJE
-﻿Rok Strani]Scorpions}Animal Magnetism=http://www.youtube.com/watch?v=pwMSp2L_hNY
+﻿Rok Strani]Scorpions}Animal Magnetism=http://www.youtube.com/watch?v=EYGByiIcFts
 ﻿Rok Strani]Scorpions}Another Piece Of Meat=http://www.youtube.com/watch?v=SzCfDxIdBYk
 ﻿Rok Strani]Scorpions}Are You The One?=http://www.youtube.com/watch?v=SOEhkZsTMSo
 ﻿Rok Strani]Scorpions}Arizona=http://www.youtube.com/watch?v=grJyMmEGK-o
-﻿Rok Strani]Scorpions}As Soon As The Good Times Roll=http://www.youtube.com/watch?v=B5eHSLE8aIg
+﻿Rok Strani]Scorpions}As Soon As The Good Times Roll=http://www.youtube.com/watch?v=SOPdMfuqd8Y
 ﻿Rok Strani]Scorpions}Backstage Queen=http://www.youtube.com/watch?v=zIAQSzmZW_s
-﻿Rok Strani]Scorpions}Bad Boys Running Wild=http://www.youtube.com/watch?v=HyokufhCdfQ
+﻿Rok Strani]Scorpions}Bad Boys Running Wild=http://www.youtube.com/watch?v=mdro_QYzjOY
 ﻿Rok Strani]Scorpions}Believe In Love=http://www.youtube.com/watch?v=FQSZWAStqcY
 ﻿Rok Strani]Scorpions}Big City Nights=http://www.youtube.com/watch?v=kqBXn9fG7-Y
 ﻿Rok Strani]Scorpions}Blood Too Hot=http://www.youtube.com/watch?v=VUUzZkz5O1Y
@@ -14113,7 +14111,7 @@
 ﻿Rok Strani]Scorpions}Born To Touch Your Feelings=http://www.youtube.com/watch?v=vxuhNmjnK9M
 ﻿Rok Strani]Scorpions}But The Best For You=http://www.youtube.com/watch?v=ATqIE4fRy1c
 ﻿Rok Strani]Scorpions}Can You Feel It=http://www.youtube.com/watch?v=fMVxYHs-NuA
-﻿Rok Strani]Scorpions}Can't Get Enough=http://www.youtube.com/watch?v=mGK_EyrDdLU
+﻿Rok Strani]Scorpions}Can't Get Enough=http://www.youtube.com/watch?v=PajQEdwLOa0
 ﻿Rok Strani]Scorpions}Catch Your Luck And Play=http://www.youtube.com/watch?v=ZPNhnAPkImE
 ﻿Rok Strani]Scorpions}Catch Your Train=http://www.youtube.com/watch?v=sFYRZjaw8ts
 ﻿Rok Strani]Scorpions}Children Of The Revolution=http://www.youtube.com/watch?v=eV2YytfbYUg
@@ -14144,11 +14142,11 @@
 ﻿Rok Strani]Scorpions}Far Away=http://www.youtube.com/watch?v=nTN9l7uaVAU
 ﻿Rok Strani]Scorpions}Fly People Fly=http://www.youtube.com/watch?v=fkmnT3Wi2k4
 ﻿Rok Strani]Scorpions}Follow Your Heart=http://www.youtube.com/watch?v=-sNzgxzNtg4
-﻿Rok Strani]Scorpions}Freshly Squeezed=http://www.youtube.com/watch?v=KyvU9TRwH64
+﻿Rok Strani]Scorpions}Freshly Squeezed=http://www.youtube.com/watch?v=be5ByOFTffA
 ﻿Rok Strani]Scorpions}Going Out With A Bang=http://www.youtube.com/watch?v=1ZqePvl-w9M
 ﻿Rok Strani]Scorpions}Gypsy Life=http://www.youtube.com/watch?v=Khk5cLCKKLc
 ﻿Rok Strani]Scorpions}Hard Rockin' The Place=http://www.youtube.com/watch?v=R5tFEFz3DcM
-﻿Rok Strani]Scorpions}Hate To Be Nice=http://www.youtube.com/watch?v=DCTgXvqa4Kk
+﻿Rok Strani]Scorpions}Hate To Be Nice=http://www.youtube.com/watch?v=LcUSIoINTvw
 ﻿Rok Strani]Scorpions}He's A Woman - She's A Man=http://www.youtube.com/watch?v=XU7tQ9gyJ6Y
 ﻿Rok Strani]Scorpions}Hell Cat=http://www.youtube.com/watch?v=U9xp55gA0jM
 ﻿Rok Strani]Scorpions}Here In My Heart=http://www.youtube.com/watch?v=5cGnXjKTHug
@@ -14205,7 +14203,7 @@
 ﻿Rok Strani]Scorpions}No One Like You=http://www.youtube.com/watch?v=qQTA0JZ4E54
 ﻿Rok Strani]Scorpions}No Pain No Gain=http://www.youtube.com/watch?v=xlxZQlnDsS8
 ﻿Rok Strani]Scorpions}Now!=http://www.youtube.com/watch?v=GqdJpcqdGiI
-﻿Rok Strani]Scorpions}Obession=http://www.youtube.com/watch?v=n7tCwcaFes0
+﻿Rok Strani]Scorpions}Obession=http://www.youtube.com/watch?v=5YlyvYmt4Cg
 ﻿Rok Strani]Scorpions}Oh Girl (I Wanna Be With You)=http://www.youtube.com/watch?v=x3RHkEh4Hf4
 ﻿Rok Strani]Scorpions}One And One Is Three=http://www.youtube.com/watch?v=JYdHBO6QkSI
 ﻿Rok Strani]Scorpions}Only A Man=http://www.youtube.com/watch?v=8GOtj0wdO1s
@@ -14229,11 +14227,11 @@
 ﻿Rok Strani]Scorpions}Shapes Of Things=http://www.youtube.com/watch?v=qzwe1SVwOU4
 ﻿Rok Strani]Scorpions}She Said=http://www.youtube.com/watch?v=P66l_m1Snug
 ﻿Rok Strani]Scorpions}She's Knocking At My Door=http://www.youtube.com/watch?v=35eWtUSxBJQ
-﻿Rok Strani]Scorpions}Ship Of Fools=http://www.youtube.com/watch?v=bhTeNpAMLUI
+﻿Rok Strani]Scorpions}Ship Of Fools=http://www.youtube.com/watch?v=R0E6BOyhvv4
 ﻿Rok Strani]Scorpions}Skywriter=http://www.youtube.com/watch?v=LjkMnWBOfNk
 ﻿Rok Strani]Scorpions}Slave Me=http://www.youtube.com/watch?v=Iji2lZGPXXg
-﻿Rok Strani]Scorpions}Someday Is Now=http://www.youtube.com/watch?v=dddnNH3r9xk
-﻿Rok Strani]Scorpions}Someone To Touch=http://www.youtube.com/watch?v=OjTtgsVi8II
+﻿Rok Strani]Scorpions}Someday Is Now=http://www.youtube.com/watch?v=X2FaO-NdxC8
+﻿Rok Strani]Scorpions}Someone To Touch=http://www.youtube.com/watch?v=PGMZI0UHHKQ
 ﻿Rok Strani]Scorpions}Soul Behind The Face=http://www.youtube.com/watch?v=q4qLlNAGMAg
 ﻿Rok Strani]Scorpions}Steamrock Fever=http://www.youtube.com/watch?v=l7z09S_e0Hc
 ﻿Rok Strani]Scorpions}Still Loving You (Je T'aime Encore)=http://www.youtube.com/watch?v=23TthaBDJPM
@@ -14270,7 +14268,7 @@
 ﻿Rok Strani]Scorpions}Turn You On=http://www.youtube.com/watch?v=rBLzLuZWdgY
 ﻿Rok Strani]Scorpions}Twentieth Century Man=http://www.youtube.com/watch?v=9ASQrRWmlcU
 ﻿Rok Strani]Scorpions}Under The Same Sun=--start-time=7 http://www.youtube.com/watch?v=MwyXnft6ZVk
-﻿Rok Strani]Scorpions}Unholy Alliance=http://www.youtube.com/watch?v=fXaPz7i7kek
+﻿Rok Strani]Scorpions}Unholy Alliance=http://www.youtube.com/watch?v=VUbpc3UYrq0
 ﻿Rok Strani]Scorpions}Walking On The Edge=http://www.youtube.com/watch?v=aqtuDejBp2M
 ﻿Rok Strani]Scorpions}We Built This House=http://www.youtube.com/watch?v=ZgbmDMNu42s
 ﻿Rok Strani]Scorpions}We Let It Rock...You Let It Roll=http://www.youtube.com/watch?v=ZZ53XSBbHIU
@@ -14822,7 +14820,7 @@
 ﻿Rok Strani]Soundgarden}Never The Machine Forever=http://www.youtube.com/watch?v=r6gwjvJ2di8
 ﻿Rok Strani]Soundgarden}New Damage=http://www.youtube.com/watch?v=5rJ1WLH188M
 ﻿Rok Strani]Soundgarden}No Attention=http://www.youtube.com/watch?v=rHJbhxui9i8
-﻿Rok Strani]Soundgarden}No Wrong No Right=http://www.youtube.com/watch?v=tmz2HNBM6rI
+﻿Rok Strani]Soundgarden}No Wrong No Right=http://www.youtube.com/watch?v=rRd5SskCyYE
 ﻿Rok Strani]Soundgarden}Non-State Actor=http://www.youtube.com/watch?v=O61CETruNwQ
 ﻿Rok Strani]Soundgarden}Nothing To Say=http://www.youtube.com/watch?v=Y8gV58MoBQE
 ﻿Rok Strani]Soundgarden}Outshined=http://www.youtube.com/watch?v=sNh-iw7gsuI
@@ -14855,7 +14853,7 @@
 ﻿Rok Strani]Soundgarden}Touch Me=http://www.youtube.com/watch?v=Mt7RmW2KWBI
 ﻿Rok Strani]Soundgarden}Toy Box=http://www.youtube.com/watch?v=kpuiJPtE4a4
 ﻿Rok Strani]Soundgarden}Ty Cobb=http://www.youtube.com/watch?v=6rs9UbqU5DU
-﻿Rok Strani]Soundgarden}Ugly Truth=http://www.youtube.com/watch?v=j-eSSTpWWcA
+﻿Rok Strani]Soundgarden}Ugly Truth=http://www.youtube.com/watch?v=vF0B9qGnKH0
 ﻿Rok Strani]Soundgarden}Worse Dreams=http://www.youtube.com/watch?v=Qj8ocvPEz2o
 ﻿Rok Strani]Soundgarden}Zero Chance=http://www.youtube.com/watch?v=EtAhcNm17Y0
 ﻿Rok Strani]Steppenwolf}(Give Me Some) News I Can Use=http://www.youtube.com/watch?v=RpvgtIHl21Y
@@ -15411,7 +15409,7 @@
 ﻿Rok Strani]The Cult}Rise=http://www.youtube.com/watch?v=--wQFooHFsg
 ﻿Rok Strani]The Cult}Sacred Life=http://www.youtube.com/watch?v=ke-tWQB6yZ0
 ﻿Rok Strani]The Cult}Saints Are Down=http://www.youtube.com/watch?v=eiT_gUT_JPg
-﻿Rok Strani]The Cult}Savages=http://www.youtube.com/watch?v=CSpPorkEH1g
+﻿Rok Strani]The Cult}Savages=http://www.youtube.com/watch?v=I8LX8fJHSek
 ﻿Rok Strani]The Cult}Sea And Sky=http://www.youtube.com/watch?v=zyoTW6XpI-o
 ﻿Rok Strani]The Cult}Shape The Sky=http://www.youtube.com/watch?v=jUINtje8LSI
 ﻿Rok Strani]The Cult}She Sells Sanctuary=http://www.youtube.com/watch?v=ZCOSPtyZAPA
