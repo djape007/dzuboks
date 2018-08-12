@@ -43,7 +43,7 @@
 ﻿Rok]357}Tvoje oči=https://www.youtube.com/watch?v=JFy9Nl0CLEQ
 ﻿Rok]357}Probudi me=https://www.youtube.com/watch?v=uYC6WVzkiCI
 ﻿Rok]357}Veseli me=https://www.youtube.com/watch?v=No-7gryAeOA
-﻿Rok]357}Kiša=https://www.youtube.com/watch?v=rHfeTN8cRio
+﻿Rok]357}Kiša=http://www.youtube.com/watch?v=ditlhZBiSvM
 ﻿Rok]357}Cigane=https://www.youtube.com/watch?v=ayh3ft80R_Y
 ﻿Rok]357}Jedna je Srbija=https://www.youtube.com/watch?v=wrH-ydYC19w
 ﻿Rok]357}Selo gori a baba se češlja=--start-time=32 https://www.youtube.com/watch?v=X59Avom1Hzo
@@ -510,7 +510,7 @@
 ﻿Zabavna]Aleksandra Perović}Mogu sama=http://www.youtube.com/watch?v=niDidApuXEg
 ﻿Zabavna]Aleksandra Perović}Nedelja=http://www.youtube.com/watch?v=2UoF6c9LcSs
 ﻿Zabavna]Aleksandra Perović}Noćas budi moj=http://www.youtube.com/watch?v=u7FACTrKX-8
-﻿Zabavna]Aleksandra Perović}Opium=http://www.youtube.com/watch?v=uLAbb_HUhDs
+﻿Zabavna]Aleksandra Perović}Opium=http://www.youtube.com/watch?v=Rd3kKdAwApY
 ﻿Zabavna]Aleksandra Perović}Podstanar=http://www.youtube.com/watch?v=dYxm2AnX_Ak
 ﻿Zabavna]Aleksandra Perović}Pravo na grešku=http://www.youtube.com/watch?v=xHeffikZrVk
 ﻿Zabavna]Aleksandra Perović}Sreća i nesreća=http://www.youtube.com/watch?v=i-4gm3cI5bI
@@ -1015,7 +1015,7 @@
 ﻿Narodna]Ana Bekuta}Odigraj za mene=http://www.youtube.com/watch?v=C7Ku2AZR51Q
 ﻿Narodna]Ana Bekuta}Oluja=http://www.youtube.com/watch?v=Wr-mkkRLjG4
 ﻿Narodna]Ana Bekuta}Opasna=http://www.youtube.com/watch?v=epAUPlwgdzU
-﻿Narodna]Ana Bekuta}Opet imam razloga da živim=http://www.youtube.com/watch?v=Ah2l5J4NFL4
+﻿Narodna]Ana Bekuta}Opet imam razloga da živim=http://www.youtube.com/watch?v=aX6v8U4aQ20
 ﻿Narodna]Ana Bekuta}Ostaću ja=http://www.youtube.com/watch?v=6IWP5Hv_Nic
 ﻿Narodna]Ana Bekuta}Ostavljena=http://www.youtube.com/watch?v=CXym-73tE2E
 ﻿Narodna]Ana Bekuta}Otkud baš ti=http://www.youtube.com/watch?v=kyy__t8IhNs
@@ -2312,7 +2312,7 @@
 ﻿Narodna]Boban Zdravković}Kaži joj pesmo moja=http://www.youtube.com/watch?v=U6U3DaUZBu8
 ﻿Narodna]Boban Zdravković}Klinka=http://www.youtube.com/watch?v=kvVmxBUphCw
 ﻿Narodna]Boban Zdravković}Lagala me jedna Maja=http://www.youtube.com/watch?v=_hhjrPXa1J4
-﻿Narodna]Boban Zdravković}Lepa žena=http://www.youtube.com/watch?v=4ZDQsdysL7A
+﻿Narodna]Boban Zdravković}Lepa žena=http://www.youtube.com/watch?v=6Ep15nqNJ_g
 ﻿Narodna]Boban Zdravković}Ljubav za ljubav=http://www.youtube.com/watch?v=PajT1HUWUiA
 ﻿Narodna]Boban Zdravković}Marakana=http://www.youtube.com/watch?v=nHD1Fr7Jruw
 ﻿Narodna]Boban Zdravković}Moja nevesta=http://www.youtube.com/watch?v=j0gOhq3Qrec
@@ -2701,7 +2701,7 @@
 ﻿Narodna]Ćana}Čudni ljudi, čudno vreme=http://www.youtube.com/watch?v=K_4KlS6des4
 ﻿Narodna]Ćana}Devet i po nedelja=http://www.youtube.com/watch?v=mna9ymt3pZc
 ﻿Narodna]Ćana}Dođi sine=http://www.youtube.com/watch?v=hPgY7GbnL0Q
-﻿Narodna]Ćana}Došao je čovek pravi=http://www.youtube.com/watch?v=UNKqbK3ZiYg
+﻿Narodna]Ćana}Došao je čovek pravi=http://www.youtube.com/watch?v=FHSvU3PzbZw
 ﻿Narodna]Ćana}Evo moga roda=http://www.youtube.com/watch?v=oasUhfJXD3g
 ﻿Narodna]Ćana}Gledaj me=http://www.youtube.com/watch?v=FtzMCkOQ_xM
 ﻿Narodna]Ćana}Hteo ne hteo, rodiću ti sina=http://www.youtube.com/watch?v=PuA8AZE1oFQ
@@ -2730,8 +2730,8 @@
 ﻿Narodna]Ćana}Nije lako biti žena=https://www.youtube.com/watch?v=vvMahv_RHkc
 ﻿Narodna]Ćana}Nisi više ni za kletvu=http://www.youtube.com/watch?v=vHS3KDLjVao
 ﻿Narodna]Ćana}Pismo=http://www.youtube.com/watch?v=-eR78SkXYe8
-﻿Narodna]Ćana}Pokajanje=http://www.youtube.com/watch?v=uMQpg6UKtYo
-﻿Narodna]Ćana}Pomozi mi=http://www.youtube.com/watch?v=dN1zXZF16as
+﻿Narodna]Ćana}Pokajanje=http://www.youtube.com/watch?v=gV4mSVYWRqM
+﻿Narodna]Ćana}Pomozi mi=http://www.youtube.com/watch?v=1LQIiN9PomQ
 ﻿Narodna]Ćana}Prava familija=http://www.youtube.com/watch?v=2Tz0SX7opT4
 ﻿Narodna]Ćana}Predskazanje=http://www.youtube.com/watch?v=zoTNWbxVjQo
 ﻿Narodna]Ćana}Prijatelji, ljubavnici=http://www.youtube.com/watch?v=eeB-v93im6k
@@ -2743,7 +2743,7 @@
 ﻿Narodna]Ćana}Stidi se, stidi=http://www.youtube.com/watch?v=EuMZHVM_zTU
 ﻿Narodna]Ćana}Što mi se ne javljaš=http://www.youtube.com/watch?v=uG9dlWq7Dkg
 ﻿Narodna]Ćana}Što me ne gledaš=http://www.youtube.com/watch?v=9o31sQLFYlI
-﻿Narodna]Ćana}Suparnica=http://www.youtube.com/watch?v=Z2fOC4iU1ko
+﻿Narodna]Ćana}Suparnica=http://www.youtube.com/watch?v=y36XnsKJtws
 ﻿Narodna]Ćana}Sve je moje tamo=http://www.youtube.com/watch?v=G0IVpkNkEGo
 ﻿Narodna]Ćana}Sve smo mogli mi=http://www.youtube.com/watch?v=a2SYpcMAhfg
 ﻿Narodna]Ćana}Sveznalica=http://www.youtube.com/watch?v=VNWXb7RpS4M
@@ -3415,6 +3415,7 @@
 ﻿Zabavna]Dado Polumenta}Nisam te se nagledao=http://www.youtube.com/watch?v=pB_LRhhQ-m4
 ﻿Zabavna]Dado Polumenta}Noćas si tu da ličiš na nju=http://www.youtube.com/watch?v=xnBUMI1FsQQ
 ﻿Zabavna]Dado Polumenta}Oči od stida=http://www.youtube.com/watch?v=g92JBNn8b4c
+﻿Zabavna]Dado Polumenta}Od Jadrana do Beograda (ft. Vlada Matović)=--start-time=12 https://www.youtube.com/watch?v=bw1Ke5nz2WM
 ﻿Zabavna]Dado Polumenta}Od vina si me opila=http://www.youtube.com/watch?v=vQonHhnVpCc
 ﻿Zabavna]Dado Polumenta}O tebi=--start-time=10 https://www.youtube.com/watch?v=5VXh84xWM5Q
 ﻿Zabavna]Dado Polumenta}Ovisan sam o njoj=http://www.youtube.com/watch?v=mXonHNDYx10
@@ -4725,7 +4726,7 @@
 ﻿Narodna]Donna Ares}Ti me više ne voliš=http://www.youtube.com/watch?v=FkMrz_KNh48
 ﻿Narodna]Donna Ares}Tjeram po svome=http://www.youtube.com/watch?v=0f9BV6o6gGo
 ﻿Narodna]Donna Ares}To mi nije trebalo=http://www.youtube.com/watch?v=xMq6jhAGojE
-﻿Narodna]Donna Ares}Ubila me tvoja nevjera=http://www.youtube.com/watch?v=zSt6CrxaDF0
+﻿Narodna]Donna Ares}Ubila me tvoja nevjera=http://www.youtube.com/watch?v=6Nu7zTv4Sco
 ﻿Narodna]Donna Ares}Vremena za nas=http://www.youtube.com/watch?v=ns_tBD-a_0g
 ﻿Narodna]Donna Ares}Zakletva=http://www.youtube.com/watch?v=vfrJJtaJT_M
 ﻿Narodna]Donna Ares}Želim da te gledam=http://www.youtube.com/watch?v=2090mxh45kc
@@ -5121,8 +5122,8 @@
 ﻿Narodna]Dragana Mirković}Samo da te vidim=http://www.youtube.com/watch?v=i2S-hoog0Cw
 ﻿Narodna]Dragana Mirković}Sanjala sam naše venčanje=http://www.youtube.com/watch?v=zknug_ykmhA
 ﻿Narodna]Dragana Mirković}Sedmi dan=http://www.youtube.com/watch?v=yuUo5-cE9cY
-﻿Narodna]Dragana Mirković}Shvatila sam sve=http://www.youtube.com/watch?v=6NF0kOhlKOY
-﻿Narodna]Dragana Mirković}Simpatija=http://www.youtube.com/watch?v=hff6YO2cDqs
+﻿Narodna]Dragana Mirković}Shvatila sam sve=http://www.youtube.com/watch?v=pEoeUsvxfz4
+﻿Narodna]Dragana Mirković}Simpatija=http://www.youtube.com/watch?v=3CIpNTqQRog
 ﻿Narodna]Dragana Mirković}Slađano moje, slađano=http://www.youtube.com/watch?v=OfwJOabbb08
 ﻿Narodna]Dragana Mirković}Slavuji=http://www.youtube.com/watch?v=gGv1F-s8KwQ
 ﻿Narodna]Dragana Mirković}Slobodna kao vetar=http://www.youtube.com/watch?v=2CFx6hAX5nA
@@ -5916,7 +5917,7 @@
 ﻿Zabavna]Emina Jahović}Dan za danom=http://www.youtube.com/watch?v=VmxVwf2k3ro
 ﻿Zabavna]Emina Jahović}Gospodine=http://www.youtube.com/watch?v=ujql9BxPoQI
 ﻿Zabavna]Emina Jahović}Još ti se nadam=http://www.youtube.com/watch?v=dCD7CCOoFO4
-﻿Zabavna]Emina Jahović}Kad si sa njom=http://www.youtube.com/watch?v=BNGfddFYfbk
+﻿Zabavna]Emina Jahović}Kad si sa njom=http://www.youtube.com/watch?v=FQHF7jsT2yM
 ﻿Zabavna]Emina Jahović}Karma=--start-time=6 https://www.youtube.com/watch?v=WcRua0mrY5I
 ﻿Zabavna]Emina Jahović}Limunada (ft. Milica Todorović)=--start-time=6 http://www.youtube.com/watch?v=tY2tmeUrbmE
 ﻿Zabavna]Emina Jahović}Mama=http://www.youtube.com/watch?v=gLPOmcUEj28
@@ -5939,7 +5940,7 @@
 ﻿Zabavna]Emina Jahović}Protiv svih=--start-time=6 http://www.youtube.com/watch?v=_RI_s3hRaNU
 ﻿Zabavna]Emina Jahović}Prva dama=http://www.youtube.com/watch?v=12XoBp9S3dQ
 ﻿Zabavna]Emina Jahović}Radije, ranije=http://www.youtube.com/watch?v=UofLO4KTa7I
-﻿Zabavna]Emina Jahović}Sad nastavi=http://www.youtube.com/watch?v=eQrl6DDmKqk
+﻿Zabavna]Emina Jahović}Sad nastavi=http://www.youtube.com/watch?v=T4KeSkCJmb0
 ﻿Zabavna]Emina Jahović}Tačka=http://www.youtube.com/watch?v=0OTdzI9C38M
 ﻿Zabavna]Emina Jahović}Telefon=http://www.youtube.com/watch?v=XLwyTWksK1E
 ﻿Zabavna]Emina Jahović}Ti kvariigro=http://www.youtube.com/watch?v=Jn390hUXfJI
@@ -6131,7 +6132,6 @@
 ﻿Narodna]Fazlija}Ali, ali, ali=http://www.youtube.com/watch?v=W-As4zsOteA
 ﻿Narodna]Fazlija}BMW, Mečka, Audi=http://www.youtube.com/watch?v=LP9pFLi2jRg
 ﻿Narodna]Fazlija}Balkanci=http://www.youtube.com/watch?v=ZuZdvmK71Aw
-﻿Narodna]Fazlija}Boginja=http://www.youtube.com/watch?v=M3fPMDITUPM
 ﻿Narodna]Fazlija}Budi opet moja=http://www.youtube.com/watch?v=Vg3HkjVDUYQ
 ﻿Narodna]Fazlija}Burma=http://www.youtube.com/watch?v=3blQPV8HYRA
 ﻿Narodna]Fazlija}Cajorije Šukarije=http://www.youtube.com/watch?v=7XJ7K8rHdYw
@@ -6293,7 +6293,6 @@
 ﻿Zabavna]Flamingosi}Sati=http://www.youtube.com/watch?v=Fh1oCZeDiss
 ﻿Zabavna]Flamingosi}Sladoled=http://www.youtube.com/watch?v=Pi8fyzVnh_k
 ﻿Zabavna]Flamingosi}Sve nas cure čekaju=http://www.youtube.com/watch?v=41SFi_8CqW0
-﻿Zabavna]Flamingosi}U plavim noćima=http://www.youtube.com/watch?v=BUl3HZ5XXoY
 ﻿Zabavna]Flamingosi}Uzmi ili ostavi=http://www.youtube.com/watch?v=NEshWSjZLF4
 ﻿Zabavna]Flamingosi}Zdravko Čolić=http://www.youtube.com/watch?v=nz6xGdmgswI
 ﻿Zabavna]Frajle}Fina=http://www.youtube.com/watch?v=DToBQuy-kW4
@@ -7727,7 +7726,7 @@
 ﻿Narodna]Hanka Paldum}Sofra=http://www.youtube.com/watch?v=TxcrsA1GKKA
 ﻿Narodna]Hanka Paldum}Srce je moje kamen=http://www.youtube.com/watch?v=xMYTvwpVGbc
 ﻿Narodna]Hanka Paldum}Stežem srce=http://www.youtube.com/watch?v=Meo4Jmd-MS4
-﻿Narodna]Hanka Paldum}Što svaka žena sanja=http://www.youtube.com/watch?v=Ds7hWE4vEsc
+﻿Narodna]Hanka Paldum}Što svaka žena sanja=http://www.youtube.com/watch?v=DNtbeFwGBn4
 ﻿Narodna]Hanka Paldum}Svađalica=http://www.youtube.com/watch?v=DF242MvNG5I
 ﻿Narodna]Hanka Paldum}Svaka rijeka moru stići će=http://www.youtube.com/watch?v=tQUVe8J0gqU
 ﻿Narodna]Hanka Paldum}Sve sam tebi dala=http://www.youtube.com/watch?v=t0dmvLqnoWs
@@ -8072,44 +8071,44 @@
 ﻿Rok]Hladno Pivo}Vjeruj u mene=http://www.youtube.com/watch?v=e2Coalym9k8
 ﻿Rok]Hladno Pivo}Zakaj se tak' oblačiš=http://www.youtube.com/watch?v=GD22zdW6gEQ
 ﻿Rok]Hladno Pivo}Zimmer frei=http://www.youtube.com/watch?v=PM9sic3bcc8
-﻿Narodna]Hule}Noćna dama=https://www.youtube.com/watch?v=7yFfRS6_n_g
+﻿Narodna]Hule}Noćna dama=http://www.youtube.com/watch?v=Hjwn4QJ0v5U
 ﻿Narodna]Hule}Grlim svoje najmilije=https://www.youtube.com/watch?v=6RCohqTkN0I
 ﻿Narodna]Hule}Moja djeca=https://www.youtube.com/watch?v=Iq-p6bv91Gk
-﻿Narodna]Hule}Pukni čašo=https://www.youtube.com/watch?v=yaTAZsOrAY4
-﻿Narodna]Hule}Nisu te dali za sirota=https://www.youtube.com/watch?v=m7g_sXjcvnA
+﻿Narodna]Hule}Pukni čašo=http://www.youtube.com/watch?v=kL2Fizvokgg
+﻿Narodna]Hule}Nisu te dali za sirota=http://www.youtube.com/watch?v=h1gnWKyJ9yc
 ﻿Narodna]Hule}Stara fotografija=https://www.youtube.com/watch?v=_goIL37BUDg
 ﻿Narodna]Hule}Eh što nisam konobar=https://www.youtube.com/watch?v=u6h5VleBhoQ
-﻿Narodna]Hule}Nikad neće biti moja mlada=http://www.youtube.com/watch?v=PAIukiiptDQ
-﻿Narodna]Hule}Sirota djevojka=https://www.youtube.com/watch?v=RfmbAcJ-MVo
+﻿Narodna]Hule}Nikad neće biti moja mlada=http://www.youtube.com/watch?v=VtOM1Jx_DVs
+﻿Narodna]Hule}Sirota djevojka=http://www.youtube.com/watch?v=zUyeD_0oO58
 ﻿Narodna]Hule}Pjesma majci=https://www.youtube.com/watch?v=1zOk7_grNIU
-﻿Narodna]Hule}Neće meni Drina biti kapija=https://www.youtube.com/watch?v=tSJYDZzFqOQ
+﻿Narodna]Hule}Neće meni Drina biti kapija=http://www.youtube.com/watch?v=PvnYuyCL9yc
 ﻿Narodna]Hule}Umrijeću kraj tvoje kapije=http://www.youtube.com/watch?v=vuJWkXKB6wU
 ﻿Narodna]Hule}Strankinja=https://www.youtube.com/watch?v=Ol5rZ6F8-fU
 ﻿Narodna]Hule}Sutra na put kad krenem=http://www.youtube.com/watch?v=dxxNvQhhKRg
-﻿Narodna]Hule}Naći ću je, naći=http://www.youtube.com/watch?v=9iETwTSKswQ
-﻿Narodna]Hule}Tvoji su nam rastanak dnijeli=https://www.youtube.com/watch?v=mM4ugGmg588
+﻿Narodna]Hule}Naći ću je, naći=http://www.youtube.com/watch?v=IMKp1kdck80
+﻿Narodna]Hule}Tvoji su nam rastanak dnijeli=http://www.youtube.com/watch?v=gOHO2bVkRuc
 ﻿Narodna]Hule}Imam ja brata svog=http://www.youtube.com/watch?v=I0eL5GKTNRU
 ﻿Narodna]Hule}Dva brata=https://www.youtube.com/watch?v=2Q6yxf8653g
-﻿Narodna]Hule}Pobjednici istoriju pišu=https://www.youtube.com/watch?v=TYowf1J_glU
-﻿Narodna]Hule}Stojim na zeleno, idem na crveno=https://www.youtube.com/watch?v=59U3M8Qejjo
+﻿Narodna]Hule}Pobjednici istoriju pišu=http://www.youtube.com/watch?v=XiPzWn74BIk
+﻿Narodna]Hule}Stojim na zeleno, idem na crveno=http://www.youtube.com/watch?v=nWC-EveLfR8
 ﻿Narodna]Hule}Crna tuđina=https://www.youtube.com/watch?v=L9vy71QElmE
-﻿Narodna]Hule}Žena=https://www.youtube.com/watch?v=H9R_7MqGd7g
+﻿Narodna]Hule}Žena=http://www.youtube.com/watch?v=fNaiHBxpzM0
 ﻿Narodna]Hule}Viječiti momak=https://www.youtube.com/watch?v=ys9wEjtrMNw
 ﻿Narodna]Hule}Uličarka=http://www.youtube.com/watch?v=4YJZSs0I2Y8
-﻿Narodna]Hule}Varali me ljudi=https://www.youtube.com/watch?v=Ev-Btu7Dafo
-﻿Narodna]Hule}Kad telefon zazvoni=https://www.youtube.com/watch?v=tCl8EaK5dp8
+﻿Narodna]Hule}Varali me ljudi=http://www.youtube.com/watch?v=ia-a9qGhuG0
+﻿Narodna]Hule}Kad telefon zazvoni=http://www.youtube.com/watch?v=FKjcefOldmk
 ﻿Narodna]Hule}Sretne ti bile godine bez mene=http://www.youtube.com/watch?v=wbDOtWvr11Q
-﻿Narodna]Hule}Otkud ti pravo=https://www.youtube.com/watch?v=ADJpDUNgZbU
-﻿Narodna]Hule}Plavokosa=https://www.youtube.com/watch?v=VrPM3mgNJqk
+﻿Narodna]Hule}Otkud ti pravo=http://www.youtube.com/watch?v=Mkads7rWVLM
+﻿Narodna]Hule}Plavokosa=http://www.youtube.com/watch?v=iWLbQcMR_co
 ﻿Narodna]Hule}Sine moj=http://www.youtube.com/watch?v=aDa4BVWOD3k
-﻿Narodna]Hule}Slaži mamu da ćeš spavati kod drugarice=https://www.youtube.com/watch?v=7dE34CeMTVU
+﻿Narodna]Hule}Slaži mamu da ćeš spavati kod drugarice=http://www.youtube.com/watch?v=1GZpaBvtmC0
 ﻿Narodna]Hule}Sestro moja=http://www.youtube.com/watch?v=yNRyJYEjmQw
 ﻿Narodna]Hule}Sjedimo ko stranci=http://www.youtube.com/watch?v=pbYbbB7tZ6g
-﻿Narodna]Hule}Djevojka iz Krajine=https://www.youtube.com/watch?v=bFyueawFEPs
-﻿Narodna]Hule}Srećan ti rođendan dušo=https://www.youtube.com/watch?v=tYqxNBEl71E
-﻿Narodna]Hule}Braća po bolu=https://www.youtube.com/watch?v=emSSNPKZiS0
+﻿Narodna]Hule}Djevojka iz Krajine=http://www.youtube.com/watch?v=kRK5HBM8l9A
+﻿Narodna]Hule}Srećan ti rođendan dušo=http://www.youtube.com/watch?v=h23J9Ni7kkE
+﻿Narodna]Hule}Braća po bolu=http://www.youtube.com/watch?v=-_PIj_AiBb0
 ﻿Narodna]Hule}Stari druže=http://www.youtube.com/watch?v=r_TETUG0H3s
-﻿Narodna]Hule}Sudija=https://www.youtube.com/watch?v=Kck8Er8BeZo
+﻿Narodna]Hule}Sudija=http://www.youtube.com/watch?v=IagTkup7meE
 ﻿Narodna]Hule}Tigrica=http://www.youtube.com/watch?v=S_3iuMvCRk0
 ﻿Narodna]Hule}Ženski šer=http://www.youtube.com/watch?v=RI8pSWJrhV8
 ﻿Narodna]Hule}Nakit=http://www.youtube.com/watch?v=MbgI8HvtAU4
@@ -8117,7 +8116,7 @@
 ﻿Narodna]Hule}Daleko je Sandžak moj=https://www.youtube.com/watch?v=0fa_ijof_dY
 ﻿Narodna]Hule}Žena s tetovaže=https://www.youtube.com/watch?v=eo6Cgzle53A
 ﻿Narodna]Hule}Hajde Hano=https://www.youtube.com/watch?v=36lVKuLhGEQ
-﻿Narodna]Hule}Gleda onaj od gore=https://www.youtube.com/watch?v=ec0GnX61E9Q
+﻿Narodna]Hule}Gleda onaj od gore=http://www.youtube.com/watch?v=ZCvvH8fuSiM
 ﻿Narodna]Hule}Pobjediće ljubav=http://www.youtube.com/watch?v=ZNHiT4M8jP4
 ﻿Narodna]Hule}Vraćam se kući=http://www.youtube.com/watch?v=EkW11Fn3sAw
 ﻿Narodna]Hule}Između mene i tebe=https://www.youtube.com/watch?v=drFPj2IZRbQ
@@ -8125,7 +8124,7 @@
 ﻿Narodna]Hule}U svim imenicima svijeta=http://www.youtube.com/watch?v=6E9FZyx7N8E
 ﻿Narodna]Hule}Ostao sam samo s jednom cigaretom=https://www.youtube.com/watch?v=tkTc3lkevNg
 ﻿Narodna]Hule}Da me vidi babo moj=https://www.youtube.com/watch?v=NAYGBbO1OZg
-﻿Narodna]Hule}Znaš li Bahro, Bahrija=https://www.youtube.com/watch?v=IxPFruiXj40
+﻿Narodna]Hule}Znaš li Bahro, Bahrija=http://www.youtube.com/watch?v=RAWFBA_kSS8
 ﻿Narodna]Hule}Nisam više ljubomoran=https://www.youtube.com/watch?v=cY5ODjZQywQ
 ﻿Rok]ITD Band}20. vijek=http://www.youtube.com/watch?v=HvjpNaNs9wg
 ﻿Rok]ITD Band}Dražesna Meri=http://www.youtube.com/watch?v=pd-dEkPv468
@@ -8635,7 +8634,7 @@
 ﻿Zabavna]Ivana Banfić}Nema veze, zlato=http://www.youtube.com/watch?v=ujnWLd5uokk
 ﻿Zabavna]Ivana Banfić}Ničija žena=http://www.youtube.com/watch?v=2vg53vbtXws
 ﻿Zabavna]Ivana Banfić}Otisak prsta=http://www.youtube.com/watch?v=t4-dmly2Ojo
-﻿Zabavna]Ivana Banfić}Predaleko=http://www.youtube.com/watch?v=itCmks8Dqvs
+﻿Zabavna]Ivana Banfić}Predaleko=http://www.youtube.com/watch?v=wpw4IMtOirM
 ﻿Zabavna]Ivana Banfić}Sad=http://www.youtube.com/watch?v=SQYw8AXG5RE
 ﻿Zabavna]Ivana Banfić}Sretan ti stoti rođendan=http://www.youtube.com/watch?v=k7yGYEJC-4A
 ﻿Zabavna]Ivana Banfić}Šumica=http://www.youtube.com/watch?v=Fq_KNKigKV8
@@ -8974,7 +8973,7 @@
 ﻿Zabavna]Jelena Karleuša}Bezobrazna=http://www.youtube.com/watch?v=nAy1K4JV2wI
 ﻿Zabavna]Jelena Karleuša}Biću tvoja=http://www.youtube.com/watch?v=j6bxIS_x1tE
 ﻿Zabavna]Jelena Karleuša}Bye, bye=http://www.youtube.com/watch?v=9q27M3xIN7Y
-﻿Zabavna]Jelena Karleuša}Casino=http://www.youtube.com/watch?v=vs1Xhq2mFJo
+﻿Zabavna]Jelena Karleuša}Casino=http://www.youtube.com/watch?v=saSc2IbrTvQ
 ﻿Zabavna]Jelena Karleuša}Cicija=http://www.youtube.com/watch?v=pdCZggns8XM
 ﻿Zabavna]Jelena Karleuša}Da mi nisi drag=http://www.youtube.com/watch?v=l2FqVJbe8ds
 ﻿Zabavna]Jelena Karleuša}Da te nisam prevarila=http://www.youtube.com/watch?v=sSpRg8UEteY
@@ -9010,7 +9009,7 @@
 ﻿Zabavna]Jelena Karleuša}Najbolja drugarice=http://www.youtube.com/watch?v=sSKS1H4Pd0w
 ﻿Zabavna]Jelena Karleuša}Naša žena=http://www.youtube.com/watch?v=aMH_NGDqaFk
 ﻿Zabavna]Jelena Karleuša}Ne mrzim te ni sad=http://www.youtube.com/watch?v=PysYwZR2YAg
-﻿Zabavna]Jelena Karleuša}Ne smem da se zaljubim u tebe=http://www.youtube.com/watch?v=f_NNbLhaqFs
+﻿Zabavna]Jelena Karleuša}Ne smem da se zaljubim u tebe=http://www.youtube.com/watch?v=UE8Naovf-Fs
 ﻿Zabavna]Jelena Karleuša}Ne veruj ženama=http://www.youtube.com/watch?v=AZZEFa0KfoE
 ﻿Zabavna]Jelena Karleuša}Ne, ne, ne=http://www.youtube.com/watch?v=sQstW462lwo
 ﻿Zabavna]Jelena Karleuša}Nije ona nego ja=http://www.youtube.com/watch?v=xFP2N17Sn1M
@@ -9536,25 +9535,25 @@
 ﻿Narodna]Kemal Malovčić}Babo=http://www.youtube.com/watch?v=X-OISis1O44
 ﻿Narodna]Kemal Malovčić}Baraba=http://www.youtube.com/watch?v=mlvtHMh30c0
 ﻿Narodna]Kemal Malovčić}Beduin=http://www.youtube.com/watch?v=DZ-UZDA6Dko
-﻿Narodna]Kemal Malovčić}Bez mene si mrtva žena=http://www.youtube.com/watch?v=C09LQ_jcG8M
-﻿Narodna]Kemal Malovčić}Bijela bluza=http://www.youtube.com/watch?v=x3wQ7ud--7w
+﻿Narodna]Kemal Malovčić}Bez mene si mrtva žena=http://www.youtube.com/watch?v=PtEHAeahoY4
+﻿Narodna]Kemal Malovčić}Bijela bluza=http://www.youtube.com/watch?v=LMFGjfmZKBg
 ﻿Narodna]Kemal Malovčić}Bosna pjeva i pjevaće=http://www.youtube.com/watch?v=Q-ZU0EJ9rnk
 ﻿Narodna]Kemal Malovčić}Čar ljubavi=http://www.youtube.com/watch?v=qYyVZvv2F4Y
 ﻿Narodna]Kemal Malovčić}Čardak=http://www.youtube.com/watch?v=69ou-M0J8Z0
 ﻿Narodna]Kemal Malovčić}Carinik=http://www.youtube.com/watch?v=cgE354li8Io
-﻿Narodna]Kemal Malovčić}Caru ide carevo=http://www.youtube.com/watch?v=93ipUq992ow
+﻿Narodna]Kemal Malovčić}Caru ide carevo=http://www.youtube.com/watch?v=7UVw8CuB5vs
 ﻿Narodna]Kemal Malovčić}Čekam te još uvek=http://www.youtube.com/watch?v=n3ay3vPcn3o
 ﻿Narodna]Kemal Malovčić}Čemu se bez mene nadaš=http://www.youtube.com/watch?v=sZ5afANoil4
 ﻿Narodna]Kemal Malovčić}Čigra=http://www.youtube.com/watch?v=uDRvrEqrY0o
 ﻿Narodna]Kemal Malovčić}Čije grijehe sada plaćam=--start-time=10 http://www.youtube.com/watch?v=u68M5-Lkj-c
-﻿Narodna]Kemal Malovčić}Čiji svatovi noćas pevaju=http://www.youtube.com/watch?v=Se7dE1jQ4EY
+﻿Narodna]Kemal Malovčić}Čiji svatovi noćas pevaju=http://www.youtube.com/watch?v=QzygkT8XgfM
 ﻿Narodna]Kemal Malovčić}Čobanice, ljepotice=http://www.youtube.com/watch?v=lhR6xpbgP70
 ﻿Narodna]Kemal Malovčić}Cura=http://www.youtube.com/watch?v=JvRS0ImN2bg
 ﻿Narodna]Kemal Malovčić}Čuvaj draga našu ćerku=http://www.youtube.com/watch?v=o5ek3SiVHIU
-﻿Narodna]Kemal Malovčić}Cvetaju lipe=http://www.youtube.com/watch?v=rvrapfYaiF4
+﻿Narodna]Kemal Malovčić}Cvetaju lipe=http://www.youtube.com/watch?v=4h2eLcDt9HQ
 ﻿Narodna]Kemal Malovčić}Da li ti i sad značim=http://www.youtube.com/watch?v=iSljCHU0Kt4
 ﻿Narodna]Kemal Malovčić}Da te opet sretnem=http://www.youtube.com/watch?v=ZGSaDzAC3mg
-﻿Narodna]Kemal Malovčić}Daleko si od pogleda=http://www.youtube.com/watch?v=kb0niiNGlrA
+﻿Narodna]Kemal Malovčić}Daleko si od pogleda=http://www.youtube.com/watch?v=6cidgcDK-ZU
 ﻿Narodna]Kemal Malovčić}Dame imaju prednost=http://www.youtube.com/watch?v=qM6hDbi8cKI
 ﻿Narodna]Kemal Malovčić}Deveram=http://www.youtube.com/watch?v=lMjSxdRfjfs
 ﻿Narodna]Kemal Malovčić}Dlan=http://www.youtube.com/watch?v=6RVdSYLST8Y
@@ -9581,10 +9580,10 @@
 ﻿Narodna]Kemal Malovčić}Hej malena, plavo oko=http://www.youtube.com/watch?v=vCfYgjp5Bs8
 ﻿Narodna]Kemal Malovčić}Hej, crne oči te=http://www.youtube.com/watch?v=Sw8RjJdj5EE
 ﻿Narodna]Kemal Malovčić}Hurija=http://www.youtube.com/watch?v=fv5fdT-IxtU
-﻿Narodna]Kemal Malovčić}Idi voljena, idi=http://www.youtube.com/watch?v=HKc5BgqJmWM
+﻿Narodna]Kemal Malovčić}Idi voljena, idi=http://www.youtube.com/watch?v=U6uC-jNFx1c
 ﻿Narodna]Kemal Malovčić}Idi, druže, svome rodnom kraju=http://www.youtube.com/watch?v=vrsk2xZi2Pw
 ﻿Narodna]Kemal Malovčić}Igraj, igraj=http://www.youtube.com/watch?v=kRLEILaMcpk
-﻿Narodna]Kemal Malovčić}Imenjak=http://www.youtube.com/watch?v=MVuTgeBVtZk
+﻿Narodna]Kemal Malovčić}Imenjak=http://www.youtube.com/watch?v=lx7rx8fmnQI
 ﻿Narodna]Kemal Malovčić}Ja nisam srećan čovek=http://www.youtube.com/watch?v=y8ujFWLV8A8
 ﻿Narodna]Kemal Malovčić}Ja volim je=http://www.youtube.com/watch?v=JEup98ziI0E
 ﻿Narodna]Kemal Malovčić}Jedan je život=http://www.youtube.com/watch?v=fzbVCwxUdDE
@@ -9596,9 +9595,9 @@
 ﻿Narodna]Kemal Malovčić}Kad s pameti nisam skreno=http://www.youtube.com/watch?v=N6ZA-DxjRb4
 ﻿Narodna]Kemal Malovčić}Kada nema nje=http://www.youtube.com/watch?v=E-pq8IykAQg
 ﻿Narodna]Kemal Malovčić}Kao nekad na Balkanu=http://www.youtube.com/watch?v=SQ6xvFHfrlc
-﻿Narodna]Kemal Malovčić}Kemal=http://www.youtube.com/watch?v=HFGF5dga-Os
+﻿Narodna]Kemal Malovčić}Kemal=http://www.youtube.com/watch?v=SQ6xvFHfrlc
 ﻿Narodna]Kemal Malovčić}Kitiću te krnom srmom=http://www.youtube.com/watch?v=fiC6yn00NhM
-﻿Narodna]Kemal Malovčić}Klinka=http://www.youtube.com/watch?v=HFGF5dga-Os
+﻿Narodna]Kemal Malovčić}Klinka=http://www.youtube.com/watch?v=Ka2hAdOqJB0
 ﻿Narodna]Kemal Malovčić}Ključ od tvoga srca=http://www.youtube.com/watch?v=c1YpdOkxjJQ
 ﻿Narodna]Kemal Malovčić}Ko gubi u ljubavi=http://www.youtube.com/watch?v=ko1bhMZDNgY
 ﻿Narodna]Kemal Malovčić}Kolo sreće se okreće=http://www.youtube.com/watch?v=o-lLNthuuVk
@@ -9609,7 +9608,7 @@
 ﻿Narodna]Kemal Malovčić}Kunem tebe i tvoje venčanje=http://www.youtube.com/watch?v=ee68X-bSUW0
 ﻿Narodna]Kemal Malovčić}Lažeš da si srećna=http://www.youtube.com/watch?v=YpNdJfVfMMA
 ﻿Narodna]Kemal Malovčić}Lažeš druge, lažeš sebe=http://www.youtube.com/watch?v=8sauAtUgQGA
-﻿Narodna]Kemal Malovčić}Lažu te, malena=http://www.youtube.com/watch?v=rqKv-oC3LTQ
+﻿Narodna]Kemal Malovčić}Lažu te, malena=http://www.youtube.com/watch?v=kDfxkDMslz8
 ﻿Narodna]Kemal Malovčić}Ljubio sam=http://www.youtube.com/watch?v=Ci9eSuHySw0
 ﻿Narodna]Kemal Malovčić}Luda glava pijana=http://www.youtube.com/watch?v=giL_a8Z24zA
 ﻿Narodna]Kemal Malovčić}Maturska haljina=http://www.youtube.com/watch?v=8aqiEHzuO30
@@ -9622,7 +9621,6 @@
 ﻿Narodna]Kemal Malovčić}Muž i žena=http://www.youtube.com/watch?v=_L7BWpED1Dg
 ﻿Narodna]Kemal Malovčić}Na Drini ćuprija=http://www.youtube.com/watch?v=xVV7qEKoMec
 ﻿Narodna]Kemal Malovčić}Naopako sve=http://www.youtube.com/watch?v=J4hcL9mcGD8
-﻿Narodna]Kemal Malovčić}Napijem se pa sve brzo zaboravim=http://www.youtube.com/watch?v=1Obc_I2xWvc
 ﻿Narodna]Kemal Malovčić}Ne daju nam=http://www.youtube.com/watch?v=fIPyP8I7M88
 ﻿Narodna]Kemal Malovčić}Ne kunem te=http://www.youtube.com/watch?v=Ekq_yvNKtpI
 ﻿Narodna]Kemal Malovčić}Ne pitaj me=http://www.youtube.com/watch?v=blKPO6f7jgw
@@ -9643,7 +9641,7 @@
 ﻿Narodna]Kemal Malovčić}Nisi tu=http://www.youtube.com/watch?v=6EAaM59sZkw
 ﻿Narodna]Kemal Malovčić}Oči moje dvije česme=http://www.youtube.com/watch?v=P8_g2235j-Y
 ﻿Narodna]Kemal Malovčić}Od tog dana=http://www.youtube.com/watch?v=R7-WuWJ9IYU
-﻿Narodna]Kemal Malovčić}Oko Sane=http://www.youtube.com/watch?v=TGa-Gnb6wfw
+﻿Narodna]Kemal Malovčić}Oko Sane=http://www.youtube.com/watch?v=I1CGaQ-XCdA
 ﻿Narodna]Kemal Malovčić}Okreće se kolo sreće=http://www.youtube.com/watch?v=paSsfFEiSBU
 ﻿Narodna]Kemal Malovčić}Okrećem se kibletu=http://www.youtube.com/watch?v=wpqHo86fFks
 ﻿Narodna]Kemal Malovčić}Onaj što za tebe živi=http://www.youtube.com/watch?v=Kb78AfP8T1w
@@ -9660,7 +9658,7 @@
 ﻿Narodna]Kemal Malovčić}Pokloni ljubav čoveku svom=http://www.youtube.com/watch?v=C81F1eBw3h0
 ﻿Narodna]Kemal Malovčić}Pokušaj bar malo sa mnom=http://www.youtube.com/watch?v=OvwH54KhtDI
 ﻿Narodna]Kemal Malovčić}Pomiluj draga ćerku=http://www.youtube.com/watch?v=Tpgp7xxf1fo
-﻿Narodna]Kemal Malovčić}Povedi me srećo=http://www.youtube.com/watch?v=BGRsW9l6lWI
+﻿Narodna]Kemal Malovčić}Povedi me srećo=http://www.youtube.com/watch?v=aEcOhVaHxXQ
 ﻿Narodna]Kemal Malovčić}Prežalit' ću=http://www.youtube.com/watch?v=4RSH9-u49W0
 ﻿Narodna]Kemal Malovčić}Proklet bio=http://www.youtube.com/watch?v=6gas-ObbfOc
 ﻿Narodna]Kemal Malovčić}Prosili su je=http://www.youtube.com/watch?v=aCCzwEkZpbM
@@ -9669,23 +9667,23 @@
 ﻿Narodna]Kemal Malovčić}Rastanak je lakši kad svjedoka nema=http://www.youtube.com/watch?v=sC5f_HqcU3A
 ﻿Narodna]Kemal Malovčić}Rekla si mi da ne voliš zimu=http://www.youtube.com/watch?v=rIG8jW3MGqY
 ﻿Narodna]Kemal Malovčić}Rođendanska pesma=http://www.youtube.com/watch?v=cfge1j-Z8WU
-﻿Narodna]Kemal Malovčić}Sad je kasno da se kaješ=http://www.youtube.com/watch?v=xUrb_i0fN4Q
+﻿Narodna]Kemal Malovčić}Sad je kasno da se kaješ=http://www.youtube.com/watch?v=BYU7JM8X8Xg
 ﻿Narodna]Kemal Malovčić}Sad kod mene tuga srcem vlada=http://www.youtube.com/watch?v=lZLSTf70PC4
 ﻿Narodna]Kemal Malovčić}Samo bol=http://www.youtube.com/watch?v=QwlFfkf3UuQ
-﻿Narodna]Kemal Malovčić}Samo neka traje=http://www.youtube.com/watch?v=HXpuvFoIvEA
+﻿Narodna]Kemal Malovčić}Samo neka traje=http://www.youtube.com/watch?v=EMG4vl-0QyU
 ﻿Narodna]Kemal Malovčić}Samo s tobom=http://www.youtube.com/watch?v=L_jjMuhwAR8
 ﻿Narodna]Kemal Malovčić}Sanjam=http://www.youtube.com/watch?v=XLaB12vJ6_Q
 ﻿Narodna]Kemal Malovčić}Sedi, tu je mjesto tvoje=http://www.youtube.com/watch?v=jO059BGm0ns
-﻿Narodna]Kemal Malovčić}Sedim u kafani=http://www.youtube.com/watch?v=Z0HIqzhMSB0
+﻿Narodna]Kemal Malovčić}Sedim u kafani=http://www.youtube.com/watch?v=zv8SXyUIG_k
 ﻿Narodna]Kemal Malovčić}Senada, Senada=http://www.youtube.com/watch?v=SVzC62iq5Vg
-﻿Narodna]Kemal Malovčić}Sheik=http://www.youtube.com/watch?v=NVUWcDw6hZM
-﻿Narodna]Kemal Malovčić}Sikter=http://www.youtube.com/watch?v=r0EAIkBSLAU
+﻿Narodna]Kemal Malovčić}Sheik=http://www.youtube.com/watch?v=BZ_0MTTmfig
+﻿Narodna]Kemal Malovčić}Sikter=http://www.youtube.com/watch?v=Rwt7PhaVa6U
 ﻿Narodna]Kemal Malovčić}Sine, sine=http://www.youtube.com/watch?v=fIxRRXCR9DU
 ﻿Narodna]Kemal Malovčić}Spasi me=http://www.youtube.com/watch?v=7TurfgM9xZI
 ﻿Narodna]Kemal Malovčić}Srce joj je kamen=http://www.youtube.com/watch?v=aG0fkIsIq5k
 ﻿Narodna]Kemal Malovčić}Sreći prolaz=http://www.youtube.com/watch?v=1s5JIBvGvUg
 ﻿Narodna]Kemal Malovčić}Srećo moja nesuđena=http://www.youtube.com/watch?v=Z6ExYTxA5hE
-﻿Narodna]Kemal Malovčić}Sretan put=http://www.youtube.com/watch?v=3Y-cP8bNMDk
+﻿Narodna]Kemal Malovčić}Sretan put=http://www.youtube.com/watch?v=wem2rMX-y7M
 ﻿Narodna]Kemal Malovčić}Šta bi ja bez tebe=http://www.youtube.com/watch?v=AYwremXOvnc
 ﻿Narodna]Kemal Malovčić}Stalo ti je do mog srca=http://www.youtube.com/watch?v=FrQVfGIldCM
 ﻿Narodna]Kemal Malovčić}Stegni srce=http://www.youtube.com/watch?v=EqpKb2CKPdE
@@ -9696,11 +9694,11 @@
 ﻿Narodna]Kemal Malovčić}Suzana ljubavi=http://www.youtube.com/watch?v=GKXul87_Zfc
 ﻿Narodna]Kemal Malovčić}Suze teku=http://www.youtube.com/watch?v=iiHH2OUGupE
 ﻿Narodna]Kemal Malovčić}Suzo moja=http://www.youtube.com/watch?v=eALRMSRbqII
-﻿Narodna]Kemal Malovčić}Svako sebi=http://www.youtube.com/watch?v=jw2PIqzGdD0
+﻿Narodna]Kemal Malovčić}Svako sebi=http://www.youtube.com/watch?v=xjYTR8pNPKA
 ﻿Narodna]Kemal Malovčić}Svatovi=http://www.youtube.com/watch?v=1NO71G2dEhI
 ﻿Narodna]Kemal Malovčić}Sve dok živim ja ću te pamtiti=http://www.youtube.com/watch?v=NZTXHt6ELSk
 ﻿Narodna]Kemal Malovčić}Sve mi ide naopako=http://www.youtube.com/watch?v=z2-TrXkAJNk
-﻿Narodna]Kemal Malovčić}Svi su naši drumovi=http://www.youtube.com/watch?v=_0zwZZztNJI
+﻿Narodna]Kemal Malovčić}Svi su naši drumovi=http://www.youtube.com/watch?v=1y52QOHjIW4
 ﻿Narodna]Kemal Malovčić}Tamna noći=http://www.youtube.com/watch?v=jLhV9MY6cxM
 ﻿Narodna]Kemal Malovčić}Tanak led=http://www.youtube.com/watch?v=rVJ44cswiPA
 ﻿Narodna]Kemal Malovčić}Tebe nema=http://www.youtube.com/watch?v=MNDQZSlr4xI
@@ -9723,7 +9721,7 @@
 ﻿Narodna]Kemal Malovčić}Varalice=http://www.youtube.com/watch?v=yrxz6x2T6iU
 ﻿Narodna]Kemal Malovčić}Veliko srce=http://www.youtube.com/watch?v=va4bKfiEa8U
 ﻿Narodna]Kemal Malovčić}Voli me, voli=http://www.youtube.com/watch?v=n6DEO6N8CeI
-﻿Narodna]Kemal Malovčić}Vraćam ti se=http://www.youtube.com/watch?v=7PU9As2R6-A
+﻿Narodna]Kemal Malovčić}Vraćam ti se=http://www.youtube.com/watch?v=KFNUphtVmDo
 ﻿Narodna]Kemal Malovčić}Vrati mi sreću, devojko=http://www.youtube.com/watch?v=FKFDXcLyBVk
 ﻿Narodna]Kemal Malovčić}Vrati se Neno, vrati=http://www.youtube.com/watch?v=9XkcVBPyfR4
 ﻿Narodna]Kemal Malovčić}Za tebe je ljubav igra=http://www.youtube.com/watch?v=rNctZVS34jU
@@ -9735,11 +9733,11 @@
 ﻿Narodna]Kemal Malovčić}Zbog nje ja sam=http://www.youtube.com/watch?v=ZGnyEaQN8MY
 ﻿Narodna]Kemal Malovčić}Zbog tebe sam patio=http://www.youtube.com/watch?v=pla-u9JNSlA
 ﻿Narodna]Kemal Malovčić}Zdravo druže, kako je=http://www.youtube.com/watch?v=b0g0riW59MY
-﻿Narodna]Kemal Malovčić}Zgodna a sama=http://www.youtube.com/watch?v=PZv3VAB7ZC8
-﻿Narodna]Kemal Malovčić}Zgodna, al nezgodna=http://www.youtube.com/watch?v=HnenDWZmp7I
+﻿Narodna]Kemal Malovčić}Zgodna a sama=http://www.youtube.com/watch?v=OQBqbRLnF-w
+﻿Narodna]Kemal Malovčić}Zgodna, al nezgodna=http://www.youtube.com/watch?v=LUTNFkJOVzQ
 ﻿Narodna]Kemal Malovčić}Zina iz Cazina=http://www.youtube.com/watch?v=NRmHafCDJho
 ﻿Narodna]Kemal Malovčić}Zovem danima=http://www.youtube.com/watch?v=EyL3KTAHPps
-﻿Narodna]Kemal Malovčić}Zumro, Zumro=http://www.youtube.com/watch?v=KAG4CyI2iBE
+﻿Narodna]Kemal Malovčić}Zumro, Zumro=http://www.youtube.com/watch?v=iYrW6Jg8_l4
 ﻿Kantautori]Kemal Monteno}Adrijana=http://www.youtube.com/watch?v=cVotqpZ0Ec4
 ﻿Kantautori]Kemal Monteno}Bez tebe=http://www.youtube.com/watch?v=RG6WJr3gwtI
 ﻿Kantautori]Kemal Monteno}Bila je to ljubav (duet Zerina Cokoja)=http://www.youtube.com/watch?v=8wNxPFuwLLE
@@ -10511,19 +10509,18 @@
 ﻿Rok Strani]Amy Winehouse}Get over it=https://www.youtube.com/watch?v=hLIqKDs-0_A
 ﻿Rok Strani]Guns 'n' Roses}Paradise city=https://www.youtube.com/watch?v=Rbm6GXllBiw
 ﻿Rok Strani]Guns 'n' Roses}You could be mine=http://www.youtube.com/watch?v=FGQmnpX4Pdo
-﻿Rok Strani]Guns 'n' Roses}Knockin on heavens door=http://www.youtube.com/watch?v=xw6bbTxbTds
-﻿Rok Strani]Guns 'n' Roses}Used to love her=http://www.youtube.com/watch?v=4zNjoErqo-w
+﻿Rok Strani]Guns 'n' Roses}Used to love her=http://www.youtube.com/watch?v=OZ9haI5ghmg
 ﻿Rok Strani]Guns 'n' Roses}One in a million=--start-time=20 http://www.youtube.com/watch?v=U5rejzm3PhQ
 ﻿Rok Strani]Guns 'n' Roses}Estranged=--start-time=13 https://www.youtube.com/watch?v=dpmAY059TTY
 ﻿Rok Strani]Guns 'n' Roses}Patience=https://www.youtube.com/watch?v=ErvgV4P6Fzc
 ﻿Rok Strani]Guns 'n' Roses}Live and let die=--start-time=10 https://www.youtube.com/watch?v=6D9vAItORgE
 ﻿Rok Strani]Guns 'n' Roses}Don't damn me=http://www.youtube.com/watch?v=nbSXbDocPCE
 ﻿Rok Strani]Guns 'n' Roses}Yesterdays=http://www.youtube.com/watch?v=KvAs_tMZ0DA
-﻿Rok Strani]Guns 'n' Roses}Bad obsession=http://www.youtube.com/watch?v=O9TaKTMq4PE
+﻿Rok Strani]Guns 'n' Roses}Bad obsession=http://www.youtube.com/watch?v=Y5quhOToaro
 ﻿Rok Strani]Guns 'n' Roses}So fine=http://www.youtube.com/watch?v=8W5aSFUy-8Q
 ﻿Rok Strani]Guns 'n' Roses}Back off bitch=http://www.youtube.com/watch?v=Y22hpfEL9aA
-﻿Rok Strani]Guns 'n' Roses}Breakdown=http://www.youtube.com/watch?v=BkXKLSXSs_g
-﻿Rok Strani]Guns 'n' Roses}Pretty tied up=http://www.youtube.com/watch?v=N88idsfn5pU
+﻿Rok Strani]Guns 'n' Roses}Breakdown=http://www.youtube.com/watch?v=wF9M9lR1jBY
+﻿Rok Strani]Guns 'n' Roses}Pretty tied up=http://www.youtube.com/watch?v=LcRwkL7KtLk
 ﻿Rok Strani]Guns 'n' Roses}14 years=http://www.youtube.com/watch?v=pdPdPM47BZk
 ﻿Rok Strani]Guns 'n' Roses}Since i don't have you=https://www.youtube.com/watch?v=IYOYlqOitDA
 ﻿Rok Strani]Guns 'n' Roses}You're crazy=http://www.youtube.com/watch?v=gEM1EY6iJ0w
@@ -10531,18 +10528,17 @@
 ﻿Rok Strani]Guns 'n' Roses}Dead horse=--start-time=7 https://www.youtube.com/watch?v=u8X76NRiQLQ
 ﻿Rok Strani]Guns 'n' Roses}Dust n' bones=http://www.youtube.com/watch?v=lA6tFLYALnY
 ﻿Rok Strani]Guns 'n' Roses}The garden=http://www.youtube.com/watch?v=cnLAVkM3iCg
-﻿Rok Strani]Guns 'n' Roses}Mr. Brownstone=http://www.youtube.com/watch?v=-tjKe3nPpL4
+﻿Rok Strani]Guns 'n' Roses}Mr. Brownstone=http://www.youtube.com/watch?v=6Wn7qYBedAQ
 ﻿Rok Strani]Guns 'n' Roses}Welcome to the jungle=--start-time=5 https://www.youtube.com/watch?v=o1tj2zJ2Wvg
-﻿Rok Strani]Guns 'n' Roses}Out ta get me=http://www.youtube.com/watch?v=Sg8Mzqgq_js
+﻿Rok Strani]Guns 'n' Roses}Out ta get me=http://www.youtube.com/watch?v=WPYIlzJZviI
 ﻿Rok Strani]Guns 'n' Roses}My Michelle=http://www.youtube.com/watch?v=PiHjv_UJ6hQ
 ﻿Rok Strani]Guns 'n' Roses}Reckless life=http://www.youtube.com/watch?v=DJ-Yt9i0yWs
-﻿Rok Strani]Guns 'n' Roses}Think about you=http://www.youtube.com/watch?v=6iQ7k8FUzw8
+﻿Rok Strani]Guns 'n' Roses}Think about you=http://www.youtube.com/watch?v=0TxiSppDKS0
 ﻿Rok Strani]Guns 'n' Roses}Sweet child o' mine=https://www.youtube.com/watch?v=1w7OgIMMRc4
 ﻿Rok Strani]Guns 'n' Roses}Don't cry=--start-time=10 https://www.youtube.com/watch?v=zRIbf6JqkNc
 ﻿Rok Strani]Guns 'n' Roses}Garden of Eden=--start-time=4 https://www.youtube.com/watch?v=LuhLVl5qf2A
-﻿Rok Strani]Guns 'n' Roses}Chinese democracy=http://www.youtube.com/watch?v=AWz0e9M1JS0
+﻿Rok Strani]Guns 'n' Roses}Chinese democracy=http://www.youtube.com/watch?v=-zFMSQgFp1Y
 ﻿Rok Strani]Guns 'n' Roses}Ain't it fun=http://www.youtube.com/watch?v=aflkzdY0VE4
-﻿Rok Strani]Guns 'n' Roses}Sympathy for the Devil=https://www.youtube.com/watch?v=0tBZFQf--50
 ﻿Rok Strani]Guns 'n' Roses}Perfect crime=http://www.youtube.com/watch?v=_jnHbcIiXlM
 ﻿Rok Strani]Guns 'n' Roses}Right next door to hell=http://www.youtube.com/watch?v=4t1cfYyAGNM
 ﻿Rok Strani]Guns 'n' Roses}Get in the ring=--start-time=7 https://www.youtube.com/watch?v=gtfTnvO22Tc
@@ -10941,7 +10937,7 @@
 ﻿Rok Strani]Nightwish}Weak fantasy=--start-time=9 https://www.youtube.com/watch?v=_umnouxHpG0
 ﻿Rok Strani]Nightwish}White night fantasy=https://www.youtube.com/watch?v=xTW32xSn3vQ
 ﻿Rok Strani]Nightwish}Deep silent complete=https://www.youtube.com/watch?v=n2LfN2kFFV8
-﻿Rok Strani]Nightwish}Dead gardens=https://www.youtube.com/watch?v=1lW7aTmQNgo
+﻿Rok Strani]Nightwish}Dead gardens=http://www.youtube.com/watch?v=XGJhJ4sTLIw
 ﻿Rok Strani]Nightwish}10th man down=https://www.youtube.com/watch?v=VaEY7Z3QsOA
 ﻿Rok Strani]Nightwish}Dead boy's poem=--start-time=3 https://www.youtube.com/watch?v=npCWaI9nkX8
 ﻿Rok Strani]Nightwish}Lagoon=https://www.youtube.com/watch?v=36NZEuoh-yc
@@ -13507,7 +13503,7 @@
 ﻿Rok Strani]Def Leppard}Photograph=http://www.youtube.com/watch?v=NWsSSJ5skx4
 ﻿Rok Strani]Def Leppard}Pour Some Sugar On Me=http://www.youtube.com/watch?v=C5dUWw_lSMs
 ﻿Rok Strani]Def Leppard}Promises=http://www.youtube.com/watch?v=vGTNEnOcGX0
-﻿Rok Strani]Def Leppard}Rock Brigade=http://www.youtube.com/watch?v=YV86xj3FPkY
+﻿Rok Strani]Def Leppard}Rock Brigade=http://www.youtube.com/watch?v=NM1SbocvqEw
 ﻿Rok Strani]Def Leppard}Rock On=http://www.youtube.com/watch?v=mXJU64esj6M
 ﻿Rok Strani]Def Leppard}Rock! Rock! Till You Drop=http://www.youtube.com/watch?v=avgcg3YwyLc
 ﻿Rok Strani]Def Leppard}Rocket=http://www.youtube.com/watch?v=xLUnBzSBMjg
