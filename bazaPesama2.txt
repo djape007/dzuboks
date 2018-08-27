@@ -1265,6 +1265,7 @@
 ﻿Narodna]Merima Njegomir}Svilen konac=http://www.youtube.com/watch?v=_Oh9vWWKFbc
 ﻿Narodna]Merima Njegomir}Zbog tebe=http://www.youtube.com/watch?v=AJMh75Pnj4o
 ﻿Zabavna]Mia Borisavljević}Bumerang=http://www.youtube.com/watch?v=PEpCZCRuJOA
+﻿Zabavna]Mia Borisavljević}Pričaju po gradu=https://www.youtube.com/watch?v=iaozwkx6X30
 ﻿Zabavna]Mia Borisavljević}Čovek mog života=http://www.youtube.com/watch?v=pevOsPG7EG8
 ﻿Zabavna]Mia Borisavljević}Ja bih se s' tobom topila=http://www.youtube.com/watch?v=O3bQ2sh39FQ
 ﻿Zabavna]Mia Borisavljević}Kako da ne=http://www.youtube.com/watch?v=UnTktXX6M1M
@@ -1377,6 +1378,7 @@
 ﻿Zabavna]Milan Stanković}Hajde vodi me sa sobom=http://www.youtube.com/watch?v=fTNcH0rk84w
 ﻿Zabavna]Milan Stanković}Još uvek=http://www.youtube.com/watch?v=G8ez_-3QawA
 ﻿Zabavna]Milan Stanković}Kao nikad, kao nekad=http://www.youtube.com/watch?v=-6IEptke4zU
+﻿Zabavna]Milan Stanković}Kripton=--start-time=22 https://www.youtube.com/watch?v=g15XXPikC4g
 ﻿Zabavna]Milan Stanković}Mama=http://www.youtube.com/watch?v=WtHWZjlRXl4
 ﻿Zabavna]Milan Stanković}Nepopravljivo=http://www.youtube.com/watch?v=VJi0A-TXsHI
 ﻿Zabavna]Milan Stanković}Nešto protiv ljubavi=http://www.youtube.com/watch?v=5-nPcK4Sgss
