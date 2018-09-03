@@ -4565,6 +4565,7 @@
 ﻿Zabavna]Ok Band}Ljiljan i trn=--start-time=22 https://www.youtube.com/watch?v=nlflOhdX6lc
 ﻿Narodna]Amar Gile}Apokalipsa=--start-time=10 https://www.youtube.com/watch?v=0sRh4BYl0aE
 ﻿Narodna]Amar Gile}Prekasno=--start-time=3 https://www.youtube.com/watch?v=okgAbR3YlH4
+﻿Narodna]Amar Gile}Promjena=--start-time=10 https://www.youtube.com/watch?v=XnAPwSIGWEk
 ﻿Narodna]Amar Gile}Spreman na sve=http://www.youtube.com/watch?v=hjLg_wKPvaI
 ﻿Narodna]Amar Gile}Pijano=--start-time=19 https://www.youtube.com/watch?v=9m8uUoUR3qU
 ﻿Narodna]Amar Gile}Ponekad (ft. Jelena Kostov)=---start-time=6 https://www.youtube.com/watch?v=IQvkxlfG3Qg
@@ -7777,6 +7778,7 @@
 ﻿Zabavna]Slađana Milošević}Upali svetlo=http://www.youtube.com/watch?v=nER-vXfTgoY
 ﻿Narodna]Slavica Ćukteraš}24 sata=http://www.youtube.com/watch?v=9HSDLO45RbM
 ﻿Narodna]Slavica Ćukteraš}Adrenalin=http://www.youtube.com/watch?v=_pqsS0ZK-YI
+Narodna]Slavica Ćukteraš}Budi samo moj=--start-time=9 https://www.youtube.com/watch?v=ss9Py8qLAjk
 ﻿Narodna]Slavica Ćukteraš}Ćiribu, ćiriba=http://www.youtube.com/watch?v=A3jEqejOOJo
 ﻿Narodna]Slavica Ćukteraš}Doći će ti glave=http://www.youtube.com/watch?v=mv47800sYsc
 ﻿Narodna]Slavica Ćukteraš}Exclusiva=http://www.youtube.com/watch?v=lOomW6o55FQ
