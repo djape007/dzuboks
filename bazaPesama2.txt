@@ -3948,7 +3948,7 @@
 ﻿Narodna]Peđa Medenica}Bivši čovek=http://www.youtube.com/watch?v=FouCdwZC7f8
 ﻿Narodna]Peđa Medenica}Čisto da znaš=http://www.youtube.com/watch?v=WZMHFMtbqdA
 ﻿Narodna]Peđa Medenica}Da l' mi ime spominje=http://www.youtube.com/watch?v=iXvDuJxGO2o
-﻿Narodna]Peđa Medenica}Da me neko pita=http://www.youtube.com/watch?v=sFpSitegl88
+﻿Narodna]Peđa Medenica}Da me neko pita=http://www.youtube.com/watch?v=44AQExAymPU
 ﻿Narodna]Peđa Medenica}Imam ljubav, ali kome da je dam=http://www.youtube.com/watch?v=Rp-InIp7XeU
 ﻿Narodna]Peđa Medenica}Ja odavno ne postojim=http://www.youtube.com/watch?v=79_bWwSBB3s
 ﻿Narodna]Peđa Medenica}Malena=http://www.youtube.com/watch?v=3gKvDnyubfg
@@ -4403,43 +4403,40 @@
 ﻿Rok]Night Shift}Golden brown=http://www.youtube.com/watch?v=NoZthOkfGt4
 ﻿Rok]Night Shift}Break on through=http://www.youtube.com/watch?v=ZUR58nR_eGg
 ﻿Rok]Night Shift}U ljubav vjere nemam=--start-time=5 http://www.youtube.com/watch?v=J5mj6xqDWR0
-﻿Rok]Gavrilo Princip}Najebali=http://www.youtube.com/watch?v=d9dlhaL_o80
-﻿Rok]Gavrilo Princip}Vi nas se stidite=http://www.youtube.com/watch?v=QVvGVahz034
-﻿Rok]Gavrilo Princip}Ultra Semendria=https://www.youtube.com/watch?v=eTbYGtCC1rM
-﻿Rok]Gavrilo Princip}Sanjamo=https://www.youtube.com/watch?v=AI2mwZ28j6g
-﻿Rok]Gavrilo Princip}Sam ispred kompjutera=https://www.youtube.com/watch?v=82NmYdhklr8
-﻿Rok]Gavrilo Princip}Gde smo tu mi=https://www.youtube.com/watch?v=Fg8vXNNC-dU
-﻿Rok]Gavrilo Princip}Ista meta=https://www.youtube.com/watch?v=nDSA7l9BrLI
-﻿Rok]Gavrilo Princip}Made in China=https://www.youtube.com/watch?v=QotQ60iMM_Y
-﻿Rok]Gavrilo Princip}Tapšanje po ramenu=https://www.youtube.com/watch?v=CCkEB07QrkU
-﻿Rok]Kraljevski Apartman}Čuvar tajni=http://www.youtube.com/watch?v=FXGQq2U9YtY
-﻿Rok]Kraljevski Apartman}Jesen=http://www.youtube.com/watch?v=YZ2mLbQSzy8
-﻿Rok]Kraljevski Apartman}Burne godine=http://www.youtube.com/watch?v=Twn2bV57LsI
-﻿Rok]Kraljevski Apartman}Dođi po mene=http://www.youtube.com/watch?v=GiAk_gXXp-c
-﻿Rok]Kraljevski Apartman}Pusto ostrvo=http://www.youtube.com/watch?v=T4XSoikkA1A
-﻿Rok]Kraljevski Apartman}Ne treba mi raj=https://www.youtube.com/watch?v=zQdSlu_ZI04
-﻿Rok]Kraljevski Apartman}Čarobni štap=http://www.youtube.com/watch?v=lXTHw-4ukQk
-﻿Rok]Kraljevski Apartman}Još samo jednom=https://www.youtube.com/watch?v=kbzx-iCp0S8
-﻿Rok]Kraljevski Apartman}Prst sudbine=https://www.youtube.com/watch?v=vMhwXoTbJbs
-﻿Rok]Kraljevski Apartman}2008=https://www.youtube.com/watch?v=pcoF1Uau_kE
-﻿Rok]Apartman 69}Seti se moje pesme=https://www.youtube.com/watch?v=3oi-OCrTFhk
-﻿Rok]Apartman 69}Ama, ti si ona ista=https://www.youtube.com/watch?v=ewlqIHcItac
-﻿Rok]Apartman 69}Vesnine jesenje kiše=https://www.youtube.com/watch?v=imb93CY-U0w
-﻿Rok]Apartman 69}Budim se=https://www.youtube.com/watch?v=prbdOjqv2pg
-﻿Rok]Apartman 69}Lažeš me, Ana=https://www.youtube.com/watch?v=SrT_exXc4cs
-﻿Rok]Apartman 69}Sećanje No.2=https://www.youtube.com/watch?v=7N3FnjNstmc
-﻿Rok]Apartman 69}Sećanje No.1=https://www.youtube.com/watch?v=TtONtsydn6Y
-﻿Rok]Apartman 69}Apartman 69=https://www.youtube.com/watch?v=JzQgioeZbyw
-﻿Rok]Zona Isključenja}Na kraju=http://www.youtube.com/watch?v=rHVIf93tA7I
-﻿Rok]Zona Isključenja}Jutro mijenja sve=http://www.youtube.com/watch?v=oqlKPfXQXwk
-﻿Rok]Zona Isključenja}Dok se skrivaš=https://www.youtube.com/watch?v=r0nTp4cnmPQ
-﻿Rok]Zona Isključenja}Bez odraza=https://www.youtube.com/watch?v=JKpFooAAtNM
-﻿Rok]Zona Isključenja}Ikar=https://www.youtube.com/watch?v=C-qQV3yPh08
-﻿Rok]Zona Isključenja}Ljubav=https://www.youtube.com/watch?v=mhzHEbvcAjY
-﻿Rok]Zona Isključenja}Lijepa moja=https://www.youtube.com/watch?v=zdyQ0UUeDrE
-﻿Rok]Zona Isključenja}Putnik=https://www.youtube.com/watch?v=69tYOff5BkE
-﻿Rok]Zona Isključenja}Oči moje kletvom bi vas kleo=https://www.youtube.com/watch?v=6z9WdkCNGpc
-﻿Rok]Zona Isključenja}Ništa dobro=https://www.youtube.com/watch?v=m5Af7MBY6Kk
+﻿Rok]Gavrilo Princip}Najebali=http://www.youtube.com/watch?v=WUwWtD18BmA
+﻿Rok]Gavrilo Princip}Vi nas se stidite=http://www.youtube.com/watch?v=v_cw7OknsG8
+﻿Rok]Gavrilo Princip}Ultra Semendria=http://www.youtube.com/watch?v=HIDJu2dpAL8
+﻿Rok]Gavrilo Princip}Sanjamo=http://www.youtube.com/watch?v=LcZv8VPgEQc
+﻿Rok]Gavrilo Princip}Sam ispred kompjutera=http://www.youtube.com/watch?v=5YhRGqht67Q
+﻿Rok]Gavrilo Princip}Gde smo tu mi=http://www.youtube.com/watch?v=Xa7whx6g5jU
+﻿Rok]Gavrilo Princip}Ista meta=http://www.youtube.com/watch?v=ypufz6jmtak
+﻿Rok]Gavrilo Princip}Made in China=http://www.youtube.com/watch?v=tHE0BvVt-q8
+﻿Rok]Gavrilo Princip}Tapšanje po ramenu=http://www.youtube.com/watch?v=w4Ggx61R9iY
+﻿Rok]Kraljevski Apartman}Čuvar tajni=http://www.youtube.com/watch?v=FQFIgO7J7Cw
+﻿Rok]Kraljevski Apartman}Jesen=http://www.youtube.com/watch?v=MRUQEYENZv0
+﻿Rok]Kraljevski Apartman}Burne godine=http://www.youtube.com/watch?v=mwrqN-WFE-s
+﻿Rok]Kraljevski Apartman}Dođi po mene=http://www.youtube.com/watch?v=eCpZ9V7PbDQ
+﻿Rok]Kraljevski Apartman}Pusto ostrvo=http://www.youtube.com/watch?v=dKqAFb9A2IE
+﻿Rok]Kraljevski Apartman}Ne treba mi raj=http://www.youtube.com/watch?v=Mje_LOEwYj8
+﻿Rok]Kraljevski Apartman}Čarobni štap=http://www.youtube.com/watch?v=aCxCeGGbBWk
+﻿Rok]Kraljevski Apartman}Još samo jednom=http://www.youtube.com/watch?v=LAEveJfHLVg
+﻿Rok]Kraljevski Apartman}Prst sudbine=http://www.youtube.com/watch?v=RcVcZUvqafQ
+﻿Rok]Kraljevski Apartman}2008=http://www.youtube.com/watch?v=O3b6BHPNO6o
+﻿Rok]Apartman 69}Budim se=http://www.youtube.com/watch?v=axGR2jDUI8M
+﻿Rok]Apartman 69}Lažeš me, Ana=http://www.youtube.com/watch?v=x3rAr9Q-3_U
+﻿Rok]Apartman 69}Sećanje No.2=http://www.youtube.com/watch?v=yQFqmoPyDfQ
+﻿Rok]Apartman 69}Sećanje No.1=http://www.youtube.com/watch?v=yQFqmoPyDfQ
+﻿Rok]Apartman 69}Apartman 69=http://www.youtube.com/watch?v=K3GYM8gt2_w
+﻿Rok]Zona Isključenja}Na kraju=http://www.youtube.com/watch?v=rcVKgFk-RB0
+﻿Rok]Zona Isključenja}Jutro mijenja sve=http://www.youtube.com/watch?v=5IJnMk2TUI4
+﻿Rok]Zona Isključenja}Dok se skrivaš=http://www.youtube.com/watch?v=6RVNap5Bq8c
+﻿Rok]Zona Isključenja}Bez odraza=http://www.youtube.com/watch?v=N0X5ffqStDg
+﻿Rok]Zona Isključenja}Ikar=http://www.youtube.com/watch?v=Ti-kcpO6lqI
+﻿Rok]Zona Isključenja}Ljubav=http://www.youtube.com/watch?v=0Jlngu9kyrI
+﻿Rok]Zona Isključenja}Lijepa moja=http://www.youtube.com/watch?v=adKZhyadUoM
+﻿Rok]Zona Isključenja}Putnik=http://www.youtube.com/watch?v=rKEJl3_ukkQ
+﻿Rok]Zona Isključenja}Oči moje kletvom bi vas kleo=http://www.youtube.com/watch?v=6C46ysQdOhA
+﻿Rok]Zona Isključenja}Ništa dobro=http://www.youtube.com/watch?v=0SfipFe5pfs
 ﻿Rok]Feud}Vlast=--start-time=5 https://www.youtube.com/watch?v=ECfj6y6-Vbw
 ﻿Rok]Feud}Televizija=https://www.youtube.com/watch?v=in3uGpD57EU
 ﻿Rok]Feud}Milion milja=--start-time=5 https://www.youtube.com/watch?v=1oBbLHz5fm0
@@ -4536,7 +4533,7 @@
 ﻿Zabavna]Ok Band}Volele il ne volele=http://www.youtube.com/watch?v=8n1Q_75SzQ8
 ﻿Zabavna]Ok Band}Kraljevo Valjevo=http://www.youtube.com/watch?v=1HunAF-UKtg
 ﻿Zabavna]Ok Band}Oko mene lete svi=--start-time=4 https://www.youtube.com/watch?v=xFQntQ9UdT8
-﻿Zabavna]Ok Band}A u međuvremenu=http://www.youtube.com/watch?v=5FChdDaPqJ0
+﻿Zabavna]Ok Band}A u međuvremenu=http://www.youtube.com/watch?v=XLD1BrqroSs
 ﻿Zabavna]Ok Band}Najbolje žene=https://www.youtube.com/watch?v=7t9nnCWkncQ
 ﻿Zabavna]Ok Band}Tri flaše=http://www.youtube.com/watch?v=ij5OiOFW_AM
 ﻿Zabavna]Ok Band}Ne mogu da podnesem=http://www.youtube.com/watch?v=3JrFLy6nLFQ
@@ -5542,7 +5539,7 @@
 ﻿Zabavna]Romana}Duga=http://www.youtube.com/watch?v=hzGD37RppNo
 ﻿Zabavna]Romana}Još te koštam=http://www.youtube.com/watch?v=cSbAON3PNNk
 ﻿Zabavna]Romana}Još uvijek=http://www.youtube.com/watch?v=qby7fuXvr54
-﻿Zabavna]Romana}Kad mi gore obrazi=http://www.youtube.com/watch?v=19WNDqHpvE4
+﻿Zabavna]Romana}Kad mi gore obrazi=http://www.youtube.com/watch?v=uG0MMay52E4
 ﻿Zabavna]Romana}Kap po kap=http://www.youtube.com/watch?v=C0JkOCyeHQg
 ﻿Zabavna]Romana}Krećem od nule=http://www.youtube.com/watch?v=FAFDDUJ4xAA
 ﻿Zabavna]Romana}Lažem=http://www.youtube.com/watch?v=v8ekGfWdHsI
@@ -7625,7 +7622,7 @@
 ﻿Narodna]Sinan Sakić}Postala si žena=http://www.youtube.com/watch?v=ura4D88Ct_A
 ﻿Narodna]Sinan Sakić}Pre nego što ostarimo=http://www.youtube.com/watch?v=CMiiyTDJPow
 ﻿Narodna]Sinan Sakić}Prvi sam ljubio njene oči=http://www.youtube.com/watch?v=Xe_gVwTp68w
-﻿Narodna]Sinan Sakić}Puka sreća=http://www.youtube.com/watch?v=QPxk8qm3TNU
+﻿Narodna]Sinan Sakić}Puka sreća=http://www.youtube.com/watch?v=iTYItHJiW6M
 ﻿Narodna]Sinan Sakić}Pusti me da živim=http://www.youtube.com/watch?v=nh9K74N_3fI
 ﻿Narodna]Sinan Sakić}Rastanak kraj reke=http://www.youtube.com/watch?v=mAk2kisKXwA
 ﻿Narodna]Sinan Sakić}Rastanak=http://www.youtube.com/watch?v=l9Jdpto1Urs
@@ -7648,7 +7645,7 @@
 ﻿Narodna]Sinan Sakić}Sanjam=http://www.youtube.com/watch?v=2MR48jmUCak
 ﻿Narodna]Sinan Sakić}Sinoć sretoh prijatelja=http://www.youtube.com/watch?v=gxgNDqxaA0U
 ﻿Narodna]Sinan Sakić}Skitnica=http://www.youtube.com/watch?v=mBjTWLKYunU
-﻿Narodna]Sinan Sakić}Sklonite čaše sa stola=http://www.youtube.com/watch?v=yUgGMbrhsB8
+﻿Narodna]Sinan Sakić}Sklonite čaše sa stola=http://www.youtube.com/watch?v=GK535dJbjRk
 ﻿Narodna]Sinan Sakić}Slatko bih se nasmejao=http://www.youtube.com/watch?v=_GhebKftbWQ
 ﻿Narodna]Sinan Sakić}Sneg je na planini=http://www.youtube.com/watch?v=KYOe2bzQJlE
 ﻿Narodna]Sinan Sakić}Spasiću te od samoće=http://www.youtube.com/watch?v=zRJvp_UHcGE
@@ -7670,7 +7667,7 @@
 ﻿Narodna]Sinan Sakić}To je život moj=http://www.youtube.com/watch?v=rkGuJBKAZpk
 ﻿Narodna]Sinan Sakić}Tražiš mnogo od života=http://www.youtube.com/watch?v=-r0irfHoF5s
 ﻿Narodna]Sinan Sakić}Trezan=http://www.youtube.com/watch?v=Jnhqes1Iv2s
-﻿Narodna]Sinan Sakić}U kom si filmu živote=http://www.youtube.com/watch?v=AvUsu_Hrows
+﻿Narodna]Sinan Sakić}U kom si filmu živote=http://www.youtube.com/watch?v=2NfOzvfkcNg
 ﻿Narodna]Sinan Sakić}U meni potraži spas=http://www.youtube.com/watch?v=LgkMC1n39Oo
 ﻿Narodna]Sinan Sakić}U mraku=http://www.youtube.com/watch?v=jX6Q4JIJuHw
 ﻿Narodna]Sinan Sakić}Umreću s osmehom=http://www.youtube.com/watch?v=Hjxlg7DkA5E
@@ -8703,6 +8700,7 @@
 ﻿Narodna]Tanja Savić}Mrak=http://www.youtube.com/watch?v=H6pvLG22MB8
 ﻿Narodna]Tanja Savić}Oči boje viskija (ft. Corona, Rimski)=--start-time=7 http://www.youtube.com/watch?v=SAtcuA4r334
 ﻿Narodna]Tanja Savić}Porok=http://www.youtube.com/watch?v=gh4iwSHR3PI
+﻿Narodna]Tanja Savić}Pogrešna adresa=--start-time=6 https://www.youtube.com/watch?v=4qzsOTVNEvo
 ﻿Narodna]Tanja Savić}Potpis moj=http://www.youtube.com/watch?v=1Q-MZuz_g9o
 ﻿Narodna]Tanja Savić}Prostakuša=--start-time=39 http://www.youtube.com/watch?v=lm0i-HrrnvM
 ﻿Narodna]Tanja Savić}Soba zablude=--start-time=6 https://www.youtube.com/watch?v=PzqCBKO1QZY
@@ -8740,6 +8738,7 @@
 ﻿Rep]Tatula}Kako si mogla=http://www.youtube.com/watch?v=Hu6-hcFSeQI
 ﻿Rep]Tatula}Kambodža=http://www.youtube.com/watch?v=yXKOmesc4OE
 ﻿Rep]Tatula}Lažni ortaci=http://www.youtube.com/watch?v=KroNU3bOSCY
+﻿Rep]Tatula}Najbolja=--start-time=9 https://www.youtube.com/watch?v=svJCQKJnEWM
 ﻿Rep]Tatula}Nema spavanja=http://www.youtube.com/watch?v=nfTi2ftXG0Q
 ﻿Rep]Tatula}Nisam normalan=http://www.youtube.com/watch?v=0v4pQPXCMs8
 ﻿Rep]Tatula}Noć me zove=--start-time=8 http://www.youtube.com/watch?v=mmjFZbrHz9A
@@ -10292,7 +10291,7 @@
 ﻿Zabavna]Željko Šašić}Nasamo=http://www.youtube.com/watch?v=5xtGJtbwoOY
 ﻿Zabavna]Željko Šašić}Neko drugi=http://www.youtube.com/watch?v=M9sOZfqKYFk
 ﻿Zabavna]Željko Šašić}Oči pune tuge (duet Dragana Mirković)=http://www.youtube.com/watch?v=RfV97BzU50E
-﻿Zabavna]Željko Šašić}Ona je priča života moga=http://www.youtube.com/watch?v=00oiasM7A6I
+﻿Zabavna]Željko Šašić}Ona je priča života moga=http://www.youtube.com/watch?v=GzCDWfWtaE8
 ﻿Zabavna]Željko Šašić}Osmi dan u nedelji=http://www.youtube.com/watch?v=RaC1Y0LEJuI
 ﻿Zabavna]Željko Šašić}Paklena je noć=http://www.youtube.com/watch?v=78kp40HL_ao
 ﻿Zabavna]Željko Šašić}Podočnjaci=http://www.youtube.com/watch?v=sAmaOuD7iY0
@@ -10307,6 +10306,7 @@
 ﻿Zabavna]Željko Vasić}Australija i Amerika=http://www.youtube.com/watch?v=bDfPQIfE5FM
 ﻿Zabavna]Željko Vasić}Bez milosti=http://www.youtube.com/watch?v=Pw_-ODhgAjg
 ﻿Zabavna]Željko Vasić}Biću samo tvoj=http://www.youtube.com/watch?v=6AritA8-0Yo
+﻿Zabavna]Željko Vasić}Gnezdo=https://www.youtube.com/watch?v=xYaldq1nkfM
 ﻿Zabavna]Željko Vasić}Hoću da ti kažem=http://www.youtube.com/watch?v=LFwQljT_Jpw
 ﻿Zabavna]Željko Vasić}Izvini (duet Neda Ukraden)=http://www.youtube.com/watch?v=DYmM2vybroo
 ﻿Zabavna]Željko Vasić}Jugoslavija=http://www.youtube.com/watch?v=6bmwr_UKyUY
@@ -10834,7 +10834,7 @@
 ﻿Rok Strani]Metallica}The four horsemen=https://www.youtube.com/watch?v=C4nCy5CITc8
 ﻿Rok Strani]Metallica}Am i evil?=https://www.youtube.com/watch?v=-u-HCHCuHMg
 ﻿Rok Strani]Metallica}Creeping death=https://www.youtube.com/watch?v=UO_84C3fpuI
-﻿Rok Strani]Metallica}For whom the bell tolls=http://www.youtube.com/watch?v=lIVgxFabzdE
+﻿Rok Strani]Metallica}For whom the bell tolls=http://www.youtube.com/watch?v=KO3l6qNA2Q4
 ﻿Rok Strani]Metallica}Fade to black=https://www.youtube.com/watch?v=WEQnzs8wl6E
 ﻿Rok Strani]Metallica}The day that never comes=--start-time=36 https://www.youtube.com/watch?v=dkNfNR1WYMY
 ﻿Rok Strani]Metallica}Welcome home=https://www.youtube.com/watch?v=WElvEZj0Ltw
@@ -10909,80 +10909,31 @@
 ﻿Rok Strani]AC-DC}Moneytalks=https://www.youtube.com/watch?v=2lqdErI9uss
 ﻿Rok Strani]AC-DC}Hard as a rock=https://www.youtube.com/watch?v=X9s_CQx4ylU
 ﻿Rok Strani]AC-DC}Walk all over you=https://www.youtube.com/watch?v=_bP6aVG6L1w
-﻿Rok Strani]AC-DC}Rock the blues away=https://www.youtube.com/watch?v=ss7xyoiNCic
-﻿Rok Strani]AC-DC}Rock 'n' Roll train=https://www.youtube.com/watch?v=LdRxXID_b28
 ﻿Rok Strani]AC-DC}Rock or bust=https://www.youtube.com/watch?v=klrYlnkImHA
 ﻿Rok Strani]AC-DC}Hail Caesar=https://www.youtube.com/watch?v=Fptue_EaMjw
-﻿Rok Strani]AC-DC}Satellite blues=https://www.youtube.com/watch?v=2IZENyZABKQ
-﻿Rok Strani]AC-DC}High voltage=https://www.youtube.com/watch?v=I-jU8XpvD-0
-﻿Rok Strani]AC-DC}The Jack=https://www.youtube.com/watch?v=djuNYdheD7k
-﻿Rok Strani]AC-DC}Riff Raff=https://www.youtube.com/watch?v=K8OFnERBhuo
-﻿Rok Strani]AC-DC}Whole lotta Rosie=https://www.youtube.com/watch?v=H2Gwr-VrNFM
-﻿Rok Strani]AC-DC}Hell ain't a bad place to be=https://www.youtube.com/watch?v=dCe0TQEvTgU
-﻿Rok Strani]AC-DC}Bad boy boogie=--start-time=4 https://www.youtube.com/watch?v=YZ9xTVd0Cdc
-﻿Rok Strani]AC-DC}Go down=https://www.youtube.com/watch?v=LFOhLuUnkPA
+﻿Rok Strani]AC-DC}Whole lotta Rosie=http://www.youtube.com/watch?v=LIW19s_lGro
+﻿Rok Strani]AC-DC}Go down=http://www.youtube.com/watch?v=-rcAsyG2pnE
 ﻿Rok Strani]AC-DC}Cover you in oil=https://www.youtube.com/watch?v=eTTdW1bJhc0
 ﻿Rok Strani]AC-DC}Let there be rock=https://www.youtube.com/watch?v=3f2g4RMfhS0
-﻿Rok Strani]AC-DC}Jailbreak=--start-time=2 https://www.youtube.com/watch?v=6XaEnPIjEBU
 ﻿Rok Strani]AC-DC}Safe in New York city=https://www.youtube.com/watch?v=JTDZ5O5lH_0
 ﻿Rok Strani]AC-DC}Nervous shakedown=https://www.youtube.com/watch?v=7yDYOFM8oaA
 ﻿Rok Strani]AC-DC}Flick of the switch=https://www.youtube.com/watch?v=DWKcJwuZnzE
 ﻿Rok Strani]AC-DC}What do you do for money honey=https://www.youtube.com/watch?v=7iF26wKF-_M
 ﻿Rok Strani]AC-DC}Are you ready=https://www.youtube.com/watch?v=CIhylLW4Fcs
 ﻿Rok Strani]AC-DC}Heatseeker=https://www.youtube.com/watch?v=VWG4-4Y6Z60
-﻿Rok Strani]AC-DC}TNT=https://www.youtube.com/watch?v=pR30knJs4Xk
-﻿Rok Strani]AC-DC}Shoot to thrill=https://www.youtube.com/watch?v=4gDch1p4c_M
 ﻿Rok Strani]AC-DC}For those about to rock=https://www.youtube.com/watch?v=fKhTk0IynHM
-﻿Rok Strani]AC-DC}Have a drink on me=http://www.youtube.com/watch?v=m4TV6UDfbLg
-﻿Rok Strani]AC-DC}Let me put my love into you=http://www.youtube.com/watch?v=Z0ve83PMs3w
-﻿Rok Strani]AC-DC}Givin' the dog a bone=https://www.youtube.com/watch?v=EQ3swBEBqBc
-﻿Rok Strani]AC-DC}War machine=http://www.youtube.com/watch?v=5ydMwunUytU
-﻿Rok Strani]AC-DC}Black ice=https://www.youtube.com/watch?v=3TIDudfnSCI
-﻿Rok Strani]AC-DC}Skies on fire=http://www.youtube.com/watch?v=Ueqdg6IY4aQ
-﻿Rok Strani]AC-DC}Spoilin for a fight=http://www.youtube.com/watch?v=Y-ddcNA_Bpo
-﻿Rok Strani]AC-DC}Smash 'n' grab=http://www.youtube.com/watch?v=ezOhuakgf4c
-﻿Rok Strani]AC-DC}Wheels=https://www.youtube.com/watch?v=P3_aUY_P01g
-﻿Rok Strani]AC-DC}Decibel=https://www.youtube.com/watch?v=1uH6JNRsx9I
-﻿Rok Strani]AC-DC}The razors edge=https://www.youtube.com/watch?v=Ihu9UtNjmXM
-﻿Rok Strani]AC-DC}Shake your foundation=https://www.youtube.com/watch?v=gITW4HuPsBQ
-﻿Rok Strani]AC-DC}Sink the pink=https://www.youtube.com/watch?v=oXd9-GX7d-Q
-﻿Rok Strani]AC-DC}Danger=https://www.youtube.com/watch?v=zwMe_3Ng8x8
-﻿Rok Strani]AC-DC}First blood=https://www.youtube.com/watch?v=vRD7S0uZnVM
-﻿Rok Strani]AC-DC}Stand up=https://www.youtube.com/watch?v=kjgWjhj_suQ
-﻿Rok Strani]AC-DC}Hell or high water=https://www.youtube.com/watch?v=ZzbqGUTkSJI
-﻿Rok Strani]AC-DC}Can't stand still=http://www.youtube.com/watch?v=QXMEYz4zSYw
-﻿Rok Strani]AC-DC}Can't stop Rock 'n' Roll=https://www.youtube.com/watch?v=AacU5ZCxtRM
-﻿Rok Strani]AC-DC}House of Jazz=https://www.youtube.com/watch?v=mlp4_MLRq58
-﻿Rok Strani]AC-DC}All screwed up=https://www.youtube.com/watch?v=_JyiEFEt69M
-﻿Rok Strani]AC-DC}Damned=https://www.youtube.com/watch?v=9VRyfdtLjlg
-﻿Rok Strani]AC-DC}Come and get it=https://www.youtube.com/watch?v=6G65D7JLTSo
 ﻿Rok Strani]AC-DC}Got you by the balls=http://www.youtube.com/watch?v=AjxOOzFQjZo
 ﻿Rok Strani]AC-DC}If you dare=http://www.youtube.com/watch?v=GDUAF5IViTs
-﻿Rok Strani]AC-DC}Let's make it=https://www.youtube.com/watch?v=L47okl277M8
 ﻿Rok Strani]AC-DC}Mistress for christmas=http://www.youtube.com/watch?v=7doBMyEH_Ug
 ﻿Rok Strani]AC-DC}Jingle hells bells=https://www.youtube.com/watch?v=zK3QJP78mog
-﻿Rok Strani]AC-DC}Night prowler=https://www.youtube.com/watch?v=I6TzeuxwO7A
 ﻿Rok Strani]AC-DC}Shot down in flames=https://www.youtube.com/watch?v=UKwVvSleM6w
 ﻿Rok Strani]AC-DC}Rock 'n' Roll damnation=https://www.youtube.com/watch?v=-0Oa5wvARSc
 ﻿Rok Strani]AC-DC}Guns for hire=--start-time=7 https://www.youtube.com/watch?v=zuNNo_xAdzc
 ﻿Rok Strani]AC-DC}Messin' with the kid=https://www.youtube.com/watch?v=MEE61MLTHF0
-﻿Rok Strani]AC-DC}Squealer=https://www.youtube.com/watch?v=7Z4ijIQYYNo
-﻿Rok Strani]AC-DC}Soul stripper=https://www.youtube.com/watch?v=6FpeX7JqdyI
-﻿Rok Strani]AC-DC}Live wire=https://www.youtube.com/watch?v=AWijlCfZat8
-﻿Rok Strani]AC-DC}Overdose=https://www.youtube.com/watch?v=D8CTHAiomNo
-﻿Rok Strani]AC-DC}Gone shootin'=https://www.youtube.com/watch?v=m64lIa7tRI0
-﻿Rok Strani]AC-DC}Fire your guns=https://www.youtube.com/watch?v=k8IRvD04QHw
-﻿Rok Strani]AC-DC}Ballbreaker=https://www.youtube.com/watch?v=oM1PRgYJm20
-﻿Rok Strani]AC-DC}Dirty deeds done dirt cheap=https://www.youtube.com/watch?v=26wrvblgGP0
-﻿Rok Strani]AC-DC}Girls got rhythm=https://www.youtube.com/watch?v=5xbPFlwZc9A
-﻿Rok Strani]AC-DC}Beating around the bush=https://www.youtube.com/watch?v=X2CRtdrIMQE
-﻿Rok Strani]AC-DC}Get it hot=https://www.youtube.com/watch?v=qvh6nc8Bz4o
-﻿Rok Strani]AC-DC}Love hungry man=https://www.youtube.com/watch?v=mT87JYQmq7I
+﻿Rok Strani]AC-DC}Soul stripper=http://www.youtube.com/watch?v=aG66qeEJsQQ
 ﻿Rok Strani]AC-DC}Ride on=http://www.youtube.com/watch?v=diUcO3EkCu8
 ﻿Rok Strani]AC-DC}It'a long way to the top=https://www.youtube.com/watch?v=-sUXMzkh-jI
-﻿Rok Strani]AC-DC}Problem child=https://www.youtube.com/watch?v=BJ4p3mJ2BlE
-﻿Rok Strani]AC-DC}Burnin' alive=https://www.youtube.com/watch?v=xDPP3N4u0mM
-﻿Rok Strani]AC-DC}Dog eat dog=http://www.youtube.com/watch?v=b9IF6H4KgVM
+﻿Rok Strani]AC-DC}Dog eat dog=http://www.youtube.com/watch?v=t22TpvtLOro
 ﻿Rok Strani]Red Hot Chili Peppers}Californication=--start-time=3 https://www.youtube.com/watch?v=YlUKcNNmywk
 ﻿Rok Strani]Red Hot Chili Peppers}Otherside=https://www.youtube.com/watch?v=rn_YodiJO6k
 ﻿Rok Strani]Red Hot Chili Peppers}Dani California=https://www.youtube.com/watch?v=Sb5aq5HcS1A
@@ -11719,7 +11670,6 @@
 ﻿DJ Strani]David Guetta}Sweat (ft. Snoop Dogg)=https://www.youtube.com/watch?v=KnEXrbAQyIo
 ﻿DJ Strani]David Guetta}Hold me (ft. Justin Biber, Avicii)=--start-time=4 https://www.youtube.com/watch?v=xbpxjnweulQ
 ﻿DJ Strani]David Guetta}Everytime we touch (ft. Chris Willis)=--start-time=25 https://www.youtube.com/watch?v=vNcchcZQyVo
-﻿DJ Strani]David Guetta}Sunshine (ft. Avicii)=https://www.youtube.com/watch?v=fEqCGe5kdQs
 ﻿DJ Strani]David Guetta}Rise (ft. Skylar Grey)=https://www.youtube.com/watch?v=pvHYDtUh92A
 ﻿DJ Strani]David Guetta}Tomorrow can wait=--start-time=23 https://www.youtube.com/watch?v=2zozfL2vf-U
 ﻿DJ Strani]David Guetta}Metropolis (ft. Nicky Romero)=--start-time=18 https://www.youtube.com/watch?v=YeLc_odK58s
@@ -13605,7 +13555,7 @@
 ﻿Rok Strani]Rolling Stones}Anybody Seen My Baby?=http://www.youtube.com/watch?v=nNYIWJxBSHE
 ﻿Rok Strani]Rolling Stones}Anyway You Look At It=http://www.youtube.com/watch?v=ZsoC2U__i-s
 ﻿Rok Strani]Rolling Stones}Around And Around=http://www.youtube.com/watch?v=v0W6iV5os4M
-﻿Rok Strani]Rolling Stones}As Tears Go By=https://www.youtube.com/watch?v=bYrsezzVJDQ
+﻿Rok Strani]Rolling Stones}As Tears Go By=http://www.youtube.com/watch?v=-lT7PusNfBU
 ﻿Rok Strani]Rolling Stones}Baby Break It Down=http://www.youtube.com/watch?v=661KOfc4KBg
 ﻿Rok Strani]Rolling Stones}Baby, What's Wrong=http://www.youtube.com/watch?v=GHdxSGxbfiY
 ﻿Rok Strani]Rolling Stones}Back Of My Hand=http://www.youtube.com/watch?v=N6UG4ieOjZ4
@@ -13730,7 +13680,7 @@
 ﻿Rok Strani]Rolling Stones}I'm Free=http://www.youtube.com/watch?v=pbk_uNwXSSU
 ﻿Rok Strani]Rolling Stones}I'm Going Down=http://www.youtube.com/watch?v=lK36QmX43dM
 ﻿Rok Strani]Rolling Stones}I'm Gonna Drive=http://www.youtube.com/watch?v=U1KFxIjYqJ4
-﻿Rok Strani]Rolling Stones}I'm Moving On=http://www.youtube.com/watch?v=1MP0duqDFLo
+﻿Rok Strani]Rolling Stones}I'm Moving On=http://www.youtube.com/watch?v=hlAbupnwhp4
 ﻿Rok Strani]Rolling Stones}I'm Not Signifying=http://www.youtube.com/watch?v=WVZLsYi7gNU
 ﻿Rok Strani]Rolling Stones}I've Been Loving You Too Long=http://www.youtube.com/watch?v=c0A45LiF5O8
 ﻿Rok Strani]Rolling Stones}If I Was A Dancer (Dance Part 2)=http://www.youtube.com/watch?v=OefkDNjRecA
@@ -13787,7 +13737,7 @@
 ﻿Rok Strani]Rolling Stones}Might As Well Get Juiced=http://www.youtube.com/watch?v=jlMEehC0So8
 ﻿Rok Strani]Rolling Stones}Miss Amanda Jones=http://www.youtube.com/watch?v=wcg0WFfimEc
 ﻿Rok Strani]Rolling Stones}Miss You=http://www.youtube.com/watch?v=KuRxXRuAz-I
-﻿Rok Strani]Rolling Stones}Mixed Emotions=http://www.youtube.com/watch?v=MAwBDKAtX-k
+﻿Rok Strani]Rolling Stones}Mixed Emotions=http://www.youtube.com/watch?v=hg0Iq59pnEw
 ﻿Rok Strani]Rolling Stones}Monkey Man=http://www.youtube.com/watch?v=HNY8eYmzdH4
 ﻿Rok Strani]Rolling Stones}Moon Is Up=http://www.youtube.com/watch?v=Y-woVa0ouUU
 ﻿Rok Strani]Rolling Stones}Moonlight Mile=http://www.youtube.com/watch?v=stpRIyHHw8g
@@ -13837,7 +13787,7 @@
 ﻿Rok Strani]Rolling Stones}She Said Yeah=http://www.youtube.com/watch?v=ACSoAJD7aJ4
 ﻿Rok Strani]Rolling Stones}She Saw Me Coming=http://www.youtube.com/watch?v=94maOZIMcoQ
 ﻿Rok Strani]Rolling Stones}She Smiled Sweetly=http://www.youtube.com/watch?v=wwAsS9qjX7c
-﻿Rok Strani]Rolling Stones}She Was Hot=http://www.youtube.com/watch?v=OCH9fB07Ar8
+﻿Rok Strani]Rolling Stones}She Was Hot=http://www.youtube.com/watch?v=UnzJ0MNw-uc
 ﻿Rok Strani]Rolling Stones}She's So Cold=http://www.youtube.com/watch?v=Xrx_55SgwAY
 ﻿Rok Strani]Rolling Stones}Shine A Light=http://www.youtube.com/watch?v=the7gV99YRI
 ﻿Rok Strani]Rolling Stones}Short And Curlies=http://www.youtube.com/watch?v=7i6I7rh68jg
@@ -13921,7 +13871,7 @@
 ﻿Rok Strani]Rolling Stones}You Can't Catch Me=http://www.youtube.com/watch?v=S414e2lT17U
 ﻿Rok Strani]Rolling Stones}You Don't Have To Mean It=http://www.youtube.com/watch?v=l4C7xytVPmU
 ﻿Rok Strani]Rolling Stones}You Got Me Rocking=http://www.youtube.com/watch?v=84PETdu743A
-﻿Rok Strani]Rolling Stones}You Got The Silver=http://www.youtube.com/watch?v=h2h3TlHcLY0
+﻿Rok Strani]Rolling Stones}You Got The Silver=http://www.youtube.com/watch?v=bDwNSYusC8o
 ﻿Rok Strani]Rolling Stones}You Gotta Move=http://www.youtube.com/watch?v=mUCoQryE7-k
 ﻿Rok Strani]Rush}2112=http://www.youtube.com/watch?v=kWCVIb_ku_Y
 ﻿Rok Strani]Rush}A Farewell To Kings=http://www.youtube.com/watch?v=eV-5iNu6Sd8
@@ -15084,7 +15034,7 @@
 ﻿Rok Strani]Ted Nugent}Yank Me, Crank Me=http://www.youtube.com/watch?v=FrUt7B1P6XU
 ﻿Rok Strani]Ted Nugent}You Make Me Feel Right At Home=http://www.youtube.com/watch?v=DSdLEuYjHOE
 ﻿Rok Strani]The Beatles}A Day In The Life=http://www.youtube.com/watch?v=usNsCeOV4GM
-﻿Rok Strani]The Beatles}Across The Universe=http://www.youtube.com/watch?v=YpGME3Iv7Yg
+﻿Rok Strani]The Beatles}Across The Universe=http://www.youtube.com/watch?v=CnmHNinaxMc
 ﻿Rok Strani]The Beatles}Ain't She Sweet=http://www.youtube.com/watch?v=e1FSRMfNtLU
 ﻿Rok Strani]The Beatles}All I've Got To Do=http://www.youtube.com/watch?v=jsN6hdurfq4
 ﻿Rok Strani]The Beatles}All You Need Is Love=http://www.youtube.com/watch?v=csyHN3LoRJ4
@@ -15168,7 +15118,7 @@
 ﻿Rok Strani]The Beatles}Soldier Of Love=http://www.youtube.com/watch?v=P4zUYghWyJI
 ﻿Rok Strani]The Beatles}Some Other Guy=http://www.youtube.com/watch?v=DcBH50YgqXI
 ﻿Rok Strani]The Beatles}Something=http://www.youtube.com/watch?v=UelDrZ1aFeY
-﻿Rok Strani]The Beatles}Strawberry Fields Forever=http://www.youtube.com/watch?v=tdbTOaRh79U
+﻿Rok Strani]The Beatles}Strawberry Fields Forever=http://www.youtube.com/watch?v=OUvxP3aVbrc
 ﻿Rok Strani]The Beatles}Sure To Fall (In Love With You)=http://www.youtube.com/watch?v=CjJW_5ios_E
 ﻿Rok Strani]The Beatles}Sweet Little Sixteen=http://www.youtube.com/watch?v=UpVDPwrE96I
 ﻿Rok Strani]The Beatles}Taxman=http://www.youtube.com/watch?v=h2_ZTtvA07w
@@ -15595,7 +15545,7 @@
 ﻿Rok Strani]The Kinks}Don't Ever Change=http://www.youtube.com/watch?v=IeppM7iFoCI
 ﻿Rok Strani]The Kinks}Don't Ever Let Me Go=http://www.youtube.com/watch?v=Z4KlET9-h8w
 ﻿Rok Strani]The Kinks}Don't Forget To Dance=http://www.youtube.com/watch?v=tHjiqz9Q-JQ
-﻿Rok Strani]The Kinks}Don't You Fret=http://www.youtube.com/watch?v=MVyaSpZp-GI
+﻿Rok Strani]The Kinks}Don't You Fret=http://www.youtube.com/watch?v=VdbEal8-5JQ
 ﻿Rok Strani]The Kinks}Don't=http://www.youtube.com/watch?v=059t1sIbGBk
 ﻿Rok Strani]The Kinks}Down All The Days (To 1992)=http://www.youtube.com/watch?v=hGg5tsodlIs
 ﻿Rok Strani]The Kinks}Dreams=http://www.youtube.com/watch?v=f8dAOyS315g
@@ -15647,7 +15597,7 @@
 ﻿Rok Strani]The Kinks}I Believed You=http://www.youtube.com/watch?v=Cv6ThA2AoDE
 ﻿Rok Strani]The Kinks}I Don't Need You Any More=http://www.youtube.com/watch?v=fC53c8l1dtU
 ﻿Rok Strani]The Kinks}I Go To Sleep=http://www.youtube.com/watch?v=n6gMS7aiMLk
-﻿Rok Strani]The Kinks}I Gotta Go Now=http://www.youtube.com/watch?v=EeBSGTnz1z4
+﻿Rok Strani]The Kinks}I Gotta Go Now=http://www.youtube.com/watch?v=wGVPuU6CHVc
 ﻿Rok Strani]The Kinks}I Gotta Move=http://www.youtube.com/watch?v=rzG26LL2Ono
 ﻿Rok Strani]The Kinks}I Need You=http://www.youtube.com/watch?v=2y96iiKgBuU
 ﻿Rok Strani]The Kinks}I Took My Baby Home=http://www.youtube.com/watch?v=4cUI_2joS1I
@@ -15723,7 +15673,7 @@
 ﻿Rok Strani]The Kinks}Naggin' Woman=http://www.youtube.com/watch?v=k58NHoipn4I
 ﻿Rok Strani]The Kinks}National Health=http://www.youtube.com/watch?v=xzrBGPBvZZU
 ﻿Rok Strani]The Kinks}Natural Gift=http://www.youtube.com/watch?v=csthC1mrNg4
-﻿Rok Strani]The Kinks}Never Met A Girl Like You Before=http://www.youtube.com/watch?v=5VURgewhuuQ
+﻿Rok Strani]The Kinks}Never Met A Girl Like You Before=http://www.youtube.com/watch?v=5LxbQzGrUrQ
 ﻿Rok Strani]The Kinks}Nine To Five=http://www.youtube.com/watch?v=hvy-3MmtrfE
 ﻿Rok Strani]The Kinks}No More Looking Back=http://www.youtube.com/watch?v=koraNwOw_DQ
 ﻿Rok Strani]The Kinks}No Return=http://www.youtube.com/watch?v=csgEMKs_vDg
@@ -15795,7 +15745,7 @@
 ﻿Rok Strani]The Kinks}Stop Your Sobbing=http://www.youtube.com/watch?v=GZQUKN5G9xk
 ﻿Rok Strani]The Kinks}Stormy Sky=http://www.youtube.com/watch?v=tKqCaHpo1kE
 ﻿Rok Strani]The Kinks}Strangers=http://www.youtube.com/watch?v=MR52MIJuZJY
-﻿Rok Strani]The Kinks}Such A Shame=http://www.youtube.com/watch?v=YQ0naZ4daf0
+﻿Rok Strani]The Kinks}Such A Shame=http://www.youtube.com/watch?v=RFZgAogBPW0
 ﻿Rok Strani]The Kinks}Summer's Gone=http://www.youtube.com/watch?v=kaY34fafF8o
 ﻿Rok Strani]The Kinks}Supersonic Rocket Ship=http://www.youtube.com/watch?v=thXmHW4-WC4
 ﻿Rok Strani]The Kinks}Surviving=http://www.youtube.com/watch?v=-fjLtJeu8RU
@@ -15815,7 +15765,7 @@
 ﻿Rok Strani]The Kinks}The Video Shop=http://www.youtube.com/watch?v=71pXLDm0mAs
 ﻿Rok Strani]The Kinks}The Village Green Preservation Society=http://www.youtube.com/watch?v=lc7dmu4G8oc
 ﻿Rok Strani]The Kinks}The Way Love Used To Be=http://www.youtube.com/watch?v=yLAWFw46tb8
-﻿Rok Strani]The Kinks}The World Keeps Going Round=http://www.youtube.com/watch?v=l7oUtMeGIEk
+﻿Rok Strani]The Kinks}The World Keeps Going Round=http://www.youtube.com/watch?v=R2ptKTYbIVQ
 ﻿Rok Strani]The Kinks}There Is No Life Without Love=http://www.youtube.com/watch?v=-K11UtQn4ro
 ﻿Rok Strani]The Kinks}There's A Change In The Weather=http://www.youtube.com/watch?v=9GpvBkKta1A
 ﻿Rok Strani]The Kinks}There's A New World Just Opening For Me=http://www.youtube.com/watch?v=yVSJA5YTc6w
@@ -15868,7 +15818,7 @@
 ﻿Rok Strani]The Kinks}Yo-Yo=http://www.youtube.com/watch?v=1eP13MzA5nU
 ﻿Rok Strani]The Kinks}You Can't Stop The Music=http://www.youtube.com/watch?v=VjKFB2UAeMw
 ﻿Rok Strani]The Kinks}You Can't Win=http://www.youtube.com/watch?v=U0lS2mG0Wgk
-﻿Rok Strani]The Kinks}You Do Something To Me=http://www.youtube.com/watch?v=NUswY66MWiI
+﻿Rok Strani]The Kinks}You Do Something To Me=http://www.youtube.com/watch?v=zJfeuyZYE6U
 ﻿Rok Strani]The Kinks}You Make It All Worthwhile=http://www.youtube.com/watch?v=LkDrkZDHo9I
 ﻿Rok Strani]The Kinks}You Really Got Me=http://www.youtube.com/watch?v=fTTsY-oz6Go
 ﻿Rok Strani]The Kinks}You Shouldn't Be Sad=http://www.youtube.com/watch?v=ngMLPukIapA
@@ -16759,7 +16709,7 @@
 ﻿Rok Strani]Yardbirds}Evil Hearted You=http://www.youtube.com/watch?v=3y2ayUzXcec
 ﻿Rok Strani]Yardbirds}Five Long Years=http://www.youtube.com/watch?v=gkMZmHOXFbE
 ﻿Rok Strani]Yardbirds}For Your Love=http://www.youtube.com/watch?v=GPrk-WU7cKQ
-﻿Rok Strani]Yardbirds}Glimpses=http://www.youtube.com/watch?v=Lwpn-Y7YTos
+﻿Rok Strani]Yardbirds}Glimpses=http://www.youtube.com/watch?v=8TUqdF3rvDQ
 ﻿Rok Strani]Yardbirds}Good Morning Little Schoolgirl=http://www.youtube.com/watch?v=pSKdQtU62_4
 ﻿Rok Strani]Yardbirds}Goodnight Sweet Josephine=http://www.youtube.com/watch?v=MnKCEC-xcwc
 ﻿Rok Strani]Yardbirds}Got Love If You Want It=http://www.youtube.com/watch?v=Zqngopl2Rhk
@@ -16768,7 +16718,7 @@
 ﻿Rok Strani]Yardbirds}He's Always There=http://www.youtube.com/watch?v=Jux8UZRTFj8
 ﻿Rok Strani]Yardbirds}Heart Full Of Soul=http://www.youtube.com/watch?v=pM1qZBFiOLU
 ﻿Rok Strani]Yardbirds}Henry's Coming Home=http://www.youtube.com/watch?v=y2arfJ_E4_M
-﻿Rok Strani]Yardbirds}Here 'Tis=http://www.youtube.com/watch?v=pHwVAJdMiB8
+﻿Rok Strani]Yardbirds}Here 'Tis=http://www.youtube.com/watch?v=3m9i7Rkiok8
 ﻿Rok Strani]Yardbirds}Highway 49=http://www.youtube.com/watch?v=kSBWKNLa8CM
 ﻿Rok Strani]Yardbirds}Honey In Your Hips=http://www.youtube.com/watch?v=mlFKxEjtpt8
 ﻿Rok Strani]Yardbirds}I Ain't Done Wrong=http://www.youtube.com/watch?v=RuNRN9dBcF8
@@ -16783,7 +16733,7 @@
 ﻿Rok Strani]Yardbirds}Little Games=http://www.youtube.com/watch?v=aH_8aoIa5Y8
 ﻿Rok Strani]Yardbirds}Little Red Rooster=http://www.youtube.com/watch?v=yJWUeT3eNTw
 ﻿Rok Strani]Yardbirds}Little Soldier Boy=http://www.youtube.com/watch?v=Fwx0dBzqhMg
-﻿Rok Strani]Yardbirds}Lost Woman=http://www.youtube.com/watch?v=w5fBVX5K2yw
+﻿Rok Strani]Yardbirds}Lost Woman=http://www.youtube.com/watch?v=XErV9xGUKkA
 ﻿Rok Strani]Yardbirds}Louise=http://www.youtube.com/watch?v=LAikU5RJ5pI
 ﻿Rok Strani]Yardbirds}Love Mum And Dad=http://www.youtube.com/watch?v=7bOrAnVuzsM
 ﻿Rok Strani]Yardbirds}Mr. You're A Better Man Than I=http://www.youtube.com/watch?v=tgC8iz_ALik
@@ -16793,23 +16743,22 @@
 ﻿Rok Strani]Yardbirds}Mystery Of Being=http://www.youtube.com/watch?v=bwdfME9Eo5U
 ﻿Rok Strani]Yardbirds}New York City Blues=http://www.youtube.com/watch?v=usGCJ-Iuxi4
 ﻿Rok Strani]Yardbirds}No Excess Baggage=http://www.youtube.com/watch?v=KVOsm5Y8ok0
-﻿Rok Strani]Yardbirds}Only The Black Rose=http://www.youtube.com/watch?v=mdX0LZBxcF0
 ﻿Rok Strani]Yardbirds}Out On The Water Coast=http://www.youtube.com/watch?v=SwGj8dpStNw
 ﻿Rok Strani]Yardbirds}Over, Under, Sideways, Down=http://www.youtube.com/watch?v=L4DdAs0PddQ
 ﻿Rok Strani]Yardbirds}Pafff...Bum=http://www.youtube.com/watch?v=HFM2z7lWAZ8
 ﻿Rok Strani]Yardbirds}Please Don't Tell Me 'Bout The News=http://www.youtube.com/watch?v=Il7MPHUPMbk
-﻿Rok Strani]Yardbirds}Pretty Girl=http://www.youtube.com/watch?v=P93PL3KBCzQ
+﻿Rok Strani]Yardbirds}Pretty Girl=http://www.youtube.com/watch?v=UmdGCoMjrxM
 ﻿Rok Strani]Yardbirds}Psycho Daisies=http://www.youtube.com/watch?v=elPlidNTeog
 ﻿Rok Strani]Yardbirds}Putty (In Your Hands)=http://www.youtube.com/watch?v=P3lOzApFDps
 ﻿Rok Strani]Yardbirds}Puzzles=http://www.youtube.com/watch?v=KMhqI4oKkAA
 ﻿Rok Strani]Yardbirds}Questa Volta=http://www.youtube.com/watch?v=j4FomyjscYE
 ﻿Rok Strani]Yardbirds}Rack My Mind=http://www.youtube.com/watch?v=XQ1MiiHA_Qw
-﻿Rok Strani]Yardbirds}Respectable=http://www.youtube.com/watch?v=CG4k10oDTaM
+﻿Rok Strani]Yardbirds}Respectable=http://www.youtube.com/watch?v=JuWOOzQxlx8
 ﻿Rok Strani]Yardbirds}Shapes In My Mind=http://www.youtube.com/watch?v=QE1Nv-BBo-w
 ﻿Rok Strani]Yardbirds}Shapes Of Things=http://www.youtube.com/watch?v=Jc17DqcA6Qc
 ﻿Rok Strani]Yardbirds}Shining Where The Sun Has Been=http://www.youtube.com/watch?v=8Zp72XWlmz4
 ﻿Rok Strani]Yardbirds}Sitting On Top Of The World=http://www.youtube.com/watch?v=RHRxdO7WbKU
-﻿Rok Strani]Yardbirds}Smile On Me=http://www.youtube.com/watch?v=5uGuKzBEY28
+﻿Rok Strani]Yardbirds}Smile On Me=http://www.youtube.com/watch?v=9yaj2aF1X0M
 ﻿Rok Strani]Yardbirds}Smokestack Lightning=http://www.youtube.com/watch?v=w83Q110GtDQ
 ﻿Rok Strani]Yardbirds}Someone To Love=http://www.youtube.com/watch?v=UtUVTn6_Owo
 ﻿Rok Strani]Yardbirds}Stealing Stealing=http://www.youtube.com/watch?v=7HjNgnrNQNs
@@ -16893,7 +16842,7 @@
 ﻿Rok Strani]Yes}Onward=http://www.youtube.com/watch?v=__ihW9qZ9Rs
 ﻿Rok Strani]Yes}Open Your Eyes=http://www.youtube.com/watch?v=0vzXq2BfZ8c
 ﻿Rok Strani]Yes}Our Song=http://www.youtube.com/watch?v=5DIv5AyAWD8
-﻿Rok Strani]Yes}Owner Of A Lonely Heart=http://www.youtube.com/watch?v=9O6e7cgkeqw
+﻿Rok Strani]Yes}Owner Of A Lonely Heart=http://www.youtube.com/watch?v=SVOuYquXuuc
 ﻿Rok Strani]Yes}Parallels=http://www.youtube.com/watch?v=ncAk15x0l8Y
 ﻿Rok Strani]Yes}Picasso=http://www.youtube.com/watch?v=9TLEmoS6Jbg
 ﻿Rok Strani]Yes}Release, Release=http://www.youtube.com/watch?v=XOo8eJBmXQE
@@ -17329,7 +17278,6 @@
 ﻿Rok Strani]B. B. King}Never Trust A Woman=http://www.youtube.com/watch?v=V9LB9dOjTzY
 ﻿Rok Strani]B. B. King}Night Life=http://www.youtube.com/watch?v=h-0gm9fxOOk
 ﻿Rok Strani]B. B. King}Nobody Knows You When You're Down And Out=http://www.youtube.com/watch?v=MsrA2fMn0sk
-﻿Rok Strani]B. B. King}Nobody Loves Me But My Mother=http://www.youtube.com/watch?v=EHafRncK99w
 ﻿Rok Strani]B. B. King}Ole Time Religion=http://www.youtube.com/watch?v=2c8WA3LSaYU
 ﻿Rok Strani]B. B. King}On My Word Of Honor=http://www.youtube.com/watch?v=0LrowOzBy4Y
 ﻿Rok Strani]B. B. King}One Of Those Nights=http://www.youtube.com/watch?v=-T0OPVZedFc
