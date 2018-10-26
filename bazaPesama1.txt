@@ -268,7 +268,7 @@
 ﻿Narodna]Aco Pejović}Bila si mlada=http://www.youtube.com/watch?v=WPOnk7HW640
 ﻿Narodna]Aco Pejović}Biti siguran=http://www.youtube.com/watch?v=ElurLNGPUZo
 ﻿Narodna]Aco Pejović}Boli kao metak=http://www.youtube.com/watch?v=O_MccZ4TJlA
-Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=u-ndajHaih8
+﻿Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=u-ndajHaih8
 ﻿Narodna]Aco Pejović}Crni rob=http://www.youtube.com/watch?v=NhUpi4tsxFE
 ﻿Narodna]Aco Pejović}Da si tu=http://www.youtube.com/watch?v=UFxvSxQAsqU
 ﻿Narodna]Aco Pejović}Devojačko veče=http://www.youtube.com/watch?v=u8ZxDEXL8lU
@@ -995,7 +995,7 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Narodna]Ana Bekuta}Ne gledaj me tako=http://www.youtube.com/watch?v=usuhrcHsqIM
 ﻿Narodna]Ana Bekuta}Ne izluđuj me=http://www.youtube.com/watch?v=ici-1ILXC3A
 ﻿Narodna]Ana Bekuta}Ne poklanjaj mi bisere=http://www.youtube.com/watch?v=i_3__avDk7c
-﻿Narodna]Ana Bekuta}Ne žalim ja=http://www.youtube.com/watch?v=y4_xoVx_WWA
+﻿Narodna]Ana Bekuta}Ne žalim ja=http://www.youtube.com/watch?v=omXfJKZQFYU
 ﻿Narodna]Ana Bekuta}Ne živim sama=http://www.youtube.com/watch?v=yzV7-gucDNY
 ﻿Narodna]Ana Bekuta}Neću ja da propadnem=http://www.youtube.com/watch?v=GDfJe13zcLA
 ﻿Narodna]Ana Bekuta}Nek srce progovori=http://www.youtube.com/watch?v=rL10z6mhPRg
@@ -2257,7 +2257,7 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Zabavna]Boban Rajović}Mia=http://www.youtube.com/watch?v=Gegc3uOxrLM
 ﻿Zabavna]Boban Rajović}Mijenjam=http://www.youtube.com/watch?v=FeLrrWH5QFM
 ﻿Zabavna]Boban Rajović}Mus od čokolade=http://www.youtube.com/watch?v=ir86diIj49g
-﻿Zabavna]Boban Rajović}Na dan kad si rođena=http://www.youtube.com/watch?v=YIxm2kG1Fj0
+﻿Zabavna]Boban Rajović}Na dan kad si rođena=http://www.youtube.com/watch?v=pUgp63rzKHY
 ﻿Zabavna]Boban Rajović}Nazdravi i zapjevaj=http://www.youtube.com/watch?v=YKx3Ub-QP48
 ﻿Zabavna]Boban Rajović}Ne vjerujem=http://www.youtube.com/watch?v=tKZ_AT-iGVE
 ﻿Zabavna]Boban Rajović}Nećemo u vijesti=http://www.youtube.com/watch?v=IdtKY4YXfdc
@@ -3313,6 +3313,7 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Zabavna]Cvija}Gde si ti=http://www.youtube.com/watch?v=tELCQ0X7heQ
 ﻿Zabavna]Cvija}Haos=http://www.youtube.com/watch?v=_Shj3JSdhO4
 ﻿Zabavna]Cvija}Heroji=--start-time=6 http://www.youtube.com/watch?v=fXYiRuq6noI
+﻿Zabavna]Cvija}Huligani=--start-time=6 https://www.youtube.com/watch?v=wlt5286Bes8
 ﻿Zabavna]Cvija}Jače od vina=--start-time=6 http://www.youtube.com/watch?v=PfGdp_9RGG4
 ﻿Zabavna]Cvija}Javi se bejbe=http://www.youtube.com/watch?v=4oGdJaKt4kU
 ﻿Zabavna]Cvija}Mene radiš ti=--start-time=6 http://www.youtube.com/watch?v=AppPVfbOiqo
@@ -3485,7 +3486,7 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Narodna]Dajana Penezić}Samo me pozovi=http://www.youtube.com/watch?v=w_HMH2ZtKhM
 ﻿Narodna]Dajana Penezić}Sledeći=http://www.youtube.com/watch?v=7lugb8O755w
 ﻿Narodna]Dajana Penezić}Sve mi daj=http://www.youtube.com/watch?v=PsmHlNk49ig
-﻿Narodna]Dajana Penezić}Trešnje=http://www.youtube.com/watch?v=hCbsBjMOJkg
+﻿Narodna]Dajana Penezić}Trešnje=--start-time=7 http://www.youtube.com/watch?v=mdy13pYgJoc
 ﻿Narodna]Dajana Penezić}Uzalud=http://www.youtube.com/watch?v=uVpU1LzjAys
 ﻿Rok]Daleka Obala}Brod blues=http://www.youtube.com/watch?v=j4LAcDYYM2o
 ﻿Rok]Daleka Obala}Brodovi=http://www.youtube.com/watch?v=Y2ljFfI7iIs
@@ -3516,7 +3517,7 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Rok]Daleka Obala}On je volio brodove=http://www.youtube.com/watch?v=BZINh7Dpz5s
 ﻿Rok]Daleka Obala}Ona je plesala=http://www.youtube.com/watch?v=mjsqJmeELKU
 ﻿Rok]Daleka Obala}Ona više nije bila tu=http://www.youtube.com/watch?v=rMAYG-UroJ4
-﻿Rok]Daleka Obala}Ona zbori=http://www.youtube.com/watch?v=Bu_A9WXaTiU
+﻿Rok]Daleka Obala}Ona zbori=http://www.youtube.com/watch?v=_H_vo2gdlW4
 ﻿Rok]Daleka Obala}Ona=http://www.youtube.com/watch?v=dAXFwPTjjBc
 ﻿Rok]Daleka Obala}One bi htjele=http://www.youtube.com/watch?v=d0UUZ49QYvQ
 ﻿Rok]Daleka Obala}Oni nas gađaju=http://www.youtube.com/watch?v=2DE-d7zvPyY
@@ -3690,7 +3691,7 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Narodna]Dara Bubamara}Diskonekt=http://www.youtube.com/watch?v=-f8Th8Sk_ww
 ﻿Narodna]Dara Bubamara}Dobro jutro nikome=http://www.youtube.com/watch?v=Y9boIJOUWVY
 ﻿Narodna]Dara Bubamara}Dodirni me=http://www.youtube.com/watch?v=1ZVSw2nDAHQ
-﻿Narodna]Dara Bubamara}Dosada=http://www.youtube.com/watch?v=Pwx4F1JTq9U
+﻿Narodna]Dara Bubamara}Dosada=http://www.youtube.com/watch?v=727C69nvMoo
 ﻿Narodna]Dara Bubamara}Dunav=http://www.youtube.com/watch?v=LV9lrQglC1Y
 ﻿Narodna]Dara Bubamara}Dvojnica=http://www.youtube.com/watch?v=UFs0WV5y7ac
 ﻿Narodna]Dara Bubamara}Džoni, Džoni=http://www.youtube.com/watch?v=6RvyQUI6PvQ
@@ -3715,13 +3716,13 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Narodna]Dara Bubamara}Kraj i tačka=http://www.youtube.com/watch?v=o-MKq0JZww8
 ﻿Narodna]Dara Bubamara}Kraj sezone=http://www.youtube.com/watch?v=NhvZWz1C7Vo
 ﻿Narodna]Dara Bubamara}Kraljica ogledala=http://www.youtube.com/watch?v=l5QuKczDnQw
-﻿Narodna]Dara Bubamara}Kunem te=http://www.youtube.com/watch?v=Jy8bX-NUJQQ
+﻿Narodna]Dara Bubamara}Kunem te=http://www.youtube.com/watch?v=dL5FiVekZ74
 ﻿Narodna]Dara Bubamara}Lažne ljubavi=http://www.youtube.com/watch?v=or_gECHsJR8
 ﻿Narodna]Dara Bubamara}Lepi, a verni=http://www.youtube.com/watch?v=3NbOla__jsY
 ﻿Narodna]Dara Bubamara}Lepotica i zver=http://www.youtube.com/watch?v=tLqyvqVDMIk
 ﻿Narodna]Dara Bubamara}Loša ljubav=http://www.youtube.com/watch?v=HqLh7zoWY84
 ﻿Narodna]Dara Bubamara}Mala=http://www.youtube.com/watch?v=8OAkCbpuTOs
-﻿Narodna]Dara Bubamara}Maler=http://www.youtube.com/watch?v=JjoISOYTWTc
+﻿Narodna]Dara Bubamara}Maler=http://www.youtube.com/watch?v=uBIj-Grtodo
 ﻿Narodna]Dara Bubamara}Mami, mami=http://www.youtube.com/watch?v=afr4d1vzze0
 ﻿Narodna]Dara Bubamara}Mesečina=http://www.youtube.com/watch?v=8lGDdiARJkg
 ﻿Narodna]Dara Bubamara}Mili moj=http://www.youtube.com/watch?v=hUhxrY9tsBY
@@ -3738,7 +3739,7 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Narodna]Dara Bubamara}Neka malo=http://www.youtube.com/watch?v=jVNNKyrxTEA
 ﻿Narodna]Dara Bubamara}Neka pukne grom=http://www.youtube.com/watch?v=BMxaLdkh0wc
 ﻿Narodna]Dara Bubamara}Neka zna=http://www.youtube.com/watch?v=9CR50QiBx5o
-﻿Narodna]Dara Bubamara}Nema šanše=http://www.youtube.com/watch?v=0XISgPmFeMc
+﻿Narodna]Dara Bubamara}Nema šanše=http://www.youtube.com/watch?v=eIIcR0xJ6dI
 ﻿Narodna]Dara Bubamara}Nemam elana=http://www.youtube.com/watch?v=CGBRL8PUyW0
 ﻿Narodna]Dara Bubamara}Nemoj da brineš mali=http://www.youtube.com/watch?v=sCPzyFiJylo
 ﻿Narodna]Dara Bubamara}Nezvani gost=http://www.youtube.com/watch?v=vevzYDRY1ms
@@ -3774,7 +3775,7 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Narodna]Dara Bubamara}Sangrija=http://www.youtube.com/watch?v=4l7nMgFtpug
 ﻿Narodna]Dara Bubamara}Sebična=http://www.youtube.com/watch?v=E7deAsCUi40
 ﻿Narodna]Dara Bubamara}Sedam gora, sedam mora=http://www.youtube.com/watch?v=8i_PLLtLoww
-﻿Narodna]Dara Bubamara}Sele moja=http://www.youtube.com/watch?v=d7rHBiSqi4c
+﻿Narodna]Dara Bubamara}Sele moja=http://www.youtube.com/watch?v=2ff2Zoopi1k
 ﻿Narodna]Dara Bubamara}Sklonite me drugovi=http://www.youtube.com/watch?v=1LiXfVbptVY
 ﻿Narodna]Dara Bubamara}Školska ljubav=http://www.youtube.com/watch?v=vEA4AC5U2CY
 ﻿Narodna]Dara Bubamara}Što života=http://www.youtube.com/watch?v=CVKodFrU0fc
@@ -3789,7 +3790,7 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Narodna]Dara Bubamara}Trese mene ljubav, trese=http://www.youtube.com/watch?v=SlMqLFUpINg
 ﻿Narodna]Dara Bubamara}Trn u oku=http://www.youtube.com/watch?v=J1hC7ieNXl0
 ﻿Narodna]Dara Bubamara}U glas=http://www.youtube.com/watch?v=NFQnvDPZkak
-﻿Narodna]Dara Bubamara}Umiru zore=http://www.youtube.com/watch?v=OK-6l5bQPJQ
+﻿Narodna]Dara Bubamara}Umiru zore=http://www.youtube.com/watch?v=puDVBqyHODM
 ﻿Narodna]Dara Bubamara}Uzmi ili ostavi=http://www.youtube.com/watch?v=yMKNuiqqhi8
 ﻿Narodna]Dara Bubamara}Već sam navikla=http://www.youtube.com/watch?v=GyOJEChmq0w
 ﻿Narodna]Dara Bubamara}Vero nevero=http://www.youtube.com/watch?v=IWW7opxBlAE
@@ -3802,8 +3803,8 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Narodna]Dara Bubamara}Željo moja=http://www.youtube.com/watch?v=BRQLY0-pUNQ
 ﻿Narodna]Dara Bubamara}Žena zmaj=http://www.youtube.com/watch?v=rrX4UHMpjQk
 ﻿Narodna]Dara Bubamara}Zidovi=http://www.youtube.com/watch?v=k22xZwtzUKE
-﻿Narodna]Dara Bubamara}Žika=http://www.youtube.com/watch?v=EU2_lMX0bXE
-﻿Narodna]Dara Bubamara}Zumba=http://www.youtube.com/watch?v=vxtCrIdDufo
+﻿Narodna]Dara Bubamara}Žika=http://www.youtube.com/watch?v=7VXAWfed6B0
+﻿Narodna]Dara Bubamara}Zumba=http://www.youtube.com/watch?v=DiVluEMAwE0
 ﻿Narodna]Darko Filipović}Daj Bože, daj=http://www.youtube.com/watch?v=tWXaoxXd438
 ﻿Narodna]Darko Filipović}Dugi su dani=http://www.youtube.com/watch?v=BOiqlu1KFMU
 ﻿Narodna]Darko Filipović}Još mi ne daš mira=http://www.youtube.com/watch?v=aNkMD26dAJU
@@ -4202,7 +4203,7 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Zabavna]Dino Merlin}Bosnom Behar probeharao=http://www.youtube.com/watch?v=pEDniLyXtAc
 ﻿Zabavna]Dino Merlin}Supermen=http://www.youtube.com/watch?v=5i2CkmQTJj4
 ﻿Zabavna]Dino Merlin}Sve do medalje=http://www.youtube.com/watch?v=T8I96qZO-CI
-﻿Zabavna]Dino Merlin}Sve dok te bude imalo=http://www.youtube.com/watch?v=3TY6Ohs0lS8
+﻿Zabavna]Dino Merlin}Sve dok te bude imalo=http://www.youtube.com/watch?v=xsHxrGpRJck
 ﻿Zabavna]Dino Merlin}Sve je laž=http://www.youtube.com/watch?v=d_58tNvwpYg
 ﻿Zabavna]Dino Merlin}Tebi je lako=http://www.youtube.com/watch?v=bF5GZatbIes
 ﻿Zabavna]Dino Merlin}Ti si mene (duet Nina Badrić)=http://www.youtube.com/watch?v=Crd_cTcQxvQ
@@ -4704,7 +4705,6 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Narodna]Donna Ares}Idi, idi moja vilo=http://www.youtube.com/watch?v=9jmbC85A5XM
 ﻿Narodna]Donna Ares}Ja bih kao ti=http://www.youtube.com/watch?v=16CMnDV7O8w
 ﻿Narodna]Donna Ares}Ja sam tatin sin=http://www.youtube.com/watch?v=QZxYIBrKWrc
-﻿Narodna]Donna Ares}Kasno za nas=http://www.youtube.com/watch?v=1pYCnrpZ60s
 ﻿Narodna]Donna Ares}Kazna=http://www.youtube.com/watch?v=5UvhxbMa4AM
 ﻿Narodna]Donna Ares}Ko si ti=http://www.youtube.com/watch?v=LtgYcc5zO7E
 ﻿Narodna]Donna Ares}Koža mi je tijesna=http://www.youtube.com/watch?v=GXm8msIY3DA
@@ -4964,7 +4964,7 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Narodna]Dragana Mirković}Biće mi kako kad=http://www.youtube.com/watch?v=LkWkbp2mVU0
 ﻿Narodna]Dragana Mirković}Biću njegova=http://www.youtube.com/watch?v=ZU6B4i-xJBk
 ﻿Narodna]Dragana Mirković}Bila sam naivna=http://www.youtube.com/watch?v=GeKWx62H70Q
-﻿Narodna]Dragana Mirković}Bog srca mog=http://www.youtube.com/watch?v=bBeBDMzeni0
+﻿Narodna]Dragana Mirković}Bog srca mog=http://www.youtube.com/watch?v=rmC6NiWZdhs
 ﻿Narodna]Dragana Mirković}Bog zna=http://www.youtube.com/watch?v=zm1MgXxyEWk
 ﻿Narodna]Dragana Mirković}Bolna sam ti=http://www.youtube.com/watch?v=-bYPEs2RHrA
 ﻿Narodna]Dragana Mirković}Brate moj=http://www.youtube.com/watch?v=kfvO3TeYMCE
@@ -4986,10 +4986,10 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Narodna]Dragana Mirković}Depresivan dan=http://www.youtube.com/watch?v=7Y4TongEGKY
 ﻿Narodna]Dragana Mirković}Divlja devojka=http://www.youtube.com/watch?v=PLz0jAgWmVI
 ﻿Narodna]Dragana Mirković}Do poslednjeg daha=http://www.youtube.com/watch?v=gnFHlsbHv1c
-﻿Narodna]Dragana Mirković}Dobra devojka=http://www.youtube.com/watch?v=EIt2Pke-Sbo
-﻿Narodna]Dragana Mirković}Dobro došo, mili moj=http://www.youtube.com/watch?v=BRXchq4GV0w
+﻿Narodna]Dragana Mirković}Dobra devojka=http://www.youtube.com/watch?v=L226LfqdjYs
+﻿Narodna]Dragana Mirković}Dobro došo, mili moj=http://www.youtube.com/watch?v=XApdf-MbakM
 ﻿Narodna]Dragana Mirković}Dobro jutro, dobar dan=http://www.youtube.com/watch?v=Zogydghmu_c
-﻿Narodna]Dragana Mirković}Dodaj gas=http://www.youtube.com/watch?v=_-gkEg8-NCU
+﻿Narodna]Dragana Mirković}Dodaj gas=http://www.youtube.com/watch?v=72DOx7eVWrs
 ﻿Narodna]Dragana Mirković}Dođi i reći da me voliš=http://www.youtube.com/watch?v=RC2wC2KX-o4
 ﻿Narodna]Dragana Mirković}Dolaze nam bolji dani=http://www.youtube.com/watch?v=6ZbI7Lii-Lw
 ﻿Narodna]Dragana Mirković}Dolina kestenova=http://www.youtube.com/watch?v=KhD48qq4ky0
@@ -5002,7 +5002,7 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Narodna]Dragana Mirković}Evo dobro sam=http://www.youtube.com/watch?v=pa3YyCVJYDo
 ﻿Narodna]Dragana Mirković}Fobija=http://www.youtube.com/watch?v=VEbfdRQHxdk
 ﻿Narodna]Dragana Mirković}Hajde, pogledaj me=http://www.youtube.com/watch?v=92mFyhCziJg
-﻿Narodna]Dragana Mirković}Hajdemo negde=http://www.youtube.com/watch?v=uZjkSv2L91w
+﻿Narodna]Dragana Mirković}Hajdemo negde=http://www.youtube.com/watch?v=yHW8t2s9_2Y
 ﻿Narodna]Dragana Mirković}Haljinica plave boje=http://www.youtube.com/watch?v=uZLFCkMDKXc
 ﻿Narodna]Dragana Mirković}Halo dragi=http://www.youtube.com/watch?v=w7P0oV9A8Y8
 ﻿Narodna]Dragana Mirković}Hej mladiću baš si sik=http://www.youtube.com/watch?v=I9Qa2172c8I
@@ -5101,7 +5101,7 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Narodna]Dragana Mirković}Pitaju me u mom kraju=http://www.youtube.com/watch?v=iCNAsmY0J3w
 ﻿Narodna]Dragana Mirković}Pitam svoje srce=http://www.youtube.com/watch?v=tRqahXyH-gU
 ﻿Narodna]Dragana Mirković}Plači zemljo=http://www.youtube.com/watch?v=1OJHVHjxtNU
-﻿Narodna]Dragana Mirković}Poklanjam ti svoju ljubav=http://www.youtube.com/watch?v=sNRZWCS8WGg
+﻿Narodna]Dragana Mirković}Poklanjam ti svoju ljubav=http://www.youtube.com/watch?v=BMFakuo1Sz4
 ﻿Narodna]Dragana Mirković}Pokorno=http://www.youtube.com/watch?v=NrLRm1xfuKs
 ﻿Narodna]Dragana Mirković}Poljubi me=http://www.youtube.com/watch?v=iKunNGMwD7I
 ﻿Narodna]Dragana Mirković}Pomisli želju=http://www.youtube.com/watch?v=lQMSNyojEP8
@@ -5130,7 +5130,7 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Narodna]Dragana Mirković}Slađano moje, slađano=http://www.youtube.com/watch?v=OfwJOabbb08
 ﻿Narodna]Dragana Mirković}Slavuji=http://www.youtube.com/watch?v=gGv1F-s8KwQ
 ﻿Narodna]Dragana Mirković}Slobodna kao vetar=http://www.youtube.com/watch?v=2CFx6hAX5nA
-﻿Narodna]Dragana Mirković}Spasi me samoće=http://www.youtube.com/watch?v=D7Wv3ENiGRo
+﻿Narodna]Dragana Mirković}Spasi me samoće=http://www.youtube.com/watch?v=HmSEWIxjuhg
 ﻿Narodna]Dragana Mirković}Srce moje=http://www.youtube.com/watch?v=8Ia9_bvEIMU
 ﻿Narodna]Dragana Mirković}Srce vučje=http://www.youtube.com/watch?v=WD1wRjYm6bo
 ﻿Narodna]Dragana Mirković}Srcu nije lako=http://www.youtube.com/watch?v=7HeVuMO_WSU
@@ -5147,7 +5147,7 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Narodna]Dragana Mirković}Sve bih dala da si tu=http://www.youtube.com/watch?v=ZODGThqTkPU
 ﻿Narodna]Dragana Mirković}Sve me na tebe podseća=http://www.youtube.com/watch?v=q5mlicS1qIU
 ﻿Narodna]Dragana Mirković}Svetinja=http://www.youtube.com/watch?v=ykQNmrmJmjc
-﻿Narodna]Dragana Mirković}Svud si oko mene=http://www.youtube.com/watch?v=iNncYs8y_eo
+﻿Narodna]Dragana Mirković}Svud si oko mene=http://www.youtube.com/watch?v=Bx6cLUgpZhI
 ﻿Narodna]Dragana Mirković}Takav neće da se rodi=http://www.youtube.com/watch?v=tFqCw9-rDsU
 ﻿Narodna]Dragana Mirković}Tamo gde je milo moje=http://www.youtube.com/watch?v=u6rFxgDWPd0
 ﻿Narodna]Dragana Mirković}Tebi ljubav, meni bol=http://www.youtube.com/watch?v=edpC1r2gggI
@@ -5171,7 +5171,7 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Narodna]Dragana Mirković}Veruj, veruj=http://www.youtube.com/watch?v=sFBWGFcQq9E
 ﻿Narodna]Dragana Mirković}Vetrovi tuge=http://www.youtube.com/watch?v=Aq1DPO08oDM
 ﻿Narodna]Dragana Mirković}Volela bih da te vidim=http://www.youtube.com/watch?v=ZzSjiTLufac
-﻿Narodna]Dragana Mirković}Volim te, voliš me=http://www.youtube.com/watch?v=cerFSsEq6Kc
+﻿Narodna]Dragana Mirković}Volim te, voliš me=http://www.youtube.com/watch?v=O_yghkP8mGA
 ﻿Narodna]Dragana Mirković}Vrati mi se ti=http://www.youtube.com/watch?v=QwEiVlNSLcU
 ﻿Narodna]Dragana Mirković}Za mene si ti=http://www.youtube.com/watch?v=4h54wu9uImY
 ﻿Narodna]Dragana Mirković}Za tvoju ljubav=http://www.youtube.com/watch?v=6JA4ci8aSJQ
@@ -5543,12 +5543,12 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Zabavna]ET}Priznaj mi=http://www.youtube.com/watch?v=Mo1OulS71Ns
 ﻿Zabavna]ET}Probudi me=http://www.youtube.com/watch?v=k6u6JHC2AxE
 ﻿Zabavna]ET}S nama je gotovo=http://www.youtube.com/watch?v=w4a-cR_7taA
-﻿Zabavna]ET}Sad idi, briga me=http://www.youtube.com/watch?v=IGG1HLJYAEU
+﻿Zabavna]ET}Sad idi, briga me=http://www.youtube.com/watch?v=tIvvikyh0q8
 ﻿Zabavna]ET}Sada znam da je kraj=http://www.youtube.com/watch?v=Rob_bYTEglc
 ﻿Zabavna]ET}Samo jednu noć=http://www.youtube.com/watch?v=lbcNBJTeL7Y
 ﻿Zabavna]ET}Slomit ću ti srce=http://www.youtube.com/watch?v=NlLosZA42h8
 ﻿Zabavna]ET}Soba 202=http://www.youtube.com/watch?v=0XnrD4FFKm0
-﻿Zabavna]ET}Što mi je trebalo to=http://www.youtube.com/watch?v=ODtj645aA30
+﻿Zabavna]ET}Što mi je trebalo to=http://www.youtube.com/watch?v=ea2GYFjDWnE
 ﻿Zabavna]ET}Sve bih dala da znam=http://www.youtube.com/watch?v=YpYPk6Cj8bc
 ﻿Zabavna]ET}Svirajte mi tužne=http://www.youtube.com/watch?v=6MeHgLSYOZQ
 ﻿Zabavna]ET}Tek je 12 sati=http://www.youtube.com/watch?v=932yioJyB4Q
@@ -6044,7 +6044,7 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Narodna]Era Ojdanić}Tvoje usne čekajući=http://www.youtube.com/watch?v=vOzICvf_hyA
 ﻿Narodna]Era Ojdanić}Tvoju sliku čuvam pored ikone=http://www.youtube.com/watch?v=tEIT465HCbs
 ﻿Narodna]Era Ojdanić}Uspomene=http://www.youtube.com/watch?v=MncQKa_VUH0
-﻿Narodna]Era Ojdanić}Užičanka=http://www.youtube.com/watch?v=LIXdeYrmacg
+﻿Narodna]Era Ojdanić}Užičanka=http://www.youtube.com/watch?v=zX3uTfB6L-Y
 ﻿Narodna]Era Ojdanić}Voleo sam jednu ženu=http://www.youtube.com/watch?v=Hu3meB-0rdE
 ﻿Narodna]Era Ojdanić}Volim ženu i ne krijem=http://www.youtube.com/watch?v=Bwo26oNRbYQ
 ﻿Narodna]Era Ojdanić}Volim, majko, Bosanku kraj Drine=http://www.youtube.com/watch?v=NNt4c3meAWg
@@ -6227,7 +6227,7 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Rok]Film}Gdje sam bio, ne pitaj me=http://www.youtube.com/watch?v=ltIMzrrY0uo
 ﻿Rok]Film}Glas srca=http://www.youtube.com/watch?v=qvW4Rg7-wLg
 ﻿Rok]Film}Golubove hranim=http://www.youtube.com/watch?v=Q8kCZ9-5LmA
-﻿Rok]Film}Gorim u vatri=http://www.youtube.com/watch?v=5UpRYMLtni4
+﻿Rok]Film}Gorim u vatri=http://www.youtube.com/watch?v=rspu4e6drUo
 ﻿Rok]Film}Idemo kroz život=http://www.youtube.com/watch?v=C3dpagDoBeQ
 ﻿Rok]Film}Ima li neko=http://www.youtube.com/watch?v=N7XbmUITvLQ
 ﻿Rok]Film}Istina piše na zidu=http://www.youtube.com/watch?v=p5TN2CxpRzk
@@ -6247,22 +6247,22 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Rok]Film}Mog anđela više nema=http://www.youtube.com/watch?v=y8iSkoKAkyw
 ﻿Rok]Film}Na drugoj strani neba=http://www.youtube.com/watch?v=qBBetIoA6SM
 ﻿Rok]Film}Neprilagođen=http://www.youtube.com/watch?v=MMGHd8U_EN0
-﻿Rok]Film}Nevidljivi prsten=http://www.youtube.com/watch?v=pgdyPxaqjog
+﻿Rok]Film}Nevidljivi prsten=http://www.youtube.com/watch?v=fH9Z_uw9l2U
 ﻿Rok]Film}Njeno ime je tajna=http://www.youtube.com/watch?v=qQgBfVdAZUc
 ﻿Rok]Film}Nježno, nježno, nježnije=http://www.youtube.com/watch?v=uKlKPSg8nIE
 ﻿Rok]Film}Odvedi me iz ovog grada=http://www.youtube.com/watch?v=4ZWi3z3zuUY
 ﻿Rok]Film}Osjeti me=http://www.youtube.com/watch?v=4Gj4meahsD0
-﻿Rok]Film}Osmijesi=http://www.youtube.com/watch?v=R954HP3dxZo
+﻿Rok]Film}Osmijesi=http://www.youtube.com/watch?v=msgkjOkJ_Ig
 ﻿Rok]Film}Pazi na svoje lice=http://www.youtube.com/watch?v=lAo_cE5sJRw
 ﻿Rok]Film}Pjevajmo do zore=http://www.youtube.com/watch?v=Ez1Oufab4yc
 ﻿Rok]Film}Pljačka stoljeća=http://www.youtube.com/watch?v=DH20IeMaK54
 ﻿Rok]Film}Poleti iznad grada=http://www.youtube.com/watch?v=LXUXnnCzQN8
 ﻿Rok]Film}Radio ljubav=http://www.youtube.com/watch?v=1Nq_M7inwzs
-﻿Rok]Film}Rijeke pravde=http://www.youtube.com/watch?v=mhoiM8hoH7Q
+﻿Rok]Film}Rijeke pravde=http://www.youtube.com/watch?v=U-hIu7Ix-50
 ﻿Rok]Film}Rob ljubavi=http://www.youtube.com/watch?v=LSKR5pOSctk
 ﻿Rok]Film}Sanjam=http://www.youtube.com/watch?v=14jqly75Ack
-﻿Rok]Film}Sestra noć=http://www.youtube.com/watch?v=bZSXTusBGgE
-﻿Rok]Film}Signali u noći=http://www.youtube.com/watch?v=F4H9ULwtR6Q
+﻿Rok]Film}Sestra noć=http://www.youtube.com/watch?v=zItv6lW5kaA
+﻿Rok]Film}Signali u noći=http://www.youtube.com/watch?v=0imjEmF-2Pc
 ﻿Rok]Film}Sjećam se prvog poljupca=http://www.youtube.com/watch?v=b47yBOdSqfY
 ﻿Rok]Film}Srce na cesti=http://www.youtube.com/watch?v=s5OopPrX0xM
 ﻿Rok]Film}Sva čuda svijeta=http://www.youtube.com/watch?v=8PQfHc0VUJA
@@ -7051,7 +7051,7 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Zabavna]Goran Karan}Tiše kucaj srce moje=http://www.youtube.com/watch?v=kLriwPEWXFk
 ﻿Zabavna]Goran Karan}Uvelo lišće=http://www.youtube.com/watch?v=q1wR5847UKo
 ﻿Zabavna]Goran Karan}Vagabundo=http://www.youtube.com/watch?v=cjOG1poaL80
-﻿Zabavna]Goran Karan}Vitre moj=http://www.youtube.com/watch?v=YrpkqrrsrAw
+﻿Zabavna]Goran Karan}Vitre moj=http://www.youtube.com/watch?v=_zxH5Sbb1Vk
 ﻿Zabavna]Goran Karan}Zašto san još uvik sam=http://www.youtube.com/watch?v=RpM1_R_ZyyE
 ﻿Narodna]Goran Vukosić}Buco moja=http://www.youtube.com/watch?v=vN-WM5Lrg20
 ﻿Narodna]Goran Vukosić}Čuvaj me (ft. Tijana Stojić)=--start-time=6 https://www.youtube.com/watch?v=yDZCMrTyMGg
@@ -7098,7 +7098,7 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Narodna]Gordana Stojićević}Pusti me da nađem srcu lek=http://www.youtube.com/watch?v=-HlQwgti1m8
 ﻿Narodna]Gordana Stojićević}Skreni Stevo, malo levo=http://www.youtube.com/watch?v=EOQjZQxLy1E
 ﻿Narodna]Gordana Stojićević}Stari bunar=http://www.youtube.com/watch?v=FIKh6mLt2-c
-﻿Narodna]Gordana Stojićević}Suvo seno, suva trava=http://www.youtube.com/watch?v=e1YEL3DRUx8
+﻿Narodna]Gordana Stojićević}Suvo seno, suva trava=http://www.youtube.com/watch?v=xVmQ6_M_d7c
 ﻿Narodna]Gordana Stojićević}Te sam noći prevarila sebe=http://www.youtube.com/watch?v=rmAeaNsTHN4
 ﻿Narodna]Gordana Stojićević}Trepetljika trepetala=http://www.youtube.com/watch?v=ouujbEIyVqc
 ﻿Zabavna]Grupa Luna}After party=http://www.youtube.com/watch?v=84y9s3fHq48
@@ -7982,7 +7982,7 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Rok]Hladno Pivo}Blagdanska pjesma=http://www.youtube.com/watch?v=t4qfprxMqUU
 ﻿Rok]Hladno Pivo}Buba svabe=http://www.youtube.com/watch?v=kowKFQQulKc
 ﻿Rok]Hladno Pivo}Buntovnik=http://www.youtube.com/watch?v=ZDwi26sjnwM
-﻿Rok]Hladno Pivo}Carstvo pasea=http://www.youtube.com/watch?v=73YTV48yXIo
+﻿Rok]Hladno Pivo}Carstvo pasea=http://www.youtube.com/watch?v=b2EXA2Hp06Q
 ﻿Rok]Hladno Pivo}Čekaonica=http://www.youtube.com/watch?v=wSWbr9S36T4
 ﻿Rok]Hladno Pivo}Čelične zavjese=http://www.youtube.com/watch?v=5c1gxuSaKeE
 ﻿Rok]Hladno Pivo}Cirkus=http://www.youtube.com/watch?v=GDGfQHW-5KQ
@@ -8014,7 +8014,7 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Rok]Hladno Pivo}Marihuana=http://www.youtube.com/watch?v=JWgqNcLhDqg
 ﻿Rok]Hladno Pivo}Marija=http://www.youtube.com/watch?v=0kwKRkjNL5o
 ﻿Rok]Hladno Pivo}Messi=http://www.youtube.com/watch?v=jPhs9VBEhsI
-﻿Rok]Hladno Pivo}Mlohava cuna=http://www.youtube.com/watch?v=dOdBw8fBVTw
+﻿Rok]Hladno Pivo}Mlohava cuna=http://www.youtube.com/watch?v=E7GEPkXtz_E
 ﻿Rok]Hladno Pivo}Moralne dileme vlasnika BMWa=http://www.youtube.com/watch?v=eNoVktFPtzs
 ﻿Rok]Hladno Pivo}Motor=http://www.youtube.com/watch?v=lmlkc5abqfw
 ﻿Rok]Hladno Pivo}Može=http://www.youtube.com/watch?v=m5AFdUcYgt8
@@ -8125,8 +8125,8 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Narodna]Hule}Nisam više ljubomoran=https://www.youtube.com/watch?v=cY5ODjZQywQ
 ﻿Rok]ITD Band}20. vijek=http://www.youtube.com/watch?v=HvjpNaNs9wg
 ﻿Rok]ITD Band}Dražesna Meri=http://www.youtube.com/watch?v=pd-dEkPv468
-﻿Rok]ITD Band}Duša iste siziliste=http://www.youtube.com/watch?v=3vv-2x3U4MY
-﻿Rok]ITD Band}Elena=http://www.youtube.com/watch?v=SmvuHRky_7k
+﻿Rok]ITD Band}Duša iste siziliste=http://www.youtube.com/watch?v=JudHvIIb8wE
+﻿Rok]ITD Band}Elena=http://www.youtube.com/watch?v=AAnr8Qd2qMs
 ﻿Rok]ITD Band}Gledam kroz prozor=http://www.youtube.com/watch?v=AU7vomob_7k
 ﻿Rok]ITD Band}Gradske cure=http://www.youtube.com/watch?v=q0wcWAknl3c
 ﻿Rok]ITD Band}Ja sam slab na tebe=http://www.youtube.com/watch?v=Hucr86z3HGA
@@ -8134,23 +8134,23 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Rok]ITD Band}Lagano umirem=http://www.youtube.com/watch?v=aaTAz7Y3NNA
 ﻿Rok]ITD Band}Majko zemljo=http://www.youtube.com/watch?v=IKLMP0ty1is
 ﻿Rok]ITD Band}Osvajam Beograd=http://www.youtube.com/watch?v=dw3dR0fmUIk
-﻿Rok]ITD Band}Petak 13=http://www.youtube.com/watch?v=eWmPq_KBscs
+﻿Rok]ITD Band}Petak 13=http://www.youtube.com/watch?v=Yrj2PD_UUAA
 ﻿Rok]ITD Band}Ponovo te volim onom istom tugom=http://www.youtube.com/watch?v=st8oSuKs7Lg
 ﻿Rok]ITD Band}Rođen u Zagrebu=http://www.youtube.com/watch?v=JS-ejekzIGg
 ﻿Rok]ITD Band}S ove strane ljubavi=http://www.youtube.com/watch?v=GwV1ipWFG4g
 ﻿Rok]ITD Band}Saloon=http://www.youtube.com/watch?v=hf5s3rf2AII
-﻿Rok]ITD Band}Samo je tvoje lice=http://www.youtube.com/watch?v=UxE2YuM7beI
+﻿Rok]ITD Band}Samo je tvoje lice=http://www.youtube.com/watch?v=-qhsnaZML-0
 ﻿Rok]ITD Band}Sanjam te Nataša=http://www.youtube.com/watch?v=n_Nb1YaGciE
 ﻿Rok]ITD Band}Sara=http://www.youtube.com/watch?v=Gt64rmI1Mv4
 ﻿Rok]ITD Band}Skidam te pogledom=http://www.youtube.com/watch?v=rcF7RJOf6JU
 ﻿Rok]ITD Band}Slavenska minijatura=http://www.youtube.com/watch?v=D26CcqTVr1M
 ﻿Rok]ITD Band}Sonja=http://www.youtube.com/watch?v=HSw4hePvYwU
 ﻿Rok]ITD Band}Stalno misliš na sex=http://www.youtube.com/watch?v=9UPJjPU45pA
-﻿Rok]ITD Band}Tekila sila=http://www.youtube.com/watch?v=KfRuqZyy4HU
-﻿Rok]ITD Band}Treba izazivati neprilike=http://www.youtube.com/watch?v=MNyI_9d1ZC8
+﻿Rok]ITD Band}Tekila sila=http://www.youtube.com/watch?v=a4yKUP-AbSU
+﻿Rok]ITD Band}Treba izazivati neprilike=http://www.youtube.com/watch?v=bYDluBXepFw
 ﻿Rok]ITD Band}Veza 202=http://www.youtube.com/watch?v=s3UB-bLVDHA
 ﻿Rok]ITD Band}Vojnička=http://www.youtube.com/watch?v=iRQe-DHGyjM
-﻿Rok]ITD Band}Život, život=http://www.youtube.com/watch?v=rpVxXD_8-Lg
+﻿Rok]ITD Band}Život, život=http://www.youtube.com/watch?v=esn1LdghFrY
 ﻿Rok]Idoli}A kad te vidim ja=http://www.youtube.com/watch?v=qMMn6YjJqZM
 ﻿Rok]Idoli}Amerika=http://www.youtube.com/watch?v=Hpp-jKmCsEA
 ﻿Rok]Idoli}Bambina=http://www.youtube.com/watch?v=DrXFjIg9fEU
@@ -8934,7 +8934,7 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Narodna]Jašar Ahmedovski}Tamo si ti=http://www.youtube.com/watch?v=3oPU6D9eH_k
 ﻿Narodna]Jašar Ahmedovski}Teško sam te osvojio, a lako izgubio=http://www.youtube.com/watch?v=AtkiVmpdvho
 ﻿Narodna]Jašar Ahmedovski}Ti pripadaš samo meni=http://www.youtube.com/watch?v=1kKDiTBeBtA
-﻿Narodna]Jašar Ahmedovski}Ti si jedina=http://www.youtube.com/watch?v=NTqZmhgXE3k
+﻿Narodna]Jašar Ahmedovski}Ti si jedina=http://www.youtube.com/watch?v=ENi9iUjYo54
 ﻿Narodna]Jašar Ahmedovski}Ti si moja jesenja balada=http://www.youtube.com/watch?v=pPg2LJpdA1w
 ﻿Narodna]Jašar Ahmedovski}Ti si moja najveća ljubav=http://www.youtube.com/watch?v=bM_Yux1LAqk
 ﻿Narodna]Jašar Ahmedovski}To može samo žena=http://www.youtube.com/watch?v=rdyvx540ows
@@ -9092,6 +9092,7 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Zabavna]Jelena Rozga}Ona ili ja=http://www.youtube.com/watch?v=l6j39eG0T3A
 ﻿Zabavna]Jelena Rozga}Opusti se=http://www.youtube.com/watch?v=d06bNdlp6cg
 ﻿Zabavna]Jelena Rozga}Ostavit' ću svitlo=http://www.youtube.com/watch?v=NwFG73T5zLc
+﻿Zabavna]Jelena Rozga}Ostani=--start-time=6 https://www.youtube.com/watch?v=73reXUqghbc
 ﻿Zabavna]Jelena Rozga}Otrov=http://www.youtube.com/watch?v=iiOy6EqfHXU
 ﻿Zabavna]Jelena Rozga}Ožiljak=http://www.youtube.com/watch?v=zrkzD1E8bCo
 ﻿Zabavna]Jelena Rozga}Prsti zapleteni=http://www.youtube.com/watch?v=i6I4cAGOi0U
@@ -9742,7 +9743,6 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Kantautori]Kemal Monteno}Crvene cipele=http://www.youtube.com/watch?v=tamrlNkfUs4
 ﻿Kantautori]Kemal Monteno}Ćuti telefon=http://www.youtube.com/watch?v=g5Uu0VsElWM
 ﻿Kantautori]Kemal Monteno}Da je moja mandolina znala=http://www.youtube.com/watch?v=3eb8Vl0jAHU
-﻿Kantautori]Kemal Monteno}Daleko (duet Boris Novković)=http://www.youtube.com/watch?v=OQlK4u33VXE
 ﻿Kantautori]Kemal Monteno}Danas je tvoj dan=http://www.youtube.com/watch?v=XUSM0HuqZHA
 ﻿Kantautori]Kemal Monteno}Davore=http://www.youtube.com/watch?v=-740eCGGVj4
 ﻿Kantautori]Kemal Monteno}Đani=http://www.youtube.com/watch?v=xHrIzJ7_6OY
@@ -10156,7 +10156,7 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Narodna]Lepa Brena}A kako ću ja=https://www.youtube.com/watch?v=Is24VPLNKec
 ﻿Narodna]Lepa Brena}Ali Baba=http://www.youtube.com/watch?v=cYs3INCmupM
 ﻿Narodna]Lepa Brena}Bato, bato=http://www.youtube.com/watch?v=iUAmLgJY5v0
-﻿Narodna]Lepa Brena}Beli se golubovi vraćaju=http://www.youtube.com/watch?v=azQDBkb7qhs
+﻿Narodna]Lepa Brena}Beli se golubovi vraćaju=http://www.youtube.com/watch?v=e55zrFYz8SE
 ﻿Narodna]Lepa Brena}Biber=http://www.youtube.com/watch?v=kYZCwlJffLA
 ﻿Narodna]Lepa Brena}Biće belaja=http://www.youtube.com/watch?v=jZNblI4-xqo
 ﻿Narodna]Lepa Brena}Biseru beli=http://www.youtube.com/watch?v=HZHaZCZAKWE
@@ -10220,7 +10220,7 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Narodna]Lepa Brena}Lažu te dušo moja=http://www.youtube.com/watch?v=PJiGfoBUCxA
 ﻿Narodna]Lepa Brena}Ljubav čuvam za kraj=http://www.youtube.com/watch?v=AUdjlxnaAs4
 ﻿Narodna]Lepa Brena}Ljubav nova=http://www.youtube.com/watch?v=ojRV6lk6ejg
-﻿Narodna]Lepa Brena}Ljubavne igrarije=http://www.youtube.com/watch?v=cVkbVf1D8So
+﻿Narodna]Lepa Brena}Ljubavne igrarije=http://www.youtube.com/watch?v=pojK2qAW4gs
 ﻿Narodna]Lepa Brena}Ljubi me Omere=http://www.youtube.com/watch?v=ufMSH2s5QCQ
 ﻿Narodna]Lepa Brena}Ljubi me Šabane=http://www.youtube.com/watch?v=4kduWy732BY
 ﻿Narodna]Lepa Brena}Ljubim te ja=http://www.youtube.com/watch?v=wJ-xwKHL7hE
@@ -10234,12 +10234,12 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Narodna]Lepa Brena}Mile voli disko=http://www.youtube.com/watch?v=b88F8J5g1Kc
 ﻿Narodna]Lepa Brena}Moj je lola zvezda rokenrola=http://www.youtube.com/watch?v=A2KmN6jS7jo
 ﻿Narodna]Lepa Brena}Moja Roso=http://www.youtube.com/watch?v=3-DcLa5chtY
-﻿Narodna]Lepa Brena}Momci na vidiku=http://www.youtube.com/watch?v=p3pDd-M0SWY
+﻿Narodna]Lepa Brena}Momci na vidiku=http://www.youtube.com/watch?v=6rhOcCxwecs
 ﻿Narodna]Lepa Brena}Moram nešto ljubiti=http://www.youtube.com/watch?v=9rEczHLm6OQ
 ﻿Narodna]Lepa Brena}Muškarci=http://www.youtube.com/watch?v=LZifvFpIRUw
 ﻿Narodna]Lepa Brena}Ne bih ja, bila ja=http://www.youtube.com/watch?v=DTV-zxj9O90
 ﻿Narodna]Lepa Brena}Ne mogu da te prebolim=http://www.youtube.com/watch?v=n9k2KHeT94g
-﻿Narodna]Lepa Brena}Neka ljubav pobedi=http://www.youtube.com/watch?v=een8f_hvfjs
+﻿Narodna]Lepa Brena}Neka ljubav pobedi=http://www.youtube.com/watch?v=hw-Za9-Bh6o
 ﻿Narodna]Lepa Brena}Nekoj drugoj decu pravi=http://www.youtube.com/watch?v=LlUtcNTzQbQ
 ﻿Narodna]Lepa Brena}Nemoj reći da me voliš=http://www.youtube.com/watch?v=320poYyxl7E
 ﻿Narodna]Lepa Brena}Ne zna žena=http://www.youtube.com/watch?v=9HZ-asrYf9c
@@ -10255,7 +10255,7 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Narodna]Lepa Brena}Pazi kome zavidiš=http://www.youtube.com/watch?v=VRj4uXMatAQ
 ﻿Narodna]Lepa Brena}Pazi šta radiš=http://www.youtube.com/watch?v=KKTGXfh5SQc
 ﻿Narodna]Lepa Brena}Perice moja merice=http://www.youtube.com/watch?v=YXSwr3WBbKI
-﻿Narodna]Lepa Brena}Pesma narodna=http://www.youtube.com/watch?v=xGN59fngUUE
+﻿Narodna]Lepa Brena}Pesma narodna=http://www.youtube.com/watch?v=ZXfbpBDHVTg
 ﻿Narodna]Lepa Brena}Pile moje=http://www.youtube.com/watch?v=Kp-aKZxoKdI
 ﻿Narodna]Lepa Brena}Pokloni mi noć=http://www.youtube.com/watch?v=LFWGGurWAzo
 ﻿Narodna]Lepa Brena}Pomračenje sunca=http://www.youtube.com/watch?v=rIDrVsQ90Dg
@@ -10305,7 +10305,7 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Narodna]Lepa Brena}Zar je važno da l' se peva ili pjeva=http://www.youtube.com/watch?v=xy2idL0aqFU
 ﻿Narodna]Lepa Brena}Zaljubljeni veruju u sve=http://www.youtube.com/watch?v=5xNkT1jg89I
 ﻿Narodna]Lepa Brena}Zašto=http://www.youtube.com/watch?v=25LqJB_aRBo
-﻿Narodna]Lepa Brena}Zatvori oči=http://www.youtube.com/watch?v=FQj7BxrLqLU
+﻿Narodna]Lepa Brena}Zatvori oči=http://www.youtube.com/watch?v=eCiiceSEBmM
 ﻿Narodna]Lepa Brena}Zbog tebe=http://www.youtube.com/watch?v=T83M_FFu790
 ﻿Narodna]Lepa Brena}Žeravica=http://www.youtube.com/watch?v=WaItq0omd_U
 ﻿Narodna]Lepa Brena}Zrno tuge=http://www.youtube.com/watch?v=oT2gCxAQjDI
@@ -10505,7 +10505,7 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Rok Strani]Amy Winehouse}Alcoholic logic=https://www.youtube.com/watch?v=rRAVTl2Io10
 ﻿Rok Strani]Amy Winehouse}Get over it=https://www.youtube.com/watch?v=hLIqKDs-0_A
 ﻿Rok Strani]Guns 'n' Roses}Paradise city=https://www.youtube.com/watch?v=Rbm6GXllBiw
-﻿Rok Strani]Guns 'n' Roses}You could be mine=http://www.youtube.com/watch?v=rPFi-UKwb3c
+﻿Rok Strani]Guns 'n' Roses}You could be mine=http://www.youtube.com/watch?v=OLDOxFcrt_E
 ﻿Rok Strani]Guns 'n' Roses}Used to love her=http://www.youtube.com/watch?v=OZ9haI5ghmg
 ﻿Rok Strani]Guns 'n' Roses}One in a million=--start-time=20 http://www.youtube.com/watch?v=U5rejzm3PhQ
 ﻿Rok Strani]Guns 'n' Roses}Estranged=--start-time=13 https://www.youtube.com/watch?v=dpmAY059TTY
@@ -12203,7 +12203,7 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Rok Strani]Bad Company}Heartbeat=http://www.youtube.com/watch?v=CbOlVmuPSLQ
 ﻿Rok Strani]Bad Company}Here Comes Trouble=http://www.youtube.com/watch?v=nduQFOBdvvo
 ﻿Rok Strani]Bad Company}Hey, Hey=http://www.youtube.com/watch?v=mDMwLsULRm8
-﻿Rok Strani]Bad Company}Hold On My Heart=http://www.youtube.com/watch?v=TLL2HgZUDhA
+﻿Rok Strani]Bad Company}Hold On My Heart=http://www.youtube.com/watch?v=yRUv89HD4us
 ﻿Rok Strani]Bad Company}Hold On To My Heart=http://www.youtube.com/watch?v=yRUv89HD4us
 ﻿Rok Strani]Bad Company}Holy Water=http://www.youtube.com/watch?v=Rh5NV-Lyzok
 ﻿Rok Strani]Bad Company}Honey Child=http://www.youtube.com/watch?v=ox-o8JbItLA
@@ -12402,7 +12402,7 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Rok Strani]Black Sabbath}Digital Bitch=http://www.youtube.com/watch?v=uPsHgn4KqM0
 ﻿Rok Strani]Black Sabbath}Dirty Women=http://www.youtube.com/watch?v=0WXbAmM6W9c
 ﻿Rok Strani]Black Sabbath}Dying For Love=http://www.youtube.com/watch?v=rGFsAecMCx4
-﻿Rok Strani]Black Sabbath}Ear In The Wall=http://www.youtube.com/watch?v=pmoWq8_rWRI
+﻿Rok Strani]Black Sabbath}Ear In The Wall=http://www.youtube.com/watch?v=tmjngGed_4A
 ﻿Rok Strani]Black Sabbath}Electric Funeral=http://www.youtube.com/watch?v=7H9ZQSZ9G9I
 ﻿Rok Strani]Black Sabbath}Eternal Idol=http://www.youtube.com/watch?v=BrJtevXBbRM
 ﻿Rok Strani]Black Sabbath}Evil Eye=http://www.youtube.com/watch?v=FsISkgC9ndE
@@ -12470,7 +12470,7 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Rok Strani]Black Sabbath}Sabbra Cadabra=http://www.youtube.com/watch?v=-9mCl6XCYNE
 ﻿Rok Strani]Black Sabbath}Selling My Soul=http://www.youtube.com/watch?v=YNmtfrP7Cbk
 ﻿Rok Strani]Black Sabbath}Seventh Star=http://www.youtube.com/watch?v=ic97ecymD0Q
-﻿Rok Strani]Black Sabbath}Shadow Of The Wind=http://www.youtube.com/watch?v=cG8YCWr9GGo
+﻿Rok Strani]Black Sabbath}Shadow Of The Wind=http://www.youtube.com/watch?v=90Pjc5bKTBM
 ﻿Rok Strani]Black Sabbath}Shaking Off The Chains=http://www.youtube.com/watch?v=f9XDy1Oa7CY
 ﻿Rok Strani]Black Sabbath}She's Gone=http://www.youtube.com/watch?v=F7lRBM2U3nc
 ﻿Rok Strani]Black Sabbath}Shock Wave=http://www.youtube.com/watch?v=f2p6fBdCnY0
@@ -12486,7 +12486,7 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Rok Strani]Black Sabbath}Swinging The Chain=http://www.youtube.com/watch?v=bCz4dkR6EVo
 ﻿Rok Strani]Black Sabbath}Symptom Of The Universe=http://www.youtube.com/watch?v=GhZ4t7pRyjE
 ﻿Rok Strani]Black Sabbath}TV Crimes=http://www.youtube.com/watch?v=oS181WlG5OA
-﻿Rok Strani]Black Sabbath}The Devil Cried=http://www.youtube.com/watch?v=J3ZU0di_d_A
+﻿Rok Strani]Black Sabbath}The Devil Cried=http://www.youtube.com/watch?v=4FOnomnDr2w
 ﻿Rok Strani]Black Sabbath}The Hand That Rocks The Cradle=http://www.youtube.com/watch?v=Zqwx5BpdCq8
 ﻿Rok Strani]Black Sabbath}The Illusion Of Power=http://www.youtube.com/watch?v=ifwvsYKuYRw
 ﻿Rok Strani]Black Sabbath}The Law Maker=http://www.youtube.com/watch?v=CQ0A74X8rZw
@@ -12897,7 +12897,7 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Rok Strani]Boston}Don't Look Back=http://www.youtube.com/watch?v=3VPLOVJ0u94
 ﻿Rok Strani]Boston}Feelin' Satisfied=http://www.youtube.com/watch?v=uHU7EdyAYrg
 ﻿Rok Strani]Boston}Heaven On Earth=http://www.youtube.com/watch?v=D1XrtoFBOx0
-﻿Rok Strani]Boston}Higher Power=http://www.youtube.com/watch?v=F03vnSb7lu0
+﻿Rok Strani]Boston}Higher Power=http://www.youtube.com/watch?v=nEMTu-VxixY
 ﻿Rok Strani]Boston}Hollyann=http://www.youtube.com/watch?v=SYj3RX525-U
 ﻿Rok Strani]Boston}I Had A Good Time=http://www.youtube.com/watch?v=L4hu9VlU2lA
 ﻿Rok Strani]Boston}I Need Your Love=http://www.youtube.com/watch?v=vtUwqfn08wI
@@ -13234,7 +13234,7 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Rok Strani]Deep Purple}A Gypsy's Kiss=http://www.youtube.com/watch?v=i-4RuC5Zd9U
 ﻿Rok Strani]Deep Purple}A Simple Song=http://www.youtube.com/watch?v=iXcg470LGmA
 ﻿Rok Strani]Deep Purple}A Touch Away=http://www.youtube.com/watch?v=cxBcaDwInLg
-﻿Rok Strani]Deep Purple}A Twist In The Tale=http://www.youtube.com/watch?v=PRCJlW3rmvM
+﻿Rok Strani]Deep Purple}A Twist In The Tale=http://www.youtube.com/watch?v=Jk1BrvGbCIQ
 ﻿Rok Strani]Deep Purple}Above And Beyond=http://www.youtube.com/watch?v=i7csOg1GbCQ
 ﻿Rok Strani]Deep Purple}All The Time In The World=http://www.youtube.com/watch?v=7YrtWNfOtmA
 ﻿Rok Strani]Deep Purple}Almost Human=http://www.youtube.com/watch?v=5xR6cFU_Sws
@@ -13305,7 +13305,7 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Rok Strani]Deep Purple}Lady Luck=http://www.youtube.com/watch?v=QgKn2VARUJ0
 ﻿Rok Strani]Deep Purple}Lalena=http://www.youtube.com/watch?v=W1ZFAM1Yuhc
 ﻿Rok Strani]Deep Purple}Lay Down, Stay Down=http://www.youtube.com/watch?v=D0sBfM_zLjI
-﻿Rok Strani]Deep Purple}Lick It Up=http://www.youtube.com/watch?v=Twm7Xit9QZY
+﻿Rok Strani]Deep Purple}Lick It Up=http://www.youtube.com/watch?v=GJrIScKGxi4
 ﻿Rok Strani]Deep Purple}Listen, Learn, Read On=http://www.youtube.com/watch?v=uYZaXo4jOu0
 ﻿Rok Strani]Deep Purple}Living Wreck=http://www.youtube.com/watch?v=4DECsBjNqHE
 ﻿Rok Strani]Deep Purple}Loosen My Strings=http://www.youtube.com/watch?v=vWkO6mj-F-Q
@@ -13330,7 +13330,7 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Rok Strani]Deep Purple}Nobody's Home=http://www.youtube.com/watch?v=sI8vgiTaumE
 ﻿Rok Strani]Deep Purple}Not Responsible=http://www.youtube.com/watch?v=iSXDZDz80Ds
 ﻿Rok Strani]Deep Purple}On Top Of The World=http://www.youtube.com/watch?v=w35inVUX2M4
-﻿Rok Strani]Deep Purple}One Man's Meat=http://www.youtube.com/watch?v=DFBYPRrhhUM
+﻿Rok Strani]Deep Purple}One Man's Meat=http://www.youtube.com/watch?v=8jN60igN1jk
 ﻿Rok Strani]Deep Purple}One More Rainy Day=http://www.youtube.com/watch?v=NLhYajHZ9rk
 ﻿Rok Strani]Deep Purple}One Night In Vegas=http://www.youtube.com/watch?v=i_e77AdF8Y0
 ﻿Rok Strani]Deep Purple}Our Lady=http://www.youtube.com/watch?v=rmAvlyV_c4s
@@ -13404,7 +13404,7 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Rok Strani]Def Leppard}All Night=http://www.youtube.com/watch?v=0TF6w460DnE
 ﻿Rok Strani]Def Leppard}All Time High=http://www.youtube.com/watch?v=MhYOn0aFNfA
 ﻿Rok Strani]Def Leppard}Animal=http://www.youtube.com/watch?v=mBfJOkPZVM4
-﻿Rok Strani]Def Leppard}Another Hit And Run=http://www.youtube.com/watch?v=BFGt-TkapLI
+﻿Rok Strani]Def Leppard}Another Hit And Run=http://www.youtube.com/watch?v=3lV3ZCgqBkE
 ﻿Rok Strani]Def Leppard}Armageddon It=http://www.youtube.com/watch?v=7jTGVx2ATLI
 ﻿Rok Strani]Def Leppard}Back In Your Face=http://www.youtube.com/watch?v=SACEnRZPYoY
 ﻿Rok Strani]Def Leppard}Bad Actress=http://www.youtube.com/watch?v=TAs5XOPJDKU
@@ -13443,7 +13443,6 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Rok Strani]Def Leppard}Hallucinate=http://www.youtube.com/watch?v=WpUF_gGolZU
 ﻿Rok Strani]Def Leppard}Hanging On The Telephone=http://www.youtube.com/watch?v=1KK4_d_uOIs
 ﻿Rok Strani]Def Leppard}Have You Ever Needed Someone So Bad=http://www.youtube.com/watch?v=uhUPxzp1wk0
-﻿Rok Strani]Def Leppard}He's Gonna Step On You Again=http://www.youtube.com/watch?v=y1QgZZMv28c
 ﻿Rok Strani]Def Leppard}Heat Street=http://www.youtube.com/watch?v=kff9vTqlP_4
 ﻿Rok Strani]Def Leppard}Heaven Is=http://www.youtube.com/watch?v=xnNmllUMjwY
 ﻿Rok Strani]Def Leppard}Hell Raiser=http://www.youtube.com/watch?v=6BcLF7miNa0
@@ -13465,7 +13464,6 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Rok Strani]Def Leppard}Let Me Be The One=http://www.youtube.com/watch?v=jvYfnfnKKSQ
 ﻿Rok Strani]Def Leppard}Let's Get Rocked=http://www.youtube.com/watch?v=ndMj3OQizzg
 ﻿Rok Strani]Def Leppard}Let's Go=http://www.youtube.com/watch?v=EB7BeKwoYAs
-﻿Rok Strani]Def Leppard}Little Bit Of Love=http://www.youtube.com/watch?v=o8x6sGqytyk
 ﻿Rok Strani]Def Leppard}Long, Long Way To Go=http://www.youtube.com/watch?v=fxlm8y2olRg
 ﻿Rok Strani]Def Leppard}Love Bites=http://www.youtube.com/watch?v=tsN-mMpZNGc
 ﻿Rok Strani]Def Leppard}Love Don't Lie=http://www.youtube.com/watch?v=-n2M8M6Bne0
@@ -13475,7 +13473,7 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Rok Strani]Def Leppard}Me And My Wine (Remix)=http://www.youtube.com/watch?v=s_0f64oo2OA
 ﻿Rok Strani]Def Leppard}Me And My Wine=http://www.youtube.com/watch?v=NM0jByUkv4g
 ﻿Rok Strani]Def Leppard}Medicine Man=http://www.youtube.com/watch?v=z-Olw6sr2ns
-﻿Rok Strani]Def Leppard}Mirror, Mirror (Look Into My Eyes)=http://www.youtube.com/watch?v=qwOqlo63Kd0
+﻿Rok Strani]Def Leppard}Mirror, Mirror (Look Into My Eyes)=http://www.youtube.com/watch?v=h6Sh7B3wNIg
 ﻿Rok Strani]Def Leppard}Miss You In A Heartbeat (Electric Version)=http://www.youtube.com/watch?v=ufPgNfZ_pRk
 ﻿Rok Strani]Def Leppard}Miss You In A Heartbeat (Secret Version)=http://www.youtube.com/watch?v=ufPgNfZ_pRk
 ﻿Rok Strani]Def Leppard}Miss You In A Heartbeat=http://www.youtube.com/watch?v=9rZmuhvE3Nk
@@ -13486,7 +13484,7 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Rok Strani]Def Leppard}No No No=http://www.youtube.com/watch?v=rYz27mUWAlc
 ﻿Rok Strani]Def Leppard}Now I'm Here=http://www.youtube.com/watch?v=vPVeSTQkdmk
 ﻿Rok Strani]Def Leppard}Now=http://www.youtube.com/watch?v=n-OyjTrjgDw
-﻿Rok Strani]Def Leppard}On Through The Night=http://www.youtube.com/watch?v=goabVfCc5vE
+﻿Rok Strani]Def Leppard}On Through The Night=http://www.youtube.com/watch?v=I3eFMCWPuio
 ﻿Rok Strani]Def Leppard}Only After Dark=http://www.youtube.com/watch?v=hOO6wztjxV0
 ﻿Rok Strani]Def Leppard}Only The Good Die Young=http://www.youtube.com/watch?v=Y_M3vC7BA-s
 ﻿Rok Strani]Def Leppard}Paper Sun=http://www.youtube.com/watch?v=82GweuYqUlo
@@ -13496,7 +13494,7 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Rok Strani]Def Leppard}Pour Some Sugar On Me=http://www.youtube.com/watch?v=C5dUWw_lSMs
 ﻿Rok Strani]Def Leppard}Promises=http://www.youtube.com/watch?v=vGTNEnOcGX0
 ﻿Rok Strani]Def Leppard}Rock Brigade=http://www.youtube.com/watch?v=NM1SbocvqEw
-﻿Rok Strani]Def Leppard}Rock On=http://www.youtube.com/watch?v=mXJU64esj6M
+﻿Rok Strani]Def Leppard}Rock On=http://www.youtube.com/watch?v=sg5avHj03qQ
 ﻿Rok Strani]Def Leppard}Rock! Rock! Till You Drop=http://www.youtube.com/watch?v=avgcg3YwyLc
 ﻿Rok Strani]Def Leppard}Rocket=http://www.youtube.com/watch?v=xLUnBzSBMjg
 ﻿Rok Strani]Def Leppard}Rocks Off=http://www.youtube.com/watch?v=oeSuIBCrWY4
@@ -13505,7 +13503,7 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Rok Strani]Def Leppard}Sea Of Love=http://www.youtube.com/watch?v=dnC-IqqRsBU
 ﻿Rok Strani]Def Leppard}See The Lights=http://www.youtube.com/watch?v=9ofBcly0UM8
 ﻿Rok Strani]Def Leppard}Slang=http://www.youtube.com/watch?v=GbEAn02ObDM
-﻿Rok Strani]Def Leppard}Sorrow Is A Woman=http://www.youtube.com/watch?v=R8VVzAFD-Hw
+﻿Rok Strani]Def Leppard}Sorrow Is A Woman=http://www.youtube.com/watch?v=od_UZluATRE
 ﻿Rok Strani]Def Leppard}Stagefright=http://www.youtube.com/watch?v=SAQVGoGfjpY
 ﻿Rok Strani]Def Leppard}Stand Up (Kick Love Into Motion)=http://www.youtube.com/watch?v=wP9wVS857v8
 ﻿Rok Strani]Def Leppard}Switch 625=http://www.youtube.com/watch?v=bGgxPFyJmwc
@@ -13712,7 +13710,6 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Rok Strani]Eric Clapton}Me And The Devil Blues=http://www.youtube.com/watch?v=iuNKQ_F9tZg
 ﻿Rok Strani]Eric Clapton}Mean Old Frisco=http://www.youtube.com/watch?v=3XV6GBxDDUE
 ﻿Rok Strani]Eric Clapton}Mean Old World=http://www.youtube.com/watch?v=BswdhPuaOxA
-﻿Rok Strani]Eric Clapton}Meet Me (Down At The Bottom)=http://www.youtube.com/watch?v=o_ho-ZqTVr8
 ﻿Rok Strani]Eric Clapton}Milkcow's Calf Blues=http://www.youtube.com/watch?v=JCCXXJHHMiI
 ﻿Rok Strani]Eric Clapton}Miss You=http://www.youtube.com/watch?v=IPkqemOqsp8
 ﻿Rok Strani]Eric Clapton}Missing Person=http://www.youtube.com/watch?v=v4bQZ9-iAzA
@@ -14089,7 +14086,7 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Rok Strani]Foreigner}Fool For You Anyway=http://www.youtube.com/watch?v=M7adoDIzryY
 ﻿Rok Strani]Foreigner}Girl On The Moon=http://www.youtube.com/watch?v=db49ux7Hjuc
 ﻿Rok Strani]Foreigner}Give Me A Sign=http://www.youtube.com/watch?v=tancqrNsyO0
-﻿Rok Strani]Foreigner}Growing Up The Hard Way=http://www.youtube.com/watch?v=loopfzI9XY8
+﻿Rok Strani]Foreigner}Growing Up The Hard Way=http://www.youtube.com/watch?v=VjaJ0JvWlEw
 ﻿Rok Strani]Foreigner}Hand On My Heart=http://www.youtube.com/watch?v=kLNTQlaCer4
 ﻿Rok Strani]Foreigner}Head Games=http://www.youtube.com/watch?v=mFQG6OOQmh8
 ﻿Rok Strani]Foreigner}Headknocker=http://www.youtube.com/watch?v=faiRPRPWnKc
@@ -14130,14 +14127,14 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Rok Strani]Foreigner}Seventeen=http://www.youtube.com/watch?v=r5dlK1_PQBo
 ﻿Rok Strani]Foreigner}She's Too Tough=http://www.youtube.com/watch?v=BR9yYLm_epQ
 ﻿Rok Strani]Foreigner}Spellbinder=http://www.youtube.com/watch?v=6zvt72nuAbQ
-﻿Rok Strani]Foreigner}Stranger In My Own House=http://www.youtube.com/watch?v=WxTJymcQ1eI
+﻿Rok Strani]Foreigner}Stranger In My Own House=http://www.youtube.com/watch?v=Aa_hzZ1eHkc
 ﻿Rok Strani]Foreigner}That Was Yesterday=http://www.youtube.com/watch?v=vxz7UkOQ5v4
 ﻿Rok Strani]Foreigner}The Beat Of My Heart=http://www.youtube.com/watch?v=7WLfX8soYlI
 ﻿Rok Strani]Foreigner}The Damage Is Done=http://www.youtube.com/watch?v=eib94JjrNEw
 ﻿Rok Strani]Foreigner}The Flame Still Burns=http://www.youtube.com/watch?v=vBhq_BL-U2A
 ﻿Rok Strani]Foreigner}Too Late=http://www.youtube.com/watch?v=-9njObR8GhQ
-﻿Rok Strani]Foreigner}Tooth And Nail=http://www.youtube.com/watch?v=ezBL9kVltG8
-﻿Rok Strani]Foreigner}Two Different Worlds=http://www.youtube.com/watch?v=U1jcySDsYig
+﻿Rok Strani]Foreigner}Tooth And Nail=http://www.youtube.com/watch?v=Bf_v7tfQdDM
+﻿Rok Strani]Foreigner}Two Different Worlds=http://www.youtube.com/watch?v=KYrClIXHs8o
 ﻿Rok Strani]Foreigner}Under The Gun=http://www.youtube.com/watch?v=-Jrww3KG3TI
 ﻿Rok Strani]Foreigner}Until The End Of Time=http://www.youtube.com/watch?v=OngMpfcXmJs
 ﻿Rok Strani]Foreigner}Waiting For A Girl Like You=http://www.youtube.com/watch?v=iX8tV5JkbM8
@@ -15240,7 +15237,7 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Rok Strani]Janes Addiction}Irresistible Force=http://www.youtube.com/watch?v=rVOi5Hdbd7Q
 ﻿Rok Strani]Janes Addiction}Jane Says=http://www.youtube.com/watch?v=xh-5FI21s6M
 ﻿Rok Strani]Janes Addiction}Just Because=http://www.youtube.com/watch?v=E92V9S-2YqY
-﻿Rok Strani]Janes Addiction}Mountain Song=http://www.youtube.com/watch?v=QAjDF5uVm94
+﻿Rok Strani]Janes Addiction}Mountain Song=http://www.youtube.com/watch?v=xV9F1J7maQM
 ﻿Rok Strani]Janes Addiction}My Time=http://www.youtube.com/watch?v=aANOgn2a5Ss
 ﻿Rok Strani]Janes Addiction}No One's Leaving=http://www.youtube.com/watch?v=-svD_M-0zxU
 ﻿Rok Strani]Janes Addiction}Obvious=http://www.youtube.com/watch?v=Y5PXNkMPeyo
@@ -15610,13 +15607,13 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Rok Strani]Judas Priest}All Fired Up=http://www.youtube.com/watch?v=k6YpM4AaA08
 ﻿Rok Strani]Judas Priest}All Guns Blazing=http://www.youtube.com/watch?v=LDPCUgDJPyE
 ﻿Rok Strani]Judas Priest}All The Way=http://www.youtube.com/watch?v=vzOGsQFqXps
-﻿Rok Strani]Judas Priest}Angel=http://www.youtube.com/watch?v=aAkH2RP-FLM
+﻿Rok Strani]Judas Priest}Angel=http://www.youtube.com/watch?v=UtNBKX4Dtwc
 ﻿Rok Strani]Judas Priest}Battle Cry=http://www.youtube.com/watch?v=ss5uhrzXI-s
-﻿Rok Strani]Judas Priest}Before The Dawn=http://www.youtube.com/watch?v=K5ht976rNNQ
+﻿Rok Strani]Judas Priest}Before The Dawn=http://www.youtube.com/watch?v=c-1KI9l4UL0
 ﻿Rok Strani]Judas Priest}Beginning Of The End=http://www.youtube.com/watch?v=vZ4W6KeGdRM
 ﻿Rok Strani]Judas Priest}Better By You Better Than Me=http://www.youtube.com/watch?v=PqAPVB4u9Zs
 ﻿Rok Strani]Judas Priest}Between The Hammer & The Anvil=http://www.youtube.com/watch?v=5cLFzqsWNfQ
-﻿Rok Strani]Judas Priest}Beyond The Realms Of Death=http://www.youtube.com/watch?v=F2i1dinm3UE
+﻿Rok Strani]Judas Priest}Beyond The Realms Of Death=http://www.youtube.com/watch?v=6LrCroCB6n0
 ﻿Rok Strani]Judas Priest}Blood Stained=http://www.youtube.com/watch?v=4mLSR5D79z4
 ﻿Rok Strani]Judas Priest}Bloodstone=http://www.youtube.com/watch?v=Omz4pHuM5zU
 ﻿Rok Strani]Judas Priest}Bloodsuckers=http://www.youtube.com/watch?v=B8i6P3Jj9MQ
@@ -15646,7 +15643,7 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Rok Strani]Judas Priest}Desert Plains=http://www.youtube.com/watch?v=V5PuYIsKbe0
 ﻿Rok Strani]Judas Priest}Devil Digger=http://www.youtube.com/watch?v=DCSeVBjr998
 ﻿Rok Strani]Judas Priest}Devil's Child=http://www.youtube.com/watch?v=TVAcjSsxl08
-﻿Rok Strani]Judas Priest}Diamonds And Rust=http://www.youtube.com/watch?v=vLDazyvMMGw
+﻿Rok Strani]Judas Priest}Diamonds And Rust=http://www.youtube.com/watch?v=mIC7KQPDuDc
 ﻿Rok Strani]Judas Priest}Dissident Aggressor=http://www.youtube.com/watch?v=H_mpt8xyZVI
 ﻿Rok Strani]Judas Priest}Don't Go=http://www.youtube.com/watch?v=3ROVXf6fZ0U
 ﻿Rok Strani]Judas Priest}Down In Flames=http://www.youtube.com/watch?v=7tYzuz_0QvQ
@@ -15677,7 +15674,7 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Rok Strani]Judas Priest}Hell Bent For Leather=http://www.youtube.com/watch?v=kC1RQy0bu04
 ﻿Rok Strani]Judas Priest}Hell Is Home=http://www.youtube.com/watch?v=28_HpA8txU0
 ﻿Rok Strani]Judas Priest}Hell Patrol=http://www.youtube.com/watch?v=GCb6eLKmrc0
-﻿Rok Strani]Judas Priest}Hellrider=http://www.youtube.com/watch?v=DtUHUOOwWjE
+﻿Rok Strani]Judas Priest}Hellrider=http://www.youtube.com/watch?v=qkBXHYi_F_M
 ﻿Rok Strani]Judas Priest}Here Come The Tears=http://www.youtube.com/watch?v=y0nzVF8SiNM
 ﻿Rok Strani]Judas Priest}Heroes End=http://www.youtube.com/watch?v=hCTOu57AP2o
 ﻿Rok Strani]Judas Priest}Hope=http://www.youtube.com/watch?v=nzlJkAmLYzo
@@ -15713,7 +15710,7 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Rok Strani]Judas Priest}Never Satisfied=http://www.youtube.com/watch?v=MvLmpXXPDB8
 ﻿Rok Strani]Judas Priest}New Beginnings=http://www.youtube.com/watch?v=nzlJkAmLYzo
 ﻿Rok Strani]Judas Priest}Night Comes Down=http://www.youtube.com/watch?v=TQKGzcHfUl0
-﻿Rok Strani]Judas Priest}Night Crawler=http://www.youtube.com/watch?v=pMkqQoL1jkQ
+﻿Rok Strani]Judas Priest}Night Crawler=http://www.youtube.com/watch?v=rp4VEV1fyjk
 ﻿Rok Strani]Judas Priest}Nostradamus=http://www.youtube.com/watch?v=n19nUjLDg9I
 ﻿Rok Strani]Judas Priest}On The Run=http://www.youtube.com/watch?v=d8unMi5p5ro
 ﻿Rok Strani]Judas Priest}One For The Road=http://www.youtube.com/watch?v=rCACGI5lryU
@@ -15782,7 +15779,7 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Rok Strani]Judas Priest}Wild Nights. Hot And Crazy Days=http://www.youtube.com/watch?v=MMdu8uDaN_c
 ﻿Rok Strani]Judas Priest}Winter Retreat=http://www.youtube.com/watch?v=2gGF3g4k-4c
 ﻿Rok Strani]Judas Priest}Winter=http://www.youtube.com/watch?v=5UdBvZVhk0Q
-﻿Rok Strani]Judas Priest}Worth Fighting For=http://www.youtube.com/watch?v=DsuzrqgO0Gs
+﻿Rok Strani]Judas Priest}Worth Fighting For=http://www.youtube.com/watch?v=9azp0YtLIdg
 ﻿Rok Strani]Judas Priest}You Don't Have To Be Old To Be Wise=http://www.youtube.com/watch?v=0y6Qev04QyQ
 ﻿Rok Strani]Judas Priest}You Say Yes=http://www.youtube.com/watch?v=lzG0gMmKJxk
 ﻿Rok Strani]Judas Priest}You've Got Another Thing Comin'=http://www.youtube.com/watch?v=evqzZ9CLTqI
@@ -16219,7 +16216,7 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Rok Strani]Living Colour}Tomorrow Never Knows=http://www.youtube.com/watch?v=fwDXZJfX6ls
 ﻿Rok Strani]Living Colour}Type=http://www.youtube.com/watch?v=1HbF3EAt3ck
 ﻿Rok Strani]Living Colour}Wall=http://www.youtube.com/watch?v=qvOXLyN8k_g
-﻿Rok Strani]Living Colour}What's Your Favorite Color? (Theme Song)=http://www.youtube.com/watch?v=MBJSU4FAM7s
+﻿Rok Strani]Living Colour}What's Your Favorite Color? (Theme Song)=http://www.youtube.com/watch?v=75J5od-WPI0
 ﻿Rok Strani]Living Colour}Which Way To America?=http://www.youtube.com/watch?v=a-J0bTmUsJw
 ﻿Rok Strani]Living Colour}Who Shot Ya=http://www.youtube.com/watch?v=TWh7OQ5kR5Q
 ﻿Rok Strani]Living Colour}Young Man=http://www.youtube.com/watch?v=T7e2kVEFPrE
@@ -16378,7 +16375,7 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Rok Strani]Lynyrd Skynyrd}What's Your Name?=http://www.youtube.com/watch?v=RlKJiZ8ymM4
 ﻿Rok Strani]Lynyrd Skynyrd}When You Got Good Friends=http://www.youtube.com/watch?v=p11xjn86vXM
 ﻿Rok Strani]Lynyrd Skynyrd}Whiskey Rock A Roller=http://www.youtube.com/watch?v=BCr0FHHB20g
-﻿Rok Strani]Lynyrd Skynyrd}White Dove=http://www.youtube.com/watch?v=Qh1Q0jG9Ybc
+﻿Rok Strani]Lynyrd Skynyrd}White Dove=http://www.youtube.com/watch?v=gXOMmfAoaBo
 ﻿Rok Strani]Lynyrd Skynyrd}Wino=http://www.youtube.com/watch?v=M2Drt2km6y4
 ﻿Rok Strani]Lynyrd Skynyrd}Woman Of Mine=http://www.youtube.com/watch?v=v5idOXHjdk8
 ﻿Rok Strani]Lynyrd Skynyrd}Workin' For MCA=http://www.youtube.com/watch?v=pUpJlui_Y4I
@@ -16851,7 +16848,7 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Rok Strani]Dire Straits}Iron Hand=http://www.youtube.com/watch?v=Zja63r8O2jU
 ﻿Rok Strani]Dire Straits}Lady Writer=http://www.youtube.com/watch?v=-QMBELh1zyo
 ﻿Rok Strani]Dire Straits}Les Boys=http://www.youtube.com/watch?v=H4rF7ObX-ls
-﻿Rok Strani]Dire Straits}Lions=http://www.youtube.com/watch?v=S4955FBxTso
+﻿Rok Strani]Dire Straits}Lions=http://www.youtube.com/watch?v=X6YyZ2ODQMA
 ﻿Rok Strani]Dire Straits}Love Over Gold=http://www.youtube.com/watch?v=7gej3hLOLDU
 ﻿Rok Strani]Dire Straits}Money For Nothing=http://www.youtube.com/watch?v=JRDgihVDEko
 ﻿Rok Strani]Dire Straits}My Parties=http://www.youtube.com/watch?v=Xra7sDcdOMI
@@ -16889,7 +16886,7 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Rok Strani]Bruce Springsteen}Across The Border=http://www.youtube.com/watch?v=rMkAP9xnLJI
 ﻿Rok Strani]Bruce Springsteen}Adam Raised A Cain=http://www.youtube.com/watch?v=i0xoClNtXi0
 ﻿Rok Strani]Bruce Springsteen}Ain't Good Enough For You=http://www.youtube.com/watch?v=fTOyGWk9hSQ
-﻿Rok Strani]Bruce Springsteen}Ain't Got You=http://www.youtube.com/watch?v=B8yN2dJTHL4
+﻿Rok Strani]Bruce Springsteen}Ain't Got You=http://www.youtube.com/watch?v=fjPgkXpqvdY
 ﻿Rok Strani]Bruce Springsteen}All I'm Thinkin' About=http://www.youtube.com/watch?v=sYDzkXBV0vQ
 ﻿Rok Strani]Bruce Springsteen}All Or Nothin' At All=http://www.youtube.com/watch?v=li9bby_Vyms
 ﻿Rok Strani]Bruce Springsteen}All That Heaven Will Allow=http://www.youtube.com/watch?v=vAFaiKdiXIk
@@ -16898,7 +16895,7 @@ Narodna]Aco Pejović}Blud i nemoral (ft. Edita)=https://www.youtube.com/watch?v=
 ﻿Rok Strani]Bruce Springsteen}American Land=http://www.youtube.com/watch?v=doq-ktDPjg8
 ﻿Rok Strani]Bruce Springsteen}Atlantic City=http://www.youtube.com/watch?v=M3eu1gW-bQ8
 ﻿Rok Strani]Bruce Springsteen}Baby I=http://www.youtube.com/watch?v=aTeJTkSJMVE
-﻿Rok Strani]Bruce Springsteen}Badlands=http://www.youtube.com/watch?v=n-YvJoGMTIo
+﻿Rok Strani]Bruce Springsteen}Badlands=http://www.youtube.com/watch?v=8y4JfkZ5mJs
 ﻿Rok Strani]Bruce Springsteen}Balboa Park=http://www.youtube.com/watch?v=3oHMk0Uh6Ow
 ﻿Rok Strani]Bruce Springsteen}Ballad Of Jesse James=http://www.youtube.com/watch?v=nQFoXXFEeJ4
 ﻿Rok Strani]Bruce Springsteen}Be True=http://www.youtube.com/watch?v=dmGzY2xmLxc
