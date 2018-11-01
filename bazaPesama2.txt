@@ -2639,6 +2639,7 @@
 ﻿Narodna]Nedeljko Bajić Baja}Snovi od stakla=http://www.youtube.com/watch?v=Nh-NPdWHCEY
 ﻿Narodna]Nedeljko Bajić Baja}Šta ti fali kad ti ništa ne fali=https://www.youtube.com/watch?v=ITo09tAjAIo
 ﻿Narodna]Nedeljko Bajić Baja}Šta me briga=https://www.youtube.com/watch?v=Aa9wMCFvb1s
+﻿Narodna]Nedeljko Bajić Baja}Svetionik=--start-time=30 https://www.youtube.com/watch?v=ldOUZCtAKLo
 ﻿Narodna]Nedeljko Bajić Baja}Ti oprosti=http://www.youtube.com/watch?v=zkfBwvHX5vs
 ﻿Narodna]Nedeljko Bajić Baja}Tip top=http://www.youtube.com/watch?v=TNiwy1Iw_Ss
 ﻿Narodna]Nedeljko Bajić Baja}Vredna čekanja=http://www.youtube.com/watch?v=udH1nogmxyc
@@ -7704,6 +7705,7 @@
 ﻿Narodna]Slađa Delibašić}Unikat=http://www.youtube.com/watch?v=Y6EwBVqyFQY
 ﻿Narodna]Slađa Delibašić}Veza bez obaveza=http://www.youtube.com/watch?v=6j_Bv4K3x_E
 ﻿Narodna]Slađa allegro}Afrika=--start-time=60 http://www.youtube.com/watch?v=C_jWhU93Zg8
+﻿Narodna]Slađa allegro}Bataljon=--start-time=10 https://www.youtube.com/watch?v=2PUl7iEtW-I
 ﻿Narodna]Slađa allegro}Jelen=--start-time=22 http://www.youtube.com/watch?v=plxrKEUlDfo
 ﻿Narodna]Slađa allegro}Kad za tobom umrem ja=http://www.youtube.com/watch?v=qVAdFkgsqBo
 ﻿Narodna]Slađa allegro}Kaži mi sunce moje=http://www.youtube.com/watch?v=Fek5f1laY5M
