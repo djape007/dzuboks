@@ -2755,7 +2755,7 @@
 ﻿Rok]Negative}Prava stvar=http://www.youtube.com/watch?v=FBJNcho32Co
 ﻿Rok]Negative}S tobom bih ostala=http://www.youtube.com/watch?v=KZl2yxChtmE
 ﻿Rok]Negative}Sex=http://www.youtube.com/watch?v=5F45Ec4rZ5Y
-﻿Rok]Negative}Šta kažeš sad?=http://www.youtube.com/watch?v=v8c7GDg6bm4
+﻿Rok]Negative}Šta kažeš sad?=http://www.youtube.com/watch?v=t4LNk2EIDtc
 ﻿Rok]Negative}Svet tuge=http://www.youtube.com/watch?v=-GPvpA6L3sY
 ﻿Rok]Negative}Ti me ne voliš=http://www.youtube.com/watch?v=H4oVEoaEpHQ
 ﻿Rok]Negative}Ti si laž=http://www.youtube.com/watch?v=sxVVNpjiOMg
@@ -7121,7 +7121,7 @@
 ﻿Narodna]Šemsa Suljaković}Nemoj srećo=http://www.youtube.com/watch?v=qar2ECZdjMs
 ﻿Narodna]Šemsa Suljaković}Ni soli, ni hleba=http://www.youtube.com/watch?v=A2B-vkkcvGs
 ﻿Narodna]Šemsa Suljaković}Nikad više=http://www.youtube.com/watch?v=XQjEo7KklO4
-﻿Narodna]Šemsa Suljaković}Niko nema takve oči=http://www.youtube.com/watch?v=A5kmM6MTCn0
+﻿Narodna]Šemsa Suljaković}Niko nema takve oči=http://www.youtube.com/watch?v=xFNyyvDFHL8
 ﻿Narodna]Šemsa Suljaković}Nisam suza=http://www.youtube.com/watch?v=1kivx508i88
 ﻿Narodna]Šemsa Suljaković}Nisam žena koju život mazi=http://www.youtube.com/watch?v=v18i_FIr9Rc
 ﻿Narodna]Šemsa Suljaković}Nisi od zlata=http://www.youtube.com/watch?v=cSBu_XagpjM
@@ -7136,7 +7136,7 @@
 ﻿Narodna]Šemsa Suljaković}Po cenu života=http://www.youtube.com/watch?v=WqJLWhnM1tM
 ﻿Narodna]Šemsa Suljaković}Povedi me do sna=http://www.youtube.com/watch?v=FXZwB24w6w4
 ﻿Narodna]Šemsa Suljaković}Poželi nešto=http://www.youtube.com/watch?v=MoD54hxMVmw
-﻿Narodna]Šemsa Suljaković}Prevareni ne veruju više=http://www.youtube.com/watch?v=qoAPE7VzEHA
+﻿Narodna]Šemsa Suljaković}Prevareni ne veruju više=http://www.youtube.com/watch?v=LQdEVx28LdM
 ﻿Narodna]Šemsa Suljaković}Priđi malo bliže=http://www.youtube.com/watch?v=0BVTWhepKXo
 ﻿Narodna]Šemsa Suljaković}Pristajem na sve=http://www.youtube.com/watch?v=J0zzstHffjg
 ﻿Narodna]Šemsa Suljaković}Prođi sa mnom ispod duge=http://www.youtube.com/watch?v=fhOgtfRz_RQ
@@ -7166,7 +7166,7 @@
 ﻿Narodna]Šemsa Suljaković}Ugasi svetlo=http://www.youtube.com/watch?v=VlxgEuEPo28
 ﻿Narodna]Šemsa Suljaković}Verna u ljubavi=http://www.youtube.com/watch?v=-e9m-HhtDDw
 ﻿Narodna]Šemsa Suljaković}Vjerovala sam=http://www.youtube.com/watch?v=_ltBjCxmq30
-﻿Narodna]Šemsa Suljaković}Voleću te sve dok živim=http://www.youtube.com/watch?v=qMej-9AB-pE
+﻿Narodna]Šemsa Suljaković}Voleću te sve dok živim=http://www.youtube.com/watch?v=QJiPtL3lPzg
 ﻿Narodna]Šemsa Suljaković}Volele se oči crne i zelene=http://www.youtube.com/watch?v=XKXskpUK14U
 ﻿Narodna]Šemsa Suljaković}Voli me, grli me, ljubi me=http://www.youtube.com/watch?v=RaK4wNgRbhU
 ﻿Narodna]Šemsa Suljaković}Vreme leči rane=http://www.youtube.com/watch?v=iVoSlWu1Qk4
@@ -8478,7 +8478,7 @@
 ﻿Rep]Straight Jackin}Tarmi Rićmi=http://www.youtube.com/watch?v=SWQV9ASpwPw
 ﻿Rep]Straight Jackin}Upadam u trip=--start-time=9 https://www.youtube.com/watch?v=3Vkmhc2u_YU
 ﻿Rep]Straight Jackin}Vrati mi se=https://www.youtube.com/watch?v=3QH5tacOF8I
-﻿Rep]Sunshine}'91 Preview=https://www.youtube.com/watch?v=cVbSqovm6Oo
+﻿Rep]Sunshine}'91 Preview=http://www.youtube.com/watch?v=J5Xgtueb7og
 ﻿Rep]Sunshine}Amerika Preview=https://www.youtube.com/watch?v=IF1rWoCKXbk
 ﻿Rep]Sunshine}Bongo buda=http://www.youtube.com/watch?v=eeDL6KWWO0E
 ﻿Rep]Sunshine}Dangla, dangla=https://www.youtube.com/watch?v=tZglXb3w4aY
@@ -8488,7 +8488,7 @@
 ﻿Rep]Sunshine}Intromotocoolirano=https://www.youtube.com/watch?v=0kS_H13nFwo
 ﻿Rep]Sunshine}Iza horizonta=http://www.youtube.com/watch?v=QdO6B-CEnzI
 ﻿Rep]Sunshine}Kaluđerica=http://www.youtube.com/watch?v=jjz5eXwvFU0
-﻿Rep]Sunshine}Kokain=https://www.youtube.com/watch?v=ap8wIYukgXQ
+﻿Rep]Sunshine}Kokain=http://www.youtube.com/watch?v=9ENtBnxgsi0
 ﻿Rep]Sunshine}Kokane=http://www.youtube.com/watch?v=9ENtBnxgsi0
 ﻿Rep]Sunshine}Kremenko=http://www.youtube.com/watch?v=SCY-MQo-GQc
 ﻿Rep]Sunshine}Krug=http://www.youtube.com/watch?v=VcDt0w7yfZU
@@ -8496,23 +8496,21 @@
 ﻿Rep]Sunshine}Kurva III=https://www.youtube.com/watch?v=n1O-Qy7VCw8
 ﻿Rep]Sunshine}Kurva=http://www.youtube.com/watch?v=ADz0Vdcjtx4
 ﻿Rep]Sunshine}Lavica=https://www.youtube.com/watch?v=0EgQUoEPr5g
-﻿Rep]Sunshine}Makro=--start-time=21 http://www.youtube.com/watch?v=nNvkZf5crEo
+﻿Rep]Sunshine}Makro=http://www.youtube.com/watch?v=UiGRA_P1yRE
 ﻿Rep]Sunshine}Mamino zlato=http://www.youtube.com/watch?v=-McCv5WbkLQ
 ﻿Rep]Sunshine}Manijak=http://www.youtube.com/watch?v=JT6IoFH0niU
-﻿Rep]Sunshine}Mental 'SH.G.T.M.'=https://www.youtube.com/watch?v=f5wAwSSLh8E
-﻿Rep]Sunshine}Metal kokain=https://www.youtube.com/watch?v=owBn-SF5dtM
+﻿Rep]Sunshine}Mental 'SH.G.T.M.'=http://www.youtube.com/watch?v=hPQiCQRH7Ss
 ﻿Rep]Sunshine}Misli mene gone=http://www.youtube.com/watch?v=Pb-k3d8Xpds
 ﻿Rep]Sunshine}Miss J=http://www.youtube.com/watch?v=-HYEU7M_nm8
 ﻿Rep]Sunshine}Nina Nana=http://www.youtube.com/watch?v=OxKx1AqNPlg
 ﻿Rep]Sunshine}O ljubavi=http://www.youtube.com/watch?v=8rt7rqZZ7Rc
 ﻿Rep]Sunshine}Ombre=http://www.youtube.com/watch?v=acrXCk0mYTg
 ﻿Rep]Sunshine}Outrogetominirano=https://www.youtube.com/watch?v=jD00jEC60i4
-﻿Rep]Sunshine}Pipm relief=https://www.youtube.com/watch?v=GhW54J4CTiU
 ﻿Rep]Sunshine}Pretty Boy=http://www.youtube.com/watch?v=Oig6yKFINik
 ﻿Rep]Sunshine}Priđi mi ti=http://www.youtube.com/watch?v=TDNUw2g1GBU
 ﻿Rep]Sunshine}Puši ga siso=http://www.youtube.com/watch?v=Lwf8Gpa1g6A
 ﻿Rep]Sunshine}Shaban=http://www.youtube.com/watch?v=IPb_rQtXzrU
-﻿Rep]Sunshine}Shipu ga ti meni=https://www.youtube.com/watch?v=ZDVe2cPMUQA
+﻿Rep]Sunshine}Shipu ga ti meni=http://www.youtube.com/watch?v=8ehFkjwlgdQ
 ﻿Rep]Sunshine}Slika i prilika=http://www.youtube.com/watch?v=12vEJlcYVgQ
 ﻿Rep]Sunshine}Stanar=http://www.youtube.com/watch?v=UJdfGjKkLvw
 ﻿Rep]Sunshine}Stranac=http://www.youtube.com/watch?v=hwAOwu7HhCg
@@ -9311,7 +9309,7 @@
 ﻿Narodna]Usnija Redžepova}Živote moj=http://www.youtube.com/watch?v=vSwXLX6OqWg
 ﻿Rep]VIP}5 minuta slave=https://www.youtube.com/watch?v=D5DaT9MeE44
 ﻿Rep]VIP}Ako riba drolja postane=http://www.youtube.com/watch?v=pI2fzcPEeOY
-﻿Rep]VIP}Artiljero=http://www.youtube.com/watch?v=ruarCvJkzaA
+﻿Rep]VIP}Artiljero=http://www.youtube.com/watch?v=_Qg0Q45qZeM
 ﻿Rep]VIP}Atlantida=http://www.youtube.com/watch?v=7KkkdMzT04g
 ﻿Rep]VIP}Biznis da popizdiš=https://www.youtube.com/watch?v=WmllfenyflY
 ﻿Rep]VIP}Clara Schuman=https://www.youtube.com/watch?v=-yZppCAZWm8
@@ -12333,7 +12331,7 @@
 ﻿Rok Strani]Nirvana}I Hate Myself And Want To Die=http://www.youtube.com/watch?v=tk4QHPTp2pM
 ﻿Rok Strani]Nirvana}If You Must=http://www.youtube.com/watch?v=eHdimu1sRHo
 ﻿Rok Strani]Nirvana}In Bloom=--start-time=30 http://www.youtube.com/watch?v=PbgKEjNBHqM
-﻿Rok Strani]Nirvana}Jesus Don't Want Me For A Sunbeam=http://www.youtube.com/watch?v=guCku3_pK7Q
+﻿Rok Strani]Nirvana}Jesus Don't Want Me For A Sunbeam=http://www.youtube.com/watch?v=VO-QmVLvfkY
 ﻿Rok Strani]Nirvana}Lake Of Fire=http://www.youtube.com/watch?v=uT1BuLYt2RU
 ﻿Rok Strani]Nirvana}Lithium=http://www.youtube.com/watch?v=pkcJEvMcnEg
 ﻿Rok Strani]Nirvana}Loser=http://www.youtube.com/watch?v=7lxFH6wj3Es
@@ -12535,7 +12533,6 @@
 ﻿Rok Strani]Pat Benatar}A Crazy World Like This=http://www.youtube.com/watch?v=hGNHCXuqgoA
 ﻿Rok Strani]Pat Benatar}All Fired Up=http://www.youtube.com/watch?v=4Y0MvOvM7g4
 ﻿Rok Strani]Pat Benatar}Anxiety (Get Nervous)=http://www.youtube.com/watch?v=TUDSVJh3fso
-﻿Rok Strani]Pat Benatar}At This Time=http://www.youtube.com/watch?v=VxuNuPFgOcI
 ﻿Rok Strani]Pat Benatar}Big Life=http://www.youtube.com/watch?v=vgIBLu7ppUc
 ﻿Rok Strani]Pat Benatar}Bloodshot Eyes=http://www.youtube.com/watch?v=KT97dbIoAcU
 ﻿Rok Strani]Pat Benatar}Brave=http://www.youtube.com/watch?v=vMg6WFpgm3A
@@ -12584,7 +12581,7 @@
 ﻿Rok Strani]Pat Benatar}Out-A-Touch=http://www.youtube.com/watch?v=l9okXCJuId8
 ﻿Rok Strani]Pat Benatar}Outlaw Blues=http://www.youtube.com/watch?v=DzQFP08gA4g
 ﻿Rok Strani]Pat Benatar}Painted Desert=http://www.youtube.com/watch?v=WlNpKdZyrgI
-﻿Rok Strani]Pat Benatar}Papa's Roses=http://www.youtube.com/watch?v=X4NatnNVoe0
+﻿Rok Strani]Pat Benatar}Papa's Roses=http://www.youtube.com/watch?v=8VDI-9IDQt8
 ﻿Rok Strani]Pat Benatar}Payin' The Cost To Be The Boss=http://www.youtube.com/watch?v=QdxUNNWfDqM
 ﻿Rok Strani]Pat Benatar}Please Come Home For Christmas=http://www.youtube.com/watch?v=1CDvAeVdyz4
 ﻿Rok Strani]Pat Benatar}Please Don't Leave Me=http://www.youtube.com/watch?v=WR7tlPplwU0
@@ -13699,7 +13696,7 @@
 ﻿Rok Strani]Rolling Stones}It's All Over Now=http://www.youtube.com/watch?v=UbiQjJ6s2x0
 ﻿Rok Strani]Rolling Stones}It's Not Easy=http://www.youtube.com/watch?v=V4qkIh4bjWU
 ﻿Rok Strani]Rolling Stones}It's Only Rock 'N' Roll (But I Like It)=http://www.youtube.com/watch?v=JGaBlygm0UY
-﻿Rok Strani]Rolling Stones}Jig-Saw Puzzle=http://www.youtube.com/watch?v=xmx6u7kYM3Y
+﻿Rok Strani]Rolling Stones}Jig-Saw Puzzle=http://www.youtube.com/watch?v=8iK9aq4ClsM
 ﻿Rok Strani]Rolling Stones}Jiving Sister Fanny=http://www.youtube.com/watch?v=AzowL4vEyVA
 ﻿Rok Strani]Rolling Stones}Jump On Top Of Me=http://www.youtube.com/watch?v=vWoqv8_JgiM
 ﻿Rok Strani]Rolling Stones}Jumping Jack Flash=--start-time=30 http://www.youtube.com/watch?v=Sf7x_sqUmKo
@@ -13769,7 +13766,7 @@
 ﻿Rok Strani]Rolling Stones}Please Go Home=http://www.youtube.com/watch?v=akVW78_QD9U
 ﻿Rok Strani]Rolling Stones}Plundered My Soul=http://www.youtube.com/watch?v=u6ZnmXrRUIQ
 ﻿Rok Strani]Rolling Stones}Pretty Beat Up=http://www.youtube.com/watch?v=g9Dl0-mWQME
-﻿Rok Strani]Rolling Stones}Prodigal Son=http://www.youtube.com/watch?v=yA4jeOWLEuE
+﻿Rok Strani]Rolling Stones}Prodigal Son=http://www.youtube.com/watch?v=RiGhdihlwTY
 ﻿Rok Strani]Rolling Stones}Rain Fall Down=http://www.youtube.com/watch?v=2mHHq7zcim8
 ﻿Rok Strani]Rolling Stones}Respectable=http://www.youtube.com/watch?v=LNVyu6M89p8
 ﻿Rok Strani]Rolling Stones}Ride 'em On Down=--start-time=27 http://www.youtube.com/watch?v=qEuV82GqQnE
@@ -13782,7 +13779,7 @@
 ﻿Rok Strani]Rolling Stones}Ruby Tuesday=https://www.youtube.com/watch?v=ADtnUC_ctNk
 ﻿Rok Strani]Rolling Stones}Sad Sad Sad=http://www.youtube.com/watch?v=ndmrDNl3-k4
 ﻿Rok Strani]Rolling Stones}Saint Of Me=http://www.youtube.com/watch?v=obGCaVC69Y0
-﻿Rok Strani]Rolling Stones}Salt Of The Earth=http://www.youtube.com/watch?v=_DE7w_HSqUU
+﻿Rok Strani]Rolling Stones}Salt Of The Earth=http://www.youtube.com/watch?v=bP7wt6SZA6Y
 ﻿Rok Strani]Rolling Stones}Send It To Me=http://www.youtube.com/watch?v=2xsJtKm4huA
 ﻿Rok Strani]Rolling Stones}Shake Your Hips=http://www.youtube.com/watch?v=LimUFNB52Q0
 ﻿Rok Strani]Rolling Stones}Shattered=http://www.youtube.com/watch?v=1BjQYQ5p2Ko
@@ -13809,7 +13806,7 @@
 ﻿Rok Strani]Rolling Stones}Start Me Up=http://www.youtube.com/watch?v=ZzlgJ-SfKYE
 ﻿Rok Strani]Rolling Stones}Stealing My Heart=http://www.youtube.com/watch?v=VwrQZxgDJKM
 ﻿Rok Strani]Rolling Stones}Stop Breaking Down=http://www.youtube.com/watch?v=-wfgukbENbQ
-﻿Rok Strani]Rolling Stones}Stray Cat Blues=http://www.youtube.com/watch?v=cbKzrcK8LiQ
+﻿Rok Strani]Rolling Stones}Stray Cat Blues=http://www.youtube.com/watch?v=zPt74d8qhD4
 ﻿Rok Strani]Rolling Stones}Street Fighting Man=http://www.youtube.com/watch?v=Kc7IMC6RF24
 ﻿Rok Strani]Rolling Stones}Streets Of Love=http://www.youtube.com/watch?v=wcRzyPil08U
 ﻿Rok Strani]Rolling Stones}Stupid Girl=http://www.youtube.com/watch?v=UR4M_yv0i-w
@@ -15050,7 +15047,7 @@
 ﻿Rok Strani]The Beatles}Can't Buy Me Love=http://www.youtube.com/watch?v=srwxJUXPHvE
 ﻿Rok Strani]The Beatles}Come And Get It=http://www.youtube.com/watch?v=DOhy30Ks9Us
 ﻿Rok Strani]The Beatles}Come Together=http://www.youtube.com/watch?v=uSM5MpKSnqE
-﻿Rok Strani]The Beatles}Cry Baby Cry=http://www.youtube.com/watch?v=LEqKb-I_tnk
+﻿Rok Strani]The Beatles}Cry Baby Cry=http://www.youtube.com/watch?v=kL3FxVLWUaA
 ﻿Rok Strani]The Beatles}Crying, Waiting, Hoping=http://www.youtube.com/watch?v=El6Rnvj_f3w
 ﻿Rok Strani]The Beatles}Dig A Pony=http://www.youtube.com/watch?v=VyCZeCXGXYw
 ﻿Rok Strani]The Beatles}Dig It=http://www.youtube.com/watch?v=A5Kg_c_A-yU
@@ -15121,7 +15118,7 @@
 ﻿Rok Strani]The Beatles}Sure To Fall (In Love With You)=http://www.youtube.com/watch?v=CjJW_5ios_E
 ﻿Rok Strani]The Beatles}Sweet Little Sixteen=http://www.youtube.com/watch?v=UpVDPwrE96I
 ﻿Rok Strani]The Beatles}Taxman=http://www.youtube.com/watch?v=h2_ZTtvA07w
-﻿Rok Strani]The Beatles}Teddy Boy=http://www.youtube.com/watch?v=rcBpOFW_Fkg
+﻿Rok Strani]The Beatles}Teddy Boy=http://www.youtube.com/watch?v=GC_pV77Y9-E
 ﻿Rok Strani]The Beatles}Tell Me Why=http://www.youtube.com/watch?v=mj_xmJuTo5o
 ﻿Rok Strani]The Beatles}That Means A Lot=http://www.youtube.com/watch?v=24Iy2rsqE94
 ﻿Rok Strani]The Beatles}That'll Be The Day=http://www.youtube.com/watch?v=ltvM3Kwfc44
@@ -16466,7 +16463,7 @@
 ﻿Rok Strani]UFO}Saving Me=http://www.youtube.com/watch?v=VFIeKm7lUXM
 ﻿Rok Strani]UFO}Sea Of Faith=http://www.youtube.com/watch?v=nDFSHbqD21Q
 ﻿Rok Strani]UFO}Self-Made Man=http://www.youtube.com/watch?v=ZqGY2AIKYyM
-﻿Rok Strani]UFO}Serenade=http://www.youtube.com/watch?v=XrmyNfBg0sw
+﻿Rok Strani]UFO}Serenade=http://www.youtube.com/watch?v=FITO37VVeD0
 ﻿Rok Strani]UFO}Serenity=http://www.youtube.com/watch?v=ZZ6t3GvyKbo
 ﻿Rok Strani]UFO}Shadow Dancer=http://www.youtube.com/watch?v=0jCRgD4x5M8
 ﻿Rok Strani]UFO}Shake It About=http://www.youtube.com/watch?v=slxdB7aEGxk

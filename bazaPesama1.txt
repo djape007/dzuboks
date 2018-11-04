@@ -55,15 +55,9 @@
 ﻿Rok]357}4 zida=https://www.youtube.com/watch?v=TKSipxv6Gys
 ﻿Rok]357}Znaš li ko te ljubi silno=https://www.youtube.com/watch?v=OJBC4vtcA3I
 ﻿Rok]357}Sisaj kurac Jugoslavijo=https://www.youtube.com/watch?v=yvMUNw50-ck
-﻿Rok]357}Zakletva (Pesme sa Severa)=https://www.youtube.com/watch?v=UHFj89g7KLk
-﻿Rok]357}Ponos grada (Pesme sa Severa)=https://www.youtube.com/watch?v=FRrB9yDW0q8
-﻿Rok]357}I kada dođe tuga (Pesme sa Severa)=https://www.youtube.com/watch?v=UfJOfUnaCUY
-﻿Rok]357}Napred Zvezdo (Pesme sa Severa)=https://www.youtube.com/watch?v=5WquF0PfM0g
-﻿Rok]357}Tri motiva (Pesme sa Severa)=https://www.youtube.com/watch?v=cnsSlhcTIkM
-﻿Rok]357}Gol (Pesme sa Severa)=https://www.youtube.com/watch?v=c2UNLiMq9Wo
-﻿Rok]357}Dobro znaj (Pesme sa Severa)=https://www.youtube.com/watch?v=41d4iNas8pY
-﻿Rok]357}Ciganin sam (Pesme sa Severa)=--start-time=5 https://www.youtube.com/watch?v=iHUD-WvLZhY
-﻿Rok]357}Na oblacima slave (Pesme sa Severa)=https://www.youtube.com/watch?v=slygeCTABfE
+﻿Rok]357}Gol (Pesme sa Severa)=http://www.youtube.com/watch?v=6zFcPG-ILDk
+﻿Rok]357}Dobro znaj (Pesme sa Severa)=http://www.youtube.com/watch?v=D8Mi90jLNPs
+﻿Rok]357}Ciganin sam (Pesme sa Severa)=http://www.youtube.com/watch?v=U0zKOWpqol4
 ﻿Rok]357}Spremt' se, spremt' se, četnici=https://www.youtube.com/watch?v=tM3NsSGeTr8
 ﻿Rok]357}Devojka iz grada=https://www.youtube.com/watch?v=3tUNlDkpeN0
 ﻿Rok]357}Hvala ti=https://www.youtube.com/watch?v=uBe-SYbDeeg
@@ -455,10 +449,10 @@
 ﻿Rep]Ajs Nigrutin}Kilo granja lešim=http://www.youtube.com/watch?v=UunKR_DAn_8
 ﻿Rep]Ajs Nigrutin}MC Mlohavi=http://www.youtube.com/watch?v=LdiIAB5sZ6I
 ﻿Rep]Ajs Nigrutin}Masno sve=http://www.youtube.com/watch?v=7YT6WOfTIH0
-﻿Rep]Ajs Nigrutin}Nachos=http://www.youtube.com/watch?v=Q5LxoqrWTgI
+﻿Rep]Ajs Nigrutin}Nachos=http://www.youtube.com/watch?v=4HIHTYgppeI
 ﻿Rep]Ajs Nigrutin}Nadri psihijatar=http://www.youtube.com/watch?v=xpXF48wlcIU
 ﻿Rep]Ajs Nigrutin}Naduvajte jaja=http://www.youtube.com/watch?v=b_-r2sunDlo
-﻿Rep]Ajs Nigrutin}Nasradna=http://www.youtube.com/watch?v=XLhS7hOa3Yo
+﻿Rep]Ajs Nigrutin}Nasradna=http://www.youtube.com/watch?v=gQiBNEW0RPg
 ﻿Rep]Ajs Nigrutin}Nema džeje=http://www.youtube.com/watch?v=A13dbfG9f_I
 ﻿Rep]Ajs Nigrutin}Noviteti starih drogeraša=http://www.youtube.com/watch?v=52LY8TlSmp8
 ﻿Rep]Ajs Nigrutin}Oklagija=http://www.youtube.com/watch?v=vYfPpGCAjWU
@@ -467,8 +461,8 @@
 ﻿Rep]Ajs Nigrutin}Pajp=http://www.youtube.com/watch?v=ENF6988-K94
 ﻿Rep]Ajs Nigrutin}Paket trave=http://www.youtube.com/watch?v=n5m68tP87Cw
 ﻿Rep]Ajs Nigrutin}Papučar=http://www.youtube.com/watch?v=v-6Tn9eqJx0
-﻿Rep]Ajs Nigrutin}Pjur pleja=http://www.youtube.com/watch?v=TlvAyePJPM8
-﻿Rep]Ajs Nigrutin}Proleće je stiglo=http://www.youtube.com/watch?v=vhqcrfFvGIM
+﻿Rep]Ajs Nigrutin}Pjur pleja=http://www.youtube.com/watch?v=VrbgcfPCks8
+﻿Rep]Ajs Nigrutin}Proleće je stiglo=http://www.youtube.com/watch?v=hmsJD0N4lkc
 ﻿Rep]Ajs Nigrutin}Skit Asher=http://www.youtube.com/watch?v=bNGP_LzrneQ
 ﻿Rep]Ajs Nigrutin}Skreč po guzi jedan=http://www.youtube.com/watch?v=g6sMc9f0fKY
 ﻿Rep]Ajs Nigrutin}Space Nigrutin=--start-time=7 http://www.youtube.com/watch?v=7203okW3Bgg
@@ -1602,7 +1596,7 @@
 ﻿Rep]Bad Copy}Ne znam da đuzgam=http://www.youtube.com/watch?v=Q3omXJtHni4
 ﻿Rep]Bad Copy}Pečen kesten=http://www.youtube.com/watch?v=WbUVLo9wxpc
 ﻿Rep]Bad Copy}Pravi reper=http://www.youtube.com/watch?v=g0m_AKsSr0Y
-﻿Rep]Bad Copy}Uno, due, tre=http://www.youtube.com/watch?v=PfTKTTwygnw
+﻿Rep]Bad Copy}Uno, due, tre=http://www.youtube.com/watch?v=9OtGSwyVxt4
 ﻿Rep]Bad Copy}Vodio sam devojku na soju=http://www.youtube.com/watch?v=OYpsGBtjXPs
 ﻿Krajiska]Baja Mali Knindža}90 posto mi uzela kafana=https://www.youtube.com/watch?v=4qbJBzzHtuQ
 ﻿Krajiska]Baja Mali Knindža}Ajme meni bez tebe Krajino=http://www.youtube.com/watch?v=yiusKiTp0_g
@@ -3188,7 +3182,7 @@
 ﻿Rok]Crvena Jabuka}Mahala=http://www.youtube.com/watch?v=XFwoR2sG56M
 ﻿Rok]Crvena Jabuka}Malo ćemo da se kupamo=http://www.youtube.com/watch?v=xiMqiZMXl_c
 ﻿Rok]Crvena Jabuka}Mare=http://www.youtube.com/watch?v=rT7VxMT6PYg
-﻿Rok]Crvena Jabuka}Milion žena=http://www.youtube.com/watch?v=6JSAni664uI
+﻿Rok]Crvena Jabuka}Milion žena=http://www.youtube.com/watch?v=b-1VA2Ofq0U
 ﻿Rok]Crvena Jabuka}Milo moje=http://www.youtube.com/watch?v=RCZp2tzclGE
 ﻿Rok]Crvena Jabuka}Mjesec se nakrivio=http://www.youtube.com/watch?v=6S895GbVBc4
 ﻿Rok]Crvena Jabuka}Mjeseče, reci je li budna=http://www.youtube.com/watch?v=99C2UiEtNio
@@ -3570,7 +3564,7 @@
 ﻿Zabavna]Danijel Đokić}Da sam te ranije sreo=http://www.youtube.com/watch?v=p0ph_ZqyYWc
 ﻿Zabavna]Danijel Đokić}Dođe mi da=http://www.youtube.com/watch?v=BnSQuMB_EEw
 ﻿Zabavna]Danijel Đokić}Iskoristi to=http://www.youtube.com/watch?v=0Fs3sIVUhsk
-﻿Zabavna]Danijel Đokić}Iza ponoći=http://www.youtube.com/watch?v=B-2O8q64Plk
+﻿Zabavna]Danijel Đokić}Iza ponoći=http://www.youtube.com/watch?v=rX0kuXXZ_f0
 ﻿Zabavna]Danijel Đokić}Jedva na nogama stojim=http://www.youtube.com/watch?v=J8-0fcleD80
 ﻿Zabavna]Danijel Đokić}Kad te zovem, nisi tu=http://www.youtube.com/watch?v=08ogcJmitjA
 ﻿Zabavna]Danijel Đokić}Kiselina=http://www.youtube.com/watch?v=g-avnDDr53A
@@ -4586,7 +4580,7 @@
 ﻿Kantautori]Đorđe Balašević}Jaroslava=http://www.youtube.com/watch?v=5oyvICoEb7s
 ﻿Kantautori]Đorđe Balašević}Jedan Saša iz voza=http://www.youtube.com/watch?v=-TWpTbUaLMg
 ﻿Kantautori]Đorđe Balašević}Još jedna gorka pesma=http://www.youtube.com/watch?v=yCSN0gWoLKs
-﻿Kantautori]Đorđe Balašević}Kad odem=http://www.youtube.com/watch?v=Hd6SEH1fr0M
+﻿Kantautori]Đorđe Balašević}Kad odem=http://www.youtube.com/watch?v=QtX_5q5HFgA
 ﻿Kantautori]Đorđe Balašević}Kao rani mraz=http://www.youtube.com/watch?v=7qx8Ek-5kjM
 ﻿Kantautori]Đorđe Balašević}Kao talas=http://www.youtube.com/watch?v=EZuZudAKJjE
 ﻿Kantautori]Đorđe Balašević}Kere varošanke=http://www.youtube.com/watch?v=3gFqQNaN41E
@@ -8132,7 +8126,7 @@
 ﻿Rok]ITD Band}Gradske cure=http://www.youtube.com/watch?v=q0wcWAknl3c
 ﻿Rok]ITD Band}Ja sam slab na tebe=http://www.youtube.com/watch?v=Hucr86z3HGA
 ﻿Rok]ITD Band}Ja sam svoje tjerao do kraja=http://www.youtube.com/watch?v=7lY6eLJw9JU
-﻿Rok]ITD Band}Lagano umirem=http://www.youtube.com/watch?v=aaTAz7Y3NNA
+﻿Rok]ITD Band}Lagano umirem=http://www.youtube.com/watch?v=B6hFifWVteo
 ﻿Rok]ITD Band}Majko zemljo=http://www.youtube.com/watch?v=IKLMP0ty1is
 ﻿Rok]ITD Band}Osvajam Beograd=http://www.youtube.com/watch?v=dw3dR0fmUIk
 ﻿Rok]ITD Band}Petak 13=http://www.youtube.com/watch?v=Yrj2PD_UUAA
@@ -9623,7 +9617,7 @@
 ﻿Narodna]Kemal Malovčić}Ne kunem te=http://www.youtube.com/watch?v=Ekq_yvNKtpI
 ﻿Narodna]Kemal Malovčić}Ne pitaj me=http://www.youtube.com/watch?v=blKPO6f7jgw
 ﻿Narodna]Kemal Malovčić}Ne stidi se=http://www.youtube.com/watch?v=7j_JRSAPjAs
-﻿Narodna]Kemal Malovčić}Ne varaj se=http://www.youtube.com/watch?v=fGWE9BCxyY0
+﻿Narodna]Kemal Malovčić}Ne varaj se=http://www.youtube.com/watch?v=CPYP66KcRj4
 ﻿Narodna]Kemal Malovčić}Ne voli me a volim je=http://www.youtube.com/watch?v=n6DEO6N8CeI
 ﻿Narodna]Kemal Malovčić}Ne, ne, ne=http://www.youtube.com/watch?v=yV-sBHS77WA
 ﻿Narodna]Kemal Malovčić}Neću se ženiti=http://www.youtube.com/watch?v=ZIiFbBg76WQ
@@ -10506,7 +10500,7 @@
 ﻿Rok Strani]Amy Winehouse}Alcoholic logic=https://www.youtube.com/watch?v=rRAVTl2Io10
 ﻿Rok Strani]Amy Winehouse}Get over it=https://www.youtube.com/watch?v=hLIqKDs-0_A
 ﻿Rok Strani]Guns 'n' Roses}Paradise city=https://www.youtube.com/watch?v=Rbm6GXllBiw
-﻿Rok Strani]Guns 'n' Roses}You could be mine=http://www.youtube.com/watch?v=OLDOxFcrt_E
+﻿Rok Strani]Guns 'n' Roses}You could be mine=http://www.youtube.com/watch?v=3f3g3wZv5Tc
 ﻿Rok Strani]Guns 'n' Roses}Used to love her=http://www.youtube.com/watch?v=OZ9haI5ghmg
 ﻿Rok Strani]Guns 'n' Roses}One in a million=--start-time=20 http://www.youtube.com/watch?v=U5rejzm3PhQ
 ﻿Rok Strani]Guns 'n' Roses}Estranged=--start-time=13 https://www.youtube.com/watch?v=dpmAY059TTY
@@ -11301,7 +11295,7 @@
 ﻿Rok Strani]Rammstein}Bück dich=http://www.youtube.com/watch?v=lt0hHnP7550
 ﻿Rok Strani]Rammstein}Benzin=https://www.youtube.com/watch?v=z0wK6s-6cbo
 ﻿Rok Strani]Rammstein}Bestrafe mich=http://www.youtube.com/watch?v=QBlkD1NjtxE
-﻿Rok Strani]Rammstein}Buckstabu=http://www.youtube.com/watch?v=9KI4SoDDjIc
+﻿Rok Strani]Rammstein}Buckstabu=http://www.youtube.com/watch?v=0yROHdkv6_0
 ﻿Rok Strani]Rammstein}Donaukinder=https://www.youtube.com/watch?v=Oi-ixUoWAOU
 ﻿Rok Strani]Rammstein}Du hast=https://www.youtube.com/watch?v=W3q8Od5qJio
 ﻿Rok Strani]Rammstein}Du riechst so gut=https://www.youtube.com/watch?v=rrmsJhf89MY
@@ -12481,7 +12475,7 @@
 ﻿Rok Strani]Black Sabbath}Snowblind=http://www.youtube.com/watch?v=EAMSaBN4GDI
 ﻿Rok Strani]Black Sabbath}Solitude=http://www.youtube.com/watch?v=amwQytRNvEw
 ﻿Rok Strani]Black Sabbath}Spiral Architect=http://www.youtube.com/watch?v=lkx7SQ4Wuh0
-﻿Rok Strani]Black Sabbath}St. Vitus' Dance=http://www.youtube.com/watch?v=91LW7cNz-oA
+﻿Rok Strani]Black Sabbath}St. Vitus' Dance=http://www.youtube.com/watch?v=y0l9pNPFrkg
 ﻿Rok Strani]Black Sabbath}Supernaut=http://www.youtube.com/watch?v=_xFc86tzFG4
 ﻿Rok Strani]Black Sabbath}Sweet Leaf=http://www.youtube.com/watch?v=W-zmtmgswHw
 ﻿Rok Strani]Black Sabbath}Swinging The Chain=http://www.youtube.com/watch?v=bCz4dkR6EVo
@@ -13138,7 +13132,7 @@
 ﻿Rok Strani]Cream}Sleepy Time Time=http://www.youtube.com/watch?v=5azvGKGbEjI
 ﻿Rok Strani]Cream}Strange Brew=http://www.youtube.com/watch?v=m_NholHANoY
 ﻿Rok Strani]Cream}Sunshine Of Your Love=http://www.youtube.com/watch?v=zt51rITH3EA
-﻿Rok Strani]Cream}Sweet Wine=http://www.youtube.com/watch?v=lNHtNDBSx8E
+﻿Rok Strani]Cream}Sweet Wine=http://www.youtube.com/watch?v=b-VfiNsNRps
 ﻿Rok Strani]Cream}Take It Back=http://www.youtube.com/watch?v=O-ME8ArqoT4
 ﻿Rok Strani]Cream}Tales Of Brave Ulysses=http://www.youtube.com/watch?v=u8hLc_nqx8g
 ﻿Rok Strani]Cream}The Coffee Song=http://www.youtube.com/watch?v=N0EFxoDSvKA
@@ -13317,7 +13311,7 @@
 ﻿Rok Strani]Deep Purple}MTV=http://www.youtube.com/watch?v=h7SUa6ltwNo
 ﻿Rok Strani]Deep Purple}Mad Dog=http://www.youtube.com/watch?v=-l7dCnkxSNA
 ﻿Rok Strani]Deep Purple}Mandrake Root=http://www.youtube.com/watch?v=NLhmhfkphd0
-﻿Rok Strani]Deep Purple}Mary Long=http://www.youtube.com/watch?v=GHIdzl5zyws
+﻿Rok Strani]Deep Purple}Mary Long=http://www.youtube.com/watch?v=1XBnugm29E4
 ﻿Rok Strani]Deep Purple}Maybe I'm A Leo=http://www.youtube.com/watch?v=75g0fjX0r4s
 ﻿Rok Strani]Deep Purple}Mean Streak=http://www.youtube.com/watch?v=bc7KMNB-wMU
 ﻿Rok Strani]Deep Purple}Might Just Take Your Life=http://www.youtube.com/watch?v=a58295TocB8
@@ -13398,16 +13392,15 @@
 ﻿Rok Strani]Def Leppard}(Can't Keep Away From) The Flame=http://www.youtube.com/watch?v=ESgK3tvG1_k
 ﻿Rok Strani]Def Leppard}10 X Bigger Than Love=http://www.youtube.com/watch?v=KqPO0p5DPnM
 ﻿Rok Strani]Def Leppard}20th Century Boy=http://www.youtube.com/watch?v=-kLTKtZMffE
-﻿Rok Strani]Def Leppard}21st Century Sha La La La Girl=http://www.youtube.com/watch?v=7IXFiWubZaQ
+﻿Rok Strani]Def Leppard}21st Century Sha La La La Girl=http://www.youtube.com/watch?v=pMKXFTN9Pjg
 ﻿Rok Strani]Def Leppard}Action! Not Words=http://www.youtube.com/watch?v=UWz-XDAccoc
 ﻿Rok Strani]Def Leppard}Action=http://www.youtube.com/watch?v=STF39Q3RsKo
-﻿Rok Strani]Def Leppard}All I Want Is Everything=http://www.youtube.com/watch?v=hYQiMn8AukA
-﻿Rok Strani]Def Leppard}All Night=http://www.youtube.com/watch?v=0TF6w460DnE
+﻿Rok Strani]Def Leppard}All I Want Is Everything=http://www.youtube.com/watch?v=pC7T2O0YLe8
 ﻿Rok Strani]Def Leppard}All Time High=http://www.youtube.com/watch?v=MhYOn0aFNfA
 ﻿Rok Strani]Def Leppard}Animal=http://www.youtube.com/watch?v=mBfJOkPZVM4
-﻿Rok Strani]Def Leppard}Another Hit And Run=http://www.youtube.com/watch?v=3lV3ZCgqBkE
+﻿Rok Strani]Def Leppard}Another Hit And Run=http://www.youtube.com/watch?v=CCC96Oc4Q_0
 ﻿Rok Strani]Def Leppard}Armageddon It=http://www.youtube.com/watch?v=7jTGVx2ATLI
-﻿Rok Strani]Def Leppard}Back In Your Face=http://www.youtube.com/watch?v=SACEnRZPYoY
+﻿Rok Strani]Def Leppard}Back In Your Face=http://www.youtube.com/watch?v=cJW4DnwaGPE
 ﻿Rok Strani]Def Leppard}Bad Actress=http://www.youtube.com/watch?v=TAs5XOPJDKU
 ﻿Rok Strani]Def Leppard}Beyond The Temple=http://www.youtube.com/watch?v=fjHXExeiAfs
 ﻿Rok Strani]Def Leppard}Billy's Got A Gun=http://www.youtube.com/watch?v=nfKmzUBZBD8
@@ -13423,9 +13416,8 @@
 ﻿Rok Strani]Def Leppard}Cruise Control=http://www.youtube.com/watch?v=yID6xpII9vM
 ﻿Rok Strani]Def Leppard}Cry=http://www.youtube.com/watch?v=8jl7SOjDKKY
 ﻿Rok Strani]Def Leppard}Dangerous=http://www.youtube.com/watch?v=Gix4saxDjQQ
-﻿Rok Strani]Def Leppard}Day After Day=http://www.youtube.com/watch?v=sn8e995a2MM
 ﻿Rok Strani]Def Leppard}Deliver Me=http://www.youtube.com/watch?v=upUiOzr4uCE
-﻿Rok Strani]Def Leppard}Demolition Man=http://www.youtube.com/watch?v=3JDMW5fllKU
+﻿Rok Strani]Def Leppard}Demolition Man=http://www.youtube.com/watch?v=7EwVabPsrUg
 ﻿Rok Strani]Def Leppard}Die Hard The Hunter=http://www.youtube.com/watch?v=Ng3ODIVhR7c
 ﻿Rok Strani]Def Leppard}Don't Believe A Word=http://www.youtube.com/watch?v=vAK4mTnQmC0
 ﻿Rok Strani]Def Leppard}Energized=http://www.youtube.com/watch?v=Noojw96Xnhw
@@ -13437,7 +13429,7 @@
 ﻿Rok Strani]Def Leppard}Glad I'm Alive=http://www.youtube.com/watch?v=1f00l4Pmpjc
 ﻿Rok Strani]Def Leppard}Go=http://www.youtube.com/watch?v=xbMz4rXzBaI
 ﻿Rok Strani]Def Leppard}Good Morning Freedom=http://www.youtube.com/watch?v=gtjvaysRYZ8
-﻿Rok Strani]Def Leppard}Goodbye=http://www.youtube.com/watch?v=bQ0bvqSkgI8
+﻿Rok Strani]Def Leppard}Goodbye=http://www.youtube.com/watch?v=AU5_Rpuvrxc
 ﻿Rok Strani]Def Leppard}Gotta Let It Go=http://www.youtube.com/watch?v=ICKq6gZm1n8
 ﻿Rok Strani]Def Leppard}Gravity=http://www.youtube.com/watch?v=re3jdD2zEks
 ﻿Rok Strani]Def Leppard}Guilty=http://www.youtube.com/watch?v=6Nalx1FjZ9M
@@ -13455,11 +13447,11 @@
 ﻿Rok Strani]Def Leppard}Invincible=http://www.youtube.com/watch?v=NxWT2bLHOjc
 ﻿Rok Strani]Def Leppard}It Don't Matter=http://www.youtube.com/watch?v=dbdixq81fvU
 ﻿Rok Strani]Def Leppard}It's All About Believin'=http://www.youtube.com/watch?v=CmnsuDYjQU4
-﻿Rok Strani]Def Leppard}It's Only Love=http://www.youtube.com/watch?v=l-KdqCv--Ew
-﻿Rok Strani]Def Leppard}Kings Of Oblivion=http://www.youtube.com/watch?v=GfjbW7FAgZA
+﻿Rok Strani]Def Leppard}It's Only Love=http://www.youtube.com/watch?v=LAAGL3Lcbvg
+﻿Rok Strani]Def Leppard}Kings Of Oblivion=http://www.youtube.com/watch?v=yjUwqXaiXuE
 ﻿Rok Strani]Def Leppard}Kings Of The World=http://www.youtube.com/watch?v=iox7gBKhMag
 ﻿Rok Strani]Def Leppard}Kiss The Day=http://www.youtube.com/watch?v=uYyNfXye8kw
-﻿Rok Strani]Def Leppard}Lady Strange=http://www.youtube.com/watch?v=7ZNfvHiCAgo
+﻿Rok Strani]Def Leppard}Lady Strange=http://www.youtube.com/watch?v=7_8uJkH0w3E
 ﻿Rok Strani]Def Leppard}Last Dance=http://www.youtube.com/watch?v=Y2dA8PsrnZM
 ﻿Rok Strani]Def Leppard}Let It Go=http://www.youtube.com/watch?v=9DcfaaBmF20
 ﻿Rok Strani]Def Leppard}Let Me Be The One=http://www.youtube.com/watch?v=jvYfnfnKKSQ
@@ -13471,7 +13463,7 @@
 ﻿Rok Strani]Def Leppard}Love=http://www.youtube.com/watch?v=TgpenLA1jfc
 ﻿Rok Strani]Def Leppard}Make Love Like A Man=http://www.youtube.com/watch?v=jP5jL42Til4
 ﻿Rok Strani]Def Leppard}Man Enough=http://www.youtube.com/watch?v=I4uzauKlHdE
-﻿Rok Strani]Def Leppard}Me And My Wine (Remix)=http://www.youtube.com/watch?v=s_0f64oo2OA
+﻿Rok Strani]Def Leppard}Me And My Wine (Remix)=http://www.youtube.com/watch?v=X_njvQL7sbM
 ﻿Rok Strani]Def Leppard}Me And My Wine=http://www.youtube.com/watch?v=NM0jByUkv4g
 ﻿Rok Strani]Def Leppard}Medicine Man=http://www.youtube.com/watch?v=z-Olw6sr2ns
 ﻿Rok Strani]Def Leppard}Mirror, Mirror (Look Into My Eyes)=http://www.youtube.com/watch?v=h6Sh7B3wNIg
@@ -13482,13 +13474,13 @@
 ﻿Rok Strani]Def Leppard}Move With Me Slowly=http://www.youtube.com/watch?v=s-Mdx_F9ppE
 ﻿Rok Strani]Def Leppard}Nine Lives=http://www.youtube.com/watch?v=EDhlY7vWRwU
 ﻿Rok Strani]Def Leppard}No Matter What=http://www.youtube.com/watch?v=0cVAg1gd2Fg
-﻿Rok Strani]Def Leppard}No No No=http://www.youtube.com/watch?v=rYz27mUWAlc
+﻿Rok Strani]Def Leppard}No No No=http://www.youtube.com/watch?v=coIM0_-FQXg
 ﻿Rok Strani]Def Leppard}Now I'm Here=http://www.youtube.com/watch?v=vPVeSTQkdmk
 ﻿Rok Strani]Def Leppard}Now=http://www.youtube.com/watch?v=n-OyjTrjgDw
 ﻿Rok Strani]Def Leppard}On Through The Night=http://www.youtube.com/watch?v=I3eFMCWPuio
 ﻿Rok Strani]Def Leppard}Only After Dark=http://www.youtube.com/watch?v=hOO6wztjxV0
 ﻿Rok Strani]Def Leppard}Only The Good Die Young=http://www.youtube.com/watch?v=Y_M3vC7BA-s
-﻿Rok Strani]Def Leppard}Paper Sun=http://www.youtube.com/watch?v=82GweuYqUlo
+﻿Rok Strani]Def Leppard}Paper Sun=http://www.youtube.com/watch?v=AJdCG5SpVZg
 ﻿Rok Strani]Def Leppard}Pearl Of Euphoria=http://www.youtube.com/watch?v=-iHZveLDBsw
 ﻿Rok Strani]Def Leppard}Personal Property=http://www.youtube.com/watch?v=d5PGoLDXcPk
 ﻿Rok Strani]Def Leppard}Photograph=http://www.youtube.com/watch?v=NWsSSJ5skx4
@@ -13530,10 +13522,10 @@
 ﻿Rok Strani]Def Leppard}Where Does Love Go When It Dies=http://www.youtube.com/watch?v=nwwmemgaETs
 ﻿Rok Strani]Def Leppard}White Lightning=http://www.youtube.com/watch?v=tkQp7DuX2cY
 ﻿Rok Strani]Def Leppard}Wings Of An Angel=http://www.youtube.com/watch?v=rs0ASzJDUXk
-﻿Rok Strani]Def Leppard}Women=http://www.youtube.com/watch?v=66vLpmYirME
+﻿Rok Strani]Def Leppard}Women=http://www.youtube.com/watch?v=GUd3LAFXt5g
 ﻿Rok Strani]Def Leppard}Work It Out=http://www.youtube.com/watch?v=494E5e6rg68
 ﻿Rok Strani]Def Leppard}Worlds Collide=http://www.youtube.com/watch?v=cANB_jnEK7k
-﻿Rok Strani]Def Leppard}You Got Me Runnin'=http://www.youtube.com/watch?v=ptv_pWA6E3g
+﻿Rok Strani]Def Leppard}You Got Me Runnin'=http://www.youtube.com/watch?v=UclpJ4v_Yds
 ﻿Rok Strani]Def Leppard}You're So Beautiful=http://www.youtube.com/watch?v=lM0Yn3i3vCM
 ﻿Rok Strani]Def Leppard}Ziggy Stardust=http://www.youtube.com/watch?v=uQHWYOsj_IM
 ﻿Rok Strani]Eric Clapton}(I) Get Lost=http://www.youtube.com/watch?v=uTuL2HsEj9c
@@ -15391,7 +15383,7 @@
 ﻿Rok Strani]Jethro Tull}Farm On The Freeway=http://www.youtube.com/watch?v=sutx_6oHRQA
 ﻿Rok Strani]Jethro Tull}Fat Man=http://www.youtube.com/watch?v=wVbDKB1TtEQ
 ﻿Rok Strani]Jethro Tull}Fire At Midnight=http://www.youtube.com/watch?v=FF-sdP6iu2Q
-﻿Rok Strani]Jethro Tull}First Snow On Brooklyn=http://www.youtube.com/watch?v=21HDLF7OPCs
+﻿Rok Strani]Jethro Tull}First Snow On Brooklyn=http://www.youtube.com/watch?v=9sA53u3siE4
 ﻿Rok Strani]Jethro Tull}Flying Colours=http://www.youtube.com/watch?v=5o-503t8U3s
 ﻿Rok Strani]Jethro Tull}For A Thousand Mothers=http://www.youtube.com/watch?v=V-F1Z1vD8lw
 ﻿Rok Strani]Jethro Tull}For Michael Collins, Jeffrey And Me=http://www.youtube.com/watch?v=IpgZih6zwf8
@@ -16416,7 +16408,7 @@
 ﻿Rok Strani]Meat Loaf}For What It's Worth=http://www.youtube.com/watch?v=QJwrz-Fj2Kg
 ﻿Rok Strani]Meat Loaf}Forever Young=http://www.youtube.com/watch?v=-woI3ODL8N0
 ﻿Rok Strani]Meat Loaf}Getting Away With Murder=http://www.youtube.com/watch?v=TngezTrFJbA
-﻿Rok Strani]Meat Loaf}Godz=http://www.youtube.com/watch?v=SoWY37Q016A
+﻿Rok Strani]Meat Loaf}Godz=http://www.youtube.com/watch?v=JSMf6NuDYG8
 ﻿Rok Strani]Meat Loaf}Going All The Way Is Just The Start (Radio Edit)=http://www.youtube.com/watch?v=JeickfUH8Q4
 ﻿Rok Strani]Meat Loaf}Good Girls Go To Heaven (Bad Girls Go Everywhere)=http://www.youtube.com/watch?v=T8tocdIGSeM
 ﻿Rok Strani]Meat Loaf}Heaven Can Wait=http://www.youtube.com/watch?v=prYubovr6Jk
@@ -16443,16 +16435,15 @@
 ﻿Rok Strani]Meat Loaf}Los Angeloser=--start-time=5 http://www.youtube.com/watch?v=FeRKFA3YogY
 ﻿Rok Strani]Meat Loaf}Lost Boys And Golden Girls=http://www.youtube.com/watch?v=a5pC_R7RlGI
 ﻿Rok Strani]Meat Loaf}Love You Out Loud=http://www.youtube.com/watch?v=6BKmNZ5Ikvg
-﻿Rok Strani]Meat Loaf}Loving You's A Dirty Job (But Somebody's Gotta Do It)=http://www.youtube.com/watch?v=sToaSTxdT7A
+﻿Rok Strani]Meat Loaf}Loving You's A Dirty Job (But Somebody's Gotta Do It)=http://www.youtube.com/watch?v=GrqXI4lJA2k
 ﻿Rok Strani]Meat Loaf}Martha=http://www.youtube.com/watch?v=Dj7HRf6erFE
 ﻿Rok Strani]Meat Loaf}Masculine=http://www.youtube.com/watch?v=y1OBfYS3Dac
 ﻿Rok Strani]Meat Loaf}Midnight At The Lost And Found=http://www.youtube.com/watch?v=M3sxru2xBq8
 ﻿Rok Strani]Meat Loaf}Modern Girl=http://www.youtube.com/watch?v=nDCzD_jVyoI
-﻿Rok Strani]Meat Loaf}More=http://www.youtube.com/watch?v=UEMYtiYlUe4
 ﻿Rok Strani]Meat Loaf}Not A Dry Eye In The House=http://www.youtube.com/watch?v=aKspGNCkSAc
 ﻿Rok Strani]Meat Loaf}Nowhere Fast=http://www.youtube.com/watch?v=AJ-VU7ZgBOE
 ﻿Rok Strani]Meat Loaf}One More Kiss (Night Of The Soft Parade)=http://www.youtube.com/watch?v=D-egv5QHd3Y
-﻿Rok Strani]Meat Loaf}Only When I Feel=http://www.youtube.com/watch?v=ltpeO-jpOUk
+﻿Rok Strani]Meat Loaf}Only When I Feel=http://www.youtube.com/watch?v=Vo8i67H86_g
 ﻿Rok Strani]Meat Loaf}Original Sin=http://www.youtube.com/watch?v=6ox6HHLTykU
 ﻿Rok Strani]Meat Loaf}Party Of One=http://www.youtube.com/watch?v=d-j1zHUT2IQ
 ﻿Rok Strani]Meat Loaf}Peace On Earth=http://www.youtube.com/watch?v=qoKYC05FloA
@@ -16464,12 +16455,12 @@
 ﻿Rok Strani]Meat Loaf}Read 'Em And Weep=--start-time=11 http://www.youtube.com/watch?v=9KSycU1Th38
 ﻿Rok Strani]Meat Loaf}Rock 'N' Roll Hero=http://www.youtube.com/watch?v=xl_L9XUlinQ
 ﻿Rok Strani]Meat Loaf}Rock 'N' Roll Mercenaries=http://www.youtube.com/watch?v=b1LaaRWnjuY
-﻿Rok Strani]Meat Loaf}Rock And Roll Dreams Come Through=http://www.youtube.com/watch?v=Wdo4EJZQH5E
+﻿Rok Strani]Meat Loaf}Rock And Roll Dreams Come Through=http://www.youtube.com/watch?v=j7-i43W4mqw
 ﻿Rok Strani]Meat Loaf}Runnin' For The Red Light (I Gotta Life)=http://www.youtube.com/watch?v=U-dYVmC4qHA
 ﻿Rok Strani]Meat Loaf}Running Away From Me=http://www.youtube.com/watch?v=Jdn8raW-nNU
 ﻿Rok Strani]Meat Loaf}Sailor To A Siren=http://www.youtube.com/watch?v=D86dKoeKaA4
 ﻿Rok Strani]Meat Loaf}She Waits By The Window=http://www.youtube.com/watch?v=F2jENav9sz8
-﻿Rok Strani]Meat Loaf}Skull Of Your Country=http://www.youtube.com/watch?v=yam_ttU_rUM
+﻿Rok Strani]Meat Loaf}Skull Of Your Country=http://www.youtube.com/watch?v=Hq7aDK3BZKE
 ﻿Rok Strani]Meat Loaf}Song Of Madness=http://www.youtube.com/watch?v=Z6GU1sJrcmU
 ﻿Rok Strani]Meat Loaf}Speaking In Tongues=http://www.youtube.com/watch?v=w-yPhY6vK-c
 ﻿Rok Strani]Meat Loaf}Special Girl=http://www.youtube.com/watch?v=yAASG6AS0oU
@@ -16479,7 +16470,7 @@
 ﻿Rok Strani]Meat Loaf}Surf's Up=http://www.youtube.com/watch?v=eIJQqvN9TWo
 ﻿Rok Strani]Meat Loaf}The Monster Is Loose=http://www.youtube.com/watch?v=7PL74ARXreg
 ﻿Rok Strani]Meat Loaf}The Promised Land=http://www.youtube.com/watch?v=Wl_0ExN-yQU
-﻿Rok Strani]Meat Loaf}Train Of Love=http://www.youtube.com/watch?v=f8rsm7qv-9g
+﻿Rok Strani]Meat Loaf}Train Of Love=http://www.youtube.com/watch?v=gOI47SYkcmQ
 ﻿Rok Strani]Meat Loaf}Two Out Of Three Ain't Bad=http://www.youtube.com/watch?v=k5hWWe-ts2s
 ﻿Rok Strani]Meat Loaf}Wasted Youth=http://www.youtube.com/watch?v=P7zSUMvWjSU
 ﻿Rok Strani]Meat Loaf}What About Love?=http://www.youtube.com/watch?v=GkIs2M9RRco
