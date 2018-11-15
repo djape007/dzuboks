@@ -293,6 +293,7 @@
 ﻿Narodna]Aco Pejović}Makar zadnji put=http://www.youtube.com/watch?v=4gY-IqatK4g
 ﻿Narodna]Aco Pejović}Malo je=http://www.youtube.com/watch?v=CKeM1-CCrqc
 ﻿Narodna]Aco Pejović}Mladost koje nema=http://www.youtube.com/watch?v=je77jmD_Knk
+﻿Narodna]Aco Pejović}Muzej=https://www.youtube.com/watch?v=kf34FM8jyrU
 ﻿Narodna]Aco Pejović}Na sve spreman=http://www.youtube.com/watch?v=6YoJ1TzQVO0
 ﻿Narodna]Aco Pejović}Naj, naj, naj=http://www.youtube.com/watch?v=qR4f4sfH_w8
 ﻿Narodna]Aco Pejović}Ne diraj mi noći=http://www.youtube.com/watch?v=aOiY5rVibA4
@@ -6520,6 +6521,7 @@
 ﻿Rep]Gazda Paja}Nightlife=--start-time=12 https://www.youtube.com/watch?v=9aTSG-WtwGQ
 ﻿Rep]Gazda Paja}Ol' school=http://www.youtube.com/watch?v=H72-MCvZdZw
 ﻿Rep]Gazda Paja}Rep svet=http://www.youtube.com/watch?v=uqPWxHgXR4M
+﻿Rep]Gazda Paja}Tesla=--start-time=9 https://www.youtube.com/watch?v=x2gh1NiLX18
 ﻿Rep]Gazda Paja}Ti=http://www.youtube.com/watch?v=YwkzK6VxQPU
 ﻿Rep]Gazda Paja}Treba mi lova (feat. Loco)=http://www.youtube.com/watch?v=_c_UqVEHVwY
 ﻿Zabavna]Gibonni}Ako me nosiš na duši=http://www.youtube.com/watch?v=PnHmAcNOIC4

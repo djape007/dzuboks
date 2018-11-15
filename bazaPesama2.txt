@@ -1872,6 +1872,7 @@
 ﻿Zabavna]Ministarke}Duni vetre=http://www.youtube.com/watch?v=Jrj9_lWFMtQ
 ﻿Zabavna]Ministarke}Gram emocija=http://www.youtube.com/watch?v=gmEN9wSTJSE
 ﻿Zabavna]Ministarke}Kiseonik=http://www.youtube.com/watch?v=CN15prcWAvY
+﻿Zabavna]Ministarke}Mesec dana (ft. Peđa Medenica)=--start-time=5 https://www.youtube.com/watch?v=Gf1z9CgnGow
 ﻿Zabavna]Ministarke}Moje jedino=--start-time=19 http://www.youtube.com/watch?v=4JQY1zWnMeg
 ﻿Zabavna]Ministarke}Mrtav ili živ=http://www.youtube.com/watch?v=0aUb_YgTwtM
 ﻿Zabavna]Ministarke}Ne vraćam se na staro (ft. Kia)=--start-time=16 https://www.youtube.com/watch?v=g9PZOnU0w4I
@@ -3954,6 +3955,7 @@
 ﻿Narodna]Peđa Medenica}Imam ljubav, ali kome da je dam=http://www.youtube.com/watch?v=Rp-InIp7XeU
 ﻿Narodna]Peđa Medenica}Ja odavno ne postojim=http://www.youtube.com/watch?v=79_bWwSBB3s
 ﻿Narodna]Peđa Medenica}Malena=http://www.youtube.com/watch?v=3gKvDnyubfg
+﻿Narodna]Peđa Medenica}Mesec dana (ft. Ministarke)=--start-time=5 https://www.youtube.com/watch?v=Gf1z9CgnGow
 ﻿Narodna]Peđa Medenica}Na pragu ludila=http://www.youtube.com/watch?v=05sZqD6SHxA
 ﻿Narodna]Peđa Medenica}Ne ljuti se=http://www.youtube.com/watch?v=BFQV6sK49LU
 ﻿Narodna]Peđa Medenica}Ne lupaj mala=http://www.youtube.com/watch?v=iXDkSy27_jw
@@ -6282,6 +6284,7 @@
 ﻿Narodna]Sandra Afrika}Deža Vu (ft. Đani, Costi)=--start-time=6 https://www.youtube.com/watch?v=8db0BQCL36w
 ﻿Zabavna]Sandra Afrika}Devojka tvog druga=http://www.youtube.com/watch?v=eFJKfvRjDzY
 ﻿Zabavna]Sandra Afrika}Dijabole=--start-time=45 http://www.youtube.com/watch?v=hBmQqkbWQ7s
+﻿Zabavna]Sandra Afrika}Impozantno=https://www.youtube.com/watch?v=Ms77qqCq9QY
 ﻿Zabavna]Sandra Afrika}Iza tebe=--start-time=6 http://www.youtube.com/watch?v=2-UuncGHDJ4
 ﻿Zabavna]Sandra Afrika}Kopija=--start-time=5 http://www.youtube.com/watch?v=1EARm9JEIe8
 ﻿Zabavna]Sandra Afrika}Ljubav stara=--start-time=6 http://www.youtube.com/watch?v=2cs0oPQ1Kqc
@@ -6547,6 +6550,7 @@
 ﻿Narodna]Saša Matić}Prejako=https://www.youtube.com/watch?v=-wLD1TJg-VI
 ﻿Narodna]Saša Matić}Prokleta je violina=http://www.youtube.com/watch?v=oZw-aYBkArM
 ﻿Narodna]Saša Matić}Puče puška u dolini Drima=http://www.youtube.com/watch?v=9pb4Z_letjo
+﻿Narodna]Saša Matić}Rastanak=--start-time=20 https://www.youtube.com/watch?v=cOV-8-c15W0
 ﻿Narodna]Saša Matić}Reskiraj=http://www.youtube.com/watch?v=-PTliIjY9-g
 ﻿Narodna]Saša Matić}Ruzmarin=http://www.youtube.com/watch?v=vWFzMLhmalk
 ﻿Narodna]Saša Matić}Sad je kasno=http://www.youtube.com/watch?v=VjRXhztXlas
@@ -9820,6 +9824,7 @@
 ﻿Zabavna]Vlado Georgiev}Zbogom ljubavi=http://www.youtube.com/watch?v=gaeQZM8IcUU
 ﻿Zabavna]Vlado Georgiev}Žena bez imena=http://www.youtube.com/watch?v=Fg9qvP9SbMw
 ﻿Zabavna]Vlado Georgiev}Živim da te nađem=http://www.youtube.com/watch?v=u7zYz1M6DPU
+﻿Zabavna]Vuk Mob}12 sati (ft. Mili)=--start-time=33 https://www.youtube.com/watch?v=zXBGPcL0YyI
 ﻿Zabavna]Vuk Mob}E pa neka=--start-time=8 http://www.youtube.com/watch?v=K0m1E0Z6I7s
 ﻿Zabavna]Vuk Mob}Belo=--start-time=6 https://www.youtube.com/watch?v=t4LaTH2D8-s
 ﻿Zabavna]Vuk Mob}Ferrari=http://www.youtube.com/watch?v=qIT4VYTs5vM
