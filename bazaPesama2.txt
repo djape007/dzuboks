@@ -2365,11 +2365,10 @@
 ﻿Narodna]Muharem Serbezovski}Fatima=http://www.youtube.com/watch?v=46sNnPCj5bg
 ﻿Narodna]Muharem Serbezovski}Hatidže=http://www.youtube.com/watch?v=Xm5bWZpnKdY
 ﻿Narodna]Muharem Serbezovski}Hej aga, aga=http://www.youtube.com/watch?v=-v_Y2PNvRgs
-﻿Narodna]Muharem Serbezovski}Hej čergari, hej drugari=http://www.youtube.com/watch?v=GZ28DzbkXDs
+﻿Narodna]Muharem Serbezovski}Hej čergari, hej drugari=http://www.youtube.com/watch?v=TuTvgUdJXqs
 ﻿Narodna]Muharem Serbezovski}Hladna zima=http://www.youtube.com/watch?v=5kBKEUlE9c4
 ﻿Narodna]Muharem Serbezovski}Imam ljubav, ali kome da je dam=http://www.youtube.com/watch?v=68ZqUI5DW3w
 ﻿Narodna]Muharem Serbezovski}Jedina=http://www.youtube.com/watch?v=rxSggeZtA8s
-﻿Narodna]Muharem Serbezovski}Ko zna kol'ko daleko si ti=http://www.youtube.com/watch?v=jAITyB5e3Lo
 ﻿Narodna]Muharem Serbezovski}Mastika, mastika=http://www.youtube.com/watch?v=iJSrODYYmRw
 ﻿Narodna]Muharem Serbezovski}Moram plakati=http://www.youtube.com/watch?v=TtJILU_h6iY
 ﻿Narodna]Muharem Serbezovski}Nisi sve izgubila=http://www.youtube.com/watch?v=VVxsBBeWDno
@@ -3067,7 +3066,6 @@
 ﻿Zabavna]Nina Badrić}Sve mi pamti=http://www.youtube.com/watch?v=rfm2-zM2JO0
 ﻿Zabavna]Nina Badrić}Takvi kao ti=http://www.youtube.com/watch?v=Kut9YCXiJwc
 ﻿Zabavna]Nina Badrić}Ti ne znaš kako je=http://www.youtube.com/watch?v=1-zbIE1Ib3Q
-﻿Zabavna]Nina Badrić}Ti si mene (duet Dino Merlin)=http://www.youtube.com/watch?v=Crd_cTcQxvQ
 ﻿Zabavna]Nina Badrić}Tko si ti=http://www.youtube.com/watch?v=fFFsTv6f64s
 ﻿Zabavna]Nina Badrić}Trebam te=http://www.youtube.com/watch?v=SX6umQRdZDc
 ﻿Zabavna]Nina Badrić}Velika ljubav=http://www.youtube.com/watch?v=23fpcw1wn00
@@ -4745,7 +4743,6 @@
 ﻿Rep]Prti Bee Gee}Funky G'z=http://www.youtube.com/watch?v=wI7tXVdUHB8
 ﻿Rep]Prti Bee Gee}Gandžu puši=http://www.youtube.com/watch?v=L7CyJGVN5ak
 ﻿Rep]Prti Bee Gee}Gangsterska=http://www.youtube.com/watch?v=YjSfgAdJQHM
-﻿Rep]Prti Bee Gee}Heroin=http://www.youtube.com/watch?v=TVfbEu3vOPY
 ﻿Rep]Prti Bee Gee}Hevi doze=http://www.youtube.com/watch?v=6TYrn65oZLs
 ﻿Rep]Prti Bee Gee}Holivud=http://www.youtube.com/watch?v=oaK6Exf-XeM
 ﻿Rep]Prti Bee Gee}Ispeci pa reci=http://www.youtube.com/watch?v=IiG0_nKgkhg
@@ -5727,7 +5724,6 @@
 ﻿Narodna]Šaban Šaulić}Ja nisam anđeo=http://www.youtube.com/watch?v=mu__TgGA9xk
 ﻿Narodna]Šaban Šaulić}Ja plaćam ljubavi danak=http://www.youtube.com/watch?v=OxFoAYigbes
 ﻿Narodna]Šaban Šaulić}Ja sam našem sinu i otac i majka=http://www.youtube.com/watch?v=ZlPdInlxcu8
-﻿Narodna]Šaban Šaulić}Ja star nisam=http://www.youtube.com/watch?v=8PGpmWADW9U
 ﻿Narodna]Šaban Šaulić}Ja u Šabac noćas idem=http://www.youtube.com/watch?v=0k4XpL5lwFw
 ﻿Narodna]Šaban Šaulić}Jedina moja=http://www.youtube.com/watch?v=Fmxo3SRu3i8
 ﻿Narodna]Šaban Šaulić}Jedna lasta ne čini proleće=http://www.youtube.com/watch?v=fq0OlDT8jos
@@ -7359,7 +7355,7 @@
 ﻿Narodna]Šerif Konjević}Opet si došla=http://www.youtube.com/watch?v=9OtBl9rAegQ
 ﻿Narodna]Šerif Konjević}Opraštam joj=http://www.youtube.com/watch?v=ohQInYieOjE
 ﻿Narodna]Šerif Konjević}Ove godine (feat. Donna Ares)=http://www.youtube.com/watch?v=bG-eAsdiP1c
-﻿Narodna]Šerif Konjević}Ozdravilo srce moje=http://www.youtube.com/watch?v=m7AkqqeHkTw
+﻿Narodna]Šerif Konjević}Ozdravilo srce moje=http://www.youtube.com/watch?v=dtazU30LNic
 ﻿Narodna]Šerif Konjević}Pitaju me pitaju=http://www.youtube.com/watch?v=bxqEcH3CIek
 ﻿Narodna]Šerif Konjević}Plaćam čaše razbijene=http://www.youtube.com/watch?v=q-bLD6zzui4
 ﻿Narodna]Šerif Konjević}Plaćam noćas zbog ljubavi=http://www.youtube.com/watch?v=sSQz0qa5yOI
@@ -7384,7 +7380,7 @@
 ﻿Narodna]Šerif Konjević}Rodi me majko ponovo=http://www.youtube.com/watch?v=LEKUio49wKg
 ﻿Narodna]Šerif Konjević}Rodni kraj=http://www.youtube.com/watch?v=qzqh78kaxPE
 ﻿Narodna]Šerif Konjević}Ruže iz mog kraja=http://www.youtube.com/watch?v=vLO4CV_b4iY
-﻿Narodna]Šerif Konjević}Sad kad imam sve=http://www.youtube.com/watch?v=reHyuyCWrtk
+﻿Narodna]Šerif Konjević}Sad kad imam sve=http://www.youtube.com/watch?v=LGn7ALPNw4E
 ﻿Narodna]Šerif Konjević}Samo se jednom zakuneš=http://www.youtube.com/watch?v=VnK--qEoMLY
 ﻿Narodna]Šerif Konjević}Samo ti si uvijek ista=http://www.youtube.com/watch?v=XgIo20ssNLU
 ﻿Narodna]Šerif Konjević}Sanjam je, sanjam=http://www.youtube.com/watch?v=K70Nq1gfNFw
@@ -12662,7 +12658,7 @@
 ﻿Rok Strani]Pearl Jam}Faithful=http://www.youtube.com/watch?v=u7aNZlNnyvI
 ﻿Rok Strani]Pearl Jam}Fatal=http://www.youtube.com/watch?v=c0xNodUjHiM
 ﻿Rok Strani]Pearl Jam}Footsteps=http://www.youtube.com/watch?v=bHfDGBalOUE
-﻿Rok Strani]Pearl Jam}Force Of Nature=http://www.youtube.com/watch?v=1iIGCgw5yxQ
+﻿Rok Strani]Pearl Jam}Force Of Nature=http://www.youtube.com/watch?v=GF1loFJMVP8
 ﻿Rok Strani]Pearl Jam}Future Days=http://www.youtube.com/watch?v=nigF1ulBCQE
 ﻿Rok Strani]Pearl Jam}Garden=http://www.youtube.com/watch?v=fxyRObLtYCk
 ﻿Rok Strani]Pearl Jam}Get Right=http://www.youtube.com/watch?v=7xP4Nwx6Qns
@@ -13221,10 +13217,10 @@
 ﻿Rok Strani]Queensryche}sp00L=http://www.youtube.com/watch?v=N3tLBZ4E-DI
 ﻿Rok Strani]Rainbow}All Night Long=http://www.youtube.com/watch?v=g2XDORONuuY
 ﻿Rok Strani]Rainbow}Ariel=http://www.youtube.com/watch?v=Y-tXXKB-4c4
-﻿Rok Strani]Rainbow}Bad Girl=http://www.youtube.com/watch?v=cvYlddgsohg
+﻿Rok Strani]Rainbow}Bad Girl=http://www.youtube.com/watch?v=N1rnZ4E270c
 ﻿Rok Strani]Rainbow}Black Masquerade=http://www.youtube.com/watch?v=rqB9Qimd9Wo
 ﻿Rok Strani]Rainbow}Black Sheep Of The Family=http://www.youtube.com/watch?v=t9Ir7cHYDdo
-﻿Rok Strani]Rainbow}Bring On The Night (Dream Chaser)=http://www.youtube.com/watch?v=i1Fr83ihY5U
+﻿Rok Strani]Rainbow}Bring On The Night (Dream Chaser)=http://www.youtube.com/watch?v=gn6Ssj2DAb0
 ﻿Rok Strani]Rainbow}Can't Happen Here=http://www.youtube.com/watch?v=5W5iUFzK9ps
 ﻿Rok Strani]Rainbow}Can't Let You Go=http://www.youtube.com/watch?v=IqUx84-ljPE
 ﻿Rok Strani]Rainbow}Catch The Rainbow=http://www.youtube.com/watch?v=p3VgV31vmUE
@@ -13635,7 +13631,7 @@
 ﻿Rok Strani]Rolling Stones}Following The River=http://www.youtube.com/watch?v=TZg4Ai3Mq1o
 ﻿Rok Strani]Rolling Stones}Fool To Cry=http://www.youtube.com/watch?v=Teo0LYxjxvI
 ﻿Rok Strani]Rolling Stones}Fortune Teller=http://www.youtube.com/watch?v=2HBUhOKq5fw
-﻿Rok Strani]Rolling Stones}Get Off Of My Cloud=http://www.youtube.com/watch?v=O3F4GmbHl5g
+﻿Rok Strani]Rolling Stones}Get Off Of My Cloud=http://www.youtube.com/watch?v=_J5uEL9joko
 ﻿Rok Strani]Rolling Stones}Gomper=http://www.youtube.com/watch?v=gONZ8KMG4qI
 ﻿Rok Strani]Rolling Stones}Good Time Women=http://www.youtube.com/watch?v=QwpgVoSpxxk
 ﻿Rok Strani]Rolling Stones}Good Times, Bad Times=http://www.youtube.com/watch?v=Py0W7omBt24
@@ -13745,7 +13741,7 @@
 ﻿Rok Strani]Rolling Stones}Monkey Man=http://www.youtube.com/watch?v=CNKREV0qtkE
 ﻿Rok Strani]Rolling Stones}Moon Is Up=http://www.youtube.com/watch?v=Y-woVa0ouUU
 ﻿Rok Strani]Rolling Stones}Moonlight Mile=http://www.youtube.com/watch?v=7PXOHpBneEU
-﻿Rok Strani]Rolling Stones}Mother's Little Helper=http://www.youtube.com/watch?v=b4m0KUUS6-w
+﻿Rok Strani]Rolling Stones}Mother's Little Helper=http://www.youtube.com/watch?v=w4oHjUu05tI
 ﻿Rok Strani]Rolling Stones}My Girl=http://www.youtube.com/watch?v=_gQacbV65UU
 ﻿Rok Strani]Rolling Stones}My Obsession=http://www.youtube.com/watch?v=4JS6af9NdZg
 ﻿Rok Strani]Rolling Stones}Neighbours=http://www.youtube.com/watch?v=X2tPWjtQKdk
@@ -13765,7 +13761,7 @@
 ﻿Rok Strani]Rolling Stones}Out Of Time=http://www.youtube.com/watch?v=inzCOWDKJVY
 ﻿Rok Strani]Rolling Stones}Pain In My Heart=http://www.youtube.com/watch?v=djGHvcTf7rQ
 ﻿Rok Strani]Rolling Stones}Paint It Black=--start-time=15 http://www.youtube.com/watch?v=5wCUlPNlQuA
-﻿Rok Strani]Rolling Stones}Parachute Woman=http://www.youtube.com/watch?v=-lI3b-SbvUM
+﻿Rok Strani]Rolling Stones}Parachute Woman=http://www.youtube.com/watch?v=mcjiZjP4u0M
 ﻿Rok Strani]Rolling Stones}Pass The Wine (Sophia Loren)=http://www.youtube.com/watch?v=qgnG85U4q0k
 ﻿Rok Strani]Rolling Stones}Play With Fire=--start-time=3 http://www.youtube.com/watch?v=8gKmmaZrJpc
 ﻿Rok Strani]Rolling Stones}Please Go Home=http://www.youtube.com/watch?v=akVW78_QD9U
@@ -14046,7 +14042,7 @@
 ﻿Rok Strani]Scorpions}Backstage Queen=http://www.youtube.com/watch?v=zIAQSzmZW_s
 ﻿Rok Strani]Scorpions}Bad Boys Running Wild=http://www.youtube.com/watch?v=mdro_QYzjOY
 ﻿Rok Strani]Scorpions}Believe In Love=http://www.youtube.com/watch?v=FQSZWAStqcY
-﻿Rok Strani]Scorpions}Big City Nights=http://www.youtube.com/watch?v=kqBXn9fG7-Y
+﻿Rok Strani]Scorpions}Big City Nights=http://www.youtube.com/watch?v=B507rtA_umI
 ﻿Rok Strani]Scorpions}Blood Too Hot=http://www.youtube.com/watch?v=VUUzZkz5O1Y
 ﻿Rok Strani]Scorpions}Borderline=http://www.youtube.com/watch?v=7eAVYhO66zg
 ﻿Rok Strani]Scorpions}Born To Touch Your Feelings=http://www.youtube.com/watch?v=vxuhNmjnK9M
@@ -14058,7 +14054,7 @@
 ﻿Rok Strani]Scorpions}Children Of The Revolution=http://www.youtube.com/watch?v=eV2YytfbYUg
 ﻿Rok Strani]Scorpions}China White=http://www.youtube.com/watch?v=tEe7c074yYM
 ﻿Rok Strani]Scorpions}Cold=http://www.youtube.com/watch?v=1Nz06G1PYXA
-﻿Rok Strani]Scorpions}Coming Home=http://www.youtube.com/watch?v=sHNW8qyHKYM
+﻿Rok Strani]Scorpions}Coming Home=http://www.youtube.com/watch?v=ULOMzlgU_eY
 ﻿Rok Strani]Scorpions}Crazy Ride=http://www.youtube.com/watch?v=AWLsSw-Fwpw
 ﻿Rok Strani]Scorpions}Crossfire=http://www.youtube.com/watch?v=XboMUt59LtI
 ﻿Rok Strani]Scorpions}Crying Days=http://www.youtube.com/watch?v=C-91DWcKeS8
@@ -14074,7 +14070,7 @@
 ﻿Rok Strani]Scorpions}Don't Stop At The Top=http://www.youtube.com/watch?v=Unjgyphu2-k
 ﻿Rok Strani]Scorpions}Dreamers=http://www.youtube.com/watch?v=35pJW2nAJtg
 ﻿Rok Strani]Scorpions}Du Bist So Schmutzig=http://www.youtube.com/watch?v=ouLWklKIiwY
-﻿Rok Strani]Scorpions}Dynamite=http://www.youtube.com/watch?v=wAC7iSq9s_I
+﻿Rok Strani]Scorpions}Dynamite=http://www.youtube.com/watch?v=Bz8RpZGK3eY
 ﻿Rok Strani]Scorpions}Evening Wind=http://www.youtube.com/watch?v=032H_jdkABs
 ﻿Rok Strani]Scorpions}Every Minute Every Day=http://www.youtube.com/watch?v=zVfogtE5iKk
 ﻿Rok Strani]Scorpions}Eye Of The Storm=http://www.youtube.com/watch?v=8M-FfwBAVFo
@@ -14108,7 +14104,7 @@
 ﻿Rok Strani]Scorpions}In Trance=http://www.youtube.com/watch?v=JaJPxkby8AU
 ﻿Rok Strani]Scorpions}In Your Park=http://www.youtube.com/watch?v=Q-wCrI01KlA
 ﻿Rok Strani]Scorpions}Inheritance=http://www.youtube.com/watch?v=N_uYF1GWrHo
-﻿Rok Strani]Scorpions}Is There Anybody There=http://www.youtube.com/watch?v=c4CgnsKFH5Q
+﻿Rok Strani]Scorpions}Is There Anybody There=http://www.youtube.com/watch?v=26AZJZ_qldY
 ﻿Rok Strani]Scorpions}It All Depends=http://www.youtube.com/watch?v=1Fe-enp8QnQ
 ﻿Rok Strani]Scorpions}Kicks After Six=http://www.youtube.com/watch?v=njDSKs8bjjM
 ﻿Rok Strani]Scorpions}Lady Starlight=http://www.youtube.com/watch?v=MQRY8PgT1M8
@@ -14129,7 +14125,7 @@
 ﻿Rok Strani]Scorpions}Love Will Keep Us Alive=http://www.youtube.com/watch?v=pGHmybzQVN8
 ﻿Rok Strani]Scorpions}Loving You Sunday Morning=http://www.youtube.com/watch?v=9Oov_liofiM
 ﻿Rok Strani]Scorpions}Lust Or Love=http://www.youtube.com/watch?v=wxLJ7f0JFbc
-﻿Rok Strani]Scorpions}Make It Real=http://www.youtube.com/watch?v=zVootY8Fbl8
+﻿Rok Strani]Scorpions}Make It Real=http://www.youtube.com/watch?v=cbdF8Nb_6QM
 ﻿Rok Strani]Scorpions}Maybe I Maybe You=http://www.youtube.com/watch?v=wo_K4KMwhLo
 ﻿Rok Strani]Scorpions}Media Overkill=http://www.youtube.com/watch?v=Mfz2flWneD8
 ﻿Rok Strani]Scorpions}Mind Like A Tree=http://www.youtube.com/watch?v=BEZNClOPKYE
@@ -15037,7 +15033,7 @@
 ﻿Rok Strani]The Beatles}A Day In The Life=http://www.youtube.com/watch?v=usNsCeOV4GM
 ﻿Rok Strani]The Beatles}Across The Universe=http://www.youtube.com/watch?v=CnmHNinaxMc
 ﻿Rok Strani]The Beatles}Ain't She Sweet=http://www.youtube.com/watch?v=e1FSRMfNtLU
-﻿Rok Strani]The Beatles}All I've Got To Do=http://www.youtube.com/watch?v=jsN6hdurfq4
+﻿Rok Strani]The Beatles}All I've Got To Do=http://www.youtube.com/watch?v=6gdFeqW1H2E
 ﻿Rok Strani]The Beatles}All You Need Is Love=http://www.youtube.com/watch?v=csyHN3LoRJ4
 ﻿Rok Strani]The Beatles}And Your Bird Can Sing=http://www.youtube.com/watch?v=XAXVZKYu4q0
 ﻿Rok Strani]The Beatles}Anna (Go To Him)=http://www.youtube.com/watch?v=IUXvbDw1-Co
@@ -16779,7 +16775,7 @@
 ﻿Rok Strani]Yes}A Venture=http://www.youtube.com/watch?v=Z-RNocHBLb4
 ﻿Rok Strani]Yes}Abilene=http://www.youtube.com/watch?v=jK1H2T6HKoA
 ﻿Rok Strani]Yes}Almost Like Love=http://www.youtube.com/watch?v=91pNjbdKhbU
-﻿Rok Strani]Yes}Amazing Grace=http://www.youtube.com/watch?v=Fq-fbRnjDYA
+﻿Rok Strani]Yes}Amazing Grace=http://www.youtube.com/watch?v=Qm6w_hKwXGU
 ﻿Rok Strani]Yes}Angkor Wat=http://www.youtube.com/watch?v=dVkETlUlKTI
 ﻿Rok Strani]Yes}Astral Traveller=http://www.youtube.com/watch?v=b0ET4ZW_i48
 ﻿Rok Strani]Yes}Beyond And Before=http://www.youtube.com/watch?v=Ljw0kL-mI0Q
@@ -16878,7 +16874,7 @@
 ﻿Rok Strani]Yes}Walls=http://www.youtube.com/watch?v=VO59MarfyBE
 ﻿Rok Strani]Yes}We Agree=http://www.youtube.com/watch?v=Bfj6bdBB9go
 ﻿Rok Strani]Yes}We Have Heaven=http://www.youtube.com/watch?v=AvUlL-Hz1Zc
-﻿Rok Strani]Yes}Where Will You Be=http://www.youtube.com/watch?v=AJH0CiyDmGY
+﻿Rok Strani]Yes}Where Will You Be=http://www.youtube.com/watch?v=rDL3uktGZuw
 ﻿Rok Strani]Yes}Without Hope You Cannot Start The Day=http://www.youtube.com/watch?v=Bj11nLb1Zko
 ﻿Rok Strani]Yes}Wonderlove=http://www.youtube.com/watch?v=SR9C3388TAU
 ﻿Rok Strani]Yes}Wonderous Stories=http://www.youtube.com/watch?v=J9Dz4isf2EU
@@ -17277,7 +17273,6 @@
 ﻿Rok Strani]B. B. King}Ole Time Religion=http://www.youtube.com/watch?v=2c8WA3LSaYU
 ﻿Rok Strani]B. B. King}On My Word Of Honor=http://www.youtube.com/watch?v=0LrowOzBy4Y
 ﻿Rok Strani]B. B. King}One Of Those Nights=http://www.youtube.com/watch?v=-T0OPVZedFc
-﻿Rok Strani]B. B. King}Part-Time Love=http://www.youtube.com/watch?v=8aj_TqJRmtc
 ﻿Rok Strani]B. B. King}Partin' Time=http://www.youtube.com/watch?v=PhPKcgIrR4o
 ﻿Rok Strani]B. B. King}Past Day=http://www.youtube.com/watch?v=2Gft-zYe2Dk
 ﻿Rok Strani]B. B. King}Paying The Cost To Be The Boss=http://www.youtube.com/watch?v=G1FxRpo62Mk

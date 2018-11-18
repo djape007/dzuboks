@@ -1250,7 +1250,6 @@
 ﻿Narodna]Angel Dimov}Čujem neke priče=http://www.youtube.com/watch?v=W2p-HM1Leew
 ﻿Narodna]Angel Dimov}Da li se mi od nekud znamo=http://www.youtube.com/watch?v=Pu1Y4yrobK0
 ﻿Narodna]Angel Dimov}Dao sam ti sve što sam imao=http://www.youtube.com/watch?v=lW7DTP3HDAI
-﻿Narodna]Angel Dimov}Dođi s prvim snegom=http://www.youtube.com/watch?v=UknAMKizzfw
 ﻿Narodna]Angel Dimov}Dok sam te voleo ludo=http://www.youtube.com/watch?v=rYUqorQvgi4
 ﻿Narodna]Angel Dimov}Dolazim ti, majko=http://www.youtube.com/watch?v=gbqCHjFO5WQ
 ﻿Narodna]Angel Dimov}Dva prstena, dva svedoka=http://www.youtube.com/watch?v=2IJxcS4k8tQ
@@ -4202,7 +4201,6 @@
 ﻿Zabavna]Dino Merlin}Sve dok te bude imalo=http://www.youtube.com/watch?v=xsHxrGpRJck
 ﻿Zabavna]Dino Merlin}Sve je laž=http://www.youtube.com/watch?v=d_58tNvwpYg
 ﻿Zabavna]Dino Merlin}Tebi je lako=http://www.youtube.com/watch?v=bF5GZatbIes
-﻿Zabavna]Dino Merlin}Ti si mene (duet Nina Badrić)=http://www.youtube.com/watch?v=Crd_cTcQxvQ
 ﻿Zabavna]Dino Merlin}Učini mi pravu stvar=http://www.youtube.com/watch?v=tcpv56glN8w
 ﻿Rok]Divlje Jagode}Autostop=http://www.youtube.com/watch?v=CARgp32Aedo
 ﻿Rok]Divlje Jagode}Biće bolje=http://www.youtube.com/watch?v=B3onoA4ApEc
@@ -7937,7 +7935,6 @@
 ﻿Narodna]Hasan Dudić}Sanja ti si moja=http://www.youtube.com/watch?v=vOfgFd5nPUE
 ﻿Narodna]Hasan Dudić}Seti me se na svadbenom putu=http://www.youtube.com/watch?v=5WoZN5bMydY
 ﻿Narodna]Hasan Dudić}Šta si srcu učinila=http://www.youtube.com/watch?v=TxLd3oJd2UQ
-﻿Narodna]Hasan Dudić}Ti mi više nisi drug=http://www.youtube.com/watch?v=zKBU66BdH-w
 ﻿Narodna]Hasan Dudić}Ti nisi plakala=http://www.youtube.com/watch?v=sekR1MSq6mU
 ﻿Narodna]Hasan Dudić}Ti si mala crvenkapa=http://www.youtube.com/watch?v=qJD-NLsjnlQ
 ﻿Narodna]Hasan Dudić}Zeko, Zeko=http://www.youtube.com/watch?v=IiQgCv1Rt6Y
@@ -8976,7 +8973,7 @@
 ﻿Zabavna]Jelena Karleuša}Gili, gili=http://www.youtube.com/watch?v=_tI9YsFg36E
 ﻿Zabavna]Jelena Karleuša}Grom nek ubije=http://www.youtube.com/watch?v=KDHl_WTkvLI
 ﻿Zabavna]Jelena Karleuša}Hoću sa tobom=http://www.youtube.com/watch?v=qyqlpdGnmuQ
-﻿Zabavna]Jelena Karleuša}Ide maca oko tebe=http://www.youtube.com/watch?v=SmJFiDQpELM
+﻿Zabavna]Jelena Karleuša}Ide maca oko tebe=http://www.youtube.com/watch?v=48FGDETX5Iw
 ﻿Zabavna]Jelena Karleuša}Insomnia=http://www.youtube.com/watch?v=9J34ywkMSiQ
 ﻿Zabavna]Jelena Karleuša}Jedna noć i kajanje=http://www.youtube.com/watch?v=iTsr8WThI2U
 ﻿Zabavna]Jelena Karleuša}Još te volim=http://www.youtube.com/watch?v=U2biYmNKYT4
@@ -9261,7 +9258,7 @@
 ﻿Narodna]Josipa Lisac}Vjerujem ti sve=http://www.youtube.com/watch?v=SrQqnJfebPg
 ﻿Narodna]Josipa Lisac}Welcome my friend=http://www.youtube.com/watch?v=-8GTzjF8I9A
 ﻿Narodna]Josipa Lisac}Živim po svome=http://www.youtube.com/watch?v=ZQOUbBYogHA
-﻿Narodna]Josipa Lisac}Živim samo za tebe=http://www.youtube.com/watch?v=NjwLrMre0sI
+﻿Narodna]Josipa Lisac}Živim samo za tebe=http://www.youtube.com/watch?v=CjIrhcQgE38
 ﻿Narodna]Josipa Lisac}Život je samo most=http://www.youtube.com/watch?v=OKeQzFJZgwk
 ﻿Narodna]Josipa Lisac}Život moj=http://www.youtube.com/watch?v=gjVm7hgBz40
 ﻿Narodna]Josipa Lisac}Život s njim=http://www.youtube.com/watch?v=gcGcWNGem5w
@@ -10521,7 +10518,7 @@
 ﻿Rok Strani]Guns 'n' Roses}Dead horse=--start-time=7 https://www.youtube.com/watch?v=u8X76NRiQLQ
 ﻿Rok Strani]Guns 'n' Roses}Dust n' bones=http://www.youtube.com/watch?v=lA6tFLYALnY
 ﻿Rok Strani]Guns 'n' Roses}The garden=http://www.youtube.com/watch?v=WtsJJwqQg_c
-﻿Rok Strani]Guns 'n' Roses}Mr. Brownstone=http://www.youtube.com/watch?v=TmRaKsfon4U
+﻿Rok Strani]Guns 'n' Roses}Mr. Brownstone=http://www.youtube.com/watch?v=vQN2jycUTGs
 ﻿Rok Strani]Guns 'n' Roses}Welcome to the jungle=--start-time=5 https://www.youtube.com/watch?v=o1tj2zJ2Wvg
 ﻿Rok Strani]Guns 'n' Roses}Out ta get me=http://www.youtube.com/watch?v=6hW3SM3XS1M
 ﻿Rok Strani]Guns 'n' Roses}My Michelle=http://www.youtube.com/watch?v=PiHjv_UJ6hQ
@@ -10530,7 +10527,7 @@
 ﻿Rok Strani]Guns 'n' Roses}Sweet child o' mine=https://www.youtube.com/watch?v=1w7OgIMMRc4
 ﻿Rok Strani]Guns 'n' Roses}Don't cry=--start-time=10 https://www.youtube.com/watch?v=zRIbf6JqkNc
 ﻿Rok Strani]Guns 'n' Roses}Garden of Eden=--start-time=4 https://www.youtube.com/watch?v=LuhLVl5qf2A
-﻿Rok Strani]Guns 'n' Roses}Chinese democracy=http://www.youtube.com/watch?v=oSeYLA4KIKE
+﻿Rok Strani]Guns 'n' Roses}Chinese democracy=http://www.youtube.com/watch?v=Y9lpHzSopiY
 ﻿Rok Strani]Guns 'n' Roses}Ain't it fun=http://www.youtube.com/watch?v=FrqtmaxVSbY
 ﻿Rok Strani]Guns 'n' Roses}Perfect crime=http://www.youtube.com/watch?v=KoKfTfG0pVo
 ﻿Rok Strani]Guns 'n' Roses}Right next door to hell=http://www.youtube.com/watch?v=ZROtVDB_vM8
@@ -10953,7 +10950,7 @@
 ﻿Rok Strani]Police}Invisible sun=--start-time=3 https://www.youtube.com/watch?v=1VuDjJ9KIxM
 ﻿Rok Strani]Police}Demolition man=https://www.youtube.com/watch?v=UuWZIL_heb4
 ﻿Rok Strani]Police}Every breath you take=https://www.youtube.com/watch?v=OMOGaugKpzs
-﻿Rok Strani]Police}Synchronicity 1=https://www.youtube.com/watch?v=HsKz1FBPTxc
+﻿Rok Strani]Police}Synchronicity 1=http://www.youtube.com/watch?v=R8976fuIqCo
 ﻿Rok Strani]Police}Driven to tears=--start-time=5 https://www.youtube.com/watch?v=ZSShauY8D3w
 ﻿Rok Strani]Police}Voices inside my head=https://www.youtube.com/watch?v=r8OrMfd87Qo
 ﻿Rok Strani]Police}Reggatta de blanc=https://www.youtube.com/watch?v=EFkUS1sSoPA
@@ -11020,7 +11017,7 @@
 ﻿Rok Strani]Rage Against The Machine}Kick out the jams=https://www.youtube.com/watch?v=Tfgc3Sf-6yE
 ﻿Rok Strani]Rage Against The Machine}Know your enemy=https://www.youtube.com/watch?v=zSHtniUl8V4
 ﻿Rok Strani]Rage Against The Machine}How i could just kill a man=https://www.youtube.com/watch?v=GR6GqcPd60U
-﻿Rok Strani]Rage Against The Machine}Fuck the police!=https://www.youtube.com/watch?v=5-_GZylAzPQ
+﻿Rok Strani]Rage Against The Machine}Fuck the police!=http://www.youtube.com/watch?v=MA9ud-Wrjew
 ﻿Rok Strani]Rage Against The Machine}Guerilla radio uncensored=--start-time=12 https://www.youtube.com/watch?v=FaVKYS34Qxc
 ﻿Rok Strani]Rage Against The Machine}Down rodeo=https://www.youtube.com/watch?v=SteeDi7ALrU
 ﻿Rok Strani]Rage Against The Machine}Township rebellion=https://www.youtube.com/watch?v=Fihxa4Q7q1g
@@ -11274,7 +11271,7 @@
 ﻿Rok Strani]Audioslave}Light my way=--start-time=5 https://www.youtube.com/watch?v=vJDe-Ekro30
 ﻿Rok Strani]Audioslave}Wide awake=--start-time=2 https://www.youtube.com/watch?v=izTJl9yO1k4
 ﻿Rok Strani]Audioslave}#1 zero=https://www.youtube.com/watch?v=nGSYSxHmj4Q
-﻿Rok Strani]Audioslave}Bring em back alive=https://www.youtube.com/watch?v=9UzQ4ARnhtQ
+﻿Rok Strani]Audioslave}Bring em back alive=http://www.youtube.com/watch?v=vOb3RJhlvfA
 ﻿Rok Strani]Audioslave}Heaven's dead=https://www.youtube.com/watch?v=lm0QBWEZ8K0
 ﻿Rok Strani]Audioslave}Broken city=https://www.youtube.com/watch?v=BLJt5S7N5lk
 ﻿Rok Strani]Audioslave}Hypnotize=https://www.youtube.com/watch?v=TODQV8y-DHw
@@ -12383,11 +12380,11 @@
 ﻿Rok Strani]Black Sabbath}Born To Lose=http://www.youtube.com/watch?v=_eBLMKa7uJE
 ﻿Rok Strani]Black Sabbath}Buried Alive=http://www.youtube.com/watch?v=QgsN0mKi8gg
 ﻿Rok Strani]Black Sabbath}Call Of The Wild=http://www.youtube.com/watch?v=il3W2AmSgyg
-﻿Rok Strani]Black Sabbath}Can't Get Close Enough To You=http://www.youtube.com/watch?v=NGo0eTjFenQ
+﻿Rok Strani]Black Sabbath}Can't Get Close Enough To You=http://www.youtube.com/watch?v=DrX7JxA_Im4
 ﻿Rok Strani]Black Sabbath}Cardinal Sin=http://www.youtube.com/watch?v=-7juVUuBKu0
 ﻿Rok Strani]Black Sabbath}Changes=http://www.youtube.com/watch?v=K7IWysVlXyo
 ﻿Rok Strani]Black Sabbath}Children Of The Grave=http://www.youtube.com/watch?v=OgFalMgLtuU
-﻿Rok Strani]Black Sabbath}Children Of The Sea=http://www.youtube.com/watch?v=_9Au3CMpXtg
+﻿Rok Strani]Black Sabbath}Children Of The Sea=http://www.youtube.com/watch?v=IG1dIqDsFno
 ﻿Rok Strani]Black Sabbath}Cloak And Dagger=http://www.youtube.com/watch?v=QBt92_SK1As
 ﻿Rok Strani]Black Sabbath}Computer God=http://www.youtube.com/watch?v=HHUoXc2c1Bg
 ﻿Rok Strani]Black Sabbath}Cornucopia=http://www.youtube.com/watch?v=JO-3deOP-aE
@@ -12452,7 +12449,6 @@
 ﻿Rok Strani]Black Sabbath}Nightmare=http://www.youtube.com/watch?v=nUT19oVhEWE
 ﻿Rok Strani]Black Sabbath}Nightwing=http://www.youtube.com/watch?v=Ifk08JOwd8E
 ﻿Rok Strani]Black Sabbath}No Stranger To Love=http://www.youtube.com/watch?v=2aO1Ug3qV4A
-﻿Rok Strani]Black Sabbath}Odin's Court=http://www.youtube.com/watch?v=KeJBdTdjdgE
 ﻿Rok Strani]Black Sabbath}Over And Over=http://www.youtube.com/watch?v=ek2alPDHkSM
 ﻿Rok Strani]Black Sabbath}Over To You=http://www.youtube.com/watch?v=-UQ-RSKdBWs
 ﻿Rok Strani]Black Sabbath}Paranoid=http://www.youtube.com/watch?v=ah_Q3Oy4qMY
@@ -12462,16 +12458,16 @@
 ﻿Rok Strani]Black Sabbath}Psycho Man=http://www.youtube.com/watch?v=dakg3h1qoUY
 ﻿Rok Strani]Black Sabbath}Psychophobia=http://www.youtube.com/watch?v=YIDY0peBBt4
 ﻿Rok Strani]Black Sabbath}Rock 'N' Roll Doctor=http://www.youtube.com/watch?v=Kt0Xuw02TMQ
-﻿Rok Strani]Black Sabbath}Rusty Angels=http://www.youtube.com/watch?v=coh99ELjQkE
+﻿Rok Strani]Black Sabbath}Rusty Angels=http://www.youtube.com/watch?v=rYBqbx_HNa4
 ﻿Rok Strani]Black Sabbath}Sabbath Bloody Sabbath=http://www.youtube.com/watch?v=yuVmjv22Nqc
 ﻿Rok Strani]Black Sabbath}Sabbra Cadabra=http://www.youtube.com/watch?v=-9mCl6XCYNE
 ﻿Rok Strani]Black Sabbath}Selling My Soul=http://www.youtube.com/watch?v=YNmtfrP7Cbk
 ﻿Rok Strani]Black Sabbath}Seventh Star=http://www.youtube.com/watch?v=ic97ecymD0Q
 ﻿Rok Strani]Black Sabbath}Shadow Of The Wind=http://www.youtube.com/watch?v=90Pjc5bKTBM
-﻿Rok Strani]Black Sabbath}Shaking Off The Chains=http://www.youtube.com/watch?v=f9XDy1Oa7CY
+﻿Rok Strani]Black Sabbath}Shaking Off The Chains=http://www.youtube.com/watch?v=qB0bj_F3PN4
 ﻿Rok Strani]Black Sabbath}She's Gone=http://www.youtube.com/watch?v=F7lRBM2U3nc
 ﻿Rok Strani]Black Sabbath}Shock Wave=http://www.youtube.com/watch?v=f2p6fBdCnY0
-﻿Rok Strani]Black Sabbath}Sick And Tired=http://www.youtube.com/watch?v=xC1czkFKglI
+﻿Rok Strani]Black Sabbath}Sick And Tired=http://www.youtube.com/watch?v=nZiojmyC6dw
 ﻿Rok Strani]Black Sabbath}Sins Of The Father=http://www.youtube.com/watch?v=xODnaNBov88
 ﻿Rok Strani]Black Sabbath}Slipping Away=http://www.youtube.com/watch?v=Wd8j3A1oxIE
 ﻿Rok Strani]Black Sabbath}Snowblind=http://www.youtube.com/watch?v=EAMSaBN4GDI
@@ -12488,7 +12484,7 @@
 ﻿Rok Strani]Black Sabbath}The Illusion Of Power=http://www.youtube.com/watch?v=ifwvsYKuYRw
 ﻿Rok Strani]Black Sabbath}The Law Maker=http://www.youtube.com/watch?v=CQ0A74X8rZw
 ﻿Rok Strani]Black Sabbath}The Mob Rules=http://www.youtube.com/watch?v=CnDSF01mtIY
-﻿Rok Strani]Black Sabbath}The Sabbath Stones=http://www.youtube.com/watch?v=4J9avoRq5Hs
+﻿Rok Strani]Black Sabbath}The Sabbath Stones=http://www.youtube.com/watch?v=MFbDGxLU5ig
 ﻿Rok Strani]Black Sabbath}The Shining=http://www.youtube.com/watch?v=72Jrm82RN0c
 ﻿Rok Strani]Black Sabbath}The Thrill Of It All=http://www.youtube.com/watch?v=ymmAJIm_QC4
 ﻿Rok Strani]Black Sabbath}The Wizard=http://www.youtube.com/watch?v=MeZ8uVIOIhM
@@ -13305,7 +13301,7 @@
 ﻿Rok Strani]Deep Purple}Lick It Up=http://www.youtube.com/watch?v=GJrIScKGxi4
 ﻿Rok Strani]Deep Purple}Listen, Learn, Read On=http://www.youtube.com/watch?v=uYZaXo4jOu0
 ﻿Rok Strani]Deep Purple}Living Wreck=http://www.youtube.com/watch?v=4DECsBjNqHE
-﻿Rok Strani]Deep Purple}Loosen My Strings=http://www.youtube.com/watch?v=vWkO6mj-F-Q
+﻿Rok Strani]Deep Purple}Loosen My Strings=http://www.youtube.com/watch?v=Hnn0Qt4aUrw
 ﻿Rok Strani]Deep Purple}Love Child=http://www.youtube.com/watch?v=TmHbzL2XH4Y
 ﻿Rok Strani]Deep Purple}Love Conquers All=http://www.youtube.com/watch?v=CGczqul9Hv4
 ﻿Rok Strani]Deep Purple}Love Don't Mean A Thing=http://www.youtube.com/watch?v=IOIwL6UhRV0
@@ -13440,9 +13436,8 @@
 ﻿Rok Strani]Def Leppard}Have You Ever Needed Someone So Bad=http://www.youtube.com/watch?v=uhUPxzp1wk0
 ﻿Rok Strani]Def Leppard}Heat Street=http://www.youtube.com/watch?v=kff9vTqlP_4
 ﻿Rok Strani]Def Leppard}Heaven Is=http://www.youtube.com/watch?v=xnNmllUMjwY
-﻿Rok Strani]Def Leppard}Hell Raiser=http://www.youtube.com/watch?v=6BcLF7miNa0
 ﻿Rok Strani]Def Leppard}Hello America=http://www.youtube.com/watch?v=9NULOICYL1c
-﻿Rok Strani]Def Leppard}High 'N' Dry (Saturday Night)=http://www.youtube.com/watch?v=v010TI4f378
+﻿Rok Strani]Def Leppard}High 'N' Dry (Saturday Night)=http://www.youtube.com/watch?v=m10oplziA70
 ﻿Rok Strani]Def Leppard}I Am Your Child=http://www.youtube.com/watch?v=oC2jeliYFt4
 ﻿Rok Strani]Def Leppard}I Wanna Touch You=http://www.youtube.com/watch?v=5O6NOK4uiAY
 ﻿Rok Strani]Def Leppard}Immortal=http://www.youtube.com/watch?v=j0I1d3MKaRU
@@ -13465,7 +13460,7 @@
 ﻿Rok Strani]Def Leppard}Love=http://www.youtube.com/watch?v=TgpenLA1jfc
 ﻿Rok Strani]Def Leppard}Make Love Like A Man=http://www.youtube.com/watch?v=jP5jL42Til4
 ﻿Rok Strani]Def Leppard}Man Enough=http://www.youtube.com/watch?v=I4uzauKlHdE
-﻿Rok Strani]Def Leppard}Me And My Wine (Remix)=http://www.youtube.com/watch?v=X_njvQL7sbM
+﻿Rok Strani]Def Leppard}Me And My Wine (Remix)=http://www.youtube.com/watch?v=ytemR_TJbQA
 ﻿Rok Strani]Def Leppard}Me And My Wine=http://www.youtube.com/watch?v=NM0jByUkv4g
 ﻿Rok Strani]Def Leppard}Medicine Man=http://www.youtube.com/watch?v=z-Olw6sr2ns
 ﻿Rok Strani]Def Leppard}Mirror, Mirror (Look Into My Eyes)=http://www.youtube.com/watch?v=h6Sh7B3wNIg
@@ -13475,7 +13470,7 @@
 ﻿Rok Strani]Def Leppard}Misty Dreamer=http://www.youtube.com/watch?v=qi0ORViFNJo
 ﻿Rok Strani]Def Leppard}Move With Me Slowly=http://www.youtube.com/watch?v=s-Mdx_F9ppE
 ﻿Rok Strani]Def Leppard}Nine Lives=http://www.youtube.com/watch?v=EDhlY7vWRwU
-﻿Rok Strani]Def Leppard}No Matter What=http://www.youtube.com/watch?v=0cVAg1gd2Fg
+﻿Rok Strani]Def Leppard}No Matter What=http://www.youtube.com/watch?v=LV5SwE2NzXU
 ﻿Rok Strani]Def Leppard}No No No=http://www.youtube.com/watch?v=coIM0_-FQXg
 ﻿Rok Strani]Def Leppard}Now I'm Here=http://www.youtube.com/watch?v=vPVeSTQkdmk
 ﻿Rok Strani]Def Leppard}Now=http://www.youtube.com/watch?v=n-OyjTrjgDw
@@ -13506,7 +13501,7 @@
 ﻿Rok Strani]Def Leppard}To Be Alive=http://www.youtube.com/watch?v=K2ZEFzYnYIE
 ﻿Rok Strani]Def Leppard}Tomorrow=http://www.youtube.com/watch?v=yRHFrTwFJsg
 ﻿Rok Strani]Def Leppard}Tonight=http://www.youtube.com/watch?v=FUxGG2yTILU
-﻿Rok Strani]Def Leppard}Too Late For Love=http://www.youtube.com/watch?v=vHA1Cv9XsBk
+﻿Rok Strani]Def Leppard}Too Late For Love=http://www.youtube.com/watch?v=02QjLszgz5k
 ﻿Rok Strani]Def Leppard}Torn To Shreds=http://www.youtube.com/watch?v=vyVqibZw_TM
 ﻿Rok Strani]Def Leppard}Truth? (Original Version)=http://www.youtube.com/watch?v=mrz4J1C1vnw
 ﻿Rok Strani]Def Leppard}Truth?=http://www.youtube.com/watch?v=SqXVtRwX8SA
@@ -13527,7 +13522,7 @@
 ﻿Rok Strani]Def Leppard}Women=http://www.youtube.com/watch?v=GUd3LAFXt5g
 ﻿Rok Strani]Def Leppard}Work It Out=http://www.youtube.com/watch?v=494E5e6rg68
 ﻿Rok Strani]Def Leppard}Worlds Collide=http://www.youtube.com/watch?v=cANB_jnEK7k
-﻿Rok Strani]Def Leppard}You Got Me Runnin'=http://www.youtube.com/watch?v=UclpJ4v_Yds
+﻿Rok Strani]Def Leppard}You Got Me Runnin'=http://www.youtube.com/watch?v=LNTlU4DyNWA
 ﻿Rok Strani]Def Leppard}You're So Beautiful=http://www.youtube.com/watch?v=lM0Yn3i3vCM
 ﻿Rok Strani]Def Leppard}Ziggy Stardust=http://www.youtube.com/watch?v=uQHWYOsj_IM
 ﻿Rok Strani]Eric Clapton}(I) Get Lost=http://www.youtube.com/watch?v=uTuL2HsEj9c
@@ -13688,7 +13683,7 @@
 ﻿Rok Strani]Eric Clapton}Lies=http://www.youtube.com/watch?v=419TnucPq4M
 ﻿Rok Strani]Eric Clapton}Little Queen Of Spades=http://www.youtube.com/watch?v=ywqyeN-E-JE
 ﻿Rok Strani]Eric Clapton}Little Rachel=http://www.youtube.com/watch?v=MjCTYsdzA-U
-﻿Rok Strani]Eric Clapton}Lonely Stranger=http://www.youtube.com/watch?v=Uwe055oVPY0
+﻿Rok Strani]Eric Clapton}Lonely Stranger=http://www.youtube.com/watch?v=bgBuM6E5I6A
 ﻿Rok Strani]Eric Clapton}Lonesome And A Long Way From Home=http://www.youtube.com/watch?v=PuvR2MTC_Pk
 ﻿Rok Strani]Eric Clapton}Lost And Found=http://www.youtube.com/watch?v=2BPTLw2QCHY
 ﻿Rok Strani]Eric Clapton}Love Comes To Everyone=http://www.youtube.com/watch?v=pAdyESbHXQI
@@ -15136,7 +15131,7 @@
 ﻿Rok Strani]Iron Maiden}Journeyman (Electric Version)=http://www.youtube.com/watch?v=Vf_Yj9N4zcU
 ﻿Rok Strani]Iron Maiden}Journeyman=http://www.youtube.com/watch?v=cYqCfibXhZg
 ﻿Rok Strani]Iron Maiden}Judas Be My Guide=http://www.youtube.com/watch?v=CY-l0kCLh5Q
-﻿Rok Strani]Iron Maiden}Judgement Day=http://www.youtube.com/watch?v=ab-bVlDezCo
+﻿Rok Strani]Iron Maiden}Judgement Day=http://www.youtube.com/watch?v=QNq_PD3fpmM
 ﻿Rok Strani]Iron Maiden}Judgement Of Heaven=http://www.youtube.com/watch?v=YpOAsUA4u6s
 ﻿Rok Strani]Iron Maiden}Justice Of The Peace=http://www.youtube.com/watch?v=uFFt5OqBnw8
 ﻿Rok Strani]Iron Maiden}Lightning Strikes Twice=http://www.youtube.com/watch?v=aXEEo4j4Zt0
@@ -15236,8 +15231,7 @@
 ﻿Rok Strani]Janes Addiction}My Time=http://www.youtube.com/watch?v=aANOgn2a5Ss
 ﻿Rok Strani]Janes Addiction}No One's Leaving=http://www.youtube.com/watch?v=-svD_M-0zxU
 ﻿Rok Strani]Janes Addiction}Obvious=http://www.youtube.com/watch?v=Y5PXNkMPeyo
-﻿Rok Strani]Janes Addiction}Ocean Size (Demo Version)=http://www.youtube.com/watch?v=0KofSmnRaFk
-﻿Rok Strani]Janes Addiction}Ocean Size=http://www.youtube.com/watch?v=KCG6y_v6Gbg
+﻿Rok Strani]Janes Addiction}Ocean Size=http://www.youtube.com/watch?v=D4pYV--xvlg
 ﻿Rok Strani]Janes Addiction}Of Course=http://www.youtube.com/watch?v=wwRxh_k0M7s
 ﻿Rok Strani]Janes Addiction}Pigs In Zen=http://www.youtube.com/watch?v=ogmqY1-_XFc
 ﻿Rok Strani]Janes Addiction}Rock 'n' Roll=http://www.youtube.com/watch?v=YJymBdD_cng
@@ -16150,7 +16144,7 @@
 ﻿Rok Strani]Lita Ford}Stay With Me Baby=http://www.youtube.com/watch?v=aZeWvp_rGcs
 ﻿Rok Strani]Lita Ford}Stiletto=http://www.youtube.com/watch?v=TgiQ7P8AOV4
 ﻿Rok Strani]Lita Ford}Tamborine Dream=http://www.youtube.com/watch?v=Og5ps4oxR3E
-﻿Rok Strani]Lita Ford}The Ripper=http://www.youtube.com/watch?v=elFjqdYTvnc
+﻿Rok Strani]Lita Ford}The Ripper=http://www.youtube.com/watch?v=L2VjvcX6pPA
 ﻿Rok Strani]Lita Ford}Under The Gun=http://www.youtube.com/watch?v=ZcDF8o1y3eo
 ﻿Rok Strani]Lita Ford}What Do Ya Know About Love=http://www.youtube.com/watch?v=_FqFZYeCy6s
 ﻿Rok Strani]Lita Ford}Wicked Wonderland=http://www.youtube.com/watch?v=MIY1jD1wYmw
