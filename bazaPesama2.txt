@@ -1165,7 +1165,7 @@
 ﻿Narodna]Meho Puzić}Ako nećeš ti=http://www.youtube.com/watch?v=grsAKD0-ZGQ
 ﻿Narodna]Meho Puzić}Bila si moja ljubav=http://www.youtube.com/watch?v=ZRX-o5JM2hc
 ﻿Narodna]Meho Puzić}Bol za majkom=http://www.youtube.com/watch?v=NSs2eogFQYg
-﻿Narodna]Meho Puzić}Bosanska majka=http://www.youtube.com/watch?v=eGkP5IQ3bYQ
+﻿Narodna]Meho Puzić}Bosanska majka=http://www.youtube.com/watch?v=BLaqtm8TR0M
 ﻿Narodna]Meho Puzić}Budi žena k'o sve druge=http://www.youtube.com/watch?v=Pi5tV_lLuYo
 ﻿Narodna]Meho Puzić}Budila majka Mehmeda=http://www.youtube.com/watch?v=QUafCy0u6h0
 ﻿Narodna]Meho Puzić}Čičak=http://www.youtube.com/watch?v=IC8uHiGdmDY
@@ -2749,7 +2749,7 @@
 ﻿Rok]Negative}Loš dan=http://www.youtube.com/watch?v=0eldi5nNWEg
 ﻿Rok]Negative}Mamin sin=http://www.youtube.com/watch?v=KiTH_IzcsKw
 ﻿Rok]Negative}Ni ovde, ni tamo=http://www.youtube.com/watch?v=Q67g2QOvqgs
-﻿Rok]Negative}Oblaci=http://www.youtube.com/watch?v=QPjAKb0wCgI
+﻿Rok]Negative}Oblaci=http://www.youtube.com/watch?v=WZHYHDLdrHo
 ﻿Rok]Negative}Od stakla=http://www.youtube.com/watch?v=D2YvxZlzwn8
 ﻿Rok]Negative}Pancir za srce=http://www.youtube.com/watch?v=K-ZI21GhCdE
 ﻿Rok]Negative}Pogled na nebo=http://www.youtube.com/watch?v=hMjiVoeDUt8
@@ -4452,7 +4452,7 @@
 ﻿Rok]Feud}Stoka=--start-time=5 https://www.youtube.com/watch?v=XcTLGkpg5vw
 ﻿Rok]Deca Loših Muzičara}Prolećni dan=--start-time=12 http://www.youtube.com/watch?v=0SlFlcOEjvM
 ﻿Rok]Deca Loših Muzičara}Ubiše Pabla=https://www.youtube.com/watch?v=7AExPuahjxs
-﻿Rok]Deca Loših Muzičara}Vlade Divac=https://www.youtube.com/watch?v=rnHumJbmgEo
+﻿Rok]Deca Loših Muzičara}Vlade Divac=http://www.youtube.com/watch?v=rxl-Pyp93dM
 ﻿Rok]Deca Loših Muzičara}Dobar dan=https://www.youtube.com/watch?v=gs9wC6Io9PI
 ﻿Rok]Deca Loših Muzičara}Let there be rock=https://www.youtube.com/watch?v=n2JeWSL2DLw
 ﻿Rok]Deca Loših Muzičara}Mara=https://www.youtube.com/watch?v=ZviwUaw4GmQ
@@ -13624,7 +13624,7 @@
 ﻿Rok Strani]Rolling Stones}Family=http://www.youtube.com/watch?v=hFKH0cs_VYM
 ﻿Rok Strani]Rolling Stones}Fancyman Blues=http://www.youtube.com/watch?v=KQVEwEnaWyg
 ﻿Rok Strani]Rolling Stones}Far Away Eyes=http://www.youtube.com/watch?v=TDnZBvCetQM
-﻿Rok Strani]Rolling Stones}Feel On Baby=http://www.youtube.com/watch?v=GooXcsdCM34
+﻿Rok Strani]Rolling Stones}Feel On Baby=http://www.youtube.com/watch?v=UrdYQDvWki4
 ﻿Rok Strani]Rolling Stones}Fight=http://www.youtube.com/watch?v=736UulPqhgg
 ﻿Rok Strani]Rolling Stones}Fingerprint File=http://www.youtube.com/watch?v=6dLa2l1tyx0
 ﻿Rok Strani]Rolling Stones}Flight 505=http://www.youtube.com/watch?v=guySDyZAfXU
@@ -15251,7 +15251,6 @@
 ﻿Rok Strani]The Clash}The Sound of the Sinners=http://www.youtube.com/watch?v=y8PBKhqRUrc
 ﻿Rok Strani]The Clash}The Street Parade=http://www.youtube.com/watch?v=OgJQ3BbXFVk
 ﻿Rok Strani]The Clash}This Is England=http://www.youtube.com/watch?v=ROj_1R36lX0
-﻿Rok Strani]The Clash}This Is Radio Clash=http://www.youtube.com/watch?v=F9uccpf9mlI
 ﻿Rok Strani]The Clash}Three Card Trick=http://www.youtube.com/watch?v=KSA7wW2sATE
 ﻿Rok Strani]The Clash}Tommy Gun=http://www.youtube.com/watch?v=PRJQvTwx9iI
 ﻿Rok Strani]The Clash}Train In Vain=http://www.youtube.com/watch?v=aUzBgeI5dpc
@@ -17055,7 +17054,7 @@
 ﻿Rok Strani]King Crimson}One Time=http://www.youtube.com/watch?v=PQNU1pTpkAk
 ﻿Rok Strani]King Crimson}People=http://www.youtube.com/watch?v=8tGVlIGCDOw
 ﻿Rok Strani]King Crimson}ProzaKc Blues=http://www.youtube.com/watch?v=-LrLS3pgA6o
-﻿Rok Strani]King Crimson}Sleepless=http://www.youtube.com/watch?v=88mTffVGAT4
+﻿Rok Strani]King Crimson}Sleepless=http://www.youtube.com/watch?v=ETg3aaSFTIo
 ﻿Rok Strani]King Crimson}The Letters=http://www.youtube.com/watch?v=czrFUu3hs6w
 ﻿Rok Strani]King Crimson}The Mincer=http://www.youtube.com/watch?v=n4yJQfnkhq4
 ﻿Rok Strani]King Crimson}The Night Watch=http://www.youtube.com/watch?v=WwFYy_Th7BA
