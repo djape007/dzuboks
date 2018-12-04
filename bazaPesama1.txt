@@ -1411,7 +1411,7 @@
 ﻿Rok]Atomsko Sklonište}Johnny=http://www.youtube.com/watch?v=xes3tY043oo
 ﻿Rok]Atomsko Sklonište}Još mirišeš na pelene=http://www.youtube.com/watch?v=E8yTVCGn2ns
 ﻿Rok]Atomsko Sklonište}Jučerašnje sutra=http://www.youtube.com/watch?v=SwgPDUpRMVM
-﻿Rok]Atomsko Sklonište}Kinematograf našeg djetinjstva=http://www.youtube.com/watch?v=fu-QyeCxYfM
+﻿Rok]Atomsko Sklonište}Kinematograf našeg djetinjstva=http://www.youtube.com/watch?v=b7VLLvpWk9s
 ﻿Rok]Atomsko Sklonište}Kišni blues=http://www.youtube.com/watch?v=2gTF-1dzQRg
 ﻿Rok]Atomsko Sklonište}Kraljica cigana=http://www.youtube.com/watch?v=do_vN1VSXws
 ﻿Rok]Atomsko Sklonište}Ljetne devojke=http://www.youtube.com/watch?v=ILkn6puOX9c
@@ -1606,7 +1606,6 @@
 ﻿Krajiska]Baja Mali Knindža}Baraba sa sela=http://www.youtube.com/watch?v=VenD-auPvCU
 ﻿Krajiska]Baja Mali Knindža}Bez zavičaja=http://www.youtube.com/watch?v=dMzCS5ihmTU
 ﻿Krajiska]Baja Mali Knindža}Birtija=http://www.youtube.com/watch?v=3fPmAXMoQ9A
-﻿Krajiska]Baja Mali Knindža}Bivša ljubavi=https://www.youtube.com/watch?v=nNO6CqB9ZGQ
 ﻿Krajiska]Baja Mali Knindža}Bježi, tugo=http://www.youtube.com/watch?v=JJJXKChG4Tk
 ﻿Krajiska]Baja Mali Knindža}Božić je=http://www.youtube.com/watch?v=s5VChCMOeqs
 ﻿Krajiska]Baja Mali Knindža}Bukovice, oj=http://www.youtube.com/watch?v=4rPX5YgnB2M
@@ -1672,7 +1671,6 @@
 ﻿Krajiska]Baja Mali Knindža}Ostavljen od svih=http://www.youtube.com/watch?v=9dqoriC9EOw
 ﻿Krajiska]Baja Mali Knindža}Pepeljara=http://www.youtube.com/watch?v=RLqKJxUgS2I
 ﻿Krajiska]Baja Mali Knindža}Piši propalo=http://www.youtube.com/watch?v=5kPjzs1dD6E
-﻿Krajiska]Baja Mali Knindža}Pojačaj i žene i piće=http://www.youtube.com/watch?v=tXm4vsEsugE
 ﻿Krajiska]Baja Mali Knindža}Poker aparat=http://www.youtube.com/watch?v=1eng8zaK2cU
 ﻿Krajiska]Baja Mali Knindža}Popiću svu tugu iz čaše=http://www.youtube.com/watch?v=5nl1PspKbJM
 ﻿Krajiska]Baja Mali Knindža}Potonula lađa=http://www.youtube.com/watch?v=fuZTBpRB53M
@@ -2799,7 +2797,7 @@
 ﻿Narodna]Ceca}I bogati plaču=http://www.youtube.com/watch?v=KACO7KJqG28
 ﻿Narodna]Ceca}Idealno loša=http://www.youtube.com/watch?v=Em6vj8S4eDc
 ﻿Narodna]Ceca}Idi dok si mlad=http://www.youtube.com/watch?v=yJ2V9edID9Q
-﻿Narodna]Ceca}Igračka samoće=http://www.youtube.com/watch?v=sCid4_qVQ9o
+﻿Narodna]Ceca}Igračka samoće=http://www.youtube.com/watch?v=TYkMLJmZ2cc
 ﻿Narodna]Ceca}Ime i prezime=http://www.youtube.com/watch?v=6LyLkcwIiqI
 ﻿Narodna]Ceca}Isuse=http://www.youtube.com/watch?v=th3exkDdOy8
 ﻿Narodna]Ceca}Izbriši, vetre, trag=http://www.youtube.com/watch?v=MtH-rkArVJk
@@ -7214,7 +7212,6 @@
 ﻿Narodna]Hakala}Imao pa nemao=http://www.youtube.com/watch?v=Tdu1keOFI38
 ﻿Narodna]Hakala}Istina=http://www.youtube.com/watch?v=KeqacziAPk8
 ﻿Narodna]Hakala}Ja ne živim tu=http://www.youtube.com/watch?v=8gS-k9W7VSc
-﻿Narodna]Hakala}Ja ni korak dalje=http://www.youtube.com/watch?v=LHOUUaEtMsM
 ﻿Narodna]Hakala}Ja noćas pijem=http://www.youtube.com/watch?v=DhWKpYKwTDM
 ﻿Narodna]Hakala}Ja te volim ludo=http://www.youtube.com/watch?v=mEiyNfJ2Zdc
 ﻿Narodna]Hakala}Jesam li te ljubio=http://www.youtube.com/watch?v=rbSCMbwBkbU
@@ -9908,7 +9905,7 @@
 ﻿Zabavna]Knez}Jednom mila=http://www.youtube.com/watch?v=UC01mC6iRp0
 ﻿Zabavna]Knez}Još uvijek=http://www.youtube.com/watch?v=TccktAxu6yk
 ﻿Zabavna]Knez}Kneginja=http://www.youtube.com/watch?v=u9aYb2kuls4
-﻿Zabavna]Knez}Kocka šećera=http://www.youtube.com/watch?v=8YNLt8XD5RA
+﻿Zabavna]Knez}Kocka šećera=http://www.youtube.com/watch?v=VUPLqtElW70
 ﻿Zabavna]Knez}Lampioni=http://www.youtube.com/watch?v=XUqDQCJSf2A
 ﻿Zabavna]Knez}Led u srcu=http://www.youtube.com/watch?v=1eARL2p1zWA
 ﻿Zabavna]Knez}Mala=http://www.youtube.com/watch?v=YtvNgsHIq6k
@@ -9918,11 +9915,9 @@
 ﻿Zabavna]Knez}Mizerno=http://www.youtube.com/watch?v=-73b91K3-yw
 ﻿Zabavna]Knez}Moja mala=http://www.youtube.com/watch?v=YtvNgsHIq6k
 ﻿Zabavna]Knez}Najbolja=http://www.youtube.com/watch?v=6e2159DvzEY
-﻿Zabavna]Knez}Navika=http://www.youtube.com/watch?v=dhZRxOWdqRQ
 ﻿Zabavna]Knez}Nema ljubavi=http://www.youtube.com/watch?v=QUXwF4e6CGk
 ﻿Zabavna]Knez}Ni treptaj, ni suza=http://www.youtube.com/watch?v=obrp6iwTFO4
 ﻿Zabavna]Knez}Nijedna žena na svijetu=http://www.youtube.com/watch?v=BFg0KE3YYSY
-﻿Zabavna]Knez}Ništa ne ostaje=http://www.youtube.com/watch?v=CohgSrt3p3A
 ﻿Zabavna]Knez}Ogledalce=http://www.youtube.com/watch?v=8JK-LOmcqKw
 ﻿Zabavna]Knez}Ostani=http://www.youtube.com/watch?v=bSkdssi13Ko
 ﻿Zabavna]Knez}Otrov i med=http://www.youtube.com/watch?v=3E0VvK242MU
@@ -10508,7 +10503,7 @@
 ﻿Rok Strani]Guns 'n' Roses}Yesterdays=http://www.youtube.com/watch?v=KvAs_tMZ0DA
 ﻿Rok Strani]Guns 'n' Roses}So fine=http://www.youtube.com/watch?v=8W5aSFUy-8Q
 ﻿Rok Strani]Guns 'n' Roses}Back off bitch=http://www.youtube.com/watch?v=7QXTdB1V2jM
-﻿Rok Strani]Guns 'n' Roses}Breakdown=http://www.youtube.com/watch?v=ckcw5hktGL8
+﻿Rok Strani]Guns 'n' Roses}Breakdown=http://www.youtube.com/watch?v=ObAe1vq5IJo
 ﻿Rok Strani]Guns 'n' Roses}Pretty tied up=http://www.youtube.com/watch?v=56C5XKPo7Gs
 ﻿Rok Strani]Guns 'n' Roses}14 years=http://www.youtube.com/watch?v=Tydtf8ErxK4
 ﻿Rok Strani]Guns 'n' Roses}Since i don't have you=https://www.youtube.com/watch?v=IYOYlqOitDA
@@ -10862,7 +10857,7 @@
 ﻿Rok Strani]Moby}Almost home=--start-time=7 https://www.youtube.com/watch?v=QVbD9lKVszE
 ﻿Rok Strani]Moby}Where you end=https://www.youtube.com/watch?v=fIWyuRgiqlc
 ﻿Rok Strani]Moby}Run on=https://www.youtube.com/watch?v=rrBGUqNBEgE
-﻿Rok Strani]Moby}Graciosa=https://www.youtube.com/watch?v=VbBxSNqwgOU
+﻿Rok Strani]Moby}Graciosa=http://www.youtube.com/watch?v=_MA5A2Eeqa4
 ﻿Rok Strani]Moby}Porcelain=https://www.youtube.com/watch?v=MDLLOSgLOsE
 ﻿Rok Strani]Nightwish}The phantom of the opera=https://www.youtube.com/watch?v=rBhozE-TkQo
 ﻿Rok Strani]Nightwish}She is my sin=https://www.youtube.com/watch?v=MSsTS6c8KOU
@@ -13415,7 +13410,7 @@
 ﻿Rok Strani]Def Leppard}Deliver Me=http://www.youtube.com/watch?v=upUiOzr4uCE
 ﻿Rok Strani]Def Leppard}Demolition Man=http://www.youtube.com/watch?v=7EwVabPsrUg
 ﻿Rok Strani]Def Leppard}Die Hard The Hunter=http://www.youtube.com/watch?v=Ng3ODIVhR7c
-﻿Rok Strani]Def Leppard}Don't Believe A Word=http://www.youtube.com/watch?v=vAK4mTnQmC0
+﻿Rok Strani]Def Leppard}Don't Believe A Word=http://www.youtube.com/watch?v=YvplCtk_hb8
 ﻿Rok Strani]Def Leppard}Energized=http://www.youtube.com/watch?v=Noojw96Xnhw
 ﻿Rok Strani]Def Leppard}Everyday=http://www.youtube.com/watch?v=EzwFnP0c8Aw
 ﻿Rok Strani]Def Leppard}Foolin'=http://www.youtube.com/watch?v=8puU4ru45M0
@@ -13496,7 +13491,7 @@
 ﻿Rok Strani]Def Leppard}Stand Up (Kick Love Into Motion)=http://www.youtube.com/watch?v=wP9wVS857v8
 ﻿Rok Strani]Def Leppard}Switch 625=http://www.youtube.com/watch?v=bGgxPFyJmwc
 ﻿Rok Strani]Def Leppard}Tear It Down=http://www.youtube.com/watch?v=UPIDYxmAR7w
-﻿Rok Strani]Def Leppard}To Be Alive=http://www.youtube.com/watch?v=K2ZEFzYnYIE
+﻿Rok Strani]Def Leppard}To Be Alive=http://www.youtube.com/watch?v=iu0kH_oGN4k
 ﻿Rok Strani]Def Leppard}Tomorrow=http://www.youtube.com/watch?v=yRHFrTwFJsg
 ﻿Rok Strani]Def Leppard}Tonight=http://www.youtube.com/watch?v=FUxGG2yTILU
 ﻿Rok Strani]Def Leppard}Too Late For Love=http://www.youtube.com/watch?v=02QjLszgz5k
@@ -15661,7 +15656,7 @@
 ﻿Rok Strani]Judas Priest}Hell Bent For Leather=http://www.youtube.com/watch?v=kC1RQy0bu04
 ﻿Rok Strani]Judas Priest}Hell Is Home=http://www.youtube.com/watch?v=28_HpA8txU0
 ﻿Rok Strani]Judas Priest}Hell Patrol=http://www.youtube.com/watch?v=GCb6eLKmrc0
-﻿Rok Strani]Judas Priest}Hellrider=http://www.youtube.com/watch?v=qkBXHYi_F_M
+﻿Rok Strani]Judas Priest}Hellrider=http://www.youtube.com/watch?v=dqUYWHMcGTk
 ﻿Rok Strani]Judas Priest}Here Come The Tears=http://www.youtube.com/watch?v=y0nzVF8SiNM
 ﻿Rok Strani]Judas Priest}Heroes End=http://www.youtube.com/watch?v=hCTOu57AP2o
 ﻿Rok Strani]Judas Priest}Hope=http://www.youtube.com/watch?v=nzlJkAmLYzo
@@ -17248,3 +17243,40 @@
 ﻿Rok Strani]Allaman Brothers Band}Whipping Post=http://www.youtube.com/watch?v=Wqg4taiLRRE
 ﻿Rok Strani]Allaman Brothers Band}Who To Believe=http://www.youtube.com/watch?v=urmQYfnW4V8
 ﻿Rok Strani]Allaman Brothers Band}Win, Lose Or Draw=http://www.youtube.com/watch?v=o30APbuwNbw
+Rok Strani]Jørn Lande}Song for Ronnie James=--start-time=43 https://www.youtube.com/watch?v=dEtyaC6ltQg
+Rok Strani]Jørn Lande}The sun goes down=https://www.youtube.com/watch?v=oRkD1wXGdsQ
+Rok Strani]Jørn Lande}Missing you=https://www.youtube.com/watch?v=Gfi9iX350PY
+Rok Strani]Jørn Lande}Bridges will burn=https://www.youtube.com/watch?v=ezr4qhcX-KE
+Rok Strani]Jørn Lande}Young forever=https://www.youtube.com/watch?v=rgOSbkjdkkQ
+Rok Strani]Jørn Lande}I walk alone=https://www.youtube.com/watch?v=oz3QoyKjJO8
+Rok Strani]Jørn Lande}Stormbringer=https://www.youtube.com/watch?v=3HLUEnzC2NA
+Rok Strani]Jørn Lande}Traveller=--start-time=5 https://www.youtube.com/watch?v=If9T_KfkDyI
+Rok Strani]Jørn Lande}Starfire=https://www.youtube.com/watch?v=c9N8UC0ngkQ
+Rok Strani]Jørn Lande}Out to every nation=--start-time=10 https://www.youtube.com/watch?v=3LF38QAb3Qw
+Rok Strani]Jørn Lande}On and on=https://www.youtube.com/watch?v=XFSBBtNGft8
+Rok Strani]Jørn Lande}Bring heavy rock to the land=--start-time=15 https://www.youtube.com/watch?v=IfAaT5Me1Ik
+Rok Strani]Jørn Lande}World gone mad=https://www.youtube.com/watch?v=mhXYkxbYxT4
+Rok Strani]Jørn Lande}Sunset station=https://www.youtube.com/watch?v=ke02ArDIJ9k
+Rok Strani]Jørn Lande}Rock and roll angel=https://www.youtube.com/watch?v=j5mv1FiRwUA
+Rok Strani]Jørn Lande}After the dying=https://www.youtube.com/watch?v=dMQAgGREaRc
+Rok Strani]Jørn Lande}Cold sweat=https://www.youtube.com/watch?v=WP4OZ3lG3oo
+Rok Strani]Jørn Lande}When angel wings were white=--start-time=4 https://www.youtube.com/watch?v=4XkA0kaXY_w
+Rok Strani]Jørn Lande}Here i go again=https://www.youtube.com/watch?v=OZ2CkgraCng
+Rok Strani]Jørn Lande}Burning chains=https://www.youtube.com/watch?v=od_8wyBJFGM
+Rok Strani]Jørn Lande}City in between=https://www.youtube.com/watch?v=qu-HYYXrUfE
+Rok Strani]Propain}Deathwish=https://www.youtube.com/watch?v=v2tEetO2eSU
+Rok Strani]Propain}Voice of rebellion=--start-time=41 https://www.youtube.com/watch?v=V16av13yaCA
+Rok Strani]Propain}Make war (not love)=https://www.youtube.com/watch?v=sKvRpaeguSA
+Rok Strani]Propain}Gunya down=https://www.youtube.com/watch?v=1piPCT9miwk
+Rok Strani]Propain}The truth hurts=https://www.youtube.com/watch?v=yUF-2z-gZ1w
+Rok Strani]Propain}State of mind=https://www.youtube.com/watch?v=dVGyRAOjUgk
+Rok Strani]Propain}Don't kill yourself to live=https://www.youtube.com/watch?v=A3b4x8ce5Gk
+Rok Strani]Propain}Shine=--start-time=7 https://www.youtube.com/watch?v=LLPSewq-gEA
+Rok Strani]Propain}Crush=https://www.youtube.com/watch?v=MLun42SI474
+Rok Strani]Propain}Time=https://www.youtube.com/watch?v=jN9Fnd7nt7A
+Rok Strani]Propain}Freedumb state of mind (ft. Bad Blood)=--start-time=21 https://www.youtube.com/watch?v=2xPMqq_6pVo
+Rok Strani]Propain}Substance=https://www.youtube.com/watch?v=4Q-ACeXVXPc
+Rok Strani]Propain}Death on the dance floor=https://www.youtube.com/watch?v=liJWGeBKGfs
+Rok Strani]Propain}Un-american=https://www.youtube.com/watch?v=5abezK0q2xY
+Rok Strani]Propain}Terpentin=--start-time=33 https://www.youtube.com/watch?v=iE3261PbqAs
+Rok Strani]Propain}Pound for pound=https://www.youtube.com/watch?v=nl2HWTvRDKY
