@@ -2517,6 +2517,7 @@ Zabavna]Mikula}Daj daj=https://www.youtube.com/watch?v=BRhIA8RTFM0
 ﻿Zabavna]Nataša Bekvalac}Mrlja=http://www.youtube.com/watch?v=0w-hxEeJAyg
 ﻿Zabavna]Nataša Bekvalac}Navika=http://www.youtube.com/watch?v=afRb3XSRad8
 ﻿Zabavna]Nataša Bekvalac}Najgora=http://www.youtube.com/watch?v=r6V9zw0RLMw
+﻿Zabavna]Nataša Bekvalac}Neprijatelj=--start-time=3 https://www.youtube.com/watch?v=e48NuqIcSyM
 ﻿Zabavna]Nataša Bekvalac}Ne brini=http://www.youtube.com/watch?v=9WaZUax79iQ
 ﻿Zabavna]Nataša Bekvalac}Ne kuni se u svoje drugove=http://www.youtube.com/watch?v=H_n2owoS68o
 ﻿Zabavna]Nataša Bekvalac}Ne valjam=http://www.youtube.com/watch?v=uosGTiOTMBs
@@ -5068,7 +5069,8 @@ Zabavna]Mikula}Daj daj=https://www.youtube.com/watch?v=BRhIA8RTFM0
 ﻿Narodna]Raša Pavlović}Zašto mi se vinogradi suše=http://www.youtube.com/watch?v=w37gl1EWXi8
 ﻿Narodna]Raša Pavlović}Zbog mlade Krčmarice=http://www.youtube.com/watch?v=nEMKhM22tCY
 ﻿Narodna]Raša Pavlović}Zvoni, zvoni pesmo naša=http://www.youtube.com/watch?v=Ov_CMhOsn5Y
-﻿Rep~Zabavna]Rasta}Adio amore=--start-time=22 https://www.youtube.com/watch?v=syEHZpykluY
+﻿Rep~Zabavna]Rasta}1312 (ft. Alen Sakić)=https://www.youtube.com/watch?v=DHMnypNYzA8
+Rep~Zabavna]Rasta}Adio amore=--start-time=22 https://www.youtube.com/watch?v=syEHZpykluY
 ﻿Rep~Zabavna]Rasta}Armani (ft. Zli Toni i Mali Mire)=http://www.youtube.com/watch?v=Tznf05hPSfI
 ﻿Rep~Zabavna]Rasta}AMGVSQ7AUDI=--start-time=7 https://www.youtube.com/watch?v=FOLM38CnqhY
 ﻿Rep~Zabavna]Rasta}Euforija=http://www.youtube.com/watch?v=QHpfrfhuiq8
@@ -6806,6 +6808,7 @@ Zabavna]Mikula}Daj daj=https://www.youtube.com/watch?v=BRhIA8RTFM0
 ﻿Narodna]Seka Aleksić}Aspirin=http://www.youtube.com/watch?v=5ccYMNMQhnk
 ﻿Narodna]Seka Aleksić}Balkan=http://www.youtube.com/watch?v=gLKIhx9Ae14
 ﻿Narodna]Seka Aleksić}Boca plina=http://www.youtube.com/watch?v=6-u0Ye23vOY
+﻿Narodna]Seka Aleksić}Bolja sam od zdravlja=https://www.youtube.com/watch?v=wMIVXDiju9Q
 ﻿Narodna]Seka Aleksić}Boli stara ljubav=http://www.youtube.com/watch?v=PHw7aeyvQ2Y
 ﻿Narodna]Seka Aleksić}Brada od tri dana=http://www.youtube.com/watch?v=gyxU4kd6yZ0
 ﻿Narodna]Seka Aleksić}Briga me=http://www.youtube.com/watch?v=wSVSnvfSwgo
@@ -8415,6 +8418,7 @@ Zabavna]Mikula}Daj daj=https://www.youtube.com/watch?v=BRhIA8RTFM0
 ﻿Narodna]Stoja}Kako je meni sada=http://www.youtube.com/watch?v=JAmSvQlMapk
 ﻿Narodna]Stoja}Kakva sam, takva sam=http://www.youtube.com/watch?v=M6mks3dCuqg
 ﻿Narodna]Stoja}Kao ovde nigde nije=http://www.youtube.com/watch?v=RHsC83dwoQ8
+﻿Narodna]Stoja}Ko bi rekao (ft. Kija)=--start-time=5 https://www.youtube.com/watch?v=SsoRPsh8U10
 ﻿Narodna]Stoja}Kučka=http://www.youtube.com/watch?v=Z03BBVSit0E
 ﻿Narodna]Stoja}Leti, leti=http://www.youtube.com/watch?v=YwKz9Uf_DJc
 ﻿Narodna]Stoja}Lila, lila=http://www.youtube.com/watch?v=XU92B5Nytws
