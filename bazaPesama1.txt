@@ -1465,7 +1465,7 @@
 ﻿Rok]Azra}Flash=http://www.youtube.com/watch?v=5fgw38ewKSM
 ﻿Rok]Azra}Gluperde lutaju daleko=http://www.youtube.com/watch?v=5ULDwi7aQN0
 ﻿Rok]Azra}Gospodar samoće=http://www.youtube.com/watch?v=cr4t83Ae__M
-﻿Rok]Azra}Gracija=http://www.youtube.com/watch?v=WjlSwbYBHII
+﻿Rok]Azra}Gracija=http://www.youtube.com/watch?v=azGKVCZYhGk
 ﻿Rok]Azra}Grad bez ljubavi=http://www.youtube.com/watch?v=4nS7g3pHbgA
 ﻿Rok]Azra}I nikom ljepše neg' je nam=http://www.youtube.com/watch?v=zQ6VR9VaI3s
 ﻿Rok]Azra}I to se događa ponekad=http://www.youtube.com/watch?v=GAKlTYZe6xg
@@ -1490,7 +1490,6 @@
 ﻿Rok]Azra}Nedjeljni komentar=http://www.youtube.com/watch?v=_SpAFgWDhAU
 ﻿Rok]Azra}Nemir i strast=http://www.youtube.com/watch?v=F_J46g4GOvQ
 ﻿Rok]Azra}Nemoj po glavi druže plavi=http://www.youtube.com/watch?v=vA7bcKcGmv4
-﻿Rok]Azra}Ni jeban ni lud=http://www.youtube.com/watch?v=8r9tMop2ds0
 ﻿Rok]Azra}No comment=http://www.youtube.com/watch?v=uq1veJnHCeE
 ﻿Rok]Azra}Odlazak u noć=http://www.youtube.com/watch?v=_cmjqxBNcyQ
 ﻿Rok]Azra}Ostavi me nasamo=http://www.youtube.com/watch?v=p8C36E0dZeM
@@ -7866,7 +7865,7 @@
 ﻿Narodna]Haris Džinović}Kapija=http://www.youtube.com/watch?v=iJoUs_3iwB4
 ﻿Narodna]Haris Džinović}Kaži kako si preboljela=http://www.youtube.com/watch?v=-TDVYSE4UUw
 ﻿Narodna]Haris Džinović}Kora hljeba=https://www.youtube.com/watch?v=-sRflTooFxU
-﻿Narodna]Haris Džinović}Krčmaru vina za svirače=http://www.youtube.com/watch?v=V_YCSyG5_iM
+﻿Narodna]Haris Džinović}Krčmaru vina za svirače=--start-time=5 http://www.youtube.com/watch?v=HLn3wQKD6mA
 ﻿Narodna]Haris Džinović}Laže me noćas ona=http://www.youtube.com/watch?v=wHLnQ7iMS-E
 ﻿Narodna]Haris Džinović}Laže mjesec=http://www.youtube.com/watch?v=o-OUVexBxCA
 ﻿Narodna]Haris Džinović}Mjesto ti je uvijek kraj mene=http://www.youtube.com/watch?v=abmYnl9FE_U
@@ -9218,7 +9217,6 @@
 ﻿Narodna]Josipa Lisac}O jednoj mladosti=http://www.youtube.com/watch?v=O0OlWJsPseI
 ﻿Narodna]Josipa Lisac}Oluja=http://www.youtube.com/watch?v=Rr8VPJk_D_A
 ﻿Narodna]Josipa Lisac}Omer beze=http://www.youtube.com/watch?v=6M692ZZfDpA
-﻿Narodna]Josipa Lisac}Opet sam slobodna=http://www.youtube.com/watch?v=pduwGb4LHYI
 ﻿Narodna]Josipa Lisac}Ostaješ mi samo ti=http://www.youtube.com/watch?v=CV3BnGNY8lY
 ﻿Narodna]Josipa Lisac}Plačem=http://www.youtube.com/watch?v=6P_EdKUcIXg
 ﻿Narodna]Josipa Lisac}Po prvi put=http://www.youtube.com/watch?v=b_SByo8LAu8
@@ -10857,9 +10855,9 @@
 ﻿Rok Strani]Nightwish}She is my sin=https://www.youtube.com/watch?v=MSsTS6c8KOU
 ﻿Rok Strani]Nightwish}Amaranth=https://www.youtube.com/watch?v=dSs4xfvATjc
 ﻿Rok Strani]Nightwish}Dark chest of wonders=--start-time=2 https://www.youtube.com/watch?v=rBETIUlgZdY
-﻿Rok Strani]Nightwish}The Escapist=https://www.youtube.com/watch?v=7z_vEuA3IK8
+﻿Rok Strani]Nightwish}The Escapist=http://www.youtube.com/watch?v=1eVhtRv_soY
 ﻿Rok Strani]Nightwish}Wish i had an angel=--start-time=4 https://www.youtube.com/watch?v=oXo_Vu0Fyxw
-﻿Rok Strani]Nightwish}While your lips are still red=--start-time=2 https://www.youtube.com/watch?v=xqv-2eY0aUE
+﻿Rok Strani]Nightwish}While your lips are still red=http://www.youtube.com/watch?v=UnDwAyP_lgk
 ﻿Rok Strani]Nightwish}Sleeping sun=--start-time=3 https://www.youtube.com/watch?v=UGfKMV5AbMI
 ﻿Rok Strani]Nightwish}Ever dream=https://www.youtube.com/watch?v=Uiiw0-ZW1DU
 ﻿Rok Strani]Nightwish}Storytime=https://www.youtube.com/watch?v=WAagiSp_5Mc
@@ -11312,7 +11310,6 @@
 ﻿Rok Strani]Rammstein}Nymphomaniac=--start-time=8 https://www.youtube.com/watch?v=4apo48HXDYA
 ﻿Rok Strani]Rammstein}Odno i to zhe=https://www.youtube.com/watch?v=zZLgxjPLvQ4
 ﻿Rok Strani]Rammstein}Ohne dich=--start-time=10 https://www.youtube.com/watch?v=LIPc1cfS-oQ
-﻿Rok Strani]Rammstein}Pet sematary (live)=--start-time=15 https://www.youtube.com/watch?v=e8IBjUSng5g
 ﻿Rok Strani]Rammstein}Ramm4=http://www.youtube.com/watch?v=TdWJ5z7EN-I
 ﻿Rok Strani]Rammstein}Rammlied=http://www.youtube.com/watch?v=F-37IhwrtqM
 ﻿Rok Strani]Rammstein}Rammstein=https://www.youtube.com/watch?v=_sM2sKk4DPM
@@ -12145,7 +12142,7 @@
 ﻿Rok Strani]Anthrax}Zero Tolerance=http://www.youtube.com/watch?v=T1_HKsoql1Y
 ﻿Rok Strani]Bad Company}100 Miles=http://www.youtube.com/watch?v=FOVrTJy3Wpo
 ﻿Rok Strani]Bad Company}Ain't It Good=http://www.youtube.com/watch?v=8l2bottxIMg
-﻿Rok Strani]Bad Company}Anna=http://www.youtube.com/watch?v=zQpSeCLJWSM
+﻿Rok Strani]Bad Company}Anna=http://www.youtube.com/watch?v=wV-Xjfyex2E
 ﻿Rok Strani]Bad Company}Bad Company=http://www.youtube.com/watch?v=zclItQT66kQ
 ﻿Rok Strani]Bad Company}Bad Man=http://www.youtube.com/watch?v=PG6TJeVNFuc
 ﻿Rok Strani]Bad Company}Ballad Of The Band=http://www.youtube.com/watch?v=miQiPdls8Ww
@@ -12154,7 +12151,7 @@
 ﻿Rok Strani]Bad Company}Brokenhearted=http://www.youtube.com/watch?v=TYwnVYgPH7U
 ﻿Rok Strani]Bad Company}Burnin' Sky=http://www.youtube.com/watch?v=tuK8Irl14nM
 ﻿Rok Strani]Bad Company}Burning Up=http://www.youtube.com/watch?v=eMtsnZ0Nyig
-﻿Rok Strani]Bad Company}Call On Me=http://www.youtube.com/watch?v=1mPIhLg3KT4
+﻿Rok Strani]Bad Company}Call On Me=http://www.youtube.com/watch?v=i0CC6XOta_w
 ﻿Rok Strani]Bad Company}Can't Get Enough=http://www.youtube.com/watch?v=WmJrisOBzJ8
 ﻿Rok Strani]Bad Company}Clearwater Highway=http://www.youtube.com/watch?v=iE25rEJ_ms0
 ﻿Rok Strani]Bad Company}Company Of Strangers=http://www.youtube.com/watch?v=XOu184xNeiU
@@ -12245,7 +12242,7 @@
 ﻿Rok Strani]Bad Company}Untie The Knot=http://www.youtube.com/watch?v=HmIPtXA78_o
 ﻿Rok Strani]Bad Company}Waiting On Love=http://www.youtube.com/watch?v=y6hf_3IcLx4
 ﻿Rok Strani]Bad Company}Walk Through Fire=http://www.youtube.com/watch?v=gdkm0aVIhXU
-﻿Rok Strani]Bad Company}Weep No More=http://www.youtube.com/watch?v=OcuQTrRLihY
+﻿Rok Strani]Bad Company}Weep No More=http://www.youtube.com/watch?v=22g54rllKR0
 ﻿Rok Strani]Bad Company}What About You=http://www.youtube.com/watch?v=s-bJzFnd5zM
 ﻿Rok Strani]Bad Company}When We Made Love=http://www.youtube.com/watch?v=mJb9UuPPZ9M
 ﻿Rok Strani]Bad Company}Where I Belong=http://www.youtube.com/watch?v=4xTWMGe_Zbc
@@ -12369,7 +12366,7 @@
 ﻿Rok Strani]Black Sabbath}Call Of The Wild=http://www.youtube.com/watch?v=il3W2AmSgyg
 ﻿Rok Strani]Black Sabbath}Can't Get Close Enough To You=http://www.youtube.com/watch?v=DrX7JxA_Im4
 ﻿Rok Strani]Black Sabbath}Cardinal Sin=http://www.youtube.com/watch?v=-7juVUuBKu0
-﻿Rok Strani]Black Sabbath}Changes=http://www.youtube.com/watch?v=K7IWysVlXyo
+﻿Rok Strani]Black Sabbath}Changes=http://www.youtube.com/watch?v=nPtorZ2k7Ak
 ﻿Rok Strani]Black Sabbath}Children Of The Grave=http://www.youtube.com/watch?v=OgFalMgLtuU
 ﻿Rok Strani]Black Sabbath}Children Of The Sea=http://www.youtube.com/watch?v=IG1dIqDsFno
 ﻿Rok Strani]Black Sabbath}Cloak And Dagger=http://www.youtube.com/watch?v=QBt92_SK1As
@@ -12465,7 +12462,7 @@
 ﻿Rok Strani]Black Sabbath}Sweet Leaf=http://www.youtube.com/watch?v=W-zmtmgswHw
 ﻿Rok Strani]Black Sabbath}Swinging The Chain=http://www.youtube.com/watch?v=bCz4dkR6EVo
 ﻿Rok Strani]Black Sabbath}Symptom Of The Universe=http://www.youtube.com/watch?v=GhZ4t7pRyjE
-﻿Rok Strani]Black Sabbath}TV Crimes=http://www.youtube.com/watch?v=oS181WlG5OA
+﻿Rok Strani]Black Sabbath}TV Crimes=http://www.youtube.com/watch?v=0gy3ytBFEss
 ﻿Rok Strani]Black Sabbath}The Devil Cried=http://www.youtube.com/watch?v=4FOnomnDr2w
 ﻿Rok Strani]Black Sabbath}The Hand That Rocks The Cradle=http://www.youtube.com/watch?v=Zqwx5BpdCq8
 ﻿Rok Strani]Black Sabbath}The Illusion Of Power=http://www.youtube.com/watch?v=ifwvsYKuYRw
@@ -12696,7 +12693,7 @@
 ﻿Rok Strani]Bon Jovi}I Want To Be Loved=http://www.youtube.com/watch?v=wG873HA1DEc
 ﻿Rok Strani]Bon Jovi}I Want You=http://www.youtube.com/watch?v=UOj5KWMLvOk
 ﻿Rok Strani]Bon Jovi}I Will Drive You Home=http://www.youtube.com/watch?v=3dXx87c3e-U
-﻿Rok Strani]Bon Jovi}I Wish Everyday Could Be Like Christmas=http://www.youtube.com/watch?v=yty2PH45rQM
+﻿Rok Strani]Bon Jovi}I Wish Everyday Could Be Like Christmas=http://www.youtube.com/watch?v=lKA7qNYz4_0
 ﻿Rok Strani]Bon Jovi}I'd Die For You=http://www.youtube.com/watch?v=fjq6ba3YrJY
 ﻿Rok Strani]Bon Jovi}I'll Be There For You=http://www.youtube.com/watch?v=mh8MIp2FOhc
 ﻿Rok Strani]Bon Jovi}I'll Sleep When I'm Dead=http://www.youtube.com/watch?v=ts-e0uZfooQ
@@ -13178,7 +13175,7 @@
 ﻿Rok Strani]Danzig}Let Yourself Go=http://www.youtube.com/watch?v=tsZv9GWdmVg
 ﻿Rok Strani]Danzig}Lilin=http://www.youtube.com/watch?v=YYyOeCX-tIc
 ﻿Rok Strani]Danzig}Little Whip=http://www.youtube.com/watch?v=7chki_1mBlc
-﻿Rok Strani]Danzig}Mother=http://www.youtube.com/watch?v=V7uEb_XrK1U
+﻿Rok Strani]Danzig}Mother=http://www.youtube.com/watch?v=Nt-XsQlO9-Y
 ﻿Rok Strani]Danzig}My Darkness=http://www.youtube.com/watch?v=ufsiVDzYrfY
 ﻿Rok Strani]Danzig}N.I.B.=http://www.youtube.com/watch?v=DgafguuQCLY
 ﻿Rok Strani]Danzig}Night, BeSodom=http://www.youtube.com/watch?v=cEhf2Dv_Cvk
@@ -13202,7 +13199,7 @@
 ﻿Rok Strani]Danzig}The Violet Fire=http://www.youtube.com/watch?v=SBZmH9dqAbc
 ﻿Rok Strani]Danzig}The Witching Hour=http://www.youtube.com/watch?v=88bunis8jSY
 ﻿Rok Strani]Danzig}Thirteen=http://www.youtube.com/watch?v=JgIq-fYb1tk
-﻿Rok Strani]Danzig}Tired Of Being Alive=http://www.youtube.com/watch?v=8CDAtKX9IwA
+﻿Rok Strani]Danzig}Tired Of Being Alive=http://www.youtube.com/watch?v=sOTqs7xxaNY
 ﻿Rok Strani]Danzig}Trouble=http://www.youtube.com/watch?v=kgE-dlBIa98
 ﻿Rok Strani]Danzig}Twist Of Cain=http://www.youtube.com/watch?v=IrNrgUylLKY
 ﻿Rok Strani]Danzig}Unspeakable=http://www.youtube.com/watch?v=1wcNXMybM6U
@@ -13548,7 +13545,6 @@
 ﻿Rok Strani]Eric Clapton}Boom Boom=http://www.youtube.com/watch?v=EedNNWpQkE8
 ﻿Rok Strani]Eric Clapton}Born In Time=http://www.youtube.com/watch?v=SmQfWvqwaM0
 ﻿Rok Strani]Eric Clapton}Born To Lose=http://www.youtube.com/watch?v=PlAMUtwO5-0
-﻿Rok Strani]Eric Clapton}Bottle Of Red Wine=http://www.youtube.com/watch?v=3IwG8wZJPv0
 ﻿Rok Strani]Eric Clapton}Breaking Point=http://www.youtube.com/watch?v=IFteZoJPLes
 ﻿Rok Strani]Eric Clapton}Broken Down=http://www.youtube.com/watch?v=wSJ3gmdihSU
 ﻿Rok Strani]Eric Clapton}Cajun Moon=http://www.youtube.com/watch?v=rndls-q4SC4
@@ -13707,7 +13703,7 @@
 ﻿Rok Strani]Eric Clapton}Over The Rainbow=http://www.youtube.com/watch?v=3KvtbZzx1xs
 ﻿Rok Strani]Eric Clapton}Pilgrim=http://www.youtube.com/watch?v=Dv5LF21nYPA
 ﻿Rok Strani]Eric Clapton}Please Be With Me=http://www.youtube.com/watch?v=YytOpnJ_3sQ
-﻿Rok Strani]Eric Clapton}Presence Of The Lord=http://www.youtube.com/watch?v=-guFTnMtLG0
+﻿Rok Strani]Eric Clapton}Presence Of The Lord=http://www.youtube.com/watch?v=e3zamieXx78
 ﻿Rok Strani]Eric Clapton}Pretending=http://www.youtube.com/watch?v=uWU-vZRpBnk
 ﻿Rok Strani]Eric Clapton}Pretty Blue Eyes=http://www.youtube.com/watch?v=qTEFNtXAK10
 ﻿Rok Strani]Eric Clapton}Pretty Girl=http://www.youtube.com/watch?v=ducCpEYWsWs
@@ -13796,7 +13792,7 @@
 ﻿Rok Strani]Eric Clapton}When Somebody Thinks You're Wonderful=http://www.youtube.com/watch?v=WAGRihUbpUY
 ﻿Rok Strani]Eric Clapton}When This War Is Over=http://www.youtube.com/watch?v=69gEPn1YI8s
 ﻿Rok Strani]Eric Clapton}When You Got A Good Friend=http://www.youtube.com/watch?v=ENbUS87wZys
-﻿Rok Strani]Eric Clapton}White Room=http://www.youtube.com/watch?v=o5ZLWw52LtU
+﻿Rok Strani]Eric Clapton}White Room=http://www.youtube.com/watch?v=rvnWuOjJDh4
 ﻿Rok Strani]Eric Clapton}Who Am I Telling You=http://www.youtube.com/watch?v=j5y7UW4jr84
 ﻿Rok Strani]Eric Clapton}Willie And The Hand Jive=http://www.youtube.com/watch?v=oRTvQd-CHbg
 ﻿Rok Strani]Eric Clapton}Wonderful Tonight=http://www.youtube.com/watch?v=fxAiUq8yn34
@@ -14052,7 +14048,7 @@
 ﻿Rok Strani]Foreigner}Counting Every Minute=http://www.youtube.com/watch?v=ExsurR2ziik
 ﻿Rok Strani]Foreigner}Dirty White Boy=http://www.youtube.com/watch?v=LUDMy-GplkQ
 ﻿Rok Strani]Foreigner}Do What You Like=http://www.youtube.com/watch?v=3qa5FYqb9xk
-﻿Rok Strani]Foreigner}Don't Let Go=http://www.youtube.com/watch?v=_Bjn3_OxE78
+﻿Rok Strani]Foreigner}Don't Let Go=http://www.youtube.com/watch?v=Q0YD1jTVDLk
 ﻿Rok Strani]Foreigner}Double Vision=http://www.youtube.com/watch?v=lfou58Z0OWs
 ﻿Rok Strani]Foreigner}Down On Love=http://www.youtube.com/watch?v=PnF31AAMnNA
 ﻿Rok Strani]Foreigner}Face To Face=http://www.youtube.com/watch?v=TKzGbEMqvS8
@@ -14064,7 +14060,7 @@
 ﻿Rok Strani]Foreigner}Growing Up The Hard Way=http://www.youtube.com/watch?v=VjaJ0JvWlEw
 ﻿Rok Strani]Foreigner}Hand On My Heart=http://www.youtube.com/watch?v=kLNTQlaCer4
 ﻿Rok Strani]Foreigner}Head Games=http://www.youtube.com/watch?v=mFQG6OOQmh8
-﻿Rok Strani]Foreigner}Headknocker=http://www.youtube.com/watch?v=faiRPRPWnKc
+﻿Rok Strani]Foreigner}Headknocker=http://www.youtube.com/watch?v=jFBa9dXkcew
 ﻿Rok Strani]Foreigner}Heart Turns To Stone=http://www.youtube.com/watch?v=n7Sn6mOpxt4
 ﻿Rok Strani]Foreigner}Hole In My Soul=http://www.youtube.com/watch?v=LvGMVboc73M
 ﻿Rok Strani]Foreigner}Hot Blooded=--start-time=3 http://www.youtube.com/watch?v=reDDyuEbkLM
@@ -14101,14 +14097,13 @@
 ﻿Rok Strani]Foreigner}Say You Will=http://www.youtube.com/watch?v=pX2UIC5nM2I
 ﻿Rok Strani]Foreigner}Seventeen=http://www.youtube.com/watch?v=r5dlK1_PQBo
 ﻿Rok Strani]Foreigner}She's Too Tough=http://www.youtube.com/watch?v=BR9yYLm_epQ
-﻿Rok Strani]Foreigner}Spellbinder=http://www.youtube.com/watch?v=6zvt72nuAbQ
+﻿Rok Strani]Foreigner}Spellbinder=http://www.youtube.com/watch?v=SiDRHEIQXc0
 ﻿Rok Strani]Foreigner}Stranger In My Own House=http://www.youtube.com/watch?v=Aa_hzZ1eHkc
 ﻿Rok Strani]Foreigner}That Was Yesterday=http://www.youtube.com/watch?v=vxz7UkOQ5v4
 ﻿Rok Strani]Foreigner}The Beat Of My Heart=http://www.youtube.com/watch?v=7WLfX8soYlI
 ﻿Rok Strani]Foreigner}The Damage Is Done=http://www.youtube.com/watch?v=eib94JjrNEw
 ﻿Rok Strani]Foreigner}The Flame Still Burns=http://www.youtube.com/watch?v=vBhq_BL-U2A
 ﻿Rok Strani]Foreigner}Too Late=http://www.youtube.com/watch?v=-9njObR8GhQ
-﻿Rok Strani]Foreigner}Tooth And Nail=http://www.youtube.com/watch?v=Bf_v7tfQdDM
 ﻿Rok Strani]Foreigner}Two Different Worlds=http://www.youtube.com/watch?v=KYrClIXHs8o
 ﻿Rok Strani]Foreigner}Under The Gun=http://www.youtube.com/watch?v=-Jrww3KG3TI
 ﻿Rok Strani]Foreigner}Until The End Of Time=http://www.youtube.com/watch?v=OngMpfcXmJs
@@ -14119,7 +14114,7 @@
 ﻿Rok Strani]Foreigner}Woman In Black=http://www.youtube.com/watch?v=iluMK_f4oks
 ﻿Rok Strani]Foreigner}Woman Oh Woman=http://www.youtube.com/watch?v=B88wdsmeABg
 ﻿Rok Strani]Foreigner}Women=http://www.youtube.com/watch?v=AS__G8y0-KM
-﻿Rok Strani]Foreigner}You're All I Am=http://www.youtube.com/watch?v=GJZfOWXiZ7w
+﻿Rok Strani]Foreigner}You're All I Am=http://www.youtube.com/watch?v=mo7c6lWofo4
 ﻿Rok Strani]Frank Zappa}'How The Pigs' Music Works'=http://www.youtube.com/watch?v=3VXuaczxYiw
 ﻿Rok Strani]Frank Zappa}'This Ain't CNN'=http://www.youtube.com/watch?v=37LYlMmquwo
 ﻿Rok Strani]Frank Zappa}'This Is All Wrong'=http://www.youtube.com/watch?v=6DMqHVQsQ3k
@@ -14230,7 +14225,7 @@
 ﻿Rok Strani]Frank Zappa}I Don't Even Care=http://www.youtube.com/watch?v=hVDyiHn3DVs
 ﻿Rok Strani]Frank Zappa}I Don't Wanna Get Drafted=http://www.youtube.com/watch?v=4Z0_6NVKDM0
 ﻿Rok Strani]Frank Zappa}I Have Been In You=http://www.youtube.com/watch?v=2NOFTbbJ3vA
-﻿Rok Strani]Frank Zappa}I'm A Beautiful Guy=http://www.youtube.com/watch?v=3gyR_GppNK4
+﻿Rok Strani]Frank Zappa}I'm A Beautiful Guy=http://www.youtube.com/watch?v=ddZCrvyx7zQ
 ﻿Rok Strani]Frank Zappa}I'm Not Satisfied=http://www.youtube.com/watch?v=JDD12WZcosI
 ﻿Rok Strani]Frank Zappa}I'm So Cute=http://www.youtube.com/watch?v=fHNV4Us7W00
 ﻿Rok Strani]Frank Zappa}I'm So Happy I Could Cry=http://www.youtube.com/watch?v=XSPJ4qa-wLQ
@@ -14604,7 +14599,7 @@
 ﻿Rok Strani]Green Day}Redundant=http://www.youtube.com/watch?v=WL7Pb4pylCk
 ﻿Rok Strani]Green Day}Reject=http://www.youtube.com/watch?v=f8MHwr5Yk7A
 ﻿Rok Strani]Green Day}Rest=http://www.youtube.com/watch?v=2nHUQENj4sA
-﻿Rok Strani]Green Day}Restless Heart Syndrome=http://www.youtube.com/watch?v=3d5aaXL75GM
+﻿Rok Strani]Green Day}Restless Heart Syndrome=http://www.youtube.com/watch?v=FY0Xo_lPIGo
 ﻿Rok Strani]Green Day}Road To Acceptance=http://www.youtube.com/watch?v=jmv5MFzc12M
 ﻿Rok Strani]Green Day}Rotting=http://www.youtube.com/watch?v=_Pfo-0FQRRk
 ﻿Rok Strani]Green Day}Rusty James=http://www.youtube.com/watch?v=_SGBsFh2mCc
@@ -16026,7 +16021,7 @@
 ﻿Rok Strani]Lenny Kravitz}If I Could Fall In Love=http://www.youtube.com/watch?v=I_u93kfu6gU
 ﻿Rok Strani]Lenny Kravitz}If You Can't Say No=http://www.youtube.com/watch?v=R_HTlJOy9YA
 ﻿Rok Strani]Lenny Kravitz}If You Want It=http://www.youtube.com/watch?v=E1_YOXU9FoM
-﻿Rok Strani]Lenny Kravitz}In My Life Today=http://www.youtube.com/watch?v=1DHJG6PWv7I
+﻿Rok Strani]Lenny Kravitz}In My Life Today=http://www.youtube.com/watch?v=geJwDrettFY
 ﻿Rok Strani]Lenny Kravitz}In The Black=http://www.youtube.com/watch?v=nsMO3ocr5oA
 ﻿Rok Strani]Lenny Kravitz}Is There Any Love In Your Heart=http://www.youtube.com/watch?v=iTlepKDyS_0
 ﻿Rok Strani]Lenny Kravitz}It Ain't Over 'Til It's Over=http://www.youtube.com/watch?v=mOSwWko-gIY
@@ -16080,7 +16075,7 @@
 ﻿Rok Strani]Lenny Kravitz}What Goes Around Comes Around=http://www.youtube.com/watch?v=yh-aoxDLEdw
 ﻿Rok Strani]Lenny Kravitz}What The Fuck Are We Saying=http://www.youtube.com/watch?v=rln4CJ-mjSY
 ﻿Rok Strani]Lenny Kravitz}Where Are We Runnin'?=http://www.youtube.com/watch?v=ZDY6HIssmck
-﻿Rok Strani]Lenny Kravitz}Will You Marry Me=http://www.youtube.com/watch?v=hmIRvVoVono
+﻿Rok Strani]Lenny Kravitz}Will You Marry Me=http://www.youtube.com/watch?v=8nwfVRKsIG8
 ﻿Rok Strani]Lenny Kravitz}You Were In My Heart=http://www.youtube.com/watch?v=oy9vHnNBEhQ
 ﻿Rok Strani]Lenny Kravitz}You're My Flavor=http://www.youtube.com/watch?v=eSE_YG4-bf8
 ﻿Rok Strani]Lita Ford}A Song To Slit Your Wrists By=http://www.youtube.com/watch?v=nK_rEtuWpwI
@@ -16602,7 +16597,6 @@
 ﻿Rok Strani]Megadeth}The Beginning Of Sorrow=http://www.youtube.com/watch?v=adO4BHapl1s
 ﻿Rok Strani]Megadeth}The Blackest Crow=http://www.youtube.com/watch?v=Mk4Eeu7-XFc
 ﻿Rok Strani]Megadeth}The Boots=http://www.youtube.com/watch?v=lYu36vlps60
-﻿Rok Strani]Megadeth}The Conjuring=http://www.youtube.com/watch?v=mKG3n19GdJI
 ﻿Rok Strani]Megadeth}The Disintegrators=http://www.youtube.com/watch?v=EYTy0mFD-vE
 ﻿Rok Strani]Megadeth}The Doctor Is Calling=http://www.youtube.com/watch?v=HHKWIn5aNvs
 ﻿Rok Strani]Megadeth}The Emperor=http://www.youtube.com/watch?v=bhdxSYNKY2A
