@@ -1108,6 +1108,7 @@
 ﻿Narodna]Maya Berović}Proleće=http://www.youtube.com/watch?v=7yAnGJ_6tpw
 ﻿Narodna]Maya Berović}Ruski rulet=http://www.youtube.com/watch?v=tE-nqOXoIv4
 ﻿Narodna]Maya Berović}Sahara=https://www.youtube.com/watch?v=DQ__pwhIpV0
+﻿Narodna]Maya Berović}Sama=--start-time=31 https://www.youtube.com/watch?v=P28vDj_KigQ
 ﻿Narodna]Maya Berović}Šta ja imam što te imam=http://www.youtube.com/watch?v=Fxrz2GbsmH4
 ﻿Narodna]Maya Berović}Ti si groznica=http://www.youtube.com/watch?v=_Jr062B4iBQ
 ﻿Narodna]Maya Berović}To me radi (Jala Brat & Buba Corelli)=--start-time=10 http://www.youtube.com/watch?v=tJ9AoYacRI0
@@ -1252,6 +1253,7 @@
 ﻿Narodna]Merima Njegomir}Što je lepo kad se neko voli=http://www.youtube.com/watch?v=a_pW4yzvqg8
 ﻿Narodna]Merima Njegomir}Svilen konac=http://www.youtube.com/watch?v=_Oh9vWWKFbc
 ﻿Narodna]Merima Njegomir}Zbog tebe=http://www.youtube.com/watch?v=AJMh75Pnj4o
+﻿Zabavna]Mia Borisavljević}Ave Cezare=https://www.youtube.com/watch?v=EJ7P3j40GXA
 ﻿Zabavna]Mia Borisavljević}Bumerang=http://www.youtube.com/watch?v=PEpCZCRuJOA
 ﻿Zabavna]Mia Borisavljević}Pričaju po gradu=https://www.youtube.com/watch?v=iaozwkx6X30
 ﻿Zabavna]Mia Borisavljević}Čovek mog života=http://www.youtube.com/watch?v=pevOsPG7EG8
@@ -1384,6 +1386,7 @@
 ﻿Zabavna]Milan Dinčić Dinča}Ti si žena za sva vremena=http://www.youtube.com/watch?v=ltdoLLZET8Q
 ﻿Zabavna]Milan Dinčić Dinča}Vratio sam se=http://www.youtube.com/watch?v=0EmVIiq6iiA
 ﻿Zabavna]Milan Dinčić Dinča}Zaljubio=http://www.youtube.com/watch?v=mS_gQN5U5YM
+﻿Zabavna]Milan Stanković}Brane mi te=https://www.youtube.com/watch?v=tiM5pzH3g74
 ﻿Zabavna]Milan Stanković}Ego (ft Jala & Buba)=--start-time=4 http://www.youtube.com/watch?v=4IN-VL_fxT4
 ﻿Zabavna]Milan Stanković}Face=--start-time=5 http://www.youtube.com/watch?v=067F_Mwi7lE
 ﻿Zabavna]Milan Stanković}Faktor rizika=http://www.youtube.com/watch?v=mV6FWayov7c
@@ -7461,6 +7464,7 @@
 ﻿Zabavna]Severina}Dobrodošao u klub=http://www.youtube.com/watch?v=sXmXzGN-NZI
 ﻿Zabavna]Severina}Gas gas=http://www.youtube.com/watch?v=9vNoEEv8JdU
 ﻿Zabavna]Severina}Generale=http://www.youtube.com/watch?v=_MAz-gOjeb0
+﻿Zabavna]Severina}Halo=https://www.youtube.com/watch?v=RjYs1RtdZ3o
 ﻿Zabavna]Severina}Haljinica boje lila=http://www.youtube.com/watch?v=2SU5qtIuZ3M
 ﻿Zabavna]Severina}Hazarder (ft. Leon)=--start-time=14 http://www.youtube.com/watch?v=ZjYU1e-5e5A
 ﻿Zabavna]Severina}Italiana=http://www.youtube.com/watch?v=NyqXia8XTfI
@@ -9857,6 +9861,7 @@
 ﻿Zabavna]Vuk Mob}Manijak=--start-time=6 http://www.youtube.com/watch?v=Gfa4FlqP1Ss
 ﻿Zabavna]Vuk Mob}Miševi kolo vode=--start-time=6 https://www.youtube.com/watch?v=7ZV-dufuUYA
 ﻿Zabavna]Vuk Mob}Moje oči lažu=--start-time=5 http://www.youtube.com/watch?v=AhUmN8CoGYg
+﻿Zabavna]Vuk Mob}Prete mi=--start-time=6 https://www.youtube.com/watch?v=FWEdLgvbmIg
 ﻿Zabavna]Vuk Mob}Proklet rođen (ft. Dragana Mirković)=--start-time=6 https://www.youtube.com/watch?v=k_mkAs7Gt8s
 ﻿Zabavna]Vuk Mob}Senke=--start-time=32 http://www.youtube.com/watch?v=keYtpsJENP4
 ﻿Zabavna]Vuk Mob}Vatikan=--start-time=6 http://www.youtube.com/watch?v=TZ57w6TX_fo
