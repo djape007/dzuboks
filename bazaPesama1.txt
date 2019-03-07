@@ -9,35 +9,34 @@
 ﻿Rep]187}Sex=https://www.youtube.com/watch?v=GLO63pm-fqg
 ﻿Rep]187}Bludni sin=https://www.youtube.com/watch?v=dQ_QzcfVwxA
 ﻿Rep]187}Turbulencija=https://www.youtube.com/watch?v=p--oWxdQVdM
-﻿Rep]187}Kako me želiš=https://www.youtube.com/watch?v=M_iztGIAygU
+﻿Rep]187}Kako me želiš=http://www.youtube.com/watch?v=razxb_OrSJY
 ﻿Rep]187}Mačke=https://www.youtube.com/watch?v=YX0O0ErOUUE
-﻿Rep]187}Princeza sa asfalta=--start-time=8 https://www.youtube.com/watch?v=qiqiMGPazIg
-﻿Rep]187}U senci=https://www.youtube.com/watch?v=YrNEPY2uWjU
+﻿Rep]187}Princeza sa asfalta=http://www.youtube.com/watch?v=GzbutkGmi9Y
+﻿Rep]187}U senci=http://www.youtube.com/watch?v=6GIn9Au-gEs
 ﻿Rep]187}Tamna strana=https://www.youtube.com/watch?v=bgD4RvRbR18
 ﻿Rep]187}Lavovi=https://www.youtube.com/watch?v=hsPGdLbecZM
 ﻿Rep]187}Pumpaj=https://www.youtube.com/watch?v=NtPA4aI4Dco
 ﻿Rep]187}Tvoja devojka=https://www.youtube.com/watch?v=qgy1pfZN0No
-﻿Rep]187}Kockar=https://www.youtube.com/watch?v=mZXXr20GAE0
 ﻿Rep]187}Fiesta=https://www.youtube.com/watch?v=Hj9HbD-F3uI
 ﻿Rep]187}Tel-fan=https://www.youtube.com/watch?v=ECsfzFwJBnk
 ﻿Rep]187}Mrziš me (ft. Gru)=https://www.youtube.com/watch?v=rybCTcgstrg
-﻿Rep]187}Život ide dalje=https://www.youtube.com/watch?v=Utk2QYJFasU
-﻿Rep]187}Život posle smrti=https://www.youtube.com/watch?v=6KMMxvx34P8
+﻿Rep]187}Život ide dalje=http://www.youtube.com/watch?v=3sjvY_tXPHQ
+﻿Rep]187}Život posle smrti=http://www.youtube.com/watch?v=cpg1ubqEUxM
 ﻿Rep]187}Zatvorena usta=https://www.youtube.com/watch?v=hUBGOWCc9hQ
 ﻿Rep]187}Otela ga tama=https://www.youtube.com/watch?v=pE0toSRl0tU
-﻿Rep]187}Crni grad=https://www.youtube.com/watch?v=byOu1LRW-PI
+﻿Rep]187}Crni grad=http://www.youtube.com/watch?v=6NCwqY56PgM
 ﻿Rep]187}Oprosti=https://www.youtube.com/watch?v=1gbpkHh0HA4
 ﻿Rep]187}Nemoj otići=https://www.youtube.com/watch?v=nKZWWRI44Hc
-﻿Rep]187}Vrhovni predator=https://www.youtube.com/watch?v=YvhlxAqWGqA
-﻿Rep]187}Opomena=https://www.youtube.com/watch?v=S2-q-UjNd9Q
-﻿Rep]187}Heroina=https://www.youtube.com/watch?v=jajLcSZagz4
+﻿Rep]187}Vrhovni predator=http://www.youtube.com/watch?v=EcRpVKqzSwQ
+﻿Rep]187}Opomena=http://www.youtube.com/watch?v=TPRkQxYNAYg
+﻿Rep]187}Heroina=http://www.youtube.com/watch?v=GTI8IBH0Eog
 ﻿Rep]187}U jednom dahu=https://www.youtube.com/watch?v=btNbd9U_vSo
 ﻿Rep]187}Da li osećaš=http://www.youtube.com/watch?v=URo9vGegfDs
 ﻿Rep]187}Sada znam=http://www.youtube.com/watch?v=B-RsDuyCHmg
 ﻿Rep]187}Beskrajan san=https://www.youtube.com/watch?v=dH2NSU7f2D0
 ﻿Rep]187}Tamo uvek si ti=https://www.youtube.com/watch?v=TX99dpctAN4
-﻿Rep]187}Istina boli=https://www.youtube.com/watch?v=Qdr42KsJbu0
-﻿Rep]187}Prokleto sam=https://www.youtube.com/watch?v=FAp_x6y0y5c
+﻿Rep]187}Istina boli=http://www.youtube.com/watch?v=JrtgeZC0o9g
+﻿Rep]187}Prokleto sam=http://www.youtube.com/watch?v=18XosiLuc0g
 ﻿Rep]187}Pesma za sve=https://www.youtube.com/watch?v=YboNpTYb0Y0
 ﻿Rok]357}Tebe sam voleo=https://www.youtube.com/watch?v=ajqKDBqqibI
 ﻿Rok]357}Tvoje oči=https://www.youtube.com/watch?v=JFy9Nl0CLEQ
@@ -50,7 +49,7 @@
 ﻿Rok]357}Na Gazimestanu=https://www.youtube.com/watch?v=Ssezbxt4APk
 ﻿Rok]357}Hriste Bože=https://www.youtube.com/watch?v=OfI1cxAuiq0
 ﻿Rok]357}Da li znaš ko te ljubi silno=https://www.youtube.com/watch?v=OJBC4vtcA3I
-﻿Rok]357}Dan Svetog Ilije=https://www.youtube.com/watch?v=KqErRMBAuwQ
+﻿Rok]357}Dan Svetog Ilije=http://www.youtube.com/watch?v=BiAI3P8-Jhk
 ﻿Rok]357}Can't get you out of my head=https://www.youtube.com/watch?v=taDyTHhcN6Y
 ﻿Rok]357}4 zida=https://www.youtube.com/watch?v=TKSipxv6Gys
 ﻿Rok]357}Znaš li ko te ljubi silno=https://www.youtube.com/watch?v=OJBC4vtcA3I
@@ -67,7 +66,7 @@
 ﻿Rok]357}Pesma o Svetom Savi=https://www.youtube.com/watch?v=KLtAboLk-fc
 ﻿Rok]357}Noćas mi srce pati=https://www.youtube.com/watch?v=zON0Du-Bnh4
 ﻿Rok]357}Nema nas=https://www.youtube.com/watch?v=Tnv0D94i4uM
-﻿Rok]357}Čudan san=https://www.youtube.com/watch?v=MBYXPa3hCk4
+﻿Rok]357}Čudan san=http://www.youtube.com/watch?v=T8O3rSgjPIc
 ﻿Rok]357}Blesava=https://www.youtube.com/watch?v=NzEeMW4rSvc
 ﻿Rok]357}Super dama=https://www.youtube.com/watch?v=sF5kIdo8NCk
 ﻿Rok]357}Na punom mesecu=https://www.youtube.com/watch?v=w2nUh6RKLvQ
@@ -141,7 +140,7 @@
 ﻿Narodna]Aca Ilić}Tugu ne tugujem=http://www.youtube.com/watch?v=u2Wgb5PkwX8
 ﻿Narodna]Aca Ilić}Vara zora=http://www.youtube.com/watch?v=7D8l-qwrBuI
 ﻿Narodna]Aca Ilić}Vrati se, ljubavi moja=http://www.youtube.com/watch?v=LahjF85rNXY
-﻿Narodna]Aca Ilić}Zakucaću ja na vrata njena=http://www.youtube.com/watch?v=rZg7RFGIUfA
+﻿Narodna]Aca Ilić}Zakucaću ja na vrata njena=http://www.youtube.com/watch?v=FDfqtEG6wqU
 ﻿Narodna]Aca Ilić}Zato idem u kafanu=http://www.youtube.com/watch?v=OO__6b6-G5E
 ﻿Narodna]Aca Ilić}Zbogom mala=http://www.youtube.com/watch?v=xpb-PmcOAKg
 ﻿Narodna]Aca Ilić}Željo moja najveća=http://www.youtube.com/watch?v=bDjXUR4tTKA
@@ -159,7 +158,6 @@
 ﻿Narodna]Aca Lukas}Blamiraš me=http://www.youtube.com/watch?v=bs4l9ODrdtI
 ﻿Narodna]Aca Lukas}Burbon=http://www.youtube.com/watch?v=QtGv_szq75o
 ﻿Narodna]Aca Lukas}By pass=http://www.youtube.com/watch?v=H7cgl3XlhzM
-﻿Narodna]Aca Lukas}Chivas=http://www.youtube.com/watch?v=89xh6wxE0Xs
 ﻿Narodna]Aca Lukas}Crni zid=http://www.youtube.com/watch?v=IWeL15VMCL4
 ﻿Narodna]Aca Lukas}Da me je ona volela=--start-time=5 http://www.youtube.com/watch?v=sISE_oNaOIA
 ﻿Narodna]Aca Lukas}Da mi je bolja sudbina=http://www.youtube.com/watch?v=7t7hLhB5pPU
@@ -236,7 +234,6 @@
 ﻿Narodna]Aca Lukas}Tuđa si odavno=http://www.youtube.com/watch?v=-DzRhnz54K8
 ﻿Narodna]Aca Lukas}Udari prva=http://www.youtube.com/watch?v=EKiaUbU8xKY
 ﻿Narodna]Aca Lukas}Umri u samoći=http://www.youtube.com/watch?v=DsftoGr-0EQ
-﻿Narodna]Aca Lukas}Upali svetlo=http://www.youtube.com/watch?v=g11SWstMDHI
 ﻿Narodna]Aca Lukas}Usluga za uslugu=http://www.youtube.com/watch?v=OO4JDfkE1NE
 ﻿Narodna]Aca Lukas}Voliš li me=--start-time=7 http://www.youtube.com/watch?v=qF0fiNqQuDQ
 ﻿Narodna]Aca Lukas}Voljena=http://www.youtube.com/watch?v=lplNkjbRYOs
@@ -584,7 +581,6 @@
 ﻿Zabavna]Alen Islamović}Da sam te manje volio=http://www.youtube.com/watch?v=ReNYRJ34xtw
 ﻿Zabavna]Alen Islamović}Divlje godine=http://www.youtube.com/watch?v=sgZHF1DJc1o
 ﻿Zabavna]Alen Islamović}Dragocjena moja=http://www.youtube.com/watch?v=ILpzmGPlc9Y
-﻿Zabavna]Alen Islamović}Eh da mi je...=http://www.youtube.com/watch?v=3ASA1vY0kBg
 ﻿Zabavna]Alen Islamović}Ej ljubomoro=http://www.youtube.com/watch?v=ca16ZZFzZbQ
 ﻿Zabavna]Alen Islamović}Haj nek se čuje=http://www.youtube.com/watch?v=svhX1B-O6aI
 ﻿Zabavna]Alen Islamović}Hajde ljepoto=http://www.youtube.com/watch?v=NUCv_nl-RrA
@@ -1086,7 +1082,7 @@
 ﻿Narodna]Ana Bekuta}Zakon ljubavi=http://www.youtube.com/watch?v=yQAhuWlgNb4
 ﻿Narodna]Ana Bekuta}Zanele te noći=http://www.youtube.com/watch?v=yoP7RSQ8EJs
 ﻿Narodna]Ana Bekuta}Zastani, živote=--start-time=5 https://www.youtube.com/watch?v=aMuOTlXjsj0
-﻿Narodna]Ana Bekuta}Zavoleh te=http://www.youtube.com/watch?v=ilNqyaqPsxI
+﻿Narodna]Ana Bekuta}Zavoleh te=http://www.youtube.com/watch?v=LDu0N82CZrQ
 ﻿Narodna]Ana Bekuta}Zelene oči=http://www.youtube.com/watch?v=EsOgNMlVzqE
 ﻿Narodna]Ana Bekuta}Zeman=http://www.youtube.com/watch?v=lmMgQUS0jsI
 ﻿Narodna]Ana Bekuta}Zlatiborske zore=http://www.youtube.com/watch?v=6bpOkespBPs
@@ -1645,7 +1641,7 @@
 ﻿Krajiska]Baja Mali Knindža}Kopačke=http://www.youtube.com/watch?v=pMh5mEV6k9U
 ﻿Krajiska]Baja Mali Knindža}Krajišnik i Srbijanka=http://www.youtube.com/watch?v=kjCHzyV37SM
 ﻿Krajiska]Baja Mali Knindža}Kuća časti=http://www.youtube.com/watch?v=ly7MwQ_KRAM
-﻿Krajiska]Baja Mali Knindža}Kume=http://www.youtube.com/watch?v=SncbKZJY9qs
+﻿Krajiska]Baja Mali Knindža}Kume=http://www.youtube.com/watch?v=gPDGugEffMA
 ﻿Krajiska]Baja Mali Knindža}Kune majka sina Rajka=http://www.youtube.com/watch?v=T4uVL6Iiskg
 ﻿Krajiska]Baja Mali Knindža}Lepo nam je reko Sveti Sava=http://www.youtube.com/watch?v=NhpJTz9vjQY
 ﻿Krajiska]Baja Mali Knindža}Ljubav preko žice=http://www.youtube.com/watch?v=cR_oXzEXCgY
@@ -1665,7 +1661,7 @@
 ﻿Krajiska]Baja Mali Knindža}Nisu moje ni bile=http://www.youtube.com/watch?v=pce4bYeq-EI
 ﻿Krajiska]Baja Mali Knindža}O, Bože, gde li je sad=http://www.youtube.com/watch?v=udOILdD7xNA
 ﻿Krajiska]Baja Mali Knindža}Oj, Šešelju=http://www.youtube.com/watch?v=aEMBP_BxONg
-﻿Krajiska]Baja Mali Knindža}Oj, kako sam=http://www.youtube.com/watch?v=qoIu4ORQVLk
+﻿Krajiska]Baja Mali Knindža}Oj, kako sam=http://www.youtube.com/watch?v=8JGVtk0_H88
 ﻿Krajiska]Baja Mali Knindža}Oj, mladosti=http://www.youtube.com/watch?v=IsMQyqmrl74
 ﻿Krajiska]Baja Mali Knindža}Opanak=http://www.youtube.com/watch?v=fNPzwIhDdbQ
 ﻿Krajiska]Baja Mali Knindža}Ostani=http://www.youtube.com/watch?v=6OHSxInMe1k
@@ -1709,7 +1705,6 @@
 ﻿Krajiska]Baja Mali Knindža}Zaljubljeno srce=http://www.youtube.com/watch?v=MrrEYdQZxNU
 ﻿Krajiska]Baja Mali Knindža}Zatvor=http://www.youtube.com/watch?v=aQA8rSbdcVY
 ﻿Krajiska]Baja Mali Knindža}Znam te puško=http://www.youtube.com/watch?v=WSPB3L9EanQ
-﻿Krajiska]Baja Mali Knindža}Zove Dinara=http://www.youtube.com/watch?v=dwKAgreB7JA
 ﻿Rok]Bajaga}220 u voltima=http://www.youtube.com/watch?v=E60GKcxnzBw
 ﻿Rok]Bajaga}442 do Beograda=http://www.youtube.com/watch?v=mH_fAHk4u-g
 ﻿Rok]Bajaga}Ako treba da je kraj=http://www.youtube.com/watch?v=dDYfd9uUnq0
@@ -1725,7 +1720,6 @@
 ﻿Rok]Bajaga}Dvadeseti vek=http://www.youtube.com/watch?v=AoZawzKowEE
 ﻿Rok]Bajaga}Extasy, pazi=http://www.youtube.com/watch?v=PUF9FYYAmVg
 ﻿Rok]Bajaga}Francuska ljubavna revolucija=http://www.youtube.com/watch?v=0PCQKRkpR9s
-﻿Rok]Bajaga}Funky taxi=http://www.youtube.com/watch?v=hqmsN_nYspI
 ﻿Rok]Bajaga}Gde si=http://www.youtube.com/watch?v=wvP9N5GjjN8
 ﻿Rok]Bajaga}Gde stiže moje sećanje=http://www.youtube.com/watch?v=xkkKExMisiI
 ﻿Rok]Bajaga}Godine prolaze=http://www.youtube.com/watch?v=RTpG8Xn5ObU
@@ -2646,7 +2640,7 @@
 ﻿Rok]Brkovi}Slušaj sada dobro=http://www.youtube.com/watch?v=7FBRW1on03A
 ﻿Rok]Brkovi}Srećo laku noć, dobro jutro tugo=http://www.youtube.com/watch?v=1sO4bF2RAVc
 ﻿Rok]Brkovi}Sudbina=http://www.youtube.com/watch?v=5o8UwG3k4H0
-﻿Rok]Brkovi}Švaler=http://www.youtube.com/watch?v=npw5aUpvSQc
+﻿Rok]Brkovi}Švaler=http://www.youtube.com/watch?v=J93kO4lj-kI
 ﻿Rok]Brkovi}Tolerancija=http://www.youtube.com/watch?v=O7bsXdj0LOA
 ﻿Rok]Brkovi}Usamljen oženjen=http://www.youtube.com/watch?v=uhozdNJqgVo
 ﻿Rok]Brkovi}Uspomene=http://www.youtube.com/watch?v=U0gkuQTGqS8
@@ -2676,10 +2670,10 @@
 ﻿Narodna]Ćana}Anonimna poruka=http://www.youtube.com/watch?v=nYdlX-vOt9c
 ﻿Narodna]Ćana}Autogram=http://www.youtube.com/watch?v=CAOo8bc9TTI
 ﻿Narodna]Ćana}Blam, blam=http://www.youtube.com/watch?v=1qA6FwZbQ9g
-﻿Narodna]Ćana}Bog ljubavi=http://www.youtube.com/watch?v=e6tcFU3XNr0
+﻿Narodna]Ćana}Bog ljubavi=http://www.youtube.com/watch?v=rYDf_SUqsSo
 ﻿Narodna]Ćana}Biće svega samo neće nas=https://www.youtube.com/watch?v=wT9ysrXFfZA
 ﻿Narodna]Ćana}Božić=http://www.youtube.com/watch?v=QfhL7ZnKWC8
-﻿Narodna]Ćana}Cica bogatašica=http://www.youtube.com/watch?v=c7zrK75NtdI
+﻿Narodna]Ćana}Cica bogatašica=http://www.youtube.com/watch?v=e1cO6sqpACU
 ﻿Narodna]Ćana}Crvena linija=--start-time=9 https://www.youtube.com/watch?v=pPeeoNiIW4A
 ﻿Narodna]Ćana}Čudni ljudi, čudno vreme=http://www.youtube.com/watch?v=K_4KlS6des4
 ﻿Narodna]Ćana}Devet i po nedelja=http://www.youtube.com/watch?v=mna9ymt3pZc
@@ -2713,7 +2707,7 @@
 ﻿Narodna]Ćana}Nije lako biti žena=https://www.youtube.com/watch?v=vvMahv_RHkc
 ﻿Narodna]Ćana}Nisi više ni za kletvu=http://www.youtube.com/watch?v=vHS3KDLjVao
 ﻿Narodna]Ćana}Pismo=http://www.youtube.com/watch?v=t3LoSeK6DiU
-﻿Narodna]Ćana}Pokajanje=http://www.youtube.com/watch?v=gV4mSVYWRqM
+﻿Narodna]Ćana}Pokajanje=http://www.youtube.com/watch?v=YJNKDSgQMZc
 ﻿Narodna]Ćana}Pomozi mi=http://www.youtube.com/watch?v=1LQIiN9PomQ
 ﻿Narodna]Ćana}Prava familija=http://www.youtube.com/watch?v=2Tz0SX7opT4
 ﻿Narodna]Ćana}Predskazanje=http://www.youtube.com/watch?v=zoTNWbxVjQo
@@ -2726,10 +2720,10 @@
 ﻿Narodna]Ćana}Stidi se, stidi=http://www.youtube.com/watch?v=EuMZHVM_zTU
 ﻿Narodna]Ćana}Što mi se ne javljaš=http://www.youtube.com/watch?v=uG9dlWq7Dkg
 ﻿Narodna]Ćana}Što me ne gledaš=http://www.youtube.com/watch?v=9o31sQLFYlI
-﻿Narodna]Ćana}Suparnica=http://www.youtube.com/watch?v=y36XnsKJtws
+﻿Narodna]Ćana}Suparnica=http://www.youtube.com/watch?v=kpzneYoqq1U
 ﻿Narodna]Ćana}Sve je moje tamo=http://www.youtube.com/watch?v=G0IVpkNkEGo
 ﻿Narodna]Ćana}Sve smo mogli mi=http://www.youtube.com/watch?v=a2SYpcMAhfg
-﻿Narodna]Ćana}Sveznalica=http://www.youtube.com/watch?v=VNWXb7RpS4M
+﻿Narodna]Ćana}Sveznalica=http://www.youtube.com/watch?v=a44sV76mBRE
 ﻿Narodna]Ćana}Taoci inata=http://www.youtube.com/watch?v=GSvcpWO5KPY
 ﻿Narodna]Ćana}Teci, teci prema meni=http://www.youtube.com/watch?v=2AKE-y1BVfQ
 ﻿Narodna]Ćana}Tek sad živim=http://www.youtube.com/watch?v=podaeVXn8Nk
@@ -2830,13 +2824,13 @@
 ﻿Narodna]Ceca}Netačan odgovor=http://www.youtube.com/watch?v=KBPeu6ffQ_s
 ﻿Narodna]Ceca}Nevaljala=http://www.youtube.com/watch?v=f1JesuWCpc0
 ﻿Narodna]Ceca}Nevinost=http://www.youtube.com/watch?v=56Dyt4c_yHc
-﻿Narodna]Ceca}Nije mi dobro=http://www.youtube.com/watch?v=LzTKENaNBuk
+﻿Narodna]Ceca}Nije mi dobro=http://www.youtube.com/watch?v=7vAlGGw39-Q
 ﻿Narodna]Ceca}Nije monotonija=http://www.youtube.com/watch?v=nzF2zABcKLQ
 ﻿Narodna]Ceca}Noćas kuća časti=http://www.youtube.com/watch?v=0frvFNo1_l4
 ﻿Narodna]Ceca}Očima te pijem=http://www.youtube.com/watch?v=55LLWRD1nEQ
 ﻿Narodna]Ceca}Od glave do pete=http://www.youtube.com/watch?v=pMS2_vTEh2k
 ﻿Narodna]Ceca}Od tebe ne znam da se oporavim=http://www.youtube.com/watch?v=kEw2iQPKtuk
-﻿Narodna]Ceca}Ona=http://www.youtube.com/watch?v=CIS9ekgTu7Y
+﻿Narodna]Ceca}Ona=http://www.youtube.com/watch?v=rJbQgzrFXco
 ﻿Narodna]Ceca}Oproštajna večera=http://www.youtube.com/watch?v=pfdNbabc_0M
 ﻿Narodna]Ceca}Oprosti mi suze=http://www.youtube.com/watch?v=F5HqiaOs_jQ
 ﻿Narodna]Ceca}Pazi s' kime spavaš=http://www.youtube.com/watch?v=3zlh70gairg
@@ -2860,7 +2854,7 @@
 ﻿Narodna]Ceca}Šteta za mene=http://www.youtube.com/watch?v=vdzNDM_rGh4
 ﻿Narodna]Ceca}Sto put' sam se zaklela=http://www.youtube.com/watch?v=5G6_52M_nsw
 ﻿Narodna]Ceca}Što si tako zaboravan=http://www.youtube.com/watch?v=YPCpsIzT2zo
-﻿Narodna]Ceca}Sve što imam i nemam=http://www.youtube.com/watch?v=Mic21x18GL4
+﻿Narodna]Ceca}Sve što imam i nemam=http://www.youtube.com/watch?v=LYYu5fBB1Pw
 ﻿Narodna]Ceca}Sve u svoje vreme=http://www.youtube.com/watch?v=d0e1SP_DDsA
 ﻿Narodna]Ceca}Sviće dan=http://www.youtube.com/watch?v=G39eoU1579k
 ﻿Narodna]Ceca}Tačno je=http://www.youtube.com/watch?v=-fL-X-f1xBg
@@ -3392,7 +3386,7 @@
 ﻿Zabavna]Dado Polumenta}Lanjski snjegovi=http://www.youtube.com/watch?v=d-KixmUPyrc
 ﻿Zabavna]Dado Polumenta}Lažna imena=http://www.youtube.com/watch?v=UUIYdQcFJM0
 ﻿Zabavna]Dado Polumenta}Lepa je da boli=http://www.youtube.com/watch?v=aMxjmv9MrQo
-﻿Zabavna]Dado Polumenta}Ljetna kiša=http://www.youtube.com/watch?v=IFeVgozOoGw
+﻿Zabavna]Dado Polumenta}Ljetna kiša=http://www.youtube.com/watch?v=tOYdmTSAZFs
 ﻿Zabavna]Dado Polumenta}Luče malo=http://www.youtube.com/watch?v=DO7zWKphP2s
 ﻿Zabavna]Dado Polumenta}Ma briga me za sve to=http://www.youtube.com/watch?v=puqnhpFZka0
 ﻿Zabavna]Dado Polumenta}Majka=http://www.youtube.com/watch?v=gjCRoV5PeoQ
@@ -3679,7 +3673,7 @@
 ﻿Narodna]Dara Bubamara}Da nije ovo srce u grudima=http://www.youtube.com/watch?v=1tzlRFb0wDY
 ﻿Narodna]Dara Bubamara}Delete=http://www.youtube.com/watch?v=fdUax2tdBlc
 ﻿Narodna]Dara Bubamara}Diskonekt=http://www.youtube.com/watch?v=-f8Th8Sk_ww
-﻿Narodna]Dara Bubamara}Dobro jutro nikome=http://www.youtube.com/watch?v=Y9boIJOUWVY
+﻿Narodna]Dara Bubamara}Dobro jutro nikome=http://www.youtube.com/watch?v=vnkEFc0exOQ
 ﻿Narodna]Dara Bubamara}Dodirni me=http://www.youtube.com/watch?v=1ZVSw2nDAHQ
 ﻿Narodna]Dara Bubamara}Dosada=http://www.youtube.com/watch?v=727C69nvMoo
 ﻿Narodna]Dara Bubamara}Dunav=http://www.youtube.com/watch?v=LV9lrQglC1Y
@@ -4039,7 +4033,7 @@
 ﻿Narodna]Dejan Matić}Rulet ljubavi=http://www.youtube.com/watch?v=ZHtiCtWV0Kg
 ﻿Narodna]Dejan Matić}Ruža=http://www.youtube.com/watch?v=hY6b7Ftin3c
 ﻿Narodna]Dejan Matić}Sad vatru gasim vatrom=http://www.youtube.com/watch?v=VO6TWYeiHyU
-﻿Narodna]Dejan Matić}Sinonim za ljubav=http://www.youtube.com/watch?v=pvOii7OrN8g
+﻿Narodna]Dejan Matić}Sinonim za ljubav=http://www.youtube.com/watch?v=OugozmWW7oM
 ﻿Narodna]Dejan Matić}Sledeća=http://www.youtube.com/watch?v=fOw8DH2d6SU
 ﻿Narodna]Dejan Matić}Sve bih ti dao=http://www.youtube.com/watch?v=YegQJH2tSuo
 ﻿Narodna]Dejan Matić}Ta lepa žena neverna=http://www.youtube.com/watch?v=bll5d-LzhbQ
@@ -4149,7 +4143,7 @@
 ﻿Zabavna]Dino Merlin}Da šutiš=http://www.youtube.com/watch?v=GoBFg2ljpQw
 ﻿Zabavna]Dino Merlin}Deset mlađa=http://www.youtube.com/watch?v=26LN92sp0ak
 ﻿Zabavna]Dino Merlin}E, otkad mi se nisi javila=http://www.youtube.com/watch?v=qGcu5LLwTpE
-﻿Zabavna]Dino Merlin}Fotografija=http://www.youtube.com/watch?v=W51xsWtpuZI
+﻿Zabavna]Dino Merlin}Fotografija=http://www.youtube.com/watch?v=vQyZkhWpcUQ
 ﻿Zabavna]Dino Merlin}Hajde noćas mi dođi=http://www.youtube.com/watch?v=P90YRnKtU6o
 ﻿Zabavna]Dino Merlin}Hitna=http://www.youtube.com/watch?v=ydVODnBoWyM
 ﻿Zabavna]Dino Merlin}Hotel Nacional=http://www.youtube.com/watch?v=WlAbW4rnzh0
@@ -4530,119 +4524,113 @@
 ﻿Zabavna]Đomla KS}Zakintos=http://www.youtube.com/watch?v=4YWN68WcGaI
 ﻿Zabavna]Đomla KS}Zaspali su svi=http://www.youtube.com/watch?v=VvD281sEZ-s
 ﻿Zabavna]Đomla KS}Život je muzika=http://www.youtube.com/watch?v=Wr3760E8qmg
-﻿Kantautori]Đorđe Balašević}1987=http://www.youtube.com/watch?v=4afMIOpRRqI
+﻿Kantautori]Đorđe Balašević}1987=http://www.youtube.com/watch?v=KEg6NozUT4Q
 ﻿Kantautori]Đorđe Balašević}Aco Braco=http://www.youtube.com/watch?v=qZQE4m7mqZ4
-﻿Kantautori]Đorđe Balašević}Al' se nekad dobro jelo=http://www.youtube.com/watch?v=9aeChZPnvwE
+﻿Kantautori]Đorđe Balašević}Al' se nekad dobro jelo=http://www.youtube.com/watch?v=kDnRsd-4Ksw
 ﻿Kantautori]Đorđe Balašević}Anđela=http://www.youtube.com/watch?v=eEs_9ts1nNk
 ﻿Kantautori]Đorđe Balašević}Anita=http://www.youtube.com/watch?v=vZf_23vnUAg
 ﻿Kantautori]Đorđe Balašević}Ankica=http://www.youtube.com/watch?v=vhqWE-kdz4g
-﻿Kantautori]Đorđe Balašević}Baby blue=http://www.youtube.com/watch?v=KXqcuQjFC0c
-﻿Kantautori]Đorđe Balašević}Badnje veče=http://www.youtube.com/watch?v=WB9BNVlLocg
+﻿Kantautori]Đorđe Balašević}Baby blue=http://www.youtube.com/watch?v=VHLQfu4XS0A
+﻿Kantautori]Đorđe Balašević}Badnje veče=http://www.youtube.com/watch?v=BEvf9i2SH_k
 ﻿Kantautori]Đorđe Balašević}Balkanski tango=http://www.youtube.com/watch?v=bEbvYITQLqY
 ﻿Kantautori]Đorđe Balašević}Baronov bal=https://www.youtube.com/watch?v=mQ-OErSPl-4
 ﻿Kantautori]Đorđe Balašević}Bećarac=http://www.youtube.com/watch?v=BQN6nkmtHXI
-﻿Kantautori]Đorđe Balašević}Bela lađa=http://www.youtube.com/watch?v=ZxFniXAWvak
+﻿Kantautori]Đorđe Balašević}Bela lađa=http://www.youtube.com/watch?v=VStcpbYl0lI
 ﻿Kantautori]Đorđe Balašević}Berba '59.=http://www.youtube.com/watch?v=P94kfYfnAJE
-﻿Kantautori]Đorđe Balašević}Blues mutne vode=http://www.youtube.com/watch?v=8wlioSWfzdk
-﻿Kantautori]Đorđe Balašević}Boža zvani pub=http://www.youtube.com/watch?v=D3tZmUOJ2Ro
+﻿Kantautori]Đorđe Balašević}Blues mutne vode=http://www.youtube.com/watch?v=L7zxUWUDnuA
+﻿Kantautori]Đorđe Balašević}Boža zvani pub=http://www.youtube.com/watch?v=BudvCadi5YA
 ﻿Kantautori]Đorđe Balašević}Bože, Bože=http://www.youtube.com/watch?v=GJ_1JC1erAE
-﻿Kantautori]Đorđe Balašević}Brakolomac=http://www.youtube.com/watch?v=J2zbUg1k7Kg
+﻿Kantautori]Đorđe Balašević}Brakolomac=http://www.youtube.com/watch?v=C-Y4QnzbJQo
 ﻿Kantautori]Đorđe Balašević}Budimpeštanski sneg=http://www.youtube.com/watch?v=vZf_23vnUAg
 ﻿Kantautori]Đorđe Balašević}Čekajući Montenegro Express=http://www.youtube.com/watch?v=jkL53jxrUJo
-﻿Kantautori]Đorđe Balašević}Celovečernji the Kid=http://www.youtube.com/watch?v=ZP00qqcZ1s0
+﻿Kantautori]Đorđe Balašević}Celovečernji the Kid=http://www.youtube.com/watch?v=LJkG8SXbkHA
 ﻿Kantautori]Đorđe Balašević}Citron pesma=http://www.youtube.com/watch?v=bjTG28pO-L0
 ﻿Kantautori]Đorđe Balašević}Čivutski vrt=http://www.youtube.com/watch?v=nh_KK621xiA
 ﻿Kantautori]Đorđe Balašević}Čovek za kog se udala Buba Erdeljan=http://www.youtube.com/watch?v=6GhevHnRljM
-﻿Kantautori]Đorđe Balašević}Crni labud=http://www.youtube.com/watch?v=Veeb0Zq3FsE
+﻿Kantautori]Đorđe Balašević}Crni labud=http://www.youtube.com/watch?v=AE3LZE5lEgY
 ﻿Kantautori]Đorđe Balašević}D-moll=http://www.youtube.com/watch?v=P0-tehD88bQ
 ﻿Kantautori]Đorđe Balašević}Divlji badem=http://www.youtube.com/watch?v=oUBdJtMSV24
 ﻿Kantautori]Đorđe Balašević}Dno dna=http://www.youtube.com/watch?v=5H3mZmRwNnA
 ﻿Kantautori]Đorđe Balašević}Dođoška=http://www.youtube.com/watch?v=QqE7BB5wkPU
 ﻿Kantautori]Đorđe Balašević}Dok gori nebo nad Novim Sadom=http://www.youtube.com/watch?v=lW-cMIoe7aM
-﻿Kantautori]Đorđe Balašević}Drago mi je zbog mog starog=http://www.youtube.com/watch?v=07SKRspuj4g
+﻿Kantautori]Đorđe Balašević}Drago mi je zbog mog starog=http://www.youtube.com/watch?v=ulMbSLau5-s
 ﻿Kantautori]Đorđe Balašević}Drvena pesma=http://www.youtube.com/watch?v=ZQ1c9vdY2Zg
 ﻿Kantautori]Đorđe Balašević}Duet=http://www.youtube.com/watch?v=cCx7fisQFtk
 ﻿Kantautori]Đorđe Balašević}Eleonora=http://www.youtube.com/watch?v=M5Kx-UoCyKY
 ﻿Kantautori]Đorđe Balašević}Fina, lagana stvar=http://www.youtube.com/watch?v=2I58rayJNVg
 ﻿Kantautori]Đorđe Balašević}Gde baš sada da se zaljubim=http://www.youtube.com/watch?v=kxrg8Hp2tOY
 ﻿Kantautori]Đorđe Balašević}Hej haj baš nas briga=http://www.youtube.com/watch?v=yNaIfr0B8lE
-﻿Kantautori]Đorđe Balašević}Hej, čarobnjaci=http://www.youtube.com/watch?v=w4-a_uUjLJw
-﻿Kantautori]Đorđe Balašević}Ilona=http://www.youtube.com/watch?v=L-vXou1Rhes
+﻿Kantautori]Đorđe Balašević}Hej, čarobnjaci=http://www.youtube.com/watch?v=SKIDrCD3fcQ
+﻿Kantautori]Đorđe Balašević}Ilona=http://www.youtube.com/watch?v=kMCjlbXMJQo
 ﻿Kantautori]Đorđe Balašević}Ja je ljubim a ona podriguje=http://www.youtube.com/watch?v=ZmbD9xNKXVw
 ﻿Kantautori]Đorđe Balašević}Ja vas Kanda znam=http://www.youtube.com/watch?v=mMFdgjg4B-4
 ﻿Kantautori]Đorđe Balašević}Jaroslava=http://www.youtube.com/watch?v=5oyvICoEb7s
-﻿Kantautori]Đorđe Balašević}Jedan Saša iz voza=http://www.youtube.com/watch?v=-TWpTbUaLMg
-﻿Kantautori]Đorđe Balašević}Još jedna gorka pesma=http://www.youtube.com/watch?v=yCSN0gWoLKs
+﻿Kantautori]Đorđe Balašević}Jedan Saša iz voza=http://www.youtube.com/watch?v=MLhUQ4w7rOs
 ﻿Kantautori]Đorđe Balašević}Kad odem=http://www.youtube.com/watch?v=QtX_5q5HFgA
 ﻿Kantautori]Đorđe Balašević}Kao rani mraz=http://www.youtube.com/watch?v=7qx8Ek-5kjM
 ﻿Kantautori]Đorđe Balašević}Kao talas=http://www.youtube.com/watch?v=EZuZudAKJjE
 ﻿Kantautori]Đorđe Balašević}Kere varošanke=http://www.youtube.com/watch?v=3gFqQNaN41E
 ﻿Kantautori]Đorđe Balašević}Lađarska serenata=http://www.youtube.com/watch?v=fIKtAMGuImA
-﻿Kantautori]Đorđe Balašević}Lepa protina kći=http://www.youtube.com/watch?v=or80G_iRyVo
+﻿Kantautori]Đorđe Balašević}Lepa protina kći=http://www.youtube.com/watch?v=X6S_-9I2Q_o
 ﻿Kantautori]Đorđe Balašević}Ljerka=http://www.youtube.com/watch?v=cNnAy6PEA8c
 ﻿Kantautori]Đorđe Balašević}Ljubav ne pobeđuje=http://www.youtube.com/watch?v=nIzX2HB3Odc
 ﻿Kantautori]Đorđe Balašević}Ljudmila=http://www.youtube.com/watch?v=OA5_8YjA4Is
-﻿Kantautori]Đorđe Balašević}Lunjo=http://www.youtube.com/watch?v=MFsouIelYL8
+﻿Kantautori]Đorđe Balašević}Lunjo=http://www.youtube.com/watch?v=W05OsKnuSs4
 ﻿Kantautori]Đorđe Balašević}Maliganska=http://www.youtube.com/watch?v=-hssLEFO5A4
-﻿Kantautori]Đorđe Balašević}Mani me se, lepa Nasto=http://www.youtube.com/watch?v=f-qJMsaEYjU
+﻿Kantautori]Đorđe Balašević}Mani me se, lepa Nasto=http://www.youtube.com/watch?v=va5uEOMRMxQ
 ﻿Kantautori]Đorđe Balašević}Mati=https://www.youtube.com/watch?v=1GdB7RvJOZ8
-﻿Kantautori]Đorđe Balašević}Medena vremena=http://www.youtube.com/watch?v=n-vs5NCW7_o
+﻿Kantautori]Đorđe Balašević}Medena vremena=http://www.youtube.com/watch?v=a9pW0MFmbII
 ﻿Kantautori]Đorđe Balašević}Miholjsko leto=http://www.youtube.com/watch?v=MnxRuYvvi0E
-﻿Kantautori]Đorđe Balašević}Mirka=http://www.youtube.com/watch?v=Ap5GTb7YQXE
-﻿Kantautori]Đorđe Balašević}Moj friend ima rock and roll band=http://www.youtube.com/watch?v=EObX7udgGO8
+﻿Kantautori]Đorđe Balašević}Mirka=http://www.youtube.com/watch?v=K2y3gZh9K78
+﻿Kantautori]Đorđe Balašević}Moj friend ima rock and roll band=http://www.youtube.com/watch?v=jp5mmOIAjl4
 ﻿Kantautori]Đorđe Balašević}Moja draga sad je u Japanu=http://www.youtube.com/watch?v=ZtSNXRF0408
-﻿Kantautori]Đorđe Balašević}Morao sam da se odselim=http://www.youtube.com/watch?v=1nUtmRMSp3s
+﻿Kantautori]Đorđe Balašević}Morao sam da se odselim=http://www.youtube.com/watch?v=xbgs_HfmbVo
 ﻿Kantautori]Đorđe Balašević}Mrtvi=http://www.youtube.com/watch?v=wcyOm-YSooc
 ﻿Kantautori]Đorđe Balašević}Na bogojavljensku noć=http://www.youtube.com/watch?v=M5Kx-UoCyKY
-﻿Kantautori]Đorđe Balašević}Na pola puta=http://www.youtube.com/watch?v=ZkHGuLSzLRA
+﻿Kantautori]Đorđe Balašević}Na pola puta=http://www.youtube.com/watch?v=jfMLrHkRBJE
 ﻿Kantautori]Đorđe Balašević}Namćor=http://www.youtube.com/watch?v=sohqoTRFBfE
 ﻿Kantautori]Đorđe Balašević}Naposletku=http://www.youtube.com/watch?v=lH0cq73FSlE
-﻿Kantautori]Đorđe Balašević}Ne volim januar=http://www.youtube.com/watch?v=qqlOIKDWNoA
+﻿Kantautori]Đorđe Balašević}Ne volim januar=http://www.youtube.com/watch?v=KyggYUm-GBM
 ﻿Kantautori]Đorđe Balašević}Nedostaje mi naša ljubav=http://www.youtube.com/watch?v=C_DCC2SRkPQ
-﻿Kantautori]Đorđe Balašević}Neki novi klinci=http://www.youtube.com/watch?v=TTyWI52zkIs
-﻿Kantautori]Đorđe Balašević}Neko to od gore vidi sve=http://www.youtube.com/watch?v=n-98z9F7o3U
+﻿Kantautori]Đorđe Balašević}Neki novi klinci=http://www.youtube.com/watch?v=G8LIE5eKr2M
+﻿Kantautori]Đorđe Balašević}Neko to od gore vidi sve=http://www.youtube.com/watch?v=KBb1p5HNdG8
 ﻿Kantautori]Đorđe Balašević}Nevena=http://www.youtube.com/watch?v=mh6TspJBqL8
 ﻿Kantautori]Đorđe Balašević}Nevernik=http://www.youtube.com/watch?v=FHiqm9bGsF8
-﻿Kantautori]Đorđe Balašević}Nikad kao Bane=http://www.youtube.com/watch?v=1mDi6pMtQEk
-﻿Kantautori]Đorđe Balašević}Noć kad sam preplivao Dunav=http://www.youtube.com/watch?v=tiVokJ-i1ds
-﻿Kantautori]Đorđe Balašević}O kako tužnih ljubavi ima=http://www.youtube.com/watch?v=tNtJbAx91hM
-﻿Kantautori]Đorđe Balašević}Odlazi cirkus=--start-time=27 http://www.youtube.com/watch?v=YBIoieBoYCE
+﻿Kantautori]Đorđe Balašević}Nikad kao Bane=http://www.youtube.com/watch?v=v_5Fpno6Nak
+﻿Kantautori]Đorđe Balašević}Noć kad sam preplivao Dunav=http://www.youtube.com/watch?v=fEC2pq4SVVY
+﻿Kantautori]Đorđe Balašević}O kako tužnih ljubavi ima=http://www.youtube.com/watch?v=GnK9QMkqpkk
+﻿Kantautori]Đorđe Balašević}Odlazi cirkus=http://www.youtube.com/watch?v=euNtaHiXAf4
 ﻿Kantautori]Đorđe Balašević}Ognjena=http://www.youtube.com/watch?v=toykcMnYGgw
 ﻿Kantautori]Đorđe Balašević}Ole Lole=http://www.youtube.com/watch?v=QMnaxXXxhYs
-﻿Kantautori]Đorđe Balašević}Olivera=--start-time=38 http://www.youtube.com/watch?v=zo6pEv8G67U
-﻿Kantautori]Đorđe Balašević}Oni=http://www.youtube.com/watch?v=olpVOzg7nOo
-﻿Kantautori]Đorđe Balašević}Oprosti mi, Katrin=http://www.youtube.com/watch?v=RqEF5OCAuFI
+﻿Kantautori]Đorđe Balašević}Olivera=http://www.youtube.com/watch?v=JbqqVVPzMvQ
+﻿Kantautori]Đorđe Balašević}Oni=http://www.youtube.com/watch?v=ERr0FzcBEM4
+﻿Kantautori]Đorđe Balašević}Oprosti mi, Katrin=http://www.youtube.com/watch?v=4-XAvP8atoc
 ﻿Kantautori]Đorđe Balašević}Osmeh se vratio u grad=http://www.youtube.com/watch?v=7IjXIzTNYe4
-﻿Kantautori]Đorđe Balašević}Pa dobro gde si ti=http://www.youtube.com/watch?v=apWS_NZpykg
-﻿Kantautori]Đorđe Balašević}Panonski mornar=http://www.youtube.com/watch?v=ODJJskhMWqc
-﻿Kantautori]Đorđe Balašević}Pesma o jednom petlu=http://www.youtube.com/watch?v=rxl97gxsLx8
-﻿Kantautori]Đorđe Balašević}Poluuspavanka=http://www.youtube.com/watch?v=DzuU8eiHWCU
+﻿Kantautori]Đorđe Balašević}Pa dobro gde si ti=http://www.youtube.com/watch?v=zrLhWbwmx5M
+﻿Kantautori]Đorđe Balašević}Poluuspavanka=http://www.youtube.com/watch?v=1I64eMXXJZk
 ﻿Kantautori]Đorđe Balašević}Portret života mog=http://www.youtube.com/watch?v=HjVdeFuxWyI
 ﻿Kantautori]Đorđe Balašević}Poslednja nevesta=http://www.youtube.com/watch?v=TpQFKfZH6QQ
 ﻿Kantautori]Đorđe Balašević}Pred zadnji sneg=http://www.youtube.com/watch?v=yGmtq92VN7E
-﻿Kantautori]Đorđe Balašević}Predlog=http://www.youtube.com/watch?v=TCbi-48Y10w
-﻿Kantautori]Đorđe Balašević}Priča o Vasi Ladackom=http://www.youtube.com/watch?v=R75cM4OjREw
+﻿Kantautori]Đorđe Balašević}Predlog=http://www.youtube.com/watch?v=ggZdpnxzvww
 ﻿Kantautori]Đorđe Balašević}Provincijalka=http://www.youtube.com/watch?v=vWPJGXaC9w8
-﻿Kantautori]Đorđe Balašević}Prva ljubav=http://www.youtube.com/watch?v=ilhn5whzrCs
-﻿Kantautori]Đorđe Balašević}Put u središte zemlje=http://www.youtube.com/watch?v=Ho1xv3d-NUY
-﻿Kantautori]Đorđe Balašević}Ratnik paorskog srca=http://www.youtube.com/watch?v=EsIBws6rumg
+﻿Kantautori]Đorđe Balašević}Prva ljubav=http://www.youtube.com/watch?v=0ENrGw8fcu4
 ﻿Kantautori]Đorđe Balašević}Regruteska=http://www.youtube.com/watch?v=X5YPu8sfl8E
 ﻿Kantautori]Đorđe Balašević}Ringispil=http://www.youtube.com/watch?v=gNL7mgL7VF0
 ﻿Kantautori]Đorđe Balašević}Sin jedinac=http://www.youtube.com/watch?v=TMD2s5SbHng
-﻿Kantautori]Đorđe Balašević}Slovenska=http://www.youtube.com/watch?v=Hee8aNgoibQ
+﻿Kantautori]Đorđe Balašević}Slovenska=http://www.youtube.com/watch?v=jmQVEh8p35o
 ﻿Kantautori]Đorđe Balašević}Stih na asfaltu=http://www.youtube.com/watch?v=spOwun40Qig
 ﻿Kantautori]Đorđe Balašević}Strašan žulj=http://www.youtube.com/watch?v=q2YPHE9yzFs
 ﻿Kantautori]Đorđe Balašević}Sve je otišlo u Honduras=http://www.youtube.com/watch?v=7P_AeRyPfbE
-﻿Kantautori]Đorđe Balašević}Svirajte mi jesen stiže=http://www.youtube.com/watch?v=F2Xq86Eh4mo
+﻿Kantautori]Đorđe Balašević}Svirajte mi jesen stiže=http://www.youtube.com/watch?v=8hI9NV3CebI
 ﻿Kantautori]Đorđe Balašević}Tri put sam video Tita=http://www.youtube.com/watch?v=CUhI9LpjOGE
-﻿Kantautori]Đorđe Balašević}U razdeljak te ljubim=http://www.youtube.com/watch?v=59COzUOBOag
+﻿Kantautori]Đorđe Balašević}U razdeljak te ljubim=http://www.youtube.com/watch?v=pCdKvPNEH44
 ﻿Kantautori]Đorđe Balašević}Uspavanka za dečaka=http://www.youtube.com/watch?v=0FhWA9Y-mfE
-﻿Kantautori]Đorđe Balašević}Uticaj rođaka na moj životni put=http://www.youtube.com/watch?v=hwIUywt-gSs
-﻿Kantautori]Đorđe Balašević}Vi ste jedan običan miš=http://www.youtube.com/watch?v=Ml-SXia5dIs
-﻿Kantautori]Đorđe Balašević}Za sve je kriv Toma Sojer=http://www.youtube.com/watch?v=dLoH6OcX46I
-﻿Kantautori]Đorđe Balašević}Za treću smenu=http://www.youtube.com/watch?v=OWpQnUBhd3w
+﻿Kantautori]Đorđe Balašević}Uticaj rođaka na moj životni put=http://www.youtube.com/watch?v=JfKktsvqvUs
+﻿Kantautori]Đorđe Balašević}Vi ste jedan običan miš=http://www.youtube.com/watch?v=iuYBIeBjJNY
+﻿Kantautori]Đorđe Balašević}Za sve je kriv Toma Sojer=http://www.youtube.com/watch?v=bzBfNoYlk94
+﻿Kantautori]Đorđe Balašević}Za treću smenu=http://www.youtube.com/watch?v=1T5sIp_m0eM
 ﻿Kantautori]Đorđe Balašević}Živeti slobodno=http://www.youtube.com/watch?v=CNXvLbocnkI
-﻿Kantautori]Đorđe Balašević}Život je more=http://www.youtube.com/watch?v=urn6n1xsiA4
+﻿Kantautori]Đorđe Balašević}Život je more=http://www.youtube.com/watch?v=Ioiz6QfJGLI
 ﻿Rok]Đorđe Miljenović}Nisam dobro=http://www.youtube.com/watch?v=6NdGFYUA5lI
 ﻿Rok]Đorđe Miljenović}Prelepa katastrofa=https://www.youtube.com/watch?v=xmIDc2bi6oc
 ﻿Rok]Đorđe Miljenović}Umirem ti na rukama=--start-time=9 https://www.youtube.com/watch?v=aURymPshW3g
@@ -4684,7 +4672,6 @@
 ﻿Narodna]Donna Ares}Aritmija=http://www.youtube.com/watch?v=nKazfgiAvF4
 ﻿Narodna]Donna Ares}Ćao mala=http://www.youtube.com/watch?v=kRKGIgCam0s
 ﻿Narodna]Donna Ares}Crna hronika=http://www.youtube.com/watch?v=WrZkFbQceNg
-﻿Narodna]Donna Ares}Čuvaj se dušo=http://www.youtube.com/watch?v=O0OsMDdzWfM
 ﻿Narodna]Donna Ares}Dođe mi da opsujem=http://www.youtube.com/watch?v=GG67JWmkSLk
 ﻿Narodna]Donna Ares}Fantastična=http://www.youtube.com/watch?v=2H_CNORHTs8
 ﻿Narodna]Donna Ares}Godine=http://www.youtube.com/watch?v=PfOqBhIG2os
@@ -4709,8 +4696,6 @@
 ﻿Narodna]Donna Ares}Rastajemo se mi=http://www.youtube.com/watch?v=-RXP3MMRhgk
 ﻿Narodna]Donna Ares}S tobom ili bez tebe=http://www.youtube.com/watch?v=S8BXez5uBBY
 ﻿Narodna]Donna Ares}Samo voli me=http://www.youtube.com/watch?v=Qr1OIpAyyTk
-﻿Narodna]Donna Ares}Šta je sunce=http://www.youtube.com/watch?v=X-OUcx1RMiE
-﻿Narodna]Donna Ares}Šta smo ti i ja=http://www.youtube.com/watch?v=N_o7vbS1hk8
 ﻿Narodna]Donna Ares}Suze moje plaču za oboje=http://www.youtube.com/watch?v=xvRDCRx21vs
 ﻿Narodna]Donna Ares}Sve ti najbolje želim=http://www.youtube.com/watch?v=mslkkP9WF0Q
 ﻿Narodna]Donna Ares}Svjedok=http://www.youtube.com/watch?v=IyGXBDP8Bbw
@@ -4828,7 +4813,7 @@
 ﻿Narodna]Dragan Kojić - Keba}Ej, sudbino=http://www.youtube.com/watch?v=INClhN9FWL4
 ﻿Narodna]Dragan Kojić - Keba}Fer ubica=http://www.youtube.com/watch?v=GP2ClrwNniM
 ﻿Narodna]Dragan Kojić - Keba}Idem, idem dušo moja=http://www.youtube.com/watch?v=OeaJMfPnDZ0
-﻿Narodna]Dragan Kojić - Keba}Ikona=http://www.youtube.com/watch?v=4Lh_Zklxlp4
+﻿Narodna]Dragan Kojić - Keba}Ikona=http://www.youtube.com/watch?v=rgCkdGT8x8E
 ﻿Narodna]Dragan Kojić - Keba}Imao sam=http://www.youtube.com/watch?v=LLl4n828cyU
 ﻿Narodna]Dragan Kojić - Keba}Ja dalje putujem sam=http://www.youtube.com/watch?v=mPOTy51azVo
 ﻿Narodna]Dragan Kojić - Keba}Jasmina=http://www.youtube.com/watch?v=WqBARLQQLH8
@@ -4841,7 +4826,7 @@
 ﻿Narodna]Dragan Kojić - Keba}Količina=http://www.youtube.com/watch?v=rXTvWcMlrfY
 ﻿Narodna]Dragan Kojić - Keba}Kosa=http://www.youtube.com/watch?v=EIg5LxxMJ4A
 ﻿Narodna]Dragan Kojić - Keba}Košulja plava=http://www.youtube.com/watch?v=TGow15yHjTs
-﻿Narodna]Dragan Kojić - Keba}Kukavica=http://www.youtube.com/watch?v=YAUaQMTJlGc
+﻿Narodna]Dragan Kojić - Keba}Kukavica=http://www.youtube.com/watch?v=niI7sKLZSVY
 ﻿Narodna]Dragan Kojić - Keba}Lagala si=http://www.youtube.com/watch?v=YnuoB1koVC0
 ﻿Narodna]Dragan Kojić - Keba}Lako je umreti=http://www.youtube.com/watch?v=KOYuQNFvzZM
 ﻿Narodna]Dragan Kojić - Keba}Lice=http://www.youtube.com/watch?v=7VQLWdP9V5E
@@ -4978,7 +4963,7 @@
 ﻿Narodna]Dragana Mirković}Dobro došo, mili moj=http://www.youtube.com/watch?v=g06MJxTmFJ4
 ﻿Narodna]Dragana Mirković}Dobro jutro, dobar dan=http://www.youtube.com/watch?v=Zogydghmu_c
 ﻿Narodna]Dragana Mirković}Dodaj gas=http://www.youtube.com/watch?v=72DOx7eVWrs
-﻿Narodna]Dragana Mirković}Dođi i reći da me voliš=http://www.youtube.com/watch?v=BCal7RBKjcA
+﻿Narodna]Dragana Mirković}Dođi i reći da me voliš=http://www.youtube.com/watch?v=_LyuDtembd8
 ﻿Narodna]Dragana Mirković}Dolaze nam bolji dani=http://www.youtube.com/watch?v=6ZbI7Lii-Lw
 ﻿Narodna]Dragana Mirković}Dolina kestenova=http://www.youtube.com/watch?v=KhD48qq4ky0
 ﻿Narodna]Dragana Mirković}Doviđenja milo moje=http://www.youtube.com/watch?v=rfP-ynYEkmc
@@ -5010,7 +4995,7 @@
 ﻿Narodna]Dragana Mirković}Jedini=http://www.youtube.com/watch?v=Mg4M5z6SL1Y
 ﻿Narodna]Dragana Mirković}Jedino moje=http://www.youtube.com/watch?v=mH0pjdYdvJc
 ﻿Narodna]Dragana Mirković}Jedno za drugo=http://www.youtube.com/watch?v=7LqblZ6a7o0
-﻿Narodna]Dragana Mirković}Jeleni košute ljube=http://www.youtube.com/watch?v=Ie5m7mTBaGY
+﻿Narodna]Dragana Mirković}Jeleni košute ljube=http://www.youtube.com/watch?v=CirPbILijyw
 ﻿Narodna]Dragana Mirković}Još ljubavi ima=http://www.youtube.com/watch?v=_lzF0oVJEy0
 ﻿Narodna]Dragana Mirković}Još si meni drag=http://www.youtube.com/watch?v=fvnqEAsQil0
 ﻿Narodna]Dragana Mirković}Još uvek te ludo volim=http://www.youtube.com/watch?v=RYZ7yBK1tAU
@@ -6022,7 +6007,7 @@
 ﻿Narodna]Era Ojdanić}Teraj mala ovce preko brega=http://www.youtube.com/watch?v=4TzM9vnVufU
 ﻿Narodna]Era Ojdanić}Tiho sine, majka spava=http://www.youtube.com/watch?v=JROs8Rk4Hrs
 ﻿Narodna]Era Ojdanić}Tvoje usne čekajući=http://www.youtube.com/watch?v=vOzICvf_hyA
-﻿Narodna]Era Ojdanić}Tvoju sliku čuvam pored ikone=http://www.youtube.com/watch?v=tEIT465HCbs
+﻿Narodna]Era Ojdanić}Tvoju sliku čuvam pored ikone=http://www.youtube.com/watch?v=Vsfd3HaUbbQ
 ﻿Narodna]Era Ojdanić}Uspomene=http://www.youtube.com/watch?v=MncQKa_VUH0
 ﻿Narodna]Era Ojdanić}Užičanka=http://www.youtube.com/watch?v=zX3uTfB6L-Y
 ﻿Narodna]Era Ojdanić}Voleo sam jednu ženu=http://www.youtube.com/watch?v=Hu3meB-0rdE
@@ -6260,7 +6245,7 @@
 ﻿Zabavna]Flamingosi}Dodole=http://www.youtube.com/watch?v=sWLGi9tzh8s
 ﻿Zabavna]Flamingosi}Eh da mi je=http://www.youtube.com/watch?v=x1vPm8SDqq4
 ﻿Zabavna]Flamingosi}Litar vina=http://www.youtube.com/watch?v=-RfjJbd94Fs
-﻿Zabavna]Flamingosi}Ludi letnji ples=http://www.youtube.com/watch?v=6UlWzu-CN3U
+﻿Zabavna]Flamingosi}Ludi letnji ples=http://www.youtube.com/watch?v=iOWu8cRQ8Q0
 ﻿Zabavna]Flamingosi}Lumperaj=http://www.youtube.com/watch?v=c-pwzCjYdjc
 ﻿Zabavna]Flamingosi}Makedonka=http://www.youtube.com/watch?v=jOPqk_spxi8
 ﻿Zabavna]Flamingosi}Milo, najmilije=http://www.youtube.com/watch?v=THVMu6PHHj4
@@ -6867,7 +6852,7 @@
 ﻿Zabavna]Goga Sekulić}Broj=http://www.youtube.com/watch?v=kV9B9LTw5ZU
 ﻿Zabavna]Goga Sekulić}Cimerka=http://www.youtube.com/watch?v=8rp_wMww7w4
 ﻿Zabavna]Goga Sekulić}Devojke, devojke=http://www.youtube.com/watch?v=YV67OuX2THw
-﻿Zabavna]Goga Sekulić}Gaćice=http://www.youtube.com/watch?v=eM38fSuRBM0
+﻿Zabavna]Goga Sekulić}Gaćice=http://www.youtube.com/watch?v=AHY5PIy64tg
 ﻿Zabavna]Goga Sekulić}Gde si ti=http://www.youtube.com/watch?v=G15RfbSTvhw
 ﻿Zabavna]Goga Sekulić}Gospodine=http://www.youtube.com/watch?v=6stpVLrqQr0
 ﻿Zabavna]Goga Sekulić}Gotovo je sve=http://www.youtube.com/watch?v=1M0YuK7RHCo
@@ -7266,7 +7251,6 @@
 ﻿Narodna]Hakala}To je ta mala=http://www.youtube.com/watch?v=jbnerhc2wgg
 ﻿Narodna]Hakala}To ona zna=http://www.youtube.com/watch?v=wRIuJ5sKsjY
 ﻿Narodna]Hakala}Udaje se moja kći=http://www.youtube.com/watch?v=jNwvX-AfqSY
-﻿Narodna]Hakala}Umri u samoći=http://www.youtube.com/watch?v=j5N0RqPj1Ts
 ﻿Narodna]Hakala}Vadi me=http://www.youtube.com/watch?v=zqPTcrYtA6g
 ﻿Narodna]Hakala}Vino=http://www.youtube.com/watch?v=mJTLehKedcs
 ﻿Narodna]Hakala}Vuk samotnjak=http://www.youtube.com/watch?v=JYCuQ6qin7k
@@ -8051,14 +8035,14 @@
 ﻿Narodna]Hule}Nisu te dali za sirota=http://www.youtube.com/watch?v=h1gnWKyJ9yc
 ﻿Narodna]Hule}Stara fotografija=https://www.youtube.com/watch?v=_goIL37BUDg
 ﻿Narodna]Hule}Eh što nisam konobar=https://www.youtube.com/watch?v=u6h5VleBhoQ
-﻿Narodna]Hule}Nikad neće biti moja mlada=http://www.youtube.com/watch?v=VtOM1Jx_DVs
+﻿Narodna]Hule}Nikad neće biti moja mlada=http://www.youtube.com/watch?v=i4Vj6ZxiXIg
 ﻿Narodna]Hule}Sirota djevojka=http://www.youtube.com/watch?v=zUyeD_0oO58
 ﻿Narodna]Hule}Pjesma majci=https://www.youtube.com/watch?v=1zOk7_grNIU
 ﻿Narodna]Hule}Neće meni Drina biti kapija=http://www.youtube.com/watch?v=PvnYuyCL9yc
 ﻿Narodna]Hule}Umrijeću kraj tvoje kapije=http://www.youtube.com/watch?v=vuJWkXKB6wU
 ﻿Narodna]Hule}Strankinja=https://www.youtube.com/watch?v=Ol5rZ6F8-fU
 ﻿Narodna]Hule}Sutra na put kad krenem=http://www.youtube.com/watch?v=dxxNvQhhKRg
-﻿Narodna]Hule}Naći ću je, naći=http://www.youtube.com/watch?v=IMKp1kdck80
+﻿Narodna]Hule}Naći ću je, naći=http://www.youtube.com/watch?v=5KDCo-e0G9c
 ﻿Narodna]Hule}Tvoji su nam rastanak dnijeli=http://www.youtube.com/watch?v=gOHO2bVkRuc
 ﻿Narodna]Hule}Imam ja brata svog=http://www.youtube.com/watch?v=I0eL5GKTNRU
 ﻿Narodna]Hule}Dva brata=https://www.youtube.com/watch?v=2Q6yxf8653g
@@ -8071,7 +8055,7 @@
 ﻿Narodna]Hule}Varali me ljudi=http://www.youtube.com/watch?v=ia-a9qGhuG0
 ﻿Narodna]Hule}Kad telefon zazvoni=http://www.youtube.com/watch?v=FKjcefOldmk
 ﻿Narodna]Hule}Sretne ti bile godine bez mene=http://www.youtube.com/watch?v=wbDOtWvr11Q
-﻿Narodna]Hule}Otkud ti pravo=http://www.youtube.com/watch?v=Mkads7rWVLM
+﻿Narodna]Hule}Otkud ti pravo=http://www.youtube.com/watch?v=n0A-kDwd0Nk
 ﻿Narodna]Hule}Plavokosa=http://www.youtube.com/watch?v=iWLbQcMR_co
 ﻿Narodna]Hule}Sine moj=http://www.youtube.com/watch?v=aDa4BVWOD3k
 ﻿Narodna]Hule}Slaži mamu da ćeš spavati kod drugarice=http://www.youtube.com/watch?v=1GZpaBvtmC0
@@ -8082,9 +8066,9 @@
 ﻿Narodna]Hule}Braća po bolu=http://www.youtube.com/watch?v=-_PIj_AiBb0
 ﻿Narodna]Hule}Stari druže=http://www.youtube.com/watch?v=r_TETUG0H3s
 ﻿Narodna]Hule}Sudija=http://www.youtube.com/watch?v=IagTkup7meE
-﻿Narodna]Hule}Tigrica=http://www.youtube.com/watch?v=S_3iuMvCRk0
+﻿Narodna]Hule}Tigrica=http://www.youtube.com/watch?v=EZ7TLoeHhsc
 ﻿Narodna]Hule}Ženski šer=http://www.youtube.com/watch?v=RI8pSWJrhV8
-﻿Narodna]Hule}Nakit=http://www.youtube.com/watch?v=MbgI8HvtAU4
+﻿Narodna]Hule}Nakit=http://www.youtube.com/watch?v=G_TTDbXNGgc
 ﻿Narodna]Hule}Kuća ljubavi=https://www.youtube.com/watch?v=lIuVeGR4KuU
 ﻿Narodna]Hule}Daleko je Sandžak moj=https://www.youtube.com/watch?v=0fa_ijof_dY
 ﻿Narodna]Hule}Žena s tetovaže=https://www.youtube.com/watch?v=eo6Cgzle53A
@@ -8656,7 +8640,7 @@
 ﻿Zabavna]Ivana Selakov}Otplovimo=http://www.youtube.com/watch?v=yfUZJsGiqNU
 ﻿Zabavna]Ivana Selakov}Pobediću bol=http://www.youtube.com/watch?v=x3_WIdfxKcI
 ﻿Zabavna]Ivana Selakov}Polovna=http://www.youtube.com/watch?v=-J1_UcNjpws
-﻿Zabavna]Ivana Selakov}Priznaj mi=http://www.youtube.com/watch?v=KDNY90OHpbo
+﻿Zabavna]Ivana Selakov}Priznaj mi=http://www.youtube.com/watch?v=sgFA4IdGtyU
 ﻿Zabavna]Ivana Selakov}Probijam led=http://www.youtube.com/watch?v=XbTs54Uv5bU
 ﻿Zabavna]Ivana Selakov}Promukla od bola=--start-time=3 https://www.youtube.com/watch?v=XYGJTjPv5dk
 ﻿Zabavna]Ivana Selakov}SOS=http://www.youtube.com/watch?v=JVcYMswQG_o
@@ -9444,7 +9428,7 @@
 ﻿Narodna]Katarina Grujić}Dok mirno spavaš=--start-time=8 https://www.youtube.com/watch?v=5EO5QRT12-0
 ﻿Narodna]Katarina Grujić}Bonjur (ft. Šako Polumenta)=--start-time=6 https://www.youtube.com/watch?v=zbhMB1nwojg
 ﻿Narodna]Katarina Grujić}Emotivno dno=--start-time=7 https://www.youtube.com/watch?v=F3E1x20q3k8
-﻿Narodna]Katarina Grujić}Jedno đubre obično=http://www.youtube.com/watch?v=AV_ftDkpzqE
+﻿Narodna]Katarina Grujić}Jedno đubre obično=http://www.youtube.com/watch?v=qCvZMqzXdms
 ﻿Narodna]Katarina Grujić}Lutka=--start-time=6 http://www.youtube.com/watch?v=X7Vjkn2bD1E
 ﻿Narodna]Katarina Grujić}Paranoičan=--start-time=9 http://www.youtube.com/watch?v=_lr4PZUmf3o
 ﻿Narodna]Katarina Grujić}Rođena za bol=https://www.youtube.com/watch?v=4oZj0z8isK0
@@ -9869,7 +9853,7 @@
 ﻿Rok]Kerber}Sutrašnji dan=http://www.youtube.com/watch?v=qPkoMh2eeS8
 ﻿Rok]Kerber}Svet se brzo okreće=http://www.youtube.com/watch?v=jqjazxPg75Q
 ﻿Rok]Kerber}Sveti Nikola=http://www.youtube.com/watch?v=rCGpp2rfR-8
-﻿Rok]Kerber}Tvoja pesma=http://www.youtube.com/watch?v=de2NzbOdLdY
+﻿Rok]Kerber}Tvoja pesma=http://www.youtube.com/watch?v=NLJEXpYVwsk
 ﻿Rok]Kerber}Vodi me=http://www.youtube.com/watch?v=lxOpaJSBDAc
 ﻿Rok]Kerber}Vreme za uspomene=http://www.youtube.com/watch?v=zzsqYTacito
 ﻿Rok]Kerber}Zauvek slobodna=http://www.youtube.com/watch?v=ul8JyV8bbpE
@@ -10038,6 +10022,7 @@
 ﻿Zabavna]Lapsus Band}Idealno veče=http://www.youtube.com/watch?v=jIxqoqPZtwo
 ﻿Zabavna]Lapsus Band}Oči boje čokolade=https://www.youtube.com/watch?v=KF4iuBQ9Amk
 ﻿Zabavna]Lapsus Band}Kada voliš=--start-time=21 http://www.youtube.com/watch?v=a-LueK9VBSg
+﻿Zabavna]Lapsus Band}Voli me (ft. Ministarke)=--start-time=13 https://www.youtube.com/watch?v=KbWeD6DIgdc
 ﻿Zabavna]Lapsus Band}Lomi lomi=--start-time=17 http://www.youtube.com/watch?v=h56aSOTOsOs
 ﻿Zabavna]Lapsus Band}Lažo=--start-time=8 http://www.youtube.com/watch?v=FOFQ98LqK1M
 ﻿Zabavna]Lapsus Band}Santa leda=--start-time=5 http://www.youtube.com/watch?v=61hiOj8i1UQ
@@ -10052,7 +10037,7 @@
 ﻿Narodna]Legende}Epitaf=http://www.youtube.com/watch?v=LFmNmqVdcHc
 ﻿Narodna]Legende}Gledaš me=http://www.youtube.com/watch?v=VstfHDc1bio
 ﻿Narodna]Legende}I da te ne volim=http://www.youtube.com/watch?v=eNLeV76t9qE
-﻿Narodna]Legende}Kako ja umem da sanjam=http://www.youtube.com/watch?v=PkNFsGiLHj0
+﻿Narodna]Legende}Kako ja umem da sanjam=http://www.youtube.com/watch?v=-Wam_SOkvck
 ﻿Narodna]Legende}Kažu mi da živiš sama=http://www.youtube.com/watch?v=GU2NMeEXDzk
 ﻿Narodna]Legende}Kosovski božuri=http://www.youtube.com/watch?v=g-dEenphuKE
 ﻿Narodna]Legende}Majci=http://www.youtube.com/watch?v=4V3Ag7McjtU
@@ -10128,7 +10113,7 @@
 ﻿Narodna]Lepa Brena}Beli se golubovi vraćaju=http://www.youtube.com/watch?v=e55zrFYz8SE
 ﻿Narodna]Lepa Brena}Biber=http://www.youtube.com/watch?v=kYZCwlJffLA
 ﻿Narodna]Lepa Brena}Biće belaja=http://www.youtube.com/watch?v=jZNblI4-xqo
-﻿Narodna]Lepa Brena}Biseru beli=http://www.youtube.com/watch?v=HZHaZCZAKWE
+﻿Narodna]Lepa Brena}Biseru beli=http://www.youtube.com/watch?v=kPrm1QgIyX8
 ﻿Narodna]Lepa Brena}Bobo, Bobo=http://www.youtube.com/watch?v=yesbHZyqmPY
 ﻿Narodna]Lepa Brena}Boc, boc=http://www.youtube.com/watch?v=Pkp9gpx9gMk
 ﻿Narodna]Lepa Brena}Bol za bol=http://www.youtube.com/watch?v=0EIYVynKH4w
@@ -10160,7 +10145,7 @@
 ﻿Narodna]Lepa Brena}Gde si ti=http://www.youtube.com/watch?v=8AroZiDNSvE
 ﻿Narodna]Lepa Brena}Golube=http://www.youtube.com/watch?v=D-yATo991Hw
 ﻿Narodna]Lepa Brena}Grad=http://www.youtube.com/watch?v=uEPN-IVnlkM
-﻿Narodna]Lepa Brena}Hajde da se volimo=http://www.youtube.com/watch?v=t8HErFFA4D0
+﻿Narodna]Lepa Brena}Hajde da se volimo=http://www.youtube.com/watch?v=9J7ipsgqUGU
 ﻿Narodna]Lepa Brena}Hej najluđe moje=http://www.youtube.com/watch?v=FEWBaZ9Ng9A
 ﻿Narodna]Lepa Brena}I da odem iza leđa Bogu=http://www.youtube.com/watch?v=qJwAM6rINMw
 ﻿Narodna]Lepa Brena}Igraj Boro moje oro=http://www.youtube.com/watch?v=a5RfncG0Azc
@@ -10214,7 +10199,7 @@
 ﻿Narodna]Lepa Brena}Ne zna žena=http://www.youtube.com/watch?v=9HZ-asrYf9c
 ﻿Narodna]Lepa Brena}Nova sota=http://www.youtube.com/watch?v=RsDv48MUfwo
 ﻿Narodna]Lepa Brena}Oj, Dragana, Dragana=http://www.youtube.com/watch?v=qSi0d3jMqq0
-﻿Narodna]Lepa Brena}Okrećeš mi leđa=http://www.youtube.com/watch?v=7BGwIUASZOQ
+﻿Narodna]Lepa Brena}Okrećeš mi leđa=http://www.youtube.com/watch?v=Nd1DeyayX5Y
 ﻿Narodna]Lepa Brena}On ne voli me=http://www.youtube.com/watch?v=4SxyIqFNIKg
 ﻿Narodna]Lepa Brena}Ona ili ja=http://www.youtube.com/watch?v=xS1gUfJLgMM
 ﻿Narodna]Lepa Brena}Opa, opa, opa=http://www.youtube.com/watch?v=I5VDtBhZcS4
@@ -10228,7 +10213,7 @@
 ﻿Narodna]Lepa Brena}Pile moje=http://www.youtube.com/watch?v=Kp-aKZxoKdI
 ﻿Narodna]Lepa Brena}Pokloni mi noć=http://www.youtube.com/watch?v=LFWGGurWAzo
 ﻿Narodna]Lepa Brena}Pomračenje sunca=http://www.youtube.com/watch?v=rIDrVsQ90Dg
-﻿Narodna]Lepa Brena}Poželi sreću drugima=http://www.youtube.com/watch?v=iM_1kILqDlk
+﻿Narodna]Lepa Brena}Poželi sreću drugima=http://www.youtube.com/watch?v=kLAeGmXqaw4
 ﻿Narodna]Lepa Brena}Priznaj mi, priznaj=http://www.youtube.com/watch?v=hEwyYq1x_pc
 ﻿Narodna]Lepa Brena}Prokleti zlatnici=http://www.youtube.com/watch?v=_iMNj6yzsdQ
 ﻿Narodna]Lepa Brena}Recite mu da ga volim=http://www.youtube.com/watch?v=EfvYbqkvB_I
@@ -10582,7 +10567,7 @@
 ﻿Rok Strani]Led Zeppelin}Hey hey what can i do=--start-time=13 http://www.youtube.com/watch?v=pFLR5t5q0yQ
 ﻿Rok Strani]Led Zeppelin}Hots on for nowhere=--start-time=6 https://www.youtube.com/watch?v=Vu5aQa4X9g0
 ﻿Rok Strani]Led Zeppelin}I can't quit you baby=https://www.youtube.com/watch?v=84GOPAWTwac
-﻿Rok Strani]Led Zeppelin}I'm gonna crawl=https://www.youtube.com/watch?v=eAwuK61QzHs
+﻿Rok Strani]Led Zeppelin}I'm gonna crawl=http://www.youtube.com/watch?v=hGW1ikfxTQA
 ﻿Rok Strani]Led Zeppelin}In my time of dying=https://www.youtube.com/watch?v=zwLBaBeo1k4
 ﻿Rok Strani]Led Zeppelin}In the evening (remastered)=https://www.youtube.com/watch?v=afEipftwkn4
 ﻿Rok Strani]Led Zeppelin}In the evening=--start-time=3 https://www.youtube.com/watch?v=b-2M88i_yDg
@@ -10597,7 +10582,7 @@
 ﻿Rok Strani]Led Zeppelin}Royal Orleans=https://www.youtube.com/watch?v=OUHjo111vkw
 ﻿Rok Strani]Led Zeppelin}Stairway to Heaven=https://www.youtube.com/watch?v=D9ioyEvdggk
 ﻿Rok Strani]Led Zeppelin}Swan song=https://www.youtube.com/watch?v=Dsspw3CALxA
-﻿Rok Strani]Led Zeppelin}Tangerine=http://www.youtube.com/watch?v=79JcPZNLCTY
+﻿Rok Strani]Led Zeppelin}Tangerine=http://www.youtube.com/watch?v=e4-WzbsYHTE
 ﻿Rok Strani]Led Zeppelin}Ten years gone=https://www.youtube.com/watch?v=4lLUCPBs5zc
 ﻿Rok Strani]Led Zeppelin}Thank you=http://www.youtube.com/watch?v=88dQn_-5hIM
 ﻿Rok Strani]Led Zeppelin}The battle of evermore=--start-time=10 https://www.youtube.com/watch?v=7_3yDImIQYU
@@ -11626,7 +11611,7 @@
 ﻿Rok Strani]Aerosmith}Hangman Jury=http://www.youtube.com/watch?v=74HZNyc7QLY
 ﻿Rok Strani]Aerosmith}Head First=http://www.youtube.com/watch?v=auuiMvtAgck
 ﻿Rok Strani]Aerosmith}Heart's Done Time=http://www.youtube.com/watch?v=-UWio1LZ9SY
-﻿Rok Strani]Aerosmith}Helter Skelter=http://www.youtube.com/watch?v=wEDSQWfKrYA
+﻿Rok Strani]Aerosmith}Helter Skelter=http://www.youtube.com/watch?v=1H3S94nO3OU
 ﻿Rok Strani]Aerosmith}Hole In My Soul=http://www.youtube.com/watch?v=HaC0s-FP-r4
 ﻿Rok Strani]Aerosmith}Hollywood=http://www.youtube.com/watch?v=-PIoIvOI-Vc
 ﻿Rok Strani]Aerosmith}Home Tonight=http://www.youtube.com/watch?v=_KdwJIaUK54
@@ -12351,7 +12336,7 @@
 ﻿Rok Strani]Black Sabbath}Born Again=http://www.youtube.com/watch?v=czMNmGA0KY0
 ﻿Rok Strani]Black Sabbath}Born To Lose=http://www.youtube.com/watch?v=_eBLMKa7uJE
 ﻿Rok Strani]Black Sabbath}Buried Alive=http://www.youtube.com/watch?v=QgsN0mKi8gg
-﻿Rok Strani]Black Sabbath}Call Of The Wild=http://www.youtube.com/watch?v=il3W2AmSgyg
+﻿Rok Strani]Black Sabbath}Call Of The Wild=http://www.youtube.com/watch?v=IpufLXRvia4
 ﻿Rok Strani]Black Sabbath}Can't Get Close Enough To You=http://www.youtube.com/watch?v=DrX7JxA_Im4
 ﻿Rok Strani]Black Sabbath}Cardinal Sin=http://www.youtube.com/watch?v=-7juVUuBKu0
 ﻿Rok Strani]Black Sabbath}Changes=http://www.youtube.com/watch?v=nPtorZ2k7Ak
@@ -12387,7 +12372,7 @@
 ﻿Rok Strani]Black Sabbath}Headless Cross=--start-time=3 http://www.youtube.com/watch?v=iUgzLjVnW48
 ﻿Rok Strani]Black Sabbath}Heart Like A Wheel=http://www.youtube.com/watch?v=MW6ddB-WmWU
 ﻿Rok Strani]Black Sabbath}Heaven And Hell=http://www.youtube.com/watch?v=DHrXtV5Ck7E
-﻿Rok Strani]Black Sabbath}Heaven In Black=http://www.youtube.com/watch?v=9shD0x1w6m0
+﻿Rok Strani]Black Sabbath}Heaven In Black=http://www.youtube.com/watch?v=j36X2lykTKI
 ﻿Rok Strani]Black Sabbath}Hole In The Sky=http://www.youtube.com/watch?v=Q-PJDim8CsY
 ﻿Rok Strani]Black Sabbath}Hot Line=http://www.youtube.com/watch?v=19gEbX8ypzQ
 ﻿Rok Strani]Black Sabbath}I Witness=http://www.youtube.com/watch?v=_kAsE15izG0
@@ -12403,7 +12388,7 @@
 ﻿Rok Strani]Black Sabbath}Johnny Blade=http://www.youtube.com/watch?v=-Kx21i7gUXw
 ﻿Rok Strani]Black Sabbath}Junior's Eyes=http://www.youtube.com/watch?v=bc12GpwOnmI
 ﻿Rok Strani]Black Sabbath}Keep It Warm=http://www.youtube.com/watch?v=kwhslDg5q9g
-﻿Rok Strani]Black Sabbath}Kill In The Spirit World=http://www.youtube.com/watch?v=2yirZSeF-Ws
+﻿Rok Strani]Black Sabbath}Kill In The Spirit World=http://www.youtube.com/watch?v=Gi4v65euucE
 ﻿Rok Strani]Black Sabbath}Killing Yourself To Live=http://www.youtube.com/watch?v=jCehccEZzX4
 ﻿Rok Strani]Black Sabbath}Kiss Of Death=http://www.youtube.com/watch?v=fJihcyOMeJY
 ﻿Rok Strani]Black Sabbath}Lady Evil=http://www.youtube.com/watch?v=FKGlSr4sW5A
@@ -12419,7 +12404,7 @@
 ﻿Rok Strani]Black Sabbath}N.I.B.=http://www.youtube.com/watch?v=E-RX6jmpbTY
 ﻿Rok Strani]Black Sabbath}Neon Knights=http://www.youtube.com/watch?v=YF3jeAPGhrY
 ﻿Rok Strani]Black Sabbath}Nightmare=http://www.youtube.com/watch?v=nUT19oVhEWE
-﻿Rok Strani]Black Sabbath}Nightwing=http://www.youtube.com/watch?v=Ifk08JOwd8E
+﻿Rok Strani]Black Sabbath}Nightwing=http://www.youtube.com/watch?v=z2FpdBJJbhA
 ﻿Rok Strani]Black Sabbath}No Stranger To Love=http://www.youtube.com/watch?v=2aO1Ug3qV4A
 ﻿Rok Strani]Black Sabbath}Over And Over=http://www.youtube.com/watch?v=ek2alPDHkSM
 ﻿Rok Strani]Black Sabbath}Over To You=http://www.youtube.com/watch?v=-UQ-RSKdBWs
@@ -12454,9 +12439,9 @@
 ﻿Rok Strani]Black Sabbath}The Devil Cried=http://www.youtube.com/watch?v=4FOnomnDr2w
 ﻿Rok Strani]Black Sabbath}The Hand That Rocks The Cradle=http://www.youtube.com/watch?v=Zqwx5BpdCq8
 ﻿Rok Strani]Black Sabbath}The Illusion Of Power=http://www.youtube.com/watch?v=ifwvsYKuYRw
-﻿Rok Strani]Black Sabbath}The Law Maker=http://www.youtube.com/watch?v=CQ0A74X8rZw
+﻿Rok Strani]Black Sabbath}The Law Maker=http://www.youtube.com/watch?v=PLTYgp_i8CM
 ﻿Rok Strani]Black Sabbath}The Mob Rules=http://www.youtube.com/watch?v=CnDSF01mtIY
-﻿Rok Strani]Black Sabbath}The Sabbath Stones=http://www.youtube.com/watch?v=MFbDGxLU5ig
+﻿Rok Strani]Black Sabbath}The Sabbath Stones=http://www.youtube.com/watch?v=J8Pxf8oRfvI
 ﻿Rok Strani]Black Sabbath}The Shining=http://www.youtube.com/watch?v=72Jrm82RN0c
 ﻿Rok Strani]Black Sabbath}The Thrill Of It All=http://www.youtube.com/watch?v=ymmAJIm_QC4
 ﻿Rok Strani]Black Sabbath}The Wizard=http://www.youtube.com/watch?v=MeZ8uVIOIhM
@@ -12466,12 +12451,12 @@
 ﻿Rok Strani]Black Sabbath}Trashed=http://www.youtube.com/watch?v=Zn9ykBw5U2A
 ﻿Rok Strani]Black Sabbath}Turn To Stone=http://www.youtube.com/watch?v=c-go8iTYd9U
 ﻿Rok Strani]Black Sabbath}Turn Up The Night=http://www.youtube.com/watch?v=qeepyLDSqgA
-﻿Rok Strani]Black Sabbath}Valhalla=http://www.youtube.com/watch?v=PymqOuP6fbA
+﻿Rok Strani]Black Sabbath}Valhalla=http://www.youtube.com/watch?v=enR0gg9m9ls
 ﻿Rok Strani]Black Sabbath}Virtual Death=http://www.youtube.com/watch?v=n__UxCbxM7A
 ﻿Rok Strani]Black Sabbath}Voodoo=http://www.youtube.com/watch?v=fWISIJ68-qU
 ﻿Rok Strani]Black Sabbath}Walk Away=http://www.youtube.com/watch?v=V1m_qTEwy_M
 ﻿Rok Strani]Black Sabbath}What's The Use?=http://www.youtube.com/watch?v=nOHxBYszRz0
-﻿Rok Strani]Black Sabbath}When Death Calls=http://www.youtube.com/watch?v=DkOWiAoDs0o
+﻿Rok Strani]Black Sabbath}When Death Calls=http://www.youtube.com/watch?v=oCq_gC_txfo
 ﻿Rok Strani]Black Sabbath}Who Are You?=http://www.youtube.com/watch?v=bnT_DIt6DUo
 ﻿Rok Strani]Black Sabbath}Wicked World=http://www.youtube.com/watch?v=q9_sGE54wo4
 ﻿Rok Strani]Black Sabbath}Wishing Well=http://www.youtube.com/watch?v=dURyvI87a_A
@@ -12604,7 +12589,7 @@
 ﻿Rok Strani]Bon Jovi}A Teardrop To The Sea=http://www.youtube.com/watch?v=HddP6B3MXHU
 ﻿Rok Strani]Bon Jovi}All About Loving You=http://www.youtube.com/watch?v=eb1oFIqBVzA
 ﻿Rok Strani]Bon Jovi}All Hail The King=http://www.youtube.com/watch?v=m6QgEeEDibc
-﻿Rok Strani]Bon Jovi}All I Wanna Do Is You=http://www.youtube.com/watch?v=JZVMrn9ATMA
+﻿Rok Strani]Bon Jovi}All I Wanna Do Is You=http://www.youtube.com/watch?v=4eD3tdPSW8E
 ﻿Rok Strani]Bon Jovi}All I Want Is Everything=http://www.youtube.com/watch?v=TPUbW8DSLy0
 ﻿Rok Strani]Bon Jovi}Always Run To You=http://www.youtube.com/watch?v=SAkvYsOwCZY
 ﻿Rok Strani]Bon Jovi}Always=--start-time=16 http://www.youtube.com/watch?v=9BMwcO6_hyA
@@ -12638,7 +12623,7 @@
 ﻿Rok Strani]Bon Jovi}Come On Up To Our House=http://www.youtube.com/watch?v=j3L2rPYrFIw
 ﻿Rok Strani]Bon Jovi}Como Yo Nadie Te Ha Amado (This Ain't A Love Song)=http://www.youtube.com/watch?v=UcwmIrx3aJg
 ﻿Rok Strani]Bon Jovi}Complicated=http://www.youtube.com/watch?v=Cxzi3BYx4OE
-﻿Rok Strani]Bon Jovi}Crazy Love=http://www.youtube.com/watch?v=DNT8j08ZB2o
+﻿Rok Strani]Bon Jovi}Crazy Love=http://www.youtube.com/watch?v=RIm3fhDCucQ
 ﻿Rok Strani]Bon Jovi}Damned=http://www.youtube.com/watch?v=1iAkwzvJYAA
 ﻿Rok Strani]Bon Jovi}Diamond Ring=http://www.youtube.com/watch?v=k5k-mXwsd7w
 ﻿Rok Strani]Bon Jovi}Dirty Little Secret=http://www.youtube.com/watch?v=anOZ9bXUTQc
@@ -12675,7 +12660,7 @@
 ﻿Rok Strani]Bon Jovi}I Believe=http://www.youtube.com/watch?v=UhqN8-asMgg
 ﻿Rok Strani]Bon Jovi}I Get A Rush=http://www.youtube.com/watch?v=RbGtmBbB-E8
 ﻿Rok Strani]Bon Jovi}I Got The Girl=http://www.youtube.com/watch?v=MhQG3UtCOyo
-﻿Rok Strani]Bon Jovi}I Just Want To Be Your Man=http://www.youtube.com/watch?v=VbjWvnetJgI
+﻿Rok Strani]Bon Jovi}I Just Want To Be Your Man=http://www.youtube.com/watch?v=HLYNf2A4kbQ
 ﻿Rok Strani]Bon Jovi}I Love This Town=http://www.youtube.com/watch?v=S-IZ2KGNyNE
 ﻿Rok Strani]Bon Jovi}I Want To Be Loved=http://www.youtube.com/watch?v=wG873HA1DEc
 ﻿Rok Strani]Bon Jovi}I Want You=http://www.youtube.com/watch?v=UOj5KWMLvOk
@@ -12698,18 +12683,18 @@
 ﻿Rok Strani]Bon Jovi}Judgement Day=http://www.youtube.com/watch?v=eyvPZiQIz-o
 ﻿Rok Strani]Bon Jovi}Just Older=http://www.youtube.com/watch?v=XQA-ttd9nGM
 ﻿Rok Strani]Bon Jovi}Keep The Faith=http://www.youtube.com/watch?v=eZQyVUTcpM4
-﻿Rok Strani]Bon Jovi}Kidnap An Angel=http://www.youtube.com/watch?v=atd3VMdqMMM
+﻿Rok Strani]Bon Jovi}Kidnap An Angel=http://www.youtube.com/watch?v=CppPYrtGUrc
 ﻿Rok Strani]Bon Jovi}King Of The Mountain=http://www.youtube.com/watch?v=O5H49JfhP8Q
 ﻿Rok Strani]Bon Jovi}Knockout=http://www.youtube.com/watch?v=LWr3WuThh-c
 ﻿Rok Strani]Bon Jovi}Labor Of Love=--start-time=7 http://www.youtube.com/watch?v=uJ6R0Md1W7I
-﻿Rok Strani]Bon Jovi}Last Chance Train=http://www.youtube.com/watch?v=Lg3IAKI3BHA
+﻿Rok Strani]Bon Jovi}Last Chance Train=http://www.youtube.com/watch?v=eXVI3ExkZvE
 ﻿Rok Strani]Bon Jovi}Last Cigarette=http://www.youtube.com/watch?v=iLREqPsVMLE
 ﻿Rok Strani]Bon Jovi}Last Man Standing=http://www.youtube.com/watch?v=EODYI0xmaXY
 ﻿Rok Strani]Bon Jovi}Lay Your Hands On Me=--start-time=25 http://www.youtube.com/watch?v=EhjSzibOIH4
 ﻿Rok Strani]Bon Jovi}Learn To Love=http://www.youtube.com/watch?v=Io9iLQtUEGU
 ﻿Rok Strani]Bon Jovi}Let It Rock=http://www.youtube.com/watch?v=vrBNKbaj5sI
 ﻿Rok Strani]Bon Jovi}Let's Make It Baby=http://www.youtube.com/watch?v=FeuW6PPvBUY
-﻿Rok Strani]Bon Jovi}Letter To A Friend=http://www.youtube.com/watch?v=LDMzdsi_EbI
+﻿Rok Strani]Bon Jovi}Letter To A Friend=http://www.youtube.com/watch?v=MNwMlaKv8AI
 ﻿Rok Strani]Bon Jovi}Lie To Me=http://www.youtube.com/watch?v=beWIb9ZWHeY
 ﻿Rok Strani]Bon Jovi}Life Is Beautiful=http://www.youtube.com/watch?v=yxEaTmYQB_I
 ﻿Rok Strani]Bon Jovi}Little Bit Of Soul=http://www.youtube.com/watch?v=CeoCGaMKB24
@@ -12782,7 +12767,7 @@
 ﻿Rok Strani]Bon Jovi}Silent Night=http://www.youtube.com/watch?v=8HjC6T2HDI4
 ﻿Rok Strani]Bon Jovi}Social Disease=http://www.youtube.com/watch?v=WlM5OT8l07U
 ﻿Rok Strani]Bon Jovi}Someday I'll Be Saturday Night=http://www.youtube.com/watch?v=wL_OqwVWj4g
-﻿Rok Strani]Bon Jovi}Someday Just Might Be Tonight=http://www.youtube.com/watch?v=b1IZVUsJUns
+﻿Rok Strani]Bon Jovi}Someday Just Might Be Tonight=http://www.youtube.com/watch?v=OBY5LjGaK9g
 ﻿Rok Strani]Bon Jovi}Something For The Pain=http://www.youtube.com/watch?v=6aO-A_QVgS4
 ﻿Rok Strani]Bon Jovi}Something To Believe In=http://www.youtube.com/watch?v=J-gKAAbDS-0
 ﻿Rok Strani]Bon Jovi}Starting All Over Again=http://www.youtube.com/watch?v=QIwLLUoYHsY
@@ -13646,7 +13631,7 @@
 ﻿Rok Strani]Eric Clapton}Layla=https://www.youtube.com/watch?v=0WUdlaLWSVM
 ﻿Rok Strani]Eric Clapton}Lay Down Sally=http://www.youtube.com/watch?v=9hQqP6RNnDE
 ﻿Rok Strani]Eric Clapton}Lead Me On=http://www.youtube.com/watch?v=G-DfERRViNo
-﻿Rok Strani]Eric Clapton}Let It Grow=http://www.youtube.com/watch?v=KXDf9UwHGF4
+﻿Rok Strani]Eric Clapton}Let It Grow=http://www.youtube.com/watch?v=V069wWEnCys
 ﻿Rok Strani]Eric Clapton}Let It Rain=http://www.youtube.com/watch?v=z22Nuq7-oYw
 ﻿Rok Strani]Eric Clapton}Lies=http://www.youtube.com/watch?v=419TnucPq4M
 ﻿Rok Strani]Eric Clapton}Little Queen Of Spades=http://www.youtube.com/watch?v=ywqyeN-E-JE
@@ -13672,7 +13657,7 @@
 ﻿Rok Strani]Eric Clapton}Missing Person=http://www.youtube.com/watch?v=v4bQZ9-iAzA
 ﻿Rok Strani]Eric Clapton}Modern Girl=http://www.youtube.com/watch?v=0SJgBFQi1s0
 ﻿Rok Strani]Eric Clapton}Motherless Child=http://www.youtube.com/watch?v=Gvixuf05_hM
-﻿Rok Strani]Eric Clapton}Motherless Children=http://www.youtube.com/watch?v=mLDDxfFKd9Y
+﻿Rok Strani]Eric Clapton}Motherless Children=http://www.youtube.com/watch?v=4ADW_UM3QVI
 ﻿Rok Strani]Eric Clapton}My Father's Eyes=http://www.youtube.com/watch?v=FOkepY_Zj8c
 ﻿Rok Strani]Eric Clapton}My Very Good Friend The Milkman=http://www.youtube.com/watch?v=KvENvzUJh6Y
 ﻿Rok Strani]Eric Clapton}Needs His Woman=http://www.youtube.com/watch?v=pc11dlKqBGk
@@ -14032,7 +14017,7 @@
 ﻿Rok Strani]Foreigner}Counting Every Minute=http://www.youtube.com/watch?v=ExsurR2ziik
 ﻿Rok Strani]Foreigner}Dirty White Boy=http://www.youtube.com/watch?v=LUDMy-GplkQ
 ﻿Rok Strani]Foreigner}Do What You Like=http://www.youtube.com/watch?v=3qa5FYqb9xk
-﻿Rok Strani]Foreigner}Don't Let Go=http://www.youtube.com/watch?v=Q0YD1jTVDLk
+﻿Rok Strani]Foreigner}Don't Let Go=http://www.youtube.com/watch?v=Rj0w2ARkKMI
 ﻿Rok Strani]Foreigner}Double Vision=http://www.youtube.com/watch?v=lfou58Z0OWs
 ﻿Rok Strani]Foreigner}Down On Love=http://www.youtube.com/watch?v=PnF31AAMnNA
 ﻿Rok Strani]Foreigner}Face To Face=http://www.youtube.com/watch?v=TKzGbEMqvS8
@@ -15386,11 +15371,11 @@
 ﻿Rok Strani]Jethro Tull}Locomotive Breath=http://www.youtube.com/watch?v=i19d1QnstsA
 ﻿Rok Strani]Jethro Tull}Look At The Animals=http://www.youtube.com/watch?v=3i_bsrTfVtQ
 ﻿Rok Strani]Jethro Tull}Look Into The Sun=http://www.youtube.com/watch?v=z1y6jjYUwXo
-﻿Rok Strani]Jethro Tull}Love Story=http://www.youtube.com/watch?v=vnvZiP-RQSw
+﻿Rok Strani]Jethro Tull}Love Story=http://www.youtube.com/watch?v=7OKRKzAM9Jc
 ﻿Rok Strani]Jethro Tull}Mayhem Maybe=http://www.youtube.com/watch?v=9RzWE3SXqmQ
 ﻿Rok Strani]Jethro Tull}Mother Goose=http://www.youtube.com/watch?v=gNayAdfuWU0
 ﻿Rok Strani]Jethro Tull}Moths=http://www.youtube.com/watch?v=EESgk34o19o
-﻿Rok Strani]Jethro Tull}Move On Alone=http://www.youtube.com/watch?v=T8_z0hZLt-w
+﻿Rok Strani]Jethro Tull}Move On Alone=http://www.youtube.com/watch?v=bpNrUMnJBwA
 ﻿Rok Strani]Jethro Tull}My God=http://www.youtube.com/watch?v=XG-r7YvcN9I
 ﻿Rok Strani]Jethro Tull}My Sunday Feeling=http://www.youtube.com/watch?v=2shXfsqOXwM
 ﻿Rok Strani]Jethro Tull}North Sea Oil=http://www.youtube.com/watch?v=qZxaH8SQgs8
