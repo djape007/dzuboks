@@ -1790,6 +1790,7 @@
 ﻿Zabavna]Miligram}Pogodi me=http://www.youtube.com/watch?v=ENoye37bDDI
 ﻿Zabavna]Miligram}Pogrešna noć=--start-time=7 https://www.youtube.com/watch?v=MrLoxT2dK-Q
 ﻿Zabavna]Miligram}Pola pet=http://www.youtube.com/watch?v=4FK36u0TQo4
+﻿Zabavna]Miligram}Proćerdano=--start-time=38 https://www.youtube.com/watch?v=_yafcc3Letg
 ﻿Zabavna]Miligram}Samo luda=http://www.youtube.com/watch?v=SGlP7P7hSnU
 ﻿Zabavna]Miligram}Sigurica=http://www.youtube.com/watch?v=AtCW3SOi_iE
 ﻿Zabavna]Miligram}Sviraj brate=http://www.youtube.com/watch?v=zvN4QPqaxWE
@@ -1868,6 +1869,7 @@
 ﻿Rep]Mimi Mercedez}Vozi (ft. Sanek)=http://www.youtube.com/watch?v=l6Mt852xH0k
 ﻿Rep]Mimi Mercedez}Zmaj=http://www.youtube.com/watch?v=howd08fycT8
 ﻿Rep]Mimi Mercedez}Želim sve (ft. Maus Maki)=--start-time=5 https://www.youtube.com/watch?v=4uvcET2Xpis
+﻿Rep]Mimi Mercedez}Zvuci sirena=--start-time=4 https://www.youtube.com/watch?v=0oOMI9kzdaw
 ﻿Narodna]Mina Kostić}Da li me vara sa tobom=http://www.youtube.com/watch?v=F-PEDTPwJDI
 ﻿Narodna]Mina Kostić}Dovoljno smo stari za novo=http://www.youtube.com/watch?v=9dnPjTIqrEQ
 ﻿Narodna]Mina Kostić}Gde ćeš, gde=http://www.youtube.com/watch?v=k5kh_V8XNdQ
@@ -3022,6 +3024,7 @@
 ﻿Zabavna]Nikolija}Opasna igra=--start-time=6 http://www.youtube.com/watch?v=0IoRKY6pjQQ
 ﻿Zabavna]Nikolija}Promeni mi planove=--start-time=6 http://www.youtube.com/watch?v=VBFIidX09uc
 ﻿Zabavna]Nikolija}Slažem se=--start-time=5 https://www.youtube.com/watch?v=VAFkWPvu6Ik
+Zabavna]Nikolija}Yin & Yang=--start-time=6 https://www.youtube.com/watch?v=9xehHNkahiw
 ﻿Zabavna]Nina Badrić}Ako kažeš da me ne voliš=http://www.youtube.com/watch?v=R8t0kd1uyso
 ﻿Zabavna]Nina Badrić}Bolja od najbolje=http://www.youtube.com/watch?v=UgD1aSiHa0A
 ﻿Zabavna]Nina Badrić}Budi mi blizu=http://www.youtube.com/watch?v=NI6Xfv-JHbE
@@ -4575,6 +4578,7 @@
 ﻿Narodna]Amar Gile}Čovjek tvoga sna=https://www.youtube.com/watch?v=O6XRRBmaFT8
 ﻿Narodna]Amar Gile}Nije kraj=https://www.youtube.com/watch?v=EkH4NJHcffU
 ﻿Narodna]Amar Gile}Ne prestaju moje kiše=https://www.youtube.com/watch?v=9Cv2WhGUIe8
+﻿Narodna]Amar Gile}Nek to budem ja=--start-time=8 https://www.youtube.com/watch?v=jFstOGjYtEA
 ﻿Narodna]Amar Gile}Ma pusti ponos=https://www.youtube.com/watch?v=VrHcxZNCoew
 ﻿Narodna]Amar Gile}Kafana leči sve=https://www.youtube.com/watch?v=pwZh3l9Dw6E
 ﻿Narodna]Amar Gile}Zašto sam sam=https://www.youtube.com/watch?v=NmyOhxSXaT8
@@ -5062,6 +5066,7 @@
 ﻿Rep~Zabavna]Rasta}Mahinalno (ft. G.I)=--start-time=7 https://www.youtube.com/watch?v=ksIk8Eh895I
 ﻿Rep~Zabavna]Rasta}Mama=--start-time=6 https://www.youtube.com/watch?v=IHlEsRilD3U
 ﻿Rep~Zabavna]Rasta}Matematika=--start-time=12 https://www.youtube.com/watch?v=1kHwMPKjDe0
+﻿Rep~Zabavna]Rasta}Maroko (ft. Alen Sakić)=--start-time=46 https://www.youtube.com/watch?v=QkAi1qQ5x0E
 ﻿Rep~Zabavna]Rasta}Moj muškarac (ft. Katarina Didanović)=--start-time=11 https://www.youtube.com/watch?v=YBjatq1hwA8
 ﻿Rep~Zabavna]Rasta}Mrak=https://www.youtube.com/watch?v=Us_mhtqzhJc
 ﻿Rep~Zabavna]Rasta}Noći nemirne=http://www.youtube.com/watch?v=Z2Mk_yeeRUM
@@ -6472,6 +6477,7 @@
 ﻿Zabavna]Saša Kovačević}Ostavi me=http://www.youtube.com/watch?v=a9mBP0CYubk
 ﻿Zabavna]Saša Kovačević}Pakao i raj=http://www.youtube.com/watch?v=jA6A1LBy1JU
 ﻿Zabavna]Saša Kovačević}Ponosna na nas=http://www.youtube.com/watch?v=l3FbinJbiUQ
+﻿Zabavna]Saša Kovačević}Prevarena=--start-time=48 https://www.youtube.com/watch?v=IBlxAhVVIZ0
 ﻿Zabavna]Saša Kovačević}Rano je=http://www.youtube.com/watch?v=Wn7j6r5txUs
 ﻿Zabavna]Saša Kovačević}Rođendan=http://www.youtube.com/watch?v=chL0fSUcAmY
 ﻿Zabavna]Saša Kovačević}Ruka za spas=http://www.youtube.com/watch?v=eR1OPVLtbcc
@@ -7189,6 +7195,7 @@
 ﻿Zabavna]Sergej Ćetković}Kiše=http://www.youtube.com/watch?v=OKYhrcgfI3I
 ﻿Zabavna]Sergej Ćetković}Korov=http://www.youtube.com/watch?v=x2fTjbeUJS0
 ﻿Zabavna]Sergej Ćetković}Kristina=http://www.youtube.com/watch?v=CvNfCOkYDnw
+Zabavna]Sergej Ćetković}Ljubav=--start-time=12 https://www.youtube.com/watch?v=b-tAGi8-Kbs
 ﻿Zabavna]Sergej Ćetković}Ljubav nema ništa s tim=http://www.youtube.com/watch?v=AZnYaXnz_Fc
 ﻿Zabavna]Sergej Ćetković}Ljubavi prokleta=http://www.youtube.com/watch?v=WCRxvajJMxg
 ﻿Zabavna]Sergej Ćetković}Ljuska oraha=http://www.youtube.com/watch?v=ulE7AOX_OSQ
@@ -7448,6 +7455,7 @@
 ﻿Zabavna]Severina}Mrtav bez mene=http://www.youtube.com/watch?v=UGiF2lxuz8o
 ﻿Zabavna]Severina}Od leta do leta (ft. Miligram)=https://www.youtube.com/watch?v=4IEsBP8JKnc
 ﻿Zabavna]Severina}Otrove (ft. Jala Brat)=http://www.youtube.com/watch?v=cFpJwUiOM-o
+﻿Zabavna]Severina}Popila=https://www.youtube.com/watch?v=PkLnmNOIeIo
 ﻿Zabavna]Severina}Tarapana=http://www.youtube.com/watch?v=Z91AN4vOtCA
 ﻿Zabavna]Severina}Tutorial (ft. Ljuba Stanković)=https://www.youtube.com/watch?v=bUOcNI8RBGk
 ﻿Zabavna]Severina}Unaprijed gotovo (ft. Petar Grašo)=https://www.youtube.com/watch?v=yQG3qOljUsM
@@ -7700,19 +7708,20 @@
 ﻿Narodna]Slađa Delibašić}Sedmi sprat=http://www.youtube.com/watch?v=9Iq6CtpYQS0
 ﻿Narodna]Slađa Delibašić}Unikat=http://www.youtube.com/watch?v=Y6EwBVqyFQY
 ﻿Narodna]Slađa Delibašić}Veza bez obaveza=http://www.youtube.com/watch?v=6j_Bv4K3x_E
-﻿Narodna]Slađa allegro}Afrika=--start-time=60 http://www.youtube.com/watch?v=C_jWhU93Zg8
-﻿Narodna]Slađa allegro}Bataljon=--start-time=10 https://www.youtube.com/watch?v=2PUl7iEtW-I
-﻿Narodna]Slađa allegro}Jelen=--start-time=22 http://www.youtube.com/watch?v=plxrKEUlDfo
-﻿Narodna]Slađa allegro}Kad za tobom umrem ja=http://www.youtube.com/watch?v=qVAdFkgsqBo
-﻿Narodna]Slađa allegro}Kaži mi sunce moje=http://www.youtube.com/watch?v=Fek5f1laY5M
-﻿Narodna]Slađa allegro}Ko nekad u osam=http://www.youtube.com/watch?v=PobZL6abzrI
-﻿Narodna]Slađa allegro}Magija=http://www.youtube.com/watch?v=FEZuqtk52c0
-﻿Narodna]Slađa allegro}Ne kuni majko=http://www.youtube.com/watch?v=_MJqc9nyAVI
-﻿Narodna]Slađa allegro}Proklet da je ovaj život=http://www.youtube.com/watch?v=1GZ7SnIxgMY
-﻿Narodna]Slađa allegro}Sele moja=http://www.youtube.com/watch?v=bN1TTsVGIZc
-﻿Narodna]Slađa allegro}Svatovi=http://www.youtube.com/watch?v=dEbKzzRIxsI
-﻿Narodna]Slađa allegro}Sve sam stekla sama=http://www.youtube.com/watch?v=q12MD8jAAQI
-﻿Narodna]Slađa allegro}Zaplakaću sutra=http://www.youtube.com/watch?v=j3vt4d9CTis
+﻿Narodna]Slađa Allegro}Afrika=--start-time=60 http://www.youtube.com/watch?v=C_jWhU93Zg8
+﻿Narodna]Slađa Allegro}Bataljon=--start-time=10 https://www.youtube.com/watch?v=2PUl7iEtW-I
+﻿Narodna]Slađa Allegro}Jelen=--start-time=22 http://www.youtube.com/watch?v=plxrKEUlDfo
+﻿Narodna]Slađa Allegro}Kad za tobom umrem ja=http://www.youtube.com/watch?v=qVAdFkgsqBo
+﻿Narodna]Slađa Allegro}Kaži mi sunce moje=http://www.youtube.com/watch?v=Fek5f1laY5M
+﻿Narodna]Slađa Allegro}Ko nekad u osam=http://www.youtube.com/watch?v=PobZL6abzrI
+﻿Narodna]Slađa Allegro}Magija=http://www.youtube.com/watch?v=FEZuqtk52c0
+﻿Narodna]Slađa Allegro}Ne kuni majko=http://www.youtube.com/watch?v=_MJqc9nyAVI
+﻿Narodna]Slađa Allegro}I u dobru i u zlu=--start-time=14 https://www.youtube.com/watch?v=wokQld4w3zA
+﻿Narodna]Slađa Allegro}Proklet da je ovaj život=http://www.youtube.com/watch?v=1GZ7SnIxgMY
+﻿Narodna]Slađa Allegro}Sele moja=http://www.youtube.com/watch?v=bN1TTsVGIZc
+﻿Narodna]Slađa Allegro}Svatovi=http://www.youtube.com/watch?v=dEbKzzRIxsI
+﻿Narodna]Slađa Allegro}Sve sam stekla sama=http://www.youtube.com/watch?v=q12MD8jAAQI
+﻿Narodna]Slađa Allegro}Zaplakaću sutra=http://www.youtube.com/watch?v=j3vt4d9CTis
 ﻿Zabavna]Slađana Ivanisević}5 minuta=http://www.youtube.com/watch?v=28ioJWTIc_E
 ﻿Zabavna]Slađana Ivanisević}Bolja neka pobedi=http://www.youtube.com/watch?v=IJz9C5Cs16M
 ﻿Zabavna]Slađana Ivanisević}Hej DJ=http://www.youtube.com/watch?v=3zqefaNxhJA
