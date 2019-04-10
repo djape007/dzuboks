@@ -3162,7 +3162,7 @@
 ﻿Rok]Crvena Jabuka}Jedina=http://www.youtube.com/watch?v=pBvihYbtb4Q
 ﻿Rok]Crvena Jabuka}Jukebox=http://www.youtube.com/watch?v=_cVwrAdPHH8
 ﻿Rok]Crvena Jabuka}Kad ćeš mi doći=http://www.youtube.com/watch?v=65RYizgu1zw
-﻿Rok]Crvena Jabuka}Kad je noć hladna i zvjezdana=http://www.youtube.com/watch?v=p2nzJllc03o
+﻿Rok]Crvena Jabuka}Kad je noć hladna i zvjezdana=http://www.youtube.com/watch?v=egsQGnHGI1M
 ﻿Rok]Crvena Jabuka}Kad kazaljke se poklope=http://www.youtube.com/watch?v=zaQ4jj7nBeI
 ﻿Rok]Crvena Jabuka}Kad te jednom pitam=http://www.youtube.com/watch?v=ICdzRO9K_js
 ﻿Rok]Crvena Jabuka}Kao da sanjam=http://www.youtube.com/watch?v=2zPcECDmvPM
@@ -8019,7 +8019,7 @@
 ﻿Rok]Hladno Pivo}Vjeruj u mene=http://www.youtube.com/watch?v=e2Coalym9k8
 ﻿Rok]Hladno Pivo}Zakaj se tak' oblačiš=http://www.youtube.com/watch?v=GD22zdW6gEQ
 ﻿Rok]Hladno Pivo}Zimmer frei=http://www.youtube.com/watch?v=PM9sic3bcc8
-﻿Narodna]Hule}Noćna dama=http://www.youtube.com/watch?v=Hjwn4QJ0v5U
+﻿Narodna]Hule}Noćna dama=http://www.youtube.com/watch?v=loV30grvx4I
 ﻿Narodna]Hule}Grlim svoje najmilije=https://www.youtube.com/watch?v=6RCohqTkN0I
 ﻿Narodna]Hule}Moja djeca=https://www.youtube.com/watch?v=Iq-p6bv91Gk
 ﻿Narodna]Hule}Pukni čašo=http://www.youtube.com/watch?v=kL2Fizvokgg
@@ -10549,16 +10549,15 @@
 ﻿Rok Strani]Led Zeppelin}Black dog=https://www.youtube.com/watch?v=Yj1WstJkYU4
 ﻿Rok Strani]Led Zeppelin}Celebration day=https://www.youtube.com/watch?v=KMQdiHIZgSo
 ﻿Rok Strani]Led Zeppelin}Communication breakdown=https://www.youtube.com/watch?v=fGUsGlpDJkE
-﻿Rok Strani]Led Zeppelin}Darlene (remastered)=https://www.youtube.com/watch?v=NAHdoaRmq6s
 ﻿Rok Strani]Led Zeppelin}Dazed and confused=http://www.youtube.com/watch?v=-rmtJ6-EY1E
 ﻿Rok Strani]Led Zeppelin}Dream on=https://www.youtube.com/watch?v=1n0Zg-p5cxc
-﻿Rok Strani]Led Zeppelin}For your life=https://www.youtube.com/watch?v=Rs-oBeV8FDc
+﻿Rok Strani]Led Zeppelin}For your life=http://www.youtube.com/watch?v=UP7dJI-I8Js
 ﻿Rok Strani]Led Zeppelin}Friends=--start-time=7 https://www.youtube.com/watch?v=-kheJwV9eMk
 ﻿Rok Strani]Led Zeppelin}Going to california=https://www.youtube.com/watch?v=7IZ-jATBq9A
 ﻿Rok Strani]Led Zeppelin}Good times bad times=https://www.youtube.com/watch?v=1ppjI6KZHlE
 ﻿Rok Strani]Led Zeppelin}Heartbreaker=https://www.youtube.com/watch?v=EUFGJvYlPFk
 ﻿Rok Strani]Led Zeppelin}Hey hey what can i do=--start-time=13 http://www.youtube.com/watch?v=pFLR5t5q0yQ
-﻿Rok Strani]Led Zeppelin}Hots on for nowhere=--start-time=6 https://www.youtube.com/watch?v=Vu5aQa4X9g0
+﻿Rok Strani]Led Zeppelin}Hots on for nowhere=http://www.youtube.com/watch?v=mqGHk-9HdyE
 ﻿Rok Strani]Led Zeppelin}I can't quit you baby=https://www.youtube.com/watch?v=84GOPAWTwac
 ﻿Rok Strani]Led Zeppelin}I'm gonna crawl=http://www.youtube.com/watch?v=hGW1ikfxTQA
 ﻿Rok Strani]Led Zeppelin}In my time of dying=https://www.youtube.com/watch?v=zwLBaBeo1k4
@@ -10572,7 +10571,6 @@
 ﻿Rok Strani]Led Zeppelin}Nobody's fault but mine=https://www.youtube.com/watch?v=f0HOf3uR5-4
 ﻿Rok Strani]Led Zeppelin}Over the hills and far away=http://www.youtube.com/watch?v=Ee33FsDANk0
 ﻿Rok Strani]Led Zeppelin}Rock and roll=https://www.youtube.com/watch?v=mwFqRB2FQu4
-﻿Rok Strani]Led Zeppelin}Royal Orleans=https://www.youtube.com/watch?v=OUHjo111vkw
 ﻿Rok Strani]Led Zeppelin}Stairway to Heaven=https://www.youtube.com/watch?v=D9ioyEvdggk
 ﻿Rok Strani]Led Zeppelin}Swan song=https://www.youtube.com/watch?v=Dsspw3CALxA
 ﻿Rok Strani]Led Zeppelin}Tangerine=http://www.youtube.com/watch?v=e4-WzbsYHTE
@@ -10821,7 +10819,7 @@
 ﻿Rok Strani]Nightwish}She is my sin=https://www.youtube.com/watch?v=MSsTS6c8KOU
 ﻿Rok Strani]Nightwish}Amaranth=https://www.youtube.com/watch?v=dSs4xfvATjc
 ﻿Rok Strani]Nightwish}Dark chest of wonders=--start-time=2 https://www.youtube.com/watch?v=rBETIUlgZdY
-﻿Rok Strani]Nightwish}The Escapist=http://www.youtube.com/watch?v=1eVhtRv_soY
+﻿Rok Strani]Nightwish}The Escapist=http://www.youtube.com/watch?v=iyQuleDTnV8
 ﻿Rok Strani]Nightwish}Wish i had an angel=--start-time=4 https://www.youtube.com/watch?v=oXo_Vu0Fyxw
 ﻿Rok Strani]Nightwish}While your lips are still red=http://www.youtube.com/watch?v=UnDwAyP_lgk
 ﻿Rok Strani]Nightwish}Sleeping sun=--start-time=3 https://www.youtube.com/watch?v=UGfKMV5AbMI
@@ -10867,7 +10865,6 @@
 ﻿Rok Strani]Nightwish}Alpenglow=https://www.youtube.com/watch?v=N2_ETb-63oo
 ﻿Rok Strani]Nightwish}Astral romance=--start-time=4 https://www.youtube.com/watch?v=pRb3624xo5c
 ﻿Rok Strani]Nightwish}Ocean soul=https://www.youtube.com/watch?v=dfzHPSdLjT8
-﻿Rok Strani]Nightwish}Sahara=https://www.youtube.com/watch?v=O95MWzAqa44
 ﻿Rok Strani]Nightwish}Forever yours=--start-time=3 https://www.youtube.com/watch?v=Bw9fnmp_r6k
 ﻿Rok Strani]Nightwish}Sleepwalker=--start-time=2 https://www.youtube.com/watch?v=0NNv1VZMrNw
 ﻿Rok Strani]Nightwish}Feel for you=https://www.youtube.com/watch?v=TWydh_-lwBU
@@ -12734,7 +12731,7 @@
 ﻿Rok Strani]Bon Jovi}Please Come Home For Christmas=http://www.youtube.com/watch?v=c5JAtObzSMY
 ﻿Rok Strani]Bon Jovi}Put The Boy Back In Cowboy=http://www.youtube.com/watch?v=ekM-NREJtLo
 ﻿Rok Strani]Bon Jovi}Raise Your Hands=http://www.youtube.com/watch?v=LOQeD6XjGos
-﻿Rok Strani]Bon Jovi}Real Life=http://www.youtube.com/watch?v=vCp_vDQcgjU
+﻿Rok Strani]Bon Jovi}Real Life=http://www.youtube.com/watch?v=B4qC3vLudEs
 ﻿Rok Strani]Bon Jovi}Real Love=http://www.youtube.com/watch?v=zyFshj0hHfY
 ﻿Rok Strani]Bon Jovi}Reunion=--start-time=35 http://www.youtube.com/watch?v=LgRuPe2QjZc
 ﻿Rok Strani]Bon Jovi}Rich Man Living In A Poor Man's House=http://www.youtube.com/watch?v=TfUVaJlfAgg
@@ -14178,7 +14175,7 @@
 ﻿Rok Strani]Frank Zappa}Heavy Duty Judy=http://www.youtube.com/watch?v=Vc302WujLk8
 ﻿Rok Strani]Frank Zappa}Help, I'm A Rock=http://www.youtube.com/watch?v=lNQRgoK3drQ
 ﻿Rok Strani]Frank Zappa}Hog Heaven=http://www.youtube.com/watch?v=DVDyX6DEC_w
-﻿Rok Strani]Frank Zappa}Honey, Don't You Want A Man Like Me?=http://www.youtube.com/watch?v=PtSb4Kc8wDY
+﻿Rok Strani]Frank Zappa}Honey, Don't You Want A Man Like Me?=http://www.youtube.com/watch?v=QsrSIQM4ZTk
 ﻿Rok Strani]Frank Zappa}Hot-Plate Heaven At The Green Hotel=http://www.youtube.com/watch?v=wjF7sgwxROQ
 ﻿Rok Strani]Frank Zappa}How Could I Be Such A Fool?=http://www.youtube.com/watch?v=cpYmHNicnkQ
 ﻿Rok Strani]Frank Zappa}Hungry Freaks, Daddy=http://www.youtube.com/watch?v=IDE9MC3jnl0
@@ -16779,7 +16776,7 @@
 ﻿Rok Strani]Dire Straits}News=http://www.youtube.com/watch?v=HG86XKaNj0Y
 ﻿Rok Strani]Dire Straits}On Every Street=http://www.youtube.com/watch?v=-5KpLRWY8sA
 ﻿Rok Strani]Dire Straits}Once Upon A Time In The West=http://www.youtube.com/watch?v=bqw6aFrlGEE
-﻿Rok Strani]Dire Straits}One World=http://www.youtube.com/watch?v=PTZfZMi0xi0
+﻿Rok Strani]Dire Straits}One World=http://www.youtube.com/watch?v=2XuCBvRxt0c
 ﻿Rok Strani]Dire Straits}Portobello Belle=http://www.youtube.com/watch?v=4_LUFvofAkg
 ﻿Rok Strani]Dire Straits}Private Investigations=http://www.youtube.com/watch?v=y-xG44ExDwM
 ﻿Rok Strani]Dire Straits}Ride Across The River=http://www.youtube.com/watch?v=rSZzyGXCTQk
@@ -16813,7 +16810,7 @@
 ﻿Rok Strani]Bruce Springsteen}Ain't Got You=http://www.youtube.com/watch?v=fjPgkXpqvdY
 ﻿Rok Strani]Bruce Springsteen}All I'm Thinkin' About=http://www.youtube.com/watch?v=sYDzkXBV0vQ
 ﻿Rok Strani]Bruce Springsteen}All Or Nothin' At All=http://www.youtube.com/watch?v=li9bby_Vyms
-﻿Rok Strani]Bruce Springsteen}All That Heaven Will Allow=http://www.youtube.com/watch?v=vAFaiKdiXIk
+﻿Rok Strani]Bruce Springsteen}All That Heaven Will Allow=http://www.youtube.com/watch?v=SdJIpyiupJo
 ﻿Rok Strani]Bruce Springsteen}All The Way Home=http://www.youtube.com/watch?v=giV7OguT3qc
 ﻿Rok Strani]Bruce Springsteen}American Beauty=http://www.youtube.com/watch?v=Aum-HhTbIc0
 ﻿Rok Strani]Bruce Springsteen}American Land=http://www.youtube.com/watch?v=doq-ktDPjg8
@@ -16825,7 +16822,7 @@
 ﻿Rok Strani]Bruce Springsteen}Be True=http://www.youtube.com/watch?v=dmGzY2xmLxc
 ﻿Rok Strani]Bruce Springsteen}Because The Night=http://www.youtube.com/watch?v=3hVYb06n_B8
 ﻿Rok Strani]Bruce Springsteen}Better Days=http://www.youtube.com/watch?v=g99NO9eN740
-﻿Rok Strani]Bruce Springsteen}Bishop Danced=http://www.youtube.com/watch?v=toeSHdY7UgE
+﻿Rok Strani]Bruce Springsteen}Bishop Danced=http://www.youtube.com/watch?v=vcTf9n0jJxE
 ﻿Rok Strani]Bruce Springsteen}Black Cowboys=http://www.youtube.com/watch?v=5kswyffbf4Q
 ﻿Rok Strani]Bruce Springsteen}Blinded By The Light=http://www.youtube.com/watch?v=uozMTmEjxHc
 ﻿Rok Strani]Bruce Springsteen}Blood Brothers=http://www.youtube.com/watch?v=eE45GT9Z9kE
@@ -16841,7 +16838,7 @@
 ﻿Rok Strani]Bruce Springsteen}Buffalo Gals=http://www.youtube.com/watch?v=19nO2TuSFd4
 ﻿Rok Strani]Bruce Springsteen}Cadillac Ranch=http://www.youtube.com/watch?v=sG54tahGUXY
 ﻿Rok Strani]Bruce Springsteen}Candy's Boy=http://www.youtube.com/watch?v=sRacRf9-OQY
-﻿Rok Strani]Bruce Springsteen}Candy's Room=http://www.youtube.com/watch?v=cDkyT3qSg1c
+﻿Rok Strani]Bruce Springsteen}Candy's Room=http://www.youtube.com/watch?v=JDWbvq8QuzY
 ﻿Rok Strani]Bruce Springsteen}Car Wash=http://www.youtube.com/watch?v=zyiPNO9L6ns
 ﻿Rok Strani]Bruce Springsteen}Cautious Man=http://www.youtube.com/watch?v=4VtfZH44nqk
 ﻿Rok Strani]Bruce Springsteen}Chain Lightning=http://www.youtube.com/watch?v=6CeHuKvkITU
@@ -16851,14 +16848,14 @@
 ﻿Rok Strani]Bruce Springsteen}Countin' On A Miracle=http://www.youtube.com/watch?v=fJ-PZLhAODk
 ﻿Rok Strani]Bruce Springsteen}Cross My Heart=http://www.youtube.com/watch?v=CxpMGDXm64Y
 ﻿Rok Strani]Bruce Springsteen}Crush On You=http://www.youtube.com/watch?v=GyDFBP3yPlk
-﻿Rok Strani]Bruce Springsteen}Cynthia=http://www.youtube.com/watch?v=nBOiSeE9-_s
+﻿Rok Strani]Bruce Springsteen}Cynthia=http://www.youtube.com/watch?v=JAdNYSQNoNY
 ﻿Rok Strani]Bruce Springsteen}Dancing In The Dark=http://www.youtube.com/watch?v=129kuDCQtHs
 ﻿Rok Strani]Bruce Springsteen}Darlinton County=http://www.youtube.com/watch?v=l_hr3tPygxY
 ﻿Rok Strani]Bruce Springsteen}Death To My Hometown=http://www.youtube.com/watch?v=UASyS-jUKKI
 ﻿Rok Strani]Bruce Springsteen}Devil's Arcade=http://www.youtube.com/watch?v=q8JFp2iDsnQ
 ﻿Rok Strani]Bruce Springsteen}Devils &amp; Dust=http://www.youtube.com/watch?v=wYmWstvKOHo
-﻿Rok Strani]Bruce Springsteen}Does This Bus Stop At 82nd Street?=http://www.youtube.com/watch?v=gFkryLe6xi8
-﻿Rok Strani]Bruce Springsteen}Dollhouse=http://www.youtube.com/watch?v=Q89ymypiT5A
+﻿Rok Strani]Bruce Springsteen}Does This Bus Stop At 82nd Street?=http://www.youtube.com/watch?v=1Q_oibJXUZo
+﻿Rok Strani]Bruce Springsteen}Dollhouse=http://www.youtube.com/watch?v=mrXTJgJlRhA
 ﻿Rok Strani]Bruce Springsteen}Don't Look Back=http://www.youtube.com/watch?v=iE8QHGJ37Mw
 ﻿Rok Strani]Bruce Springsteen}Down In The Hole=http://www.youtube.com/watch?v=CSoFSaNz1W8
 ﻿Rok Strani]Bruce Springsteen}Downbound Train=http://www.youtube.com/watch?v=Nc_mv46NwT4
@@ -16943,7 +16940,7 @@
 ﻿Rok Strani]Bruce Springsteen}Long Walk Home=http://www.youtube.com/watch?v=iywFZqtPlhU
 ﻿Rok Strani]Bruce Springsteen}Loose Change=http://www.youtube.com/watch?v=LrFg1ZOwpoY
 ﻿Rok Strani]Bruce Springsteen}Loose Ends=http://www.youtube.com/watch?v=21dUOfeoNBI
-﻿Rok Strani]Bruce Springsteen}Lost In The Flood=http://www.youtube.com/watch?v=IoF9fBIKnbQ
+﻿Rok Strani]Bruce Springsteen}Lost In The Flood=http://www.youtube.com/watch?v=oKxA-q_m7Bk
 ﻿Rok Strani]Bruce Springsteen}Lucky Man=http://www.youtube.com/watch?v=YgIVwZoKpJE
 ﻿Rok Strani]Bruce Springsteen}Lucky Town=http://www.youtube.com/watch?v=yvxLsZ9Myo0
 ﻿Rok Strani]Bruce Springsteen}Magic=http://www.youtube.com/watch?v=nJrOcliBDs4
@@ -16962,7 +16959,6 @@
 ﻿Rok Strani]Bruce Springsteen}Murder Incorporated=http://www.youtube.com/watch?v=Jj7hvKQ6Uhc
 ﻿Rok Strani]Bruce Springsteen}My Beautiful Reward=http://www.youtube.com/watch?v=O0lUziFlU7E
 ﻿Rok Strani]Bruce Springsteen}My Best Was Never Good Enough=http://www.youtube.com/watch?v=6xqJ4Ejga2c
-﻿Rok Strani]Bruce Springsteen}My Father's House=http://www.youtube.com/watch?v=1OwGfxHAOso
 ﻿Rok Strani]Bruce Springsteen}My Hometown=--start-time=14 http://www.youtube.com/watch?v=77gKSp8WoRg
 ﻿Rok Strani]Bruce Springsteen}My Love Will Not Let You Down=http://www.youtube.com/watch?v=c7ky70i_VGc
 ﻿Rok Strani]Bruce Springsteen}My Lover Man=http://www.youtube.com/watch?v=UlhXGbJfw8Q
@@ -16980,12 +16976,12 @@
 ﻿Rok Strani]Bruce Springsteen}Outside Looking In=http://www.youtube.com/watch?v=Ye66WuPgyJo
 ﻿Rok Strani]Bruce Springsteen}Over The Rise=http://www.youtube.com/watch?v=Xn9p_sbhPRM
 ﻿Rok Strani]Bruce Springsteen}Paradise=http://www.youtube.com/watch?v=rcWF7se6EfA
-﻿Rok Strani]Bruce Springsteen}Paradise By The 'C'=http://www.youtube.com/watch?v=QHJGSGbhFwk
+﻿Rok Strani]Bruce Springsteen}Paradise By The 'C'=http://www.youtube.com/watch?v=9ENAcksMG64
 ﻿Rok Strani]Bruce Springsteen}Part Man, Part Monkey=http://www.youtube.com/watch?v=ztJhIgtb7Pg
 ﻿Rok Strani]Bruce Springsteen}Party Lights=http://www.youtube.com/watch?v=_CqYpjOqG80
 ﻿Rok Strani]Bruce Springsteen}Pink Cadillac=http://www.youtube.com/watch?v=qD5Vythvxig
 ﻿Rok Strani]Bruce Springsteen}Point Blank=http://www.youtube.com/watch?v=Hw7C4OhTNdU
-﻿Rok Strani]Bruce Springsteen}Pony Boy=http://www.youtube.com/watch?v=45m3bGQQwKk
+﻿Rok Strani]Bruce Springsteen}Pony Boy=http://www.youtube.com/watch?v=EAkzIg27ob4
 ﻿Rok Strani]Bruce Springsteen}Prove It All Night=http://www.youtube.com/watch?v=4DXlOHUSnAw
 ﻿Rok Strani]Bruce Springsteen}Queen Of The Supermarket=http://www.youtube.com/watch?v=q1BPuLZ995M
 ﻿Rok Strani]Bruce Springsteen}Racing In The Street=http://www.youtube.com/watch?v=ZOWIAXsfZus
@@ -17014,7 +17010,7 @@
 ﻿Rok Strani]Bruce Springsteen}She's The One=http://www.youtube.com/watch?v=Qx3mb4lU4qg
 ﻿Rok Strani]Bruce Springsteen}Shenandoah=http://www.youtube.com/watch?v=Wd1i_ZoSGTk
 ﻿Rok Strani]Bruce Springsteen}Sherry Darling=http://www.youtube.com/watch?v=RVYPWVClfjE
-﻿Rok Strani]Bruce Springsteen}Silver Palomino=http://www.youtube.com/watch?v=h1MnqwIFAnE
+﻿Rok Strani]Bruce Springsteen}Silver Palomino=http://www.youtube.com/watch?v=uG23kDJwD3g
 ﻿Rok Strani]Bruce Springsteen}Sinaloa Cowboys=http://www.youtube.com/watch?v=RMWY0O3kEbI
 ﻿Rok Strani]Bruce Springsteen}So Young And In Love=http://www.youtube.com/watch?v=ZCsowxYIGqY
 ﻿Rok Strani]Bruce Springsteen}Someday (We'll Be Together)=http://www.youtube.com/watch?v=NVuhczRCdYM
@@ -17051,12 +17047,12 @@
 ﻿Rok Strani]Bruce Springsteen}The Long Goodbye=http://www.youtube.com/watch?v=wbs9TcXXaGY
 ﻿Rok Strani]Bruce Springsteen}The Man Who Got Away=http://www.youtube.com/watch?v=HILdKjpDAXs
 ﻿Rok Strani]Bruce Springsteen}The New Timer=http://www.youtube.com/watch?v=g4Ka2NTga9c
-﻿Rok Strani]Bruce Springsteen}The Price You Pay=http://www.youtube.com/watch?v=u8mkBfDwyvg
+﻿Rok Strani]Bruce Springsteen}The Price You Pay=http://www.youtube.com/watch?v=E_b297Cljg8
 ﻿Rok Strani]Bruce Springsteen}The Promise=http://www.youtube.com/watch?v=28fxYIhQcwc
 ﻿Rok Strani]Bruce Springsteen}The Promised Land=http://www.youtube.com/watch?v=wrKh1zxv_rQ
 ﻿Rok Strani]Bruce Springsteen}The Rising=http://www.youtube.com/watch?v=EjPU_SGOqCM
 ﻿Rok Strani]Bruce Springsteen}The River=http://www.youtube.com/watch?v=nAB4vOkL6cE
-﻿Rok Strani]Bruce Springsteen}The Ties That Bind=http://www.youtube.com/watch?v=k-oQogxNjfw
+﻿Rok Strani]Bruce Springsteen}The Ties That Bind=http://www.youtube.com/watch?v=-73KeumrfbQ
 ﻿Rok Strani]Bruce Springsteen}The Time That Never Was=http://www.youtube.com/watch?v=ei_mNOnJbzg
 ﻿Rok Strani]Bruce Springsteen}The Wall=http://www.youtube.com/watch?v=hX2g8zvxjRc
 ﻿Rok Strani]Bruce Springsteen}The Way=http://www.youtube.com/watch?v=32xQHRILrjM
@@ -17076,7 +17072,7 @@
 ﻿Rok Strani]Bruce Springsteen}Two Faces=http://www.youtube.com/watch?v=rG4JSYOlruc
 ﻿Rok Strani]Bruce Springsteen}Two For The Road=http://www.youtube.com/watch?v=WJp6r-R-svc
 ﻿Rok Strani]Bruce Springsteen}Two Hearts=http://www.youtube.com/watch?v=1pE5NbsVW84
-﻿Rok Strani]Bruce Springsteen}Used Cars=http://www.youtube.com/watch?v=Lf2NpY4fpIw
+﻿Rok Strani]Bruce Springsteen}Used Cars=http://www.youtube.com/watch?v=HUVcds-5Vr4
 ﻿Rok Strani]Bruce Springsteen}Valentine's Day=http://www.youtube.com/watch?v=NhFrj092j3o
 ﻿Rok Strani]Bruce Springsteen}Wages Of Sin=http://www.youtube.com/watch?v=-9qL_1vYKjA
 ﻿Rok Strani]Bruce Springsteen}Waitin' On A Sunny Day=http://www.youtube.com/watch?v=OAxm_GSM7L4
@@ -17086,9 +17082,8 @@
 ﻿Rok Strani]Bruce Springsteen}We Shall Overcome=http://www.youtube.com/watch?v=vMC8vz-mqmI
 ﻿Rok Strani]Bruce Springsteen}We Take Care Of Our Own=http://www.youtube.com/watch?v=-x8zBzxCwsM
 ﻿Rok Strani]Bruce Springsteen}What Love Can Do=http://www.youtube.com/watch?v=XZOGQ8FQpS4
-﻿Rok Strani]Bruce Springsteen}When The Lights Go Out=http://www.youtube.com/watch?v=5r1QPQCKJCU
 ﻿Rok Strani]Bruce Springsteen}When You Need Me=http://www.youtube.com/watch?v=WY2-hUoq3iQ
-﻿Rok Strani]Bruce Springsteen}When You're Alone=http://www.youtube.com/watch?v=DwUICN8iMzM
+﻿Rok Strani]Bruce Springsteen}When You're Alone=http://www.youtube.com/watch?v=j7B4yI4d3aM
 ﻿Rok Strani]Bruce Springsteen}Where The Bands Are=http://www.youtube.com/watch?v=aKE8uUZIWkM
 ﻿Rok Strani]Bruce Springsteen}Whitetown=http://www.youtube.com/watch?v=cOZ31fiXYxA
 ﻿Rok Strani]Bruce Springsteen}Wild Billy's Circus Story=http://www.youtube.com/watch?v=2f6KfQq4Y5s
