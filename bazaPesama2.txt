@@ -1746,6 +1746,7 @@
 ﻿Zabavna]Milica Pavlović}Selfie=http://www.youtube.com/watch?v=vLvNympX-7E
 ﻿Zabavna]Milica Pavlović}Sexy Senorita=http://www.youtube.com/watch?v=tMslBrvih1M
 ﻿Zabavna]Milica Pavlović}Tango=http://www.youtube.com/watch?v=aOGRV3pkgUc
+﻿Zabavna]Milica Todorović}Avet (ft. Mirza Selimović)=--start-time=7 https://www.youtube.com/watch?v=58-vYzVrs_0
 ﻿Zabavna]Milica Todorović}Cure privode=--start-time=7 http://www.youtube.com/watch?v=MdZE-0Cxcvo
 ﻿Zabavna]Milica Todorović}Gade=http://www.youtube.com/watch?v=OcovkPkIs3g
 ﻿Zabavna]Milica Todorović}Ginem=http://www.youtube.com/watch?v=nE6gYK2aFvw
@@ -2102,6 +2103,7 @@
 ﻿Tamburaši]Miroslav Škoro}Zašto lažu nam u lice=http://www.youtube.com/watch?v=hRIa2fmj0d0
 ﻿Tamburaši]Miroslav Škoro}Zbog tebe mi srce stade=http://www.youtube.com/watch?v=GZwVTAXF3jI
 ﻿Tamburaši]Miroslav Škoro}Život spaja, razdvaja=http://www.youtube.com/watch?v=nL0FeYHCyKA
+﻿Narodna]Mirza Selimović}Avet (ft. Milica Todorović)=--start-time=7 https://www.youtube.com/watch?v=58-vYzVrs_0
 ﻿Narodna]Mirza Selimović}Boliš me=http://www.youtube.com/watch?v=hE4FhIOfDa0
 ﻿Narodna]Mirza Selimović}Brod ludaka=--start-time=3 http://www.youtube.com/watch?v=C6V6b3C8i0M
 ﻿Narodna]Mirza Selimović}Da se opet rodim (ft. Ivana Selakov)=http://www.youtube.com/watch?v=Dj_KEwqlAH0
@@ -3016,6 +3018,7 @@
 ﻿Zabavna]Nikolija}Alkohola litar (Elitni odredi, Dj Mlađa)=http://www.youtube.com/watch?v=gAgievLY0YA
 ﻿Zabavna]Nikolija}Kako posle mene=http://www.youtube.com/watch?v=d0YNd9fPWt0
 ﻿Zabavna]Nikolija}Ljubavni maneken=--start-time=6 http://www.youtube.com/watch?v=K37NlPObj5o
+﻿Zabavna]Nikolija}Nije lako biti ja (ft. Fox)=--start-time=10 https://www.youtube.com/watch?v=8CoDsVWTXQI
 ﻿Zabavna]Nikolija}Malo=--start-time=6 https://www.youtube.com/watch?v=p5WSWEYrjII
 ﻿Zabavna]Nikolija}Moj tempo=--start-time=16 http://www.youtube.com/watch?v=7TTQC9KeWn4
 ﻿Zabavna]Nikolija}Nema limita=--start-time=6 https://www.youtube.com/watch?v=Z0z3VxZX6js
