@@ -385,7 +385,7 @@
 ﻿Zabavna]Adil Maksutović}Verni sluga=http://www.youtube.com/watch?v=gPnFZbJQysQ
 ﻿Zabavna]Adil Maksutović}Veruj u nas=--start-time=13 http://www.youtube.com/watch?v=MfFypDwsAig
 ﻿Zabavna]Adil Maksutović}Vidim nas=http://www.youtube.com/watch?v=0BJLyg8zFJ0
-Zabavna]Adil Maksutović}U glavi nisam sam=--start-time=3  https://www.youtube.com/watch?v=RFxM_kYYidU
+﻿Zabavna]Adil Maksutović}U glavi nisam sam=--start-time=3  https://www.youtube.com/watch?v=RFxM_kYYidU
 ﻿Zabavna]Adil Maksutović}Zagrli me=http://www.youtube.com/watch?v=lDZI-FQsabk
 ﻿Zabavna]Adil Maksutović}Zajedno smo mnogo toga prošli=http://www.youtube.com/watch?v=LnmoU0BNOXE
 ﻿Zabavna]Adil Maksutović}Zamalo=http://www.youtube.com/watch?v=Vqq4IPlw3DA
@@ -605,7 +605,6 @@ Zabavna]Adil Maksutović}U glavi nisam sam=--start-time=3  https://www.youtube.c
 ﻿Zabavna]Alen Islamović}Ej ljubomoro=http://www.youtube.com/watch?v=ca16ZZFzZbQ
 ﻿Zabavna]Alen Islamović}Haj nek se čuje=http://www.youtube.com/watch?v=xXEQ36Y1Js0
 ﻿Zabavna]Alen Islamović}Heroin=http://www.youtube.com/watch?v=BSFUcy2x8M4
-﻿Zabavna]Alen Islamović}Idi putuj=http://www.youtube.com/watch?v=DQP6gMwS6DM
 ﻿Zabavna]Alen Islamović}Ime=http://www.youtube.com/watch?v=OxzFSJrVh7c
 ﻿Zabavna]Alen Islamović}Ispod kaputa=http://www.youtube.com/watch?v=wXRVP-ic9V8
 ﻿Zabavna]Alen Islamović}Kad bi mi i tebe Bog oprostio=http://www.youtube.com/watch?v=gVQcXscHh1Y
@@ -1354,7 +1353,7 @@ Zabavna]Adil Maksutović}U glavi nisam sam=--start-time=3  https://www.youtube.c
 ﻿Narodna]Asim Brkan}Il se javi, il' me zaboravi=http://www.youtube.com/watch?v=iY-crd1WWcQ
 ﻿Narodna]Asim Brkan}Ima l' neko da mi kaže=http://www.youtube.com/watch?v=OjtGuo_SLY4
 ﻿Narodna]Asim Brkan}Ja bih da te ljubim=http://www.youtube.com/watch?v=HIeSGnjgiPM
-﻿Narodna]Asim Brkan}Jasmina=http://www.youtube.com/watch?v=tMLIx5LDMRg
+﻿Narodna]Asim Brkan}Jasmina=http://www.youtube.com/watch?v=vw6OeXECzXU
 ﻿Narodna]Asim Brkan}Jedina moja=http://www.youtube.com/watch?v=zzXSIO1iDDg
 ﻿Narodna]Asim Brkan}Jednom sam i ja voleo=http://www.youtube.com/watch?v=oeXLhJKg43M
 ﻿Narodna]Asim Brkan}Ko je, majko, onaj čovjek=http://www.youtube.com/watch?v=4HJ2GhYHVFo
@@ -1365,7 +1364,7 @@ Zabavna]Adil Maksutović}U glavi nisam sam=--start-time=3  https://www.youtube.c
 ﻿Narodna]Asim Brkan}Najljepšu haljinu večeras obuci=http://www.youtube.com/watch?v=BbnqdMFyevY
 ﻿Narodna]Asim Brkan}Ne ruši mi sreću nepoznata ženo=http://www.youtube.com/watch?v=xttGkgXdpU8
 ﻿Narodna]Asim Brkan}Novo ljeto dođe=http://www.youtube.com/watch?v=UB4G8_Pi-aI
-﻿Narodna]Asim Brkan}Otvorile se stare rane=http://www.youtube.com/watch?v=URU5JIn5oVc
+﻿Narodna]Asim Brkan}Otvorile se stare rane=http://www.youtube.com/watch?v=k7D1y7g7o1s
 ﻿Narodna]Asim Brkan}Ove noći u mislima s tobom=http://www.youtube.com/watch?v=X0WcUzESE7Q
 ﻿Narodna]Asim Brkan}Reći majci da se rastajemo=http://www.youtube.com/watch?v=2T2kV-Hm5gw
 ﻿Narodna]Asim Brkan}Snjegovi bijeli=http://www.youtube.com/watch?v=DaJrg7LWeVs
@@ -1702,7 +1701,7 @@ Zabavna]Adil Maksutović}U glavi nisam sam=--start-time=3  https://www.youtube.c
 ﻿Rok]Bajaga}Golubica=http://www.youtube.com/watch?v=NuvZuOqMUQ8
 ﻿Rok]Bajaga}Gore, dole=http://www.youtube.com/watch?v=T_vc6k7U1ro
 ﻿Rok]Bajaga}Gospod brine=http://www.youtube.com/watch?v=yi06wXxHD9s
-﻿Rok]Bajaga}Grad=http://www.youtube.com/watch?v=D6D4qziVMuA
+﻿Rok]Bajaga}Grad=http://www.youtube.com/watch?v=OZN-KE0UKMM
 ﻿Rok]Bajaga}Grudi nosi k'o odlikovanja=http://www.youtube.com/watch?v=49FE2N99KS0
 ﻿Rok]Bajaga}Idem=http://www.youtube.com/watch?v=6yKiLA0_PA0
 ﻿Rok]Bajaga}Ima svet kraja dva=http://www.youtube.com/watch?v=-xwYJkLB8g0
@@ -1744,7 +1743,6 @@ Zabavna]Adil Maksutović}U glavi nisam sam=--start-time=3  https://www.youtube.c
 ﻿Rok]Bajaga}Ovo je Balkan=http://www.youtube.com/watch?v=6XQqD-U-RiQ
 ﻿Rok]Bajaga}Pada vlada=http://www.youtube.com/watch?v=j0Bc4zafZcU
 ﻿Rok]Bajaga}Padaj kišo keve ti=http://www.youtube.com/watch?v=qPOpg-lX234
-﻿Rok]Bajaga}Papaline=http://www.youtube.com/watch?v=zoCIUM6ihUc
 ﻿Rok]Bajaga}Perla=http://www.youtube.com/watch?v=3_OtFKQF3Hk
 ﻿Rok]Bajaga}Pesma protiv malera=http://www.youtube.com/watch?v=ZdIagwzqXgk
 ﻿Rok]Bajaga}Pesma slobode=http://www.youtube.com/watch?v=6eIrztMpypU
@@ -2753,7 +2751,7 @@ Zabavna]Adil Maksutović}U glavi nisam sam=--start-time=3  https://www.youtube.c
 ﻿Narodna]Ceca}I bogati plaču=http://www.youtube.com/watch?v=KACO7KJqG28
 ﻿Narodna]Ceca}Idealno loša=http://www.youtube.com/watch?v=Em6vj8S4eDc
 ﻿Narodna]Ceca}Idi dok si mlad=http://www.youtube.com/watch?v=yJ2V9edID9Q
-﻿Narodna]Ceca}Igračka samoće=http://www.youtube.com/watch?v=TYkMLJmZ2cc
+﻿Narodna]Ceca}Igračka samoće=http://www.youtube.com/watch?v=LuSHDdYiNVw
 ﻿Narodna]Ceca}Ime i prezime=http://www.youtube.com/watch?v=6LyLkcwIiqI
 ﻿Narodna]Ceca}Isuse=http://www.youtube.com/watch?v=th3exkDdOy8
 ﻿Narodna]Ceca}Izbriši, vetre, trag=http://www.youtube.com/watch?v=MtH-rkArVJk
@@ -4195,7 +4193,7 @@ Zabavna]Adil Maksutović}U glavi nisam sam=--start-time=3  https://www.youtube.c
 ﻿Rok]Divlje Jagode}Nasmiješi se=http://www.youtube.com/watch?v=MzqNXalxUqQ
 ﻿Rok]Divlje Jagode}Nazovi me=http://www.youtube.com/watch?v=ntPuvXLLRgY
 ﻿Rok]Divlje Jagode}Ne krivi me=http://www.youtube.com/watch?v=J2Cznvv4QjQ
-﻿Rok]Divlje Jagode}Ne želiš kraj=http://www.youtube.com/watch?v=am3AjKyuT30
+﻿Rok]Divlje Jagode}Ne želiš kraj=http://www.youtube.com/watch?v=qG25uZjkGdY
 ﻿Rok]Divlje Jagode}Ne, nisam ja=http://www.youtube.com/watch?v=8973QX7nW4c
 ﻿Rok]Divlje Jagode}Nemam ništa protiv=http://www.youtube.com/watch?v=sIMB0Z9pkeM
 ﻿Rok]Divlje Jagode}Od neba do neba=http://www.youtube.com/watch?v=lpVsEmwro38
@@ -4529,7 +4527,7 @@ Zabavna]Adil Maksutović}U glavi nisam sam=--start-time=3  https://www.youtube.c
 ﻿Kantautori]Đorđe Balašević}Hej, čarobnjaci=http://www.youtube.com/watch?v=SKIDrCD3fcQ
 ﻿Kantautori]Đorđe Balašević}Ilona=http://www.youtube.com/watch?v=kMCjlbXMJQo
 ﻿Kantautori]Đorđe Balašević}Ja je ljubim a ona podriguje=http://www.youtube.com/watch?v=ZmbD9xNKXVw
-﻿Kantautori]Đorđe Balašević}Ja vas Kanda znam=http://www.youtube.com/watch?v=mMFdgjg4B-4
+﻿Kantautori]Đorđe Balašević}Ja vas Kanda znam=http://www.youtube.com/watch?v=CdqIWUmVi3s
 ﻿Kantautori]Đorđe Balašević}Jaroslava=http://www.youtube.com/watch?v=5oyvICoEb7s
 ﻿Kantautori]Đorđe Balašević}Jedan Saša iz voza=http://www.youtube.com/watch?v=MLhUQ4w7rOs
 ﻿Kantautori]Đorđe Balašević}Kad odem=http://www.youtube.com/watch?v=QtX_5q5HFgA
@@ -4999,7 +4997,7 @@ Zabavna]Adil Maksutović}U glavi nisam sam=--start-time=3  https://www.youtube.c
 ﻿Narodna]Dragana Mirković}Naviko si mali moj=http://www.youtube.com/watch?v=BZ6nMJuExWk
 ﻿Narodna]Dragana Mirković}Ne idi, ostani moj=http://www.youtube.com/watch?v=WgVH9SIETKU
 ﻿Narodna]Dragana Mirković}Ne pada mi na pamet=http://www.youtube.com/watch?v=mow9D_iuVNQ
-﻿Narodna]Dragana Mirković}Ne plače se za junakom=http://www.youtube.com/watch?v=o0CvFr6waqA
+﻿Narodna]Dragana Mirković}Ne plače se za junakom=http://www.youtube.com/watch?v=C2b_H-ytgUo
 ﻿Narodna]Dragana Mirković}Ne vraćam se starim ljubavima=http://www.youtube.com/watch?v=EvCPDzdg4mo
 ﻿Narodna]Dragana Mirković}Neću da živim bez tebe=http://www.youtube.com/watch?v=4tHjhu9fOe4
 ﻿Narodna]Dragana Mirković}Neću pokajanje=http://www.youtube.com/watch?v=pp1mNV1bWR4
@@ -5044,7 +5042,7 @@ Zabavna]Adil Maksutović}U glavi nisam sam=--start-time=3  https://www.youtube.c
 ﻿Narodna]Dragana Mirković}Prsten=http://www.youtube.com/watch?v=haOgO-IBt2o
 ﻿Narodna]Dragana Mirković}Pucaj pravo u srce=http://www.youtube.com/watch?v=qqt6g2ev9yM
 ﻿Narodna]Dragana Mirković}Pun je grad života=http://www.youtube.com/watch?v=DijI5tKkOVA
-﻿Narodna]Dragana Mirković}Pusti da verujem=http://www.youtube.com/watch?v=HQQR6DoB8QI
+﻿Narodna]Dragana Mirković}Pusti da verujem=http://www.youtube.com/watch?v=3KClpCZi0xU
 ﻿Narodna]Dragana Mirković}Pustinja osećanja=http://www.youtube.com/watch?v=k2SgMGI1Nf4
 ﻿Narodna]Dragana Mirković}Red Ferrari=http://www.youtube.com/watch?v=6cy5mbdSDrU
 ﻿Narodna]Dragana Mirković}Riding through the fire=http://www.youtube.com/watch?v=vvQHBNPkuL4
@@ -6619,10 +6617,10 @@ Zabavna]Adil Maksutović}U glavi nisam sam=--start-time=3  https://www.youtube.c
 ﻿Narodna]Goca Božinovska}To, to, lepoto=http://www.youtube.com/watch?v=DO0GyBxnXIo
 ﻿Narodna]Goca Božinovska}U najboljim godinama=http://www.youtube.com/watch?v=sA3NUKiabFA
 ﻿Narodna]Goca Božinovska}Uzalud me tešiš=http://www.youtube.com/watch?v=CMSw9KJHbN0
-﻿Narodna]Goca Božinovska}Zabranjujem srcu da te voli=http://www.youtube.com/watch?v=euVTdwvIILY
+﻿Narodna]Goca Božinovska}Zabranjujem srcu da te voli=http://www.youtube.com/watch?v=mF6TRV8F9jQ
 ﻿Narodna]Goca Božinovska}Zbog tebe sam živela=http://www.youtube.com/watch?v=_MyRGpmqRh4
 ﻿Narodna]Goca Božinovska}Zbogom srećo=http://www.youtube.com/watch?v=tvX3NSZljPI
-﻿Narodna]Goca Božinovska}Želim da me želiš=http://www.youtube.com/watch?v=Cajndwf8H0g
+﻿Narodna]Goca Božinovska}Želim da me želiš=http://www.youtube.com/watch?v=hXa6EtRzpXs
 ﻿Narodna]Goca Božinovska}Žena ostavljena=http://www.youtube.com/watch?v=jX5jdAaRVec
 ﻿Narodna]Goca Božinovska}Životna greška=http://www.youtube.com/watch?v=SdL1awV_0-I
 ﻿Narodna]Goca Božinovska}Zlatan prsten i haljina bela=http://www.youtube.com/watch?v=OuIw2ms12mE
@@ -7013,7 +7011,7 @@ Zabavna]Adil Maksutović}U glavi nisam sam=--start-time=3  https://www.youtube.c
 ﻿Narodna]Gordana Stojićević}Pusti me da nađem srcu lek=http://www.youtube.com/watch?v=-HlQwgti1m8
 ﻿Narodna]Gordana Stojićević}Skreni Stevo, malo levo=http://www.youtube.com/watch?v=EOQjZQxLy1E
 ﻿Narodna]Gordana Stojićević}Stari bunar=http://www.youtube.com/watch?v=FIKh6mLt2-c
-﻿Narodna]Gordana Stojićević}Suvo seno, suva trava=http://www.youtube.com/watch?v=xVmQ6_M_d7c
+﻿Narodna]Gordana Stojićević}Suvo seno, suva trava=http://www.youtube.com/watch?v=Gu2JhIud6tI
 ﻿Narodna]Gordana Stojićević}Te sam noći prevarila sebe=http://www.youtube.com/watch?v=rmAeaNsTHN4
 ﻿Narodna]Gordana Stojićević}Trepetljika trepetala=http://www.youtube.com/watch?v=7dzOOnFBUPI
 ﻿Zabavna]Grupa Luna}After party=http://www.youtube.com/watch?v=84y9s3fHq48
@@ -7526,7 +7524,7 @@ Zabavna]Adil Maksutović}U glavi nisam sam=--start-time=3  https://www.youtube.c
 ﻿Narodna]Halid Muslimović}Ti i ja=http://www.youtube.com/watch?v=Fp44XGhahHI
 ﻿Narodna]Halid Muslimović}Ti si vino koje pijem=http://www.youtube.com/watch?v=_VFVdKR1pOA
 ﻿Narodna]Halid Muslimović}To nisi ti, to nisam ja=http://www.youtube.com/watch?v=rb5I07szkWc
-﻿Narodna]Halid Muslimović}Tražila si sve=http://www.youtube.com/watch?v=mWxhWkmqPUA
+﻿Narodna]Halid Muslimović}Tražila si sve=http://www.youtube.com/watch?v=XqV3LejDCKU
 ﻿Narodna]Halid Muslimović}Tuđino=http://www.youtube.com/watch?v=u3aEl5qzepA
 ﻿Narodna]Halid Muslimović}Tvoje ime kao vino=http://www.youtube.com/watch?v=_bQFCmlHw9s
 ﻿Narodna]Halid Muslimović}U ovom malenom gradu=http://www.youtube.com/watch?v=Czvc8vc4OWI
@@ -7795,7 +7793,7 @@ Zabavna]Adil Maksutović}U glavi nisam sam=--start-time=3  https://www.youtube.c
 ﻿Narodna]Haris Džinović}Odlazi, nestaje=http://www.youtube.com/watch?v=ApTgfuIMbTk
 ﻿Narodna]Haris Džinović}Odlaziš od mene=http://www.youtube.com/watch?v=xJIBHkLB11Y
 ﻿Narodna]Haris Džinović}Opet sam ti u kafani=http://www.youtube.com/watch?v=YNmHtJCz4Oo
-﻿Narodna]Haris Džinović}Ostariću, neću znati=http://www.youtube.com/watch?v=M5szy_ZpiW4
+﻿Narodna]Haris Džinović}Ostariću, neću znati=http://www.youtube.com/watch?v=23gmxxuAHrk
 ﻿Narodna]Haris Džinović}Pariške kapije=http://www.youtube.com/watch?v=M6T3DObC1o8
 ﻿Narodna]Haris Džinović}Pjesma mojoj zemlji=http://www.youtube.com/watch?v=uBGYOeetom8
 ﻿Narodna]Haris Džinović}Poznaćeš me=http://www.youtube.com/watch?v=7qx43PgSbBg
@@ -7843,7 +7841,7 @@ Zabavna]Adil Maksutović}U glavi nisam sam=--start-time=3  https://www.youtube.c
 ﻿Narodna]Hasim Kučuk Hoki}Bolne grudi otrovane=http://www.youtube.com/watch?v=VFtk5wc_6yU
 ﻿Narodna]Hasim Kučuk Hoki}Nema te više Alija=http://www.youtube.com/watch?v=-UFtL97DtHc
 ﻿Narodna]Hasim Kučuk Hoki}Pijem da je zaboravim=http://www.youtube.com/watch?v=3c2yEiQhOLw
-﻿Narodna]Hasim Kučuk Hoki}Pjevaj, prijatelju=http://www.youtube.com/watch?v=Lz-FsR04Eb8
+﻿Narodna]Hasim Kučuk Hoki}Pjevaj, prijatelju=http://www.youtube.com/watch?v=-QnBneYv808
 ﻿Rok]Haustor}60 - 65=http://www.youtube.com/watch?v=vIbVJWRciyM
 ﻿Rok]Haustor}Bi' mog'o da mogu=http://www.youtube.com/watch?v=-UkWL8jWnAU
 ﻿Rok]Haustor}Bolero=http://www.youtube.com/watch?v=Bv5DlJgbrpw
@@ -8484,7 +8482,7 @@ Zabavna]Adil Maksutović}U glavi nisam sam=--start-time=3  https://www.youtube.c
 ﻿Narodna]Ivan Kukolj - Kuki}Zalilo se srce moje=http://www.youtube.com/watch?v=YQMwtelcULg
 ﻿Narodna]Ivan Kukolj - Kuki}Zašto, Mitre, ostavi Jelenu=http://www.youtube.com/watch?v=m9qHGId91Hc
 ﻿Narodna]Ivan Kukolj - Kuki}Zavoli me, zavoli=http://www.youtube.com/watch?v=07zT_qQVkEs
-﻿Narodna]Ivan Kukolj - Kuki}Zbog jedne Jasmine=http://www.youtube.com/watch?v=eVQnWBNdJx4
+﻿Narodna]Ivan Kukolj - Kuki}Zbog jedne Jasmine=http://www.youtube.com/watch?v=5TzakSlo2xo
 ﻿Narodna]Ivan Kukolj - Kuki}Žena sa zelenim očima=http://www.youtube.com/watch?v=5zxzpMb1qfg
 ﻿Narodna]Ivan Kukolj - Kuki}Život me je prevario=http://www.youtube.com/watch?v=I4tp0Qj_eVQ
 ﻿Narodna]Ivan Kukolj - Kuki}Žuti dukati=http://www.youtube.com/watch?v=BQBccAlPVBs
@@ -9403,7 +9401,7 @@ Zabavna]Adil Maksutović}U glavi nisam sam=--start-time=3  https://www.youtube.c
 ﻿Narodna]Kemal Malovčić}Ajsa=http://www.youtube.com/watch?v=TZIPIMuALlE
 ﻿Narodna]Kemal Malovčić}Ako možeš, preboli me=http://www.youtube.com/watch?v=aWdzE8g8FJs
 ﻿Narodna]Kemal Malovčić}Ameriko, Čemeriko=http://www.youtube.com/watch?v=cveT_m0lDt0
-﻿Narodna]Kemal Malovčić}Australija=http://www.youtube.com/watch?v=MRFWMsbzFho
+﻿Narodna]Kemal Malovčić}Australija=http://www.youtube.com/watch?v=zO83L7LjHMs
 ﻿Narodna]Kemal Malovčić}Babo=http://www.youtube.com/watch?v=X-OISis1O44
 ﻿Narodna]Kemal Malovčić}Baraba=http://www.youtube.com/watch?v=mlvtHMh30c0
 ﻿Narodna]Kemal Malovčić}Beduin=http://www.youtube.com/watch?v=DZ-UZDA6Dko
@@ -9412,7 +9410,7 @@ Zabavna]Adil Maksutović}U glavi nisam sam=--start-time=3  https://www.youtube.c
 ﻿Narodna]Kemal Malovčić}Bosna pjeva i pjevaće=http://www.youtube.com/watch?v=Q-ZU0EJ9rnk
 ﻿Narodna]Kemal Malovčić}Čar ljubavi=http://www.youtube.com/watch?v=qYyVZvv2F4Y
 ﻿Narodna]Kemal Malovčić}Čardak=http://www.youtube.com/watch?v=69ou-M0J8Z0
-﻿Narodna]Kemal Malovčić}Carinik=http://www.youtube.com/watch?v=cgE354li8Io
+﻿Narodna]Kemal Malovčić}Carinik=http://www.youtube.com/watch?v=Xb9nOp9DNlM
 ﻿Narodna]Kemal Malovčić}Caru ide carevo=http://www.youtube.com/watch?v=Fvo4fvJXqD4
 ﻿Narodna]Kemal Malovčić}Čemu se bez mene nadaš=http://www.youtube.com/watch?v=sZ5afANoil4
 ﻿Narodna]Kemal Malovčić}Čigra=http://www.youtube.com/watch?v=uDRvrEqrY0o
@@ -9421,23 +9419,23 @@ Zabavna]Adil Maksutović}U glavi nisam sam=--start-time=3  https://www.youtube.c
 ﻿Narodna]Kemal Malovčić}Čobanice, ljepotice=http://www.youtube.com/watch?v=lhR6xpbgP70
 ﻿Narodna]Kemal Malovčić}Cura=http://www.youtube.com/watch?v=JvRS0ImN2bg
 ﻿Narodna]Kemal Malovčić}Čuvaj draga našu ćerku=http://www.youtube.com/watch?v=o5ek3SiVHIU
-﻿Narodna]Kemal Malovčić}Cvetaju lipe=http://www.youtube.com/watch?v=_6zg70vE-hA
-﻿Narodna]Kemal Malovčić}Da li ti i sad značim=http://www.youtube.com/watch?v=iSljCHU0Kt4
+﻿Narodna]Kemal Malovčić}Cvetaju lipe=http://www.youtube.com/watch?v=6Wj1b2aRC8E
+﻿Narodna]Kemal Malovčić}Da li ti i sad značim=http://www.youtube.com/watch?v=hRg20E1h5sM
 ﻿Narodna]Kemal Malovčić}Da te opet sretnem=http://www.youtube.com/watch?v=ZGSaDzAC3mg
 ﻿Narodna]Kemal Malovčić}Daleko si od pogleda=http://www.youtube.com/watch?v=qsy0bnsR3t8
-﻿Narodna]Kemal Malovčić}Dame imaju prednost=http://www.youtube.com/watch?v=qM6hDbi8cKI
+﻿Narodna]Kemal Malovčić}Dame imaju prednost=http://www.youtube.com/watch?v=uMbXEWrT7y0
 ﻿Narodna]Kemal Malovčić}Deveram=http://www.youtube.com/watch?v=lMjSxdRfjfs
 ﻿Narodna]Kemal Malovčić}Dlan=http://www.youtube.com/watch?v=6RVdSYLST8Y
 ﻿Narodna]Kemal Malovčić}Dođi, dođi mi ti=http://www.youtube.com/watch?v=dKhxQFVglH8
 ﻿Narodna]Kemal Malovčić}Došao sam mnogo kasno=http://www.youtube.com/watch?v=OjhsbpyE5E4
 ﻿Narodna]Kemal Malovčić}Došao sam samo da te vidim=http://www.youtube.com/watch?v=zWnstYdDrfU
 ﻿Narodna]Kemal Malovčić}Doviđenja, ja nemam strpljenja=http://www.youtube.com/watch?v=zFntFXwxQcQ
-﻿Narodna]Kemal Malovčić}Držite me za ruke=http://www.youtube.com/watch?v=iqg5aClSA3E
+﻿Narodna]Kemal Malovčić}Držite me za ruke=http://www.youtube.com/watch?v=U4ixXxggBeE
 ﻿Narodna]Kemal Malovčić}Duge plave kose=http://www.youtube.com/watch?v=22bmOkYT2e0
 ﻿Narodna]Kemal Malovčić}Dva me sunca grejaše do danas=http://www.youtube.com/watch?v=S69DDy2QjoQ
 ﻿Narodna]Kemal Malovčić}Dvije kule=http://www.youtube.com/watch?v=-biO70OIgxo
 ﻿Narodna]Kemal Malovčić}Džaba=http://www.youtube.com/watch?v=WfZONlO2vt4
-﻿Narodna]Kemal Malovčić}Eh da sam=http://www.youtube.com/watch?v=xkWUaa9fGoY
+﻿Narodna]Kemal Malovčić}Eh da sam=http://www.youtube.com/watch?v=jBj6139gQow
 ﻿Narodna]Kemal Malovčić}Ejvala Saho=http://www.youtube.com/watch?v=X9lVINkjyaI
 ﻿Narodna]Kemal Malovčić}Gde si=http://www.youtube.com/watch?v=ifDAMPYZOIc
 ﻿Narodna]Kemal Malovčić}Gdje god bila=http://www.youtube.com/watch?v=5LeDq3yJBvk
@@ -9452,7 +9450,7 @@ Zabavna]Adil Maksutović}U glavi nisam sam=--start-time=3  https://www.youtube.c
 ﻿Narodna]Kemal Malovčić}Hej, crne oči te=http://www.youtube.com/watch?v=Sw8RjJdj5EE
 ﻿Narodna]Kemal Malovčić}Hurija=http://www.youtube.com/watch?v=fv5fdT-IxtU
 ﻿Narodna]Kemal Malovčić}Idi voljena, idi=http://www.youtube.com/watch?v=TWyzhMrKlbM
-﻿Narodna]Kemal Malovčić}Idi, druže, svome rodnom kraju=http://www.youtube.com/watch?v=vrsk2xZi2Pw
+﻿Narodna]Kemal Malovčić}Idi, druže, svome rodnom kraju=http://www.youtube.com/watch?v=uAE2fjvte4Y
 ﻿Narodna]Kemal Malovčić}Igraj, igraj=http://www.youtube.com/watch?v=kRLEILaMcpk
 ﻿Narodna]Kemal Malovčić}Imenjak=http://www.youtube.com/watch?v=lx7rx8fmnQI
 ﻿Narodna]Kemal Malovčić}Ja nisam srećan čovek=http://www.youtube.com/watch?v=wuklXlewsz0
@@ -9508,7 +9506,7 @@ Zabavna]Adil Maksutović}U glavi nisam sam=--start-time=3  https://www.youtube.c
 ﻿Narodna]Kemal Malovčić}Nije meni što se društvo ženi=http://www.youtube.com/watch?v=OWKUSI2N6Dc
 ﻿Narodna]Kemal Malovčić}Nije on za tebe=http://www.youtube.com/watch?v=Np2EDoBp63o
 ﻿Narodna]Kemal Malovčić}Nije za tebe Alija=http://www.youtube.com/watch?v=obfOdcBKlA4
-﻿Narodna]Kemal Malovčić}Nisi ti=http://www.youtube.com/watch?v=RrFK5DhYcDs
+﻿Narodna]Kemal Malovčić}Nisi ti=http://www.youtube.com/watch?v=g3Lj3ep5ThY
 ﻿Narodna]Kemal Malovčić}Nisi tu=http://www.youtube.com/watch?v=6EAaM59sZkw
 ﻿Narodna]Kemal Malovčić}Oči moje dvije česme=http://www.youtube.com/watch?v=P8_g2235j-Y
 ﻿Narodna]Kemal Malovčić}Od tog dana=http://www.youtube.com/watch?v=R7-WuWJ9IYU
@@ -9520,7 +9518,7 @@ Zabavna]Adil Maksutović}U glavi nisam sam=--start-time=3  https://www.youtube.c
 ﻿Narodna]Kemal Malovčić}Oženi me babo=http://www.youtube.com/watch?v=LOdBSNANLos
 ﻿Narodna]Kemal Malovčić}Par iz bajke=http://www.youtube.com/watch?v=rBXsDugvY58
 ﻿Narodna]Kemal Malovčić}Petak 13.=http://www.youtube.com/watch?v=40IwoTi3b2s
-﻿Narodna]Kemal Malovčić}Petak ili srijeda=http://www.youtube.com/watch?v=dJN56jccM8Y
+﻿Narodna]Kemal Malovčić}Petak ili srijeda=http://www.youtube.com/watch?v=o5iCWedevNM
 ﻿Narodna]Kemal Malovčić}Pevajte mi o Vesni=http://www.youtube.com/watch?v=_kVKNC5hlWE
 ﻿Narodna]Kemal Malovčić}Pjesmo moja=http://www.youtube.com/watch?v=-KHHt4ZaYdc
 ﻿Narodna]Kemal Malovčić}Plačem=http://www.youtube.com/watch?v=uczVmxkFJ98
@@ -9548,11 +9546,11 @@ Zabavna]Adil Maksutović}U glavi nisam sam=--start-time=3  https://www.youtube.c
 ﻿Narodna]Kemal Malovčić}Senada, Senada=http://www.youtube.com/watch?v=SVzC62iq5Vg
 ﻿Narodna]Kemal Malovčić}Sheik=http://www.youtube.com/watch?v=BZ_0MTTmfig
 ﻿Narodna]Kemal Malovčić}Sikter=http://www.youtube.com/watch?v=Rwt7PhaVa6U
-﻿Narodna]Kemal Malovčić}Sine, sine=http://www.youtube.com/watch?v=fIxRRXCR9DU
+﻿Narodna]Kemal Malovčić}Sine, sine=http://www.youtube.com/watch?v=LIBCJudzD34
 ﻿Narodna]Kemal Malovčić}Spasi me=http://www.youtube.com/watch?v=7TurfgM9xZI
 ﻿Narodna]Kemal Malovčić}Srce joj je kamen=http://www.youtube.com/watch?v=aG0fkIsIq5k
-﻿Narodna]Kemal Malovčić}Sreći prolaz=http://www.youtube.com/watch?v=1s5JIBvGvUg
-﻿Narodna]Kemal Malovčić}Srećo moja nesuđena=http://www.youtube.com/watch?v=Z6ExYTxA5hE
+﻿Narodna]Kemal Malovčić}Sreći prolaz=http://www.youtube.com/watch?v=FdDgxd76qQM
+﻿Narodna]Kemal Malovčić}Srećo moja nesuđena=http://www.youtube.com/watch?v=Kt6zkMGtSIg
 ﻿Narodna]Kemal Malovčić}Sretan put=http://www.youtube.com/watch?v=wem2rMX-y7M
 ﻿Narodna]Kemal Malovčić}Šta bi ja bez tebe=http://www.youtube.com/watch?v=AYwremXOvnc
 ﻿Narodna]Kemal Malovčić}Stalo ti je do mog srca=http://www.youtube.com/watch?v=FrQVfGIldCM
@@ -9574,7 +9572,7 @@ Zabavna]Adil Maksutović}U glavi nisam sam=--start-time=3  https://www.youtube.c
 ﻿Narodna]Kemal Malovčić}Tebe nema=http://www.youtube.com/watch?v=MNDQZSlr4xI
 ﻿Narodna]Kemal Malovčić}Tek tek=http://www.youtube.com/watch?v=TLl1yWLUHSk
 ﻿Narodna]Kemal Malovčić}Teško mi je=http://www.youtube.com/watch?v=m6NkzVHmQms
-﻿Narodna]Kemal Malovčić}Ti ne živiš u mom domu=http://www.youtube.com/watch?v=bGrD9pMq2fw
+﻿Narodna]Kemal Malovčić}Ti ne živiš u mom domu=http://www.youtube.com/watch?v=9-e5ToH7500
 ﻿Narodna]Kemal Malovčić}Ti si moj 13 broj=http://www.youtube.com/watch?v=yvvdRUuifFA
 ﻿Narodna]Kemal Malovčić}Ti si moje zlato=http://www.youtube.com/watch?v=TuamvH7U63c
 ﻿Narodna]Kemal Malovčić}To mogu samo ja=http://www.youtube.com/watch?v=AGK1fwbRz-M
@@ -10340,7 +10338,7 @@ Zabavna]Adil Maksutović}U glavi nisam sam=--start-time=3  https://www.youtube.c
 ﻿Rok Strani]Amy Winehouse}Some unholy war=https://www.youtube.com/watch?v=ItRNjttsj5M
 ﻿Rok Strani]Amy Winehouse}What is it about men=--start-time=4 https://www.youtube.com/watch?v=ngdu12jepsg
 ﻿Rok Strani]Amy Winehouse}A song for you=https://www.youtube.com/watch?v=hk_gzJR9h9o
-﻿Rok Strani]Amy Winehouse}XXXtentacion=https://www.youtube.com/watch?v=NVHEb5cFfRk
+﻿Rok Strani]Amy Winehouse}XXXtentacion=http://www.youtube.com/watch?v=_7fMLDbokjc
 ﻿Rok Strani]Amy Winehouse}Mr Magic=--start-time=15 https://www.youtube.com/watch?v=8ksc9RGJPW4
 ﻿Rok Strani]Amy Winehouse}Long day=https://www.youtube.com/watch?v=e4qVnEf9rko
 ﻿Rok Strani]Amy Winehouse}He can only hold her=--start-time=5 https://www.youtube.com/watch?v=RuY-dO9p-AE
@@ -10372,7 +10370,7 @@ Zabavna]Adil Maksutović}U glavi nisam sam=--start-time=3  https://www.youtube.c
 ﻿Rok Strani]Amy Winehouse}Alcoholic logic=https://www.youtube.com/watch?v=rRAVTl2Io10
 ﻿Rok Strani]Amy Winehouse}Get over it=https://www.youtube.com/watch?v=hLIqKDs-0_A
 ﻿Rok Strani]Guns 'n' Roses}Paradise city=https://www.youtube.com/watch?v=Rbm6GXllBiw
-﻿Rok Strani]Guns 'n' Roses}You could be mine=http://www.youtube.com/watch?v=l_CohzGPals
+﻿Rok Strani]Guns 'n' Roses}You could be mine=http://www.youtube.com/watch?v=Xk3-9qGz6mY
 ﻿Rok Strani]Guns 'n' Roses}Used to love her=http://www.youtube.com/watch?v=OZ9haI5ghmg
 ﻿Rok Strani]Guns 'n' Roses}One in a million=--start-time=20 http://www.youtube.com/watch?v=U5rejzm3PhQ
 ﻿Rok Strani]Guns 'n' Roses}Estranged=--start-time=13 https://www.youtube.com/watch?v=dpmAY059TTY
@@ -11145,7 +11143,7 @@ Zabavna]Adil Maksutović}U glavi nisam sam=--start-time=3  https://www.youtube.c
 ﻿Rok Strani]Audioslave}Jewel of the summertime=https://www.youtube.com/watch?v=wWrJLkAEAds
 ﻿Rok Strani]Audioslave}Give=https://www.youtube.com/watch?v=1vdUY-fzk5w
 ﻿Rok Strani]Audioslave}The curse=https://www.youtube.com/watch?v=kUOWKVvdsGA
-﻿Rok Strani]Audioslave}Until we fall=https://www.youtube.com/watch?v=XDJX6_LRqww
+﻿Rok Strani]Audioslave}Until we fall=http://www.youtube.com/watch?v=8X5Ry94H2b8
 ﻿Rok Strani]Audioslave}Spoonman=https://www.youtube.com/watch?v=w77oGk4GmrQ
 ﻿Rok Strani]Audioslave}We got the whip=https://www.youtube.com/watch?v=ZOK7Uc241bI
 ﻿Rok Strani]Audioslave}Drown me slowly=https://www.youtube.com/watch?v=zb9U9PQhwx8
@@ -11633,7 +11631,7 @@ Zabavna]Adil Maksutović}U glavi nisam sam=--start-time=3  https://www.youtube.c
 ﻿Rok Strani]Aerosmith}The Reason A Dog=http://www.youtube.com/watch?v=cLhy8zCQLTo
 ﻿Rok Strani]Aerosmith}Theme From Spider Man=http://www.youtube.com/watch?v=R8ZUAjkCM1w
 ﻿Rok Strani]Aerosmith}Think About It=http://www.youtube.com/watch?v=ewJbU4ofS0k
-﻿Rok Strani]Aerosmith}Three Mile Smile=http://www.youtube.com/watch?v=v5w2q1fwx7w
+﻿Rok Strani]Aerosmith}Three Mile Smile=http://www.youtube.com/watch?v=DpY3vAhRbWM
 ﻿Rok Strani]Aerosmith}Toys In The Attic=http://www.youtube.com/watch?v=mO-p_eSe8yU
 ﻿Rok Strani]Aerosmith}Train Kept A Rollin=http://www.youtube.com/watch?v=_EvGn22Mplg
 ﻿Rok Strani]Aerosmith}Trip Hoppin'=http://www.youtube.com/watch?v=JP9Bt2rDs7w
@@ -12015,7 +12013,7 @@ Zabavna]Adil Maksutović}U glavi nisam sam=--start-time=3  https://www.youtube.c
 ﻿Rok Strani]Anthrax}The Giant=http://www.youtube.com/watch?v=6YHmNv7SPMs
 ﻿Rok Strani]Anthrax}This Is Not An Exit=http://www.youtube.com/watch?v=fON4l3LMemo
 ﻿Rok Strani]Anthrax}Time=http://www.youtube.com/watch?v=egDdtUn_2Jw
-﻿Rok Strani]Anthrax}Toast To The Extras=http://www.youtube.com/watch?v=L-SjNbHVUAU
+﻿Rok Strani]Anthrax}Toast To The Extras=http://www.youtube.com/watch?v=luSesb78YFU
 ﻿Rok Strani]Anthrax}Watchin' You=http://www.youtube.com/watch?v=FY-euK5RTEM
 ﻿Rok Strani]Anthrax}What Doesn't Die=http://www.youtube.com/watch?v=epsIJDpytbg
 ﻿Rok Strani]Anthrax}Who Cares Wins=--start-time=12 http://www.youtube.com/watch?v=gtD_GUvu-wc
@@ -12084,7 +12082,7 @@ Zabavna]Adil Maksutović}U glavi nisam sam=--start-time=3  https://www.youtube.c
 ﻿Rok Strani]Bad Company}Loving You Out Loud=http://www.youtube.com/watch?v=qFJk4KozNXw
 ﻿Rok Strani]Bad Company}Master Of Ceremony=http://www.youtube.com/watch?v=nPfRhM8q7t8
 ﻿Rok Strani]Bad Company}Morning Sun=http://www.youtube.com/watch?v=W0ABmtazNLg
-﻿Rok Strani]Bad Company}Movin' On=http://www.youtube.com/watch?v=wyilHADw1G0
+﻿Rok Strani]Bad Company}Movin' On=http://www.youtube.com/watch?v=eZCzl6qhZ70
 ﻿Rok Strani]Bad Company}My Only One=http://www.youtube.com/watch?v=SAOVP-cit-4
 ﻿Rok Strani]Bad Company}Never Too Late=http://www.youtube.com/watch?v=ovVTVkCAFr4
 ﻿Rok Strani]Bad Company}No Smoke Without A Fire=http://www.youtube.com/watch?v=40B5ELvN2KM
@@ -12100,7 +12098,7 @@ Zabavna]Adil Maksutović}U glavi nisam sam=--start-time=3  https://www.youtube.c
 ﻿Rok Strani]Bad Company}Rock 'N' Roll Fantasy=http://www.youtube.com/watch?v=moG4TZNIZzY
 ﻿Rok Strani]Bad Company}Rock Of America=http://www.youtube.com/watch?v=4XPVMFxIZ0Q
 ﻿Rok Strani]Bad Company}Rock Steady=http://www.youtube.com/watch?v=IC9WO9M-wLo
-﻿Rok Strani]Bad Company}Run With The Pack=http://www.youtube.com/watch?v=-ynFqrrZukk
+﻿Rok Strani]Bad Company}Run With The Pack=http://www.youtube.com/watch?v=TMTpMAQz9-w
 ﻿Rok Strani]Bad Company}Seagull=http://www.youtube.com/watch?v=uWwGV0sdOr0
 ﻿Rok Strani]Bad Company}Shake It Up=http://www.youtube.com/watch?v=gEeRS4yoMDc
 ﻿Rok Strani]Bad Company}She Brings Me Love=http://www.youtube.com/watch?v=b4rthQiAQu0
@@ -12747,8 +12745,8 @@ Zabavna]Adil Maksutović}U glavi nisam sam=--start-time=3  https://www.youtube.c
 ﻿Rok Strani]Boston}Cryin'=http://www.youtube.com/watch?v=9CLfX9ivSEc
 ﻿Rok Strani]Boston}Didn't Mean To Fall In Love=http://www.youtube.com/watch?v=TarSgtnyVEI
 ﻿Rok Strani]Boston}Don't Be Afraid=http://www.youtube.com/watch?v=k01ENkWk9LM
-﻿Rok Strani]Boston}Don't Look Back=http://www.youtube.com/watch?v=3VPLOVJ0u94
-﻿Rok Strani]Boston}Feelin' Satisfied=http://www.youtube.com/watch?v=uHU7EdyAYrg
+﻿Rok Strani]Boston}Don't Look Back=http://www.youtube.com/watch?v=gwrzggS_630
+﻿Rok Strani]Boston}Feelin' Satisfied=http://www.youtube.com/watch?v=c-Uok2t46UQ
 ﻿Rok Strani]Boston}Heaven On Earth=http://www.youtube.com/watch?v=D1XrtoFBOx0
 ﻿Rok Strani]Boston}Higher Power=http://www.youtube.com/watch?v=nEMTu-VxixY
 ﻿Rok Strani]Boston}Hollyann=http://www.youtube.com/watch?v=SYj3RX525-U
@@ -13302,7 +13300,7 @@ Zabavna]Adil Maksutović}U glavi nisam sam=--start-time=3  https://www.youtube.c
 ﻿Rok Strani]Def Leppard}Immortal=http://www.youtube.com/watch?v=j0I1d3MKaRU
 ﻿Rok Strani]Def Leppard}Invincible=http://www.youtube.com/watch?v=NxWT2bLHOjc
 ﻿Rok Strani]Def Leppard}It Don't Matter=http://www.youtube.com/watch?v=dbdixq81fvU
-﻿Rok Strani]Def Leppard}It's All About Believin'=http://www.youtube.com/watch?v=CmnsuDYjQU4
+﻿Rok Strani]Def Leppard}It's All About Believin'=http://www.youtube.com/watch?v=1wQXfGYlR3s
 ﻿Rok Strani]Def Leppard}It's Only Love=http://www.youtube.com/watch?v=LAAGL3Lcbvg
 ﻿Rok Strani]Def Leppard}Kings Of Oblivion=http://www.youtube.com/watch?v=yjUwqXaiXuE
 ﻿Rok Strani]Def Leppard}Kings Of The World=http://www.youtube.com/watch?v=iox7gBKhMag
@@ -13343,7 +13341,7 @@ Zabavna]Adil Maksutović}U glavi nisam sam=--start-time=3  https://www.youtube.c
 ﻿Rok Strani]Def Leppard}Pour Some Sugar On Me=http://www.youtube.com/watch?v=C5dUWw_lSMs
 ﻿Rok Strani]Def Leppard}Promises=http://www.youtube.com/watch?v=vGTNEnOcGX0
 ﻿Rok Strani]Def Leppard}Rock Brigade=http://www.youtube.com/watch?v=NM1SbocvqEw
-﻿Rok Strani]Def Leppard}Rock On=http://www.youtube.com/watch?v=sg5avHj03qQ
+﻿Rok Strani]Def Leppard}Rock On=http://www.youtube.com/watch?v=mXJU64esj6M
 ﻿Rok Strani]Def Leppard}Rock! Rock! Till You Drop=http://www.youtube.com/watch?v=avgcg3YwyLc
 ﻿Rok Strani]Def Leppard}Rocket=http://www.youtube.com/watch?v=xLUnBzSBMjg
 ﻿Rok Strani]Def Leppard}Rocks Off=http://www.youtube.com/watch?v=oeSuIBCrWY4
@@ -13373,7 +13371,7 @@ Zabavna]Adil Maksutović}U glavi nisam sam=--start-time=3  https://www.youtube.c
 ﻿Rok Strani]Def Leppard}Wasted=http://www.youtube.com/watch?v=MbeSI3Nd1-0
 ﻿Rok Strani]Def Leppard}Waterloo Sunset=http://www.youtube.com/watch?v=esQIuBonGrY
 ﻿Rok Strani]Def Leppard}We Belong=http://www.youtube.com/watch?v=qTJmfJ-v0yQ
-﻿Rok Strani]Def Leppard}When Love And Hate Collide=http://www.youtube.com/watch?v=3v_c6DAv1oI
+﻿Rok Strani]Def Leppard}When Love And Hate Collide=http://www.youtube.com/watch?v=dApayXMhup8
 ﻿Rok Strani]Def Leppard}Where Does Love Go When It Dies=http://www.youtube.com/watch?v=nwwmemgaETs
 ﻿Rok Strani]Def Leppard}White Lightning=http://www.youtube.com/watch?v=tkQp7DuX2cY
 ﻿Rok Strani]Def Leppard}Wings Of An Angel=http://www.youtube.com/watch?v=rs0ASzJDUXk
@@ -15178,7 +15176,7 @@ Zabavna]Adil Maksutović}U glavi nisam sam=--start-time=3  https://www.youtube.c
 ﻿Rok Strani]Jethro Tull}A Small Cigar=http://www.youtube.com/watch?v=7zdPvkzIPd8
 ﻿Rok Strani]Jethro Tull}A Song For Jeffrey=http://www.youtube.com/watch?v=FE3QiVGrDFk
 ﻿Rok Strani]Jethro Tull}A Stitch In Time=http://www.youtube.com/watch?v=qGY97tBPPcM
-﻿Rok Strani]Jethro Tull}A Time For Everything=http://www.youtube.com/watch?v=ri7NRxPnlmw
+﻿Rok Strani]Jethro Tull}A Time For Everything=http://www.youtube.com/watch?v=10MmB0HNdUY
 ﻿Rok Strani]Jethro Tull}AWOL=http://www.youtube.com/watch?v=a9U4cWsmns8
 ﻿Rok Strani]Jethro Tull}Acres Wild=http://www.youtube.com/watch?v=ABKifBPLGus
 ﻿Rok Strani]Jethro Tull}Alive And Well And Living In=http://www.youtube.com/watch?v=9rLWW0-aFaE
@@ -15426,7 +15424,7 @@ Zabavna]Adil Maksutović}U glavi nisam sam=--start-time=3  https://www.youtube.c
 ﻿Rok Strani]Jimi Hendrix}Stone Free=http://www.youtube.com/watch?v=-dnxpbxxI-Y
 ﻿Rok Strani]Jimi Hendrix}Straight Ahead=http://www.youtube.com/watch?v=wF-l5h3V74g
 ﻿Rok Strani]Jimi Hendrix}The Wind Cries Mary=http://www.youtube.com/watch?v=ATDEtzAcTg0
-﻿Rok Strani]Jimi Hendrix}Third Stone From The Sun=http://www.youtube.com/watch?v=uLQVDeA_Onk
+﻿Rok Strani]Jimi Hendrix}Third Stone From The Sun=http://www.youtube.com/watch?v=KA3aBf5oEh0
 ﻿Rok Strani]Jimi Hendrix}Up From The Skies=http://www.youtube.com/watch?v=lozODy6y0rM
 ﻿Rok Strani]Jimi Hendrix}Valleys Of Neptune=http://www.youtube.com/watch?v=DjxH_a5U7wA
 ﻿Rok Strani]Jimi Hendrix}Voodoo Child (Slight Return)=http://www.youtube.com/watch?v=IZBlqcbpmxY
@@ -15989,7 +15987,7 @@ Zabavna]Adil Maksutović}U glavi nisam sam=--start-time=3  https://www.youtube.c
 ﻿Rok Strani]Lita Ford}Tamborine Dream=http://www.youtube.com/watch?v=Og5ps4oxR3E
 ﻿Rok Strani]Lita Ford}The Ripper=http://www.youtube.com/watch?v=L2VjvcX6pPA
 ﻿Rok Strani]Lita Ford}Under The Gun=http://www.youtube.com/watch?v=ZcDF8o1y3eo
-﻿Rok Strani]Lita Ford}What Do Ya Know About Love=http://www.youtube.com/watch?v=_FqFZYeCy6s
+﻿Rok Strani]Lita Ford}What Do Ya Know About Love=http://www.youtube.com/watch?v=8KOWZ0VajFk
 ﻿Rok Strani]Lita Ford}Wicked Wonderland=http://www.youtube.com/watch?v=MIY1jD1wYmw
 ﻿Rok Strani]Living Colour}A ? Of When=http://www.youtube.com/watch?v=d9YiwNPS6gI
 ﻿Rok Strani]Living Colour}Asshole=http://www.youtube.com/watch?v=pZzqcEDvoMU
@@ -16949,7 +16947,7 @@ Zabavna]Adil Maksutović}U glavi nisam sam=--start-time=3  https://www.youtube.c
 ﻿Rok Strani]Bruce Springsteen}The Ghost Of Tom Joad=http://www.youtube.com/watch?v=qi0kWe2ixzU
 ﻿Rok Strani]Bruce Springsteen}The Hitter=http://www.youtube.com/watch?v=0it7len3TkU
 ﻿Rok Strani]Bruce Springsteen}The Honeymooners=http://www.youtube.com/watch?v=-h12ZFc5I48
-﻿Rok Strani]Bruce Springsteen}The Last Carnival=http://www.youtube.com/watch?v=kRmOA-JtB7c
+﻿Rok Strani]Bruce Springsteen}The Last Carnival=http://www.youtube.com/watch?v=c3S3_X576y8
 ﻿Rok Strani]Bruce Springsteen}The Line=http://www.youtube.com/watch?v=wHAL6gEdtl0
 ﻿Rok Strani]Bruce Springsteen}The Little Things (My Baby Does)=http://www.youtube.com/watch?v=--7qFG6RMKA
 ﻿Rok Strani]Bruce Springsteen}The Long Goodbye=http://www.youtube.com/watch?v=wbs9TcXXaGY
@@ -17065,7 +17063,7 @@ Zabavna]Adil Maksutović}U glavi nisam sam=--start-time=3  https://www.youtube.c
 ﻿Rok Strani]Allaman Brothers Band}One Way Out=http://www.youtube.com/watch?v=gxyNQse99FY
 ﻿Rok Strani]Allaman Brothers Band}Please Call Home=http://www.youtube.com/watch?v=8EXo1itp4xE
 ﻿Rok Strani]Allaman Brothers Band}Pony Boy=http://www.youtube.com/watch?v=SPrU4Af1QhU
-﻿Rok Strani]Allaman Brothers Band}Ramblin' Man=http://www.youtube.com/watch?v=mHy44jiDgdM
+﻿Rok Strani]Allaman Brothers Band}Ramblin' Man=http://www.youtube.com/watch?v=68X8o0S7vJc
 ﻿Rok Strani]Allaman Brothers Band}Revival=http://www.youtube.com/watch?v=b48FoMwzCgc
 ﻿Rok Strani]Allaman Brothers Band}Sail Away=http://www.youtube.com/watch?v=YDDt5XyK9hs
 ﻿Rok Strani]Allaman Brothers Band}Sailin' 'Cross The Devil's Sea=http://www.youtube.com/watch?v=0FIINn0KJLw
