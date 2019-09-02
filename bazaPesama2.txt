@@ -8534,6 +8534,7 @@
 ﻿Narodna]Suzana Mančić}Zažmuriću=http://www.youtube.com/watch?v=UYj6W3OmEFg
 ﻿Narodna]Suzana Mančić}Žuta minuta=http://www.youtube.com/watch?v=JsN6JR9OV-Q
 ﻿Rep]THCF}Borac=http://www.youtube.com/watch?v=VhpWfo3iPZY
+﻿Rep]THCF}Gde si poš'o=--start-time=5 https://www.youtube.com/watch?v=mAWDgpRs044
 ﻿Rep]THCF}Bore vinjak flow=--start-time=10 http://www.youtube.com/watch?v=gjWwdcAgCxQ
 ﻿Rep]THCF}Budala (feat. Coby)=--start-time=16 http://www.youtube.com/watch?v=lPqePV-oiVQ
 ﻿Rep]THCF}Buđenje=http://www.youtube.com/watch?v=zbjgCefTY5s
@@ -8656,6 +8657,7 @@
 ﻿Zabavna]Tanja Popović}Prečica do srca=http://www.youtube.com/watch?v=xZdGgGtVgio
 ﻿Zabavna]Tanja Popović}Soba za tugu=http://www.youtube.com/watch?v=_cXcA5XDCGI
 ﻿Narodna]Tanja Savić}Alo, mama=http://www.youtube.com/watch?v=0ma8YXb4YcE
+﻿Narodna]Tanja Savić}Bye bye (ft. Rimski)=--start-time=5 https://www.youtube.com/watch?v=h04kwTMeQWk
 ﻿Narodna]Tanja Savić}Crveno slovo=http://www.youtube.com/watch?v=mNLI9njYD5o
 ﻿Narodna]Tanja Savić}Da, da=http://www.youtube.com/watch?v=QnJ-xgUO8ss
 ﻿Narodna]Tanja Savić}Da, to sam ja=http://www.youtube.com/watch?v=efZ-QSi6TSc
@@ -8779,6 +8781,7 @@
 ﻿Zabavna]Tijana Dapčević}Aleluja=http://www.youtube.com/watch?v=R8oGPQKY_pY
 ﻿Zabavna]Tijana Dapčević}Glupo muško moje=http://www.youtube.com/watch?v=rvq7PIxe2yk
 ﻿Zabavna]Tijana Dapčević}Kilometri=https://www.youtube.com/watch?v=VSrSiyPsbDQ
+﻿Zabavna]Tijana Dapčević}Nikad nisam=https://www.youtube.com/watch?v=PWtyGr6iKIc
 ﻿Zabavna]Tijana Dapčević}Neću=http://www.youtube.com/watch?v=iOXu6SU3yqs
 ﻿Zabavna]Tijana Dapčević}Negativ=http://www.youtube.com/watch?v=xO7I-hWrLjk
 ﻿Zabavna]Tijana Dapčević}Ona to zna=http://www.youtube.com/watch?v=gWsXEiOV_HE
