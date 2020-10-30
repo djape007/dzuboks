@@ -1,0 +1,80 @@
+#slika7 {
+	padding-top: 9%;
+	padding-bottom: 10%;
+}
+
+#slika8 {
+	padding-top: 9%;
+	padding-bottom: 10%;
+}
+
+#slika9 {
+	padding-top: 9%;
+	padding-bottom: 10%;
+}
+
+#slika10 {
+	padding-top: 9%;
+	padding-bottom: 10%;
+}
+
+#slika11 {
+	padding-top: 9%;
+	padding-bottom: 10%;
+}
+
+#slika12 {
+	padding-top: 20%;
+	padding-bottom: 20%;
+}
+
+
+@media only screen and (max-width: 872px) {
+	#slika1 {
+		content: url(../res/imgs/dzuboks/dz1_mobi.png);
+	}
+	
+	#slika2 {
+		content: url(../res/imgs/dzuboks/dz2_mobi.png);
+	}
+	
+	#slika3 {
+		content: url(../res/imgs/dzuboks/dz3_mobi.png);
+	}
+	
+	#slika4 {
+		content: url(../res/imgs/dzuboks/dz4_mobi.png);
+	}
+	
+	#slika5 {
+		content: url(../res/imgs/dzuboks/dz5_mobi.png);
+	}
+	
+	#slika6 {
+		content: url(../res/imgs/dzuboks/dz6_mobi.png);
+	}
+	
+	#slika7 {
+		content: url(../res/imgs/dzuboks/intf0_mobi.jpg);
+	}
+	
+	#slika8 {
+		content: url(../res/imgs/dzuboks/intf3_mobi.jpg);
+	}
+	
+	#slika9 {
+		content: url(../res/imgs/dzuboks/intf1_mobi.jpg);
+	}
+
+	#slika10 {
+		content: url(../res/imgs/dzuboks/intf4_mobi.png);
+	}
+
+	#slika11 {
+		content: url(../res/imgs/dzuboks/intf5_mobi.jpg);
+	}
+
+	#slika12 {
+		content: url(../res/imgs/dzuboks/email_mobi.jpg);
+	}
+}

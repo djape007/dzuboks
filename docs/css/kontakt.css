@@ -1,0 +1,70 @@
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans:300);
+
+* {
+	box-sizing: border-box;
+	font-family: "Josefin Sans", sans-serif;
+}
+
+.col-4 {width: 25%;}
+.col-100 {width: 100%; color: white;}
+
+[class*="col-"] {
+    float: left;
+    padding: 5px;
+}
+
+.kontejnerSvega {
+	padding-top: 17%;
+	color: white;
+}
+
+#telIco {
+	height: 150px;
+	width: auto;
+}
+
+#emIco {
+	height: 150px;
+	width: auto;
+}
+
+@media only screen and (max-width: 1310px) {
+	.kontejnerSvega {
+		padding-top: 220px;
+	}
+	.col-4 {
+		width: 15%;
+	}
+	
+	.telCont {
+		width: 35%;
+	}
+	
+	.emCont {
+		width: 35%;
+	}
+}
+
+@media only screen and (max-width: 768px) {
+	.kontejnerSvega {
+		padding-top: 150px;
+	}
+	.telCont {
+		width: 100%;
+	}
+	
+	.emCont {
+		margin-top: 50px;
+		width: 100%;
+	}
+	
+	#telIco {
+		height: 120px;
+		width: auto;
+	}
+	
+	#emIco {
+		height: 120px;
+		width: auto;
+	}
+}

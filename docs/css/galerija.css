@@ -1,0 +1,94 @@
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans:300);
+@import url('https://fonts.googleapis.com/css?family=Marck+Script');
+@import url('https://fonts.googleapis.com/css?family=Nixie+One');
+@import url('https://fonts.googleapis.com/css?family=Rokkitt&subset=latin-ext');
+
+* {
+	box-sizing: border-box;
+	font-family: "Josefin Sans", sans-serif;
+}
+
+.pola {
+	width: 45%;
+	margin-top: 60px;
+}
+
+.levo {
+	float: left;
+}
+
+.pola.levo {
+	margin-left: 4%;
+}
+
+.pola.desno {
+	margin-right: 4%;
+}
+
+.desno {
+	float: right;
+}
+
+.ima-sliku {
+	width: 48%;
+	padding: 10px 5px;
+	background-color: rgba(0,0,0,0.2);
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 8px 20px 0 rgba(0, 0, 0, 0.19);
+	border: 2px solid #FFF;
+	-webkit-transition: background-color 0.3s, box-shadow 0.3s;
+	-moz-transition: background-color 0.3s, box-shadow 0.3s;
+	transition: background-color 0.3s, box-shadow 0.3s;
+}
+
+.ima-sliku:hover {
+	background-color: rgba(0,0,0,0.5);
+	box-shadow: 0 8px 20px 0 rgba(0, 0, 0, 0.3), 0 8px 20px 0 rgba(0, 0, 0, 0.29);
+}
+
+.ima-sliku img {
+	display: block;
+	margin: auto;
+	width: 95%;
+}
+
+.poslednji {
+	margin-bottom: 40px;
+}
+
+
+@media only screen and (max-width: 1310px) {
+	.pola {
+		width: 90%;
+	}
+	
+	.pola.levo {
+		margin-left: 5%;
+		float: left;
+	}
+	
+	.pola.desno {
+		margin-left: 5%;
+		float: left;
+	}
+}
+
+@media only screen and (max-width: 872px) {
+	.pola {
+		margin-top: 15px;
+	}
+	
+	.prvi {
+		margin-top: 100px;
+	}
+	
+	.ima-sliku {
+		margin-top: 15px;
+		width: 90%;
+	}
+	
+	.ima-sliku.levo , .ima-sliku.desno {
+		float: left;
+		margin-left: 5%;
+	}
+	
+}

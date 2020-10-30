@@ -1,0 +1,110 @@
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans:300);
+
+* {
+	box-sizing: border-box;
+	font-family: "Josefin Sans", sans-serif;
+}
+
+.col-4 {width: 30%;}
+.margina {width: 20%;}
+.col-100 {width: 100%;}
+
+[class*="col-"] {
+    float: left;
+    padding: 5px;
+}
+
+.margina-gore {
+	padding-top: 60px;
+}
+
+.liEm {
+	color: white;
+	margin: 5px 25px;
+	font-weight: bold;
+}
+
+.liEmLink {
+	color: white;
+	text-decoration: none;
+	-webkit-transition: color 0.25s;
+	-moz-transition: color 0.25s;
+	transition: color 0.25s;
+}
+
+.liEmLink:hover {
+	color: orange;
+}
+
+.spanPodatak {
+	font-weight: normal;
+}
+
+#slika-juke {
+	margin: 10px 10px;
+	width: auto;
+}
+
+.slika {
+	margin-top: 100px;
+	margin-left: 0px;
+}
+
+.Naslov {
+	font-size: 1.7em;
+	margin-right: 60px;
+	color: white;
+	padding-top: 5px;
+	padding-left: 8px;
+	padding-bottom: 3px;
+	border-bottom: solid 2px white;
+	border-left: solid 5px white;
+}
+
+.futnota {
+	margin-right: 60px;
+	margin-top: 15px;
+	border-top: solid 2px white;
+	padding-top: 5px;
+}
+
+@media only screen and (max-width: 1580px) {
+	.slika {
+		margin-left: -30px;
+	}
+}
+
+@media only screen and (max-width: 1310px) {
+	.col-4 {
+		width: 40%;
+	}
+	
+	.margina {
+		width: 10%;
+	}
+	
+	#slika-juke {
+		width: 99%;
+		height: auto;
+	}
+}
+
+@media only screen and (max-width: 872px) {
+	.col-4 {
+		width: 100%;
+	}
+	
+	.margina {
+		width: 0;
+	}
+	
+	.slika {
+		margin-top: 30px;
+		margin-left: 0;
+	}
+	
+	#slika-juke {
+		width: 90%;
+		height: auto;
+	}
+}

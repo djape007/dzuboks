@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="sr" lang="sr">
+<head>
+ <meta charset="utf-8">
+ <meta name="description" content="Odgovori na cesto postavljena pitanja">
+ <meta name="keywords" content="dzuboks,Prodaja,aparat, aparati,srbija,jukebox,android,Jukebox">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+ <link rel="stylesheet" type="text/css" href="css/pozadina.css">
+ <link rel="stylesheet" type="text/css" href="css/heder.css">
+ <link rel="stylesheet" type="text/css" href="css/faq.css">
+ <link rel="shortcut icon" href="res/imgs/j-ico.jpg">
+ <title>P&amp;O | Jukebox</title>
+ <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-97449713-1', 'auto');
+  ga('send', 'pageview');
+
+ </script>
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+ <script>
+	 $(document).ready(function() {
+	 
+	    $('.faq_question').click(function() {
+	 
+		   if ($(this).parent().is('.open')){
+			  $(this).closest('.faq').find('.faq_answer_container').animate({'height':'0'},500);
+			  $(this).closest('.faq').removeClass('open');
+	 
+			  }else{
+				 var topMarg = 15;
+				 var botMarg = 10;
+				 var newHeight =$(this).closest('.faq').find('.faq_answer').height() + topMarg + botMarg +'px';
+				 $(this).closest('.faq').find('.faq_answer_container').animate({'height':newHeight},300);
+				 $(this).closest('.faq').addClass('open');
+			  }
+	 
+	    });
+	    
+	    var queryString = new Array();
+	    $(function () {
+		   if (queryString.length == 0) {
+			  if (window.location.search.split('?').length > 1) {
+				 var params = window.location.search.split('?')[1].split('&');
+				 for (var i = 0; i < params.length; i++) {
+					var key = params[i].split('=')[0];
+					var value = decodeURIComponent(params[i].split('=')[1]);
+					queryString[key] = value;
+				 }
+			  }
+		   }
+		   if (queryString["disp"] != null) {
+			 var topMarg = 15;
+			 var botMarg = 10;
+			 var newHeight =$("#andrAppOdg").height() + topMarg + botMarg +'px';
+			 $('#andrCont').animate({'height':newHeight},200);
+			 $('#andrFaq').addClass('open');
+		   }
+	    });
+	 
+	});
+	</script>
+</head>
+ <body>
+ <header>
+ <div class="kaoHeader">
+  <div class ="logo"><a href="index.html">Jukebox</a></div>
+  <div class="meni-kont">
+   <div class="meni-kont-ic">
+    <img class="meni-ic" src="res/imgs/ic_menu_white_24dp_2x.png">
+   </div>
+   <ul>
+    <li><a href="galerija.html">SLIKE</a></li>
+    <li><a href="spec.html">SPECIFIKACIJE</a></li>
+    <li class="izabran-li"><a class="izabran-a" href="#">PITANJA&amp;ODGOVORI</a></li>
+    <li><a href="kontakt.html">KONTAKT</a></li>
+   </ul>
+  </div>
+  </div>
+ </header>
+ <div class="col-100 odstupGore"></div>
+ <div class="kontejnerSvega">
+  <div class="col-4 levoOdstup"></div>
+  <div class="col-2 pitanja">
+	<div class="faq_container">
+	 <div class="faq">
+	  <div class="faq_question">Da li moram da platim džuboks odjednom?</div>
+	  <div class="faq_answer_container">
+	   <div class="faq_answer">Ne</div>
+	  </div>		
+	 </div>
+	</div>
+	<div class="faq_container">
+	 <div class="faq">
+	  <div class="faq_question">Da li džuboks može da se iznajmi?</div>
+	  <div class="faq_answer_container">
+	   <div class="faq_answer">Da</div>
+	  </div>		
+	 </div>
+	</div>
+	<div class="faq_container">
+	 <div class="faq">
+	  <div class="faq_question">Da li je softver na džuboksu legalan?</div>
+	  <div class="faq_answer_container">
+	   <div class="faq_answer">Da. Sav softver koji se koristi na džuboksu je legalan. Na džuboksu se ne nalaze piratske mp3 pesme.</div>
+	  </div>
+	 </div>
+	</div>
+	<div class="faq_container">
+	 <div class="faq">
+	  <div class="faq_question">Da li je potreban internet da bi džuboks radio?</div>
+	  <div class="faq_answer_container">
+	   <div class="faq_answer">Nije potreban. Džuboks može da radi u offline modu, ali tada neće slati statistiku o radu, android aplikacija neće raditi i neće moći da preuzima nove pesme. Sami morate nabaviti mp3 pesme.</div>
+	  </div>
+	 </div>
+	</div>
+	<div class="faq_container">
+	 <div class="faq">
+	  <div class="faq_question">Šta se desi sa puštenim pesmama ako se džuboks iznenada ugasi?</div>
+	  <div class="faq_answer_container">
+	   <div class="faq_answer">Pesme će ostati sačuvane. Kada se džuboks ponovo upali nastaviće tamo gde je stao.</div>
+	  </div>
+	 </div>
+	</div>
+	<div class="faq_container">
+	 <div class="faq">
+	  <div class="faq_question">Da li džuboks može da se okači na zid?</div>
+	  <div class="faq_answer_container">
+	   <div class="faq_answer">Ne. Može da se postavi na policu, pult ili šank.</div>
+	  </div>		
+	 </div>
+	</div>
+	<div class="faq_container">
+	 <div class="faq">
+	  <div class="faq_question">Koliko pesama ima i koje pesme?</div>
+	  <div class="faq_answer_container">
+	   <div class="faq_answer">Informacije o pesmama koje se nalaze na džuboksu možete preuzeti <a class="linkBaze" href="/res/xls/bazaStatistika.xls">ovde</a>.</div>
+	  </div>		
+	 </div>
+	</div>
+	<div class="faq_container">
+	 <div class="faq">
+	  <div class="faq_question">Da li su pesme nekako grupisane na džuboksu?</div>
+	  <div class="faq_answer_container">
+	   <div class="faq_answer">Izvođači su grupisani prema žanru i po abecedi. Po žanru su grupisane u Narodna, Zabavna, Rok,... a po abecedi u grupe A-B-C, D-E-F, G-H-I,...</div>
+	  </div>		
+	 </div>
+	</div>
+	<div class="faq_container">
+	 <div class="faq">
+	  <div class="faq_question">Da li mogu da izaberem koje pesme će se nalaziti na džuboksu?</div>
+	  <div class="faq_answer_container">
+	   <div class="faq_answer">Da, postoje opcije da se izaberu koji će se žanrovi muzike i koji će se izvođači nalaziti na džuboksu.</div>
+	  </div>		
+	 </div>
+	</div>
+	<div class="faq_container">
+	 <div class="faq">
+	  <div class="faq_question">Koliko često se dodaju nove pesme?</div>
+	  <div class="faq_answer_container">
+	   <div class="faq_answer">Svaki dan se proverava da li su izašle neke nove pesme, ako jesu odmah će biti dodate.</div>
+	  </div>		
+	 </div>
+	</div>
+	<div class="faq_container">
+	 <div class="faq">
+	  <div class="faq_question">Ako se na džuboksu ne nalazi izvođač (ili pesma) kog želim da imam, šta treba da uradim?</div>
+	  <div class="faq_answer_container">
+	   <div class="faq_answer">Pošaljite nam email sa imenom izvođača i dodaćemo ga.</div>
+	  </div>		
+	 </div>
+	</div>
+	<div class="faq_container">
+	 <div class="faq">
+	  <div class="faq_question">Da li se plaća dodavanje pesama (izvođača)?</div>
+	  <div class="faq_answer_container">
+	   <div class="faq_answer">Ne.</div>
+	  </div>		
+	 </div>
+	</div>
+	<div class="faq_container">
+	 <div class="faq">
+	  <div class="faq_question">Da li mogu da dodam svoje .mp3 pesme?</div>
+	  <div class="faq_answer_container">
+	   <div class="faq_answer">Da.</div>
+	  </div>		
+	 </div>
+	</div>
+	<div class="faq_container">
+	 <div class="faq">
+	  <div class="faq_question">Da li mogu da povežem radio/laptop/tablet sa džuboksom?</div>
+	  <div class="faq_answer_container">
+	   <div class="faq_answer">Da. Preko audio kabla (3.5mm).</div>
+	  </div>		
+	 </div>
+	</div>
+	<div class="faq_container">
+	 <div class="faq">
+	  <div class="faq_question">Šta se desi sa muzikom sa radia/laptopa/tableta kad neko pusti pesmu na džuboksu?</div>
+	  <div class="faq_answer_container">
+	   <div class="faq_answer">Džuboks će isključiti (mutovati) radio/laptop/tablet dok ne prođu sve pesme koje su dodate na džuboksu. Kad prođu sve pesme na džuboksu, ponovo će ići muzika sa radia/laptopa/tableta.</div>
+	  </div>		
+	 </div>
+	</div>
+	<div class="faq_container">
+	 <div class="faq">
+	  <div class="faq_question">Da li mogu da promenim izgled softvera (pozadinu, boje teksta,....)?</div>
+	  <div class="faq_answer_container">
+	   <div class="faq_answer">Da. U podešavanjima možete da promenite: pozadinu, boje panela, providnost panela, boju teksta, šta će biti prikazano od panela...</div>
+	  </div>		
+	 </div>
+	</div>
+	<div class="faq_container">
+	 <div class="faq">
+	  <div class="faq_question">Da li džuboks može da radi na kovanice od 5 ili 10 dinara umesto na 20 dinara?</div>
+	  <div class="faq_answer_container">
+	   <div class="faq_answer">Da.</div>
+	  </div>		
+	 </div>
+	</div>
+	<div class="faq_container">
+	 <div class="faq">
+	  <div class="faq_question">Da li džuboks ima ugrađene zvučnike?</div>
+	  <div class="faq_answer_container">
+	   <div class="faq_answer">Ne. Bili bi previše tihi za većinu lokala.</div>
+	  </div>		
+	 </div>
+	</div>
+	<div class="faq_container">
+	 <div class="faq">
+	  <div class="faq_question">Da li ima tekst pesama (lyrics) na džuboksu?</div>
+	  <div class="faq_answer_container">
+	   <div class="faq_answer">Da.</div>
+	  </div>		
+	 </div>
+	</div>
+	<div class="faq_container">
+	 <div class="faq">
+	  <div class="faq_question">Da li imaju spotovi pesama na džuboksu?</div>
+	  <div class="faq_answer_container">
+		<div class="faq_answer">Ne.</div>
+	  </div>		
+	 </div>
+	</div>
+	<div class="faq_container">
+	 <div class="faq" id="andrFaq">
+	  <div class="faq_question" id="androidApp">Šta sve može android aplikacija?</div>
+	  <div class="faq_answer_container" id="andrCont">
+	   <div class="faq_answer" id="andrAppOdg">Android aplikacija se koristi za nadgledanje i kontrolu džuboksa. Prikazuje koja pesma trenutno ide na džuboksu, koliko pesama je na čekanju i koje pesme, koliko kredita ima. Džuboks može da se ugasi preko aplikacije, može da se ispiše poruka na ekranu džuboksa, mogu da se dodaju i oduzimaju zetoni, može da se pusti sledeca pesma (preskoči trenutna), sva podešavanja mogu da se promene preko aplikacije.
+	   <a href="https://play.google.com/store/apps/details?id=rs.jukebox.remoteapp">Play store link</a></div>
+	  </div>		
+	 </div>
+	</div>
+  </div>
+  <div class="col-4 desnoOdstup"></div>
+ </div>
+ </body>
+</html>

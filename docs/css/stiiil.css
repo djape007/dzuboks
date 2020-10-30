@@ -1,0 +1,160 @@
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans:300);
+@import url('https://fonts.googleapis.com/css?family=Marck+Script');
+@import url('https://fonts.googleapis.com/css?family=Nixie+One');
+@import url('https://fonts.googleapis.com/css?family=Rokkitt&subset=latin-ext');
+
+* {
+	box-sizing: border-box;
+	font-family: "Josefin Sans", sans-serif;
+}
+
+html {
+	background: url(../res/imgs/neZamuceno_gray_v2.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	width:100%;
+	min-height: 100%;
+}
+
+header {
+	padding: 0;
+	margin: 0;
+	width: 100%;
+}
+
+.kaoHeader {
+	margin-bottom: 100px;
+}
+
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 20%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+
+[class*="col-"] {
+    float: left;
+    padding: 5px;
+}
+
+.placeholder {
+	box-sizing: border-box;
+	float: left;
+	width: 50%;
+}
+
+.razmakNaslNavig {
+	text-align: center;
+	float: left;
+	width: 100%;
+	height: 5%;
+	padding-left: 50%;
+}
+
+.mobi-prvi {
+	margin-top: 0;
+}
+
+.slika {
+}
+
+.cardContainer {
+	height: 300px;
+	background-color: rgba(1, 1, 1, 0.4);
+	border: 3px solid white;
+	border-radius: 5px;
+	margin: 20px;
+	box-shadow: 4px 4px 10px 0 rgba(0, 0, 0, 0.3), 0 8px 20px 0 rgba(0, 0, 0, 0.12);
+	-webkit-transition: background-color 0.3s, box-shadow 0.3s;
+	-moz-transition: background-color 0.3s, box-shadow 0.3s;
+	transition: background-color 0.3s, box-shadow 0.3s;
+}
+
+
+.opisContainer {
+}
+
+.opisSlike {
+	align: center;
+	color: white;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.linkPocetna {
+    text-decoration: none;
+    color: white;
+}
+
+.linkPocetna:hover {
+    text-decoration: underline;
+    color: orange;
+}
+
+@media only screen and (max-width: 1580px) {
+    .pedeset {
+        width: 50%;
+    }
+    
+    .col-5 {
+	    width: 50%;
+    }
+    
+    .izmedju {
+	    border: 1px solid green;
+	    display: none;
+	    width: 0;
+    }
+    
+    .sve {
+	    display: none;
+	    width: 0;
+    }
+    
+    .cardContainer {
+	    margin-left: 60px;
+	    margin-right: 60px;
+    }
+    
+}
+
+@media only screen and (max-width: 872px) {
+    /* For mobile phones: */
+    [class*="col-"] {
+        width: 100%;
+    }
+    
+    .mobi-prvi {
+	    margin-top: 70px;
+    }
+    
+    html {
+		background: url(../res/imgs/neZamuceno_gray_v2_mobi.jpg) no-repeat center center fixed;
+		min-height: 100%;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+    }
+    
+    .cardContainer {
+	    height: 100%;
+	    margin-left: 15px;
+	    margin-right: 15px;
+    }
+}
